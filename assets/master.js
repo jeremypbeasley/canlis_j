@@ -10236,9 +10236,21 @@ return jQuery;
 
 // loadBrady();
 
-console.log("maybe it's working!")
 
-var sticky = new Waypoint.Sticky({
-  element: $(".GlobalNav")[0]
-})
+// console.log("maybe it's working!")
 
+// var sticky = new Waypoint.Sticky({
+//   element: $(".GlobalNav")[0]
+// })
+
+$(document).ready(function() {
+  $('body').css('display', 'none');
+  $('body').fadeIn(200);
+  $('.NavLink').click(function() {
+    event.preventDefault();
+    newLocation = this.href;
+  $('body').fadeOut(200, newpage);});
+  function newpage() {
+    window.location = newLocation;
+  }
+});
