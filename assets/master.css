@@ -1573,6 +1573,10 @@ p {
   cursor: default;
   padding-bottom: 1.2rem;
 }
+i {
+  font-family: "GTSectraTrialBookItalic", Arial, sans-serif;
+  text-style: none;
+}
 a {
   text-decoration: none;
   border-bottom: 1px solid rgba(255,255,255,0.2);
@@ -1585,9 +1589,6 @@ a:hover {
 }
 a.NoLine {
   border: none;
-}
-span {
-  opacity: 0.5;
 }
 hr {
   width: 100%;
@@ -1922,6 +1923,9 @@ img {
 }
 .AlignCenter {
   align-items: center;
+}
+.AlignTop {
+  align-items: flex-start;
 }
 .row {
   margin: 3vw;
@@ -2258,6 +2262,17 @@ img {
   margin-top: 18vh;
   margin-bottom: 5vw;
   margin-left: 25%;
+}
+.WinePhoto1 {
+  position: relative;
+  width: 50vw;
+  max-width: 100vw;
+  margin-left: -7vw;
+}
+.WinePhoto2 {
+  position: relative;
+  width: 55vw;
+  max-width: 100vw;
 }
 .BigPlaceholderSection {
   width: 100vw;
