@@ -28,8 +28,8 @@ cocktails_section2:
 - title: TANTRIS SIDECAR
   author: Audrey Saunders, Pegu Club, New York City
   desc: Cognac, Calvados, Curaçao, lemon, sugar, pineapple, Chartreuse / 18
-cocktail_section3_title: Classic Cocktails
-coctail_section3:
+cocktails_section3_title: Classic Cocktails
+cocktails_section3:
 - title: HOT CRIMEAN CUP “A LA WYNDHAM”
   author: Criterion Hotel American Bar, London circa 1875
   desc: Cognac, Maraschino, Curaçao, orange, sugar, hot water / 16

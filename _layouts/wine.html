@@ -49,24 +49,71 @@
     </div>
   </div>
 </div>
-<div class="row AlignTop">
+<div class="row AlignCenter">
   <div class="column col-xs-12 col-md-5">
-    <h2 class="Display1 mb5 mt10">The Lounge</h2>
+    <h2 class="Display1 mb5">The Lounge</h2>
     <p>We may be known for our fine dining menu, but don't miss the quality drinks, memorable nibbles and sweeping views in the lounge.</p>
-    <h2 class="Display2 mb5 mt10">Canlis Originals</h2>
-    <p><span class="Caption InlineCaption mb1">Red Griffin</span><br>
-    <i>Jose Castillo</i><br>Rye, Galliano, lemon, mandarin, Aperol, Peychauds Bitters / 16</p>
-    <!-- <p>Must be fun to work behind the bar at Canlis. They don’t seem to work within the same parameters as others. A $24 bubbly cocktail leads its drink menu. It’s topped with a quail egg preserved in white truffle vinaigrette. An aperitif or appetizer? You decide.</p>
-    <p>There are drinks in the $12 to $14 range. Those were as good as any served in any top cocktail bar around town, drinks that were well thought out and executed by head barman James MacWilliams.</p> -->
+    <p>In addition to our cocktail menu, we have an extensive selection of spirits. Our faboulous bartenders will</p>
   </div>
   <div class="column col-xs-12 col-md-6 col-md-offset-1">
-    <p><img class="WinePhoto2" src="https://s-media-cache-ak0.pinimg.com/originals/0d/7e/06/0d7e061be7e1ca61934661d24c9e3a24.jpg"></p>
+    <!-- <p><img class="WinePhoto2" src="https://s-media-cache-ak0.pinimg.com/originals/0d/7e/06/0d7e061be7e1ca61934661d24c9e3a24.jpg"></p> -->
+    <p><img class="WinePhoto2" src="https://res.cloudinary.com/sagacity/image/upload/c_crop,h_1335,w_2000,x_0,y_728/c_limit,dpr_1.0,f_auto,fl_lossy,q_80,w_1024/Cocktails_Highres-7853_bandaid_removed_xw7dzb.jpg"></p>
   </div>
 </div>
-<!-- <div class="BigPlaceholderSection Large">
-  <p class="Caption">Wine & sommeliers</p>
-</div> -->
-<div class="BigPlaceholderSection Large">
-  <p class="Caption">Bar & Cocktails</p>
+<div class="row">
+  <div class="column col-xs-12">
+    <div class="row">
+      <div class="column col-xs-12 col-md-6">
+        <h2 class="Display2 mb5 mt10">{{ page.cocktails_section1_title }}</h2>
+        {% for i in page.cocktails_section1 %}
+          <p><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
+          {% if i.author %}
+            <i>{{ i.author }}</i><br>
+          {% endif %}
+          {{ i.desc }}</p>
+        {% endfor %}
+      </div>
+      <div class="column col-xs-12 col-md-6">
+        <h2 class="Display2 mb5 mt10">{{ page.cocktails_section2_title }}</h2>
+        {% for i in page.cocktails_section2 %}
+          <p><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
+          {% if i.author %}
+            <i>{{ i.author }}</i><br>
+          {% endif %}
+          {{ i.desc }}</p>
+        {% endfor %}
+      </div>
+      <div class="column col-xs-12 col-md-6">
+        <h2 class="Display2 mb5 mt10">{{ page.cocktails_section3_title }}</h2>
+        {% for i in page.cocktails_section3 %}
+          <p><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
+          {% if i.author %}
+            <i>{{ i.author }}</i><br>
+          {% endif %}
+          {{ i.desc }}</p>
+        {% endfor %}
+      </div>
+      <div class="column col-xs-12 col-md-6">
+        <h2 class="Display2 mb5 mt10">{{ page.cocktails_section4_title }}</h2>
+        {% for i in page.cocktails_section4 %}
+          <p><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
+          {% if i.author %}
+            <i>{{ i.author }}</i><br>
+          {% endif %}
+          {{ i.desc }}</p>
+        {% endfor %}
+      </div>
+      <div class="column col-xs-12 col-md-6">
+        <h2 class="Display2 mb5 mt10">{{ page.cocktails_section5_title }}</h2>
+        {% for i in page.cocktails_section5 %}
+          <p><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
+          {% if i.author %}
+            <i>{{ i.author }}</i><br>
+          {% endif %}
+          {{ i.desc }}</p>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
 </div>
 {% include footer.html %}
