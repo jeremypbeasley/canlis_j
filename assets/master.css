@@ -2038,17 +2038,23 @@ img {
   margin-top: 5vw;
   margin-bottom: 0vw;
 }
+.ReservePrompt {
+  position: absolute;
+  left: 4vw;
+  bottom: 4vw;
+  transform: rotate(-90deg);
+  transform-origin: top left;
+}
 .HomePhoto1 {
   position: relative;
-  width: 150%;
-  max-width: 150%;
-  margin-left: -29vw;
+  width: 65vw;
+  max-width: 100vw;
 }
 .HomePhoto2 {
   position: relative;
-  width: 150%;
-  max-width: 150%;
-  margin-right: -32vw;
+  width: 70vw;
+  max-width: 100vw;
+  margin-left: -10vw;
 }
 .PeopleHeadline {
   margin-left: -5%;
