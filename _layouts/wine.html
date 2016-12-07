@@ -1,6 +1,6 @@
 {% include head.html %}
-<div class="row">
-  <div class="column col-xs-12 col-md-5 col-md-offset-2">
+<div class="row Intro">
+  <div class="column col-xs-12 col-md-5 col-md-offset-2 ShowDesktop">
     <h1 class="mb10 Display1 WineHeadline">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;98&nbsp;awards,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18,000&nbsp;bottles,&nbsp;
@@ -8,10 +8,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&&nbsp;5&nbsp;sommeliers
     </h1>
   </div>
+  <div class="column col-xs-12 ShowMobile">
+    <h1 class="Display1 WineHeadline">8 awards, 18,000 bottles, 2,500 selections, & 5 sommeliers
+    </h1>
+  </div>
 </div>
 <div class="row AlignCenter">
   <div class="column col-xs-12 col-md-7">
-    <p><img class="WinePhoto1" src="https://s-media-cache-ak0.pinimg.com/originals/5d/99/92/5d9992a5b9ed8ea05929ae5a3861250c.jpg"></p>
+    <img class="WinePhoto1" src="https://s-media-cache-ak0.pinimg.com/originals/5d/99/92/5d9992a5b9ed8ea05929ae5a3861250c.jpg">
   </div>
   <div class="column col-xs-12 col-md-5">
     <p>One of the finest cellars in the world, Canlis became Seattle’s wine destination in 1997, the first year of its seventeen consecutive Wine Spectator Magazine Grand Awards. The restaurant is one of 72 worldwide to be trusted with such an honor.</p>
@@ -22,13 +26,14 @@
     <p class="">The list is close to 90 pages. We invite you to download it <a href="">here</a> and enjoy a good read, or skip it all together and let a sommelier do the work of pairing a wine to your evening.</p>
   </div>
 </div>
-<div class="row AlignTop">
+<div class="row AlignTop StaffSection">
   <div class="column col-xs-12 col-md-4">
-    <h2 class="Display2 mt3">Our Award-winning<br> Wine Staff</h2>
+    <h2 class="Display2 mt3 ShowDesktop">Our Award-winning<br> Wine Staff</h2>
+    <h2 class="Display2 mt3 ShowMobile">Our Award-winning Wine Staff</h2>
   </div>
   <div class="column col-xs-12 col-md-8">
-    <div class="row AlignTop">
-      <div class="column col-xs-12 col-md-4">
+    <div class="row AlignTop nested">
+      <div class="column col-xs-6 col-md-4">
         <p class="">Nelson Daquip<br>
         <span><i>Wine & Spirits Director</i></span></p>
         <p class="">Jackson Rohrbaugh<br>
@@ -57,16 +62,16 @@
   </div>
   <div class="column col-xs-12 col-md-6 col-md-offset-1">
     <!-- <p><img class="WinePhoto2" src="https://s-media-cache-ak0.pinimg.com/originals/0d/7e/06/0d7e061be7e1ca61934661d24c9e3a24.jpg"></p> -->
-    <p><img class="WinePhoto2" src="https://res.cloudinary.com/sagacity/image/upload/c_crop,h_1335,w_2000,x_0,y_728/c_limit,dpr_1.0,f_auto,fl_lossy,q_80,w_1024/Cocktails_Highres-7853_bandaid_removed_xw7dzb.jpg"></p>
+    <img class="WinePhoto2" src="https://res.cloudinary.com/sagacity/image/upload/c_crop,h_1335,w_2000,x_0,y_728/c_limit,dpr_1.0,f_auto,fl_lossy,q_80,w_1024/Cocktails_Highres-7853_bandaid_removed_xw7dzb.jpg">
   </div>
 </div>
 <div class="row">
   <div class="column col-xs-12">
-    <div class="row">
+    <div class="row nested">
       <div class="column col-xs-12 col-md-6">
-        <h2 class="Display2 mb5 mt10">{{ page.cocktails_section1_title }}</h2>
+        <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section1_title }}</h2>
         {% for i in page.cocktails_section1 %}
-          <p><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
+          <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
           {% if i.author %}
             <i>{{ i.author }}</i><br>
           {% endif %}
@@ -74,9 +79,9 @@
         {% endfor %}
       </div>
       <div class="column col-xs-12 col-md-6">
-        <h2 class="Display2 mb5 mt10">{{ page.cocktails_section2_title }}</h2>
+        <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section2_title }}</h2>
         {% for i in page.cocktails_section2 %}
-          <p><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
+          <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
           {% if i.author %}
             <i>{{ i.author }}</i><br>
           {% endif %}
@@ -84,9 +89,9 @@
         {% endfor %}
       </div>
       <div class="column col-xs-12 col-md-6">
-        <h2 class="Display2 mb5 mt10">{{ page.cocktails_section3_title }}</h2>
+        <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section3_title }}</h2>
         {% for i in page.cocktails_section3 %}
-          <p><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
+          <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
           {% if i.author %}
             <i>{{ i.author }}</i><br>
           {% endif %}
@@ -94,9 +99,9 @@
         {% endfor %}
       </div>
       <div class="column col-xs-12 col-md-6">
-        <h2 class="Display2 mb5 mt10">{{ page.cocktails_section4_title }}</h2>
+        <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section4_title }}</h2>
         {% for i in page.cocktails_section4 %}
-          <p><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
+          <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
           {% if i.author %}
             <i>{{ i.author }}</i><br>
           {% endif %}
@@ -104,9 +109,9 @@
         {% endfor %}
       </div>
       <div class="column col-xs-12 col-md-6">
-        <h2 class="Display2 mb5 mt10">{{ page.cocktails_section5_title }}</h2>
+        <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section5_title }}</h2>
         {% for i in page.cocktails_section5 %}
-          <p><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
+          <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
           {% if i.author %}
             <i>{{ i.author }}</i><br>
           {% endif %}

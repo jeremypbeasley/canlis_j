@@ -1,12 +1,18 @@
 {% include head.html %}
 <div class="row Intro">
-  <div class="column col-xs-12 col-md-3">
+  <div class="column col-xs-12 col-md-3 ShowDesktop">
     <div class="DinnerPlates DinnerPlate1"></div>
   </div>
   <div class="column col-xs-12 col-md-8">
-    <h1 class="mb10 Display1 mt10 MenuHeadline">
+    <h1 class="d-mb10 Display1 d-mt10 MenuHeadline ShowDesktop">
       &nbsp;&nbsp;&nbsp;&nbsp;Lorem&nbsp;ipsum,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dolor&nbsp;amet,<br>&nbsp;<i>consectetur&nbsp;adipiscing.</i>&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quisque&nbsp;mi&nbsp;<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mi,&nbsp;tempor.
+    </h1>
+    <h1 class="Display1 MenuHeadline ShowMobile">
+      &nbsp;&nbsp;&nbsp;&nbsp;Lorem&nbsp;ipsum,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dolor&nbsp;amet,<br>&nbsp;<i>consectetur&nbsp;<Br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;adipiscing.</i>&nbsp;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quisque&nbsp;mi&nbsp;<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mi,&nbsp;tempor.
     </h1>
@@ -19,37 +25,44 @@
   <div class="column col-xs-12 col-md-3">
     <div class="DinnerPlates DinnerPlate3"></div>
   </div>
-  <div class="column col-xs-12 col-md-8">
-    <div class="row">
+  <div class="column col-xs-12 col-md-7">
+    <div class="row nested">
       {% for i in page.mealtypes %}
       <div class="column nested col-xs-12 col-md-6">
-        <p class="Caption">{{ i.title }} / {{ i.price }}</p>
-        <p>{{ i.desc }}</p>
+        <p><span class="Caption">{{ i.title }} / {{ i.price }}</span><br>
+        {{ i.desc }}</p>
       </div>
       {% endfor %}
     </div>
-    <div class="row">
+    <div class="row nested">
       <div class="column col-xs-12 col-md-12">
-        <h2 class="Display2 mb10">Tasting Menu Pairings</h2>
+        <h2 class="Display2 d-mb5 d-mb10 mt5 d-mt0">Tasting Menu Pairings</h2>
       </div>
       {% for i in page.tastingmenupairings %}
       <div class="column nested col-xs-12 col-md-6">
-        <p class="Caption">{{ i.title }} / {{ i.price }}</p>
-        <p>{{ i.desc }}</p>
+        <p><span class="Caption">{{ i.title }} / {{ i.price }}</span><br>
+        {{ i.desc }}</p>
       </div>
       {% endfor %}
     </div>
 </div>
+</div>
 <div class="row">
   <div class="column col-xs-12 col-md-8 col-md-offset-1">
-    <div class="row">
+    <div class="row nested">
       <div class="column col-xs-12">
-        <h2 class="Display2 mb10">First & Second Courses</h2>
+        <h2 class="Display2 mb5 d-mb10">First & Second Courses</h2>
       </div>
       {% for i in page.firstandsecondcourses %}
       <div class="column nested col-xs-12 col-md-6 mb5">
-        <p class="Caption">{{ i.title }}</p>
-        <p>{{ i.desc }}</p>
+        <p><span class="Caption">{{ i.title }}</span><br>
+          {% if i.desc %}
+            {{ i.desc }}<Br>
+          {% endif %}
+          {% if i.wine %}
+            <i>{{ i.wine }}</i>
+          {% endif %}
+        </p>
       </div>
       {% endfor %}
     </div>
@@ -64,23 +77,35 @@
     <div class="DinnerPlates DinnerPlate6"></div>
   </div>
   <div class="column col-xs-12 col-md-8">
-    <div class="row">
+    <div class="row nested">
       <div class="column col-xs-12">
-        <h2 class="Display2 mb10">Main Courses</h2>
+        <h2 class="Display2 mb5 d-mb10">Main Courses</h2>
       </div>
       {% for i in page.maincourses %}
       <div class="column nested col-xs-12 col-md-6 mb5">
-        <p class="Caption">{{ i.title }}</p>
-        <p>{{ i.desc }}</p>
+        <p><span class="Caption">{{ i.title }}</span><br>
+          {% if i.desc %}
+            {{ i.desc }}<Br>
+          {% endif %}
+          {% if i.wine %}
+            <i>{{ i.wine }}</i>
+          {% endif %}
+        </p>
       </div>
       {% endfor %}
       <div class="column col-xs-12">
-        <h2 class="Display2 mb10 mt4">Additions</h2>
+        <h2 class="Display2 mb5 d-mb10">Additions</h2>
       </div>
       {% for i in page.additions %}
       <div class="column nested col-xs-12 col-md-6 mb5">
-        <p class="Caption">{{ i.title }}</p>
-        <p>{{ i.desc }}</p>
+        <p><span class="Caption">{{ i.title }}</span><br>
+          {% if i.desc %}
+            {{ i.desc }}<Br>
+          {% endif %}
+          {% if i.wine %}
+            <i>{{ i.wine }}</i>
+          {% endif %}
+        </p>
       </div>
       {% endfor %}
     </div>
@@ -88,14 +113,20 @@
 </div>
 <div class="row">
   <div class="column col-xs-12 col-md-8">
-    <div class="row">
+    <div class="row nested">
       <div class="column col-xs-12">
-        <h2 class="Display2 mb10">Desserts</h2>
+        <h2 class="Display2 mb5 d-mb10">Desserts</h2>
       </div>
       {% for i in page.desserts %}
       <div class="column nested col-xs-12 col-md-6 mb5">
-        <p class="Caption">{{ i.title }}</p>
-        <p>{{ i.desc }}</p>
+        <p><span class="Caption">{{ i.title }}</span><br>
+          {% if i.desc %}
+            {{ i.desc }}<Br>
+          {% endif %}
+          {% if i.wine %}
+            <i>{{ i.wine }}</i>
+          {% endif %}
+        </p>
       </div>
       {% endfor %}
     </div>
@@ -109,18 +140,25 @@
     <div class="DinnerPlates DinnerPlate8"></div>
   </div>
   <div class="column col-xs-12 col-md-8">
-    <div class="row">
+    <div class="row nested">
       <div class="column col-xs-12">
-        <h2 class="Display2 mb10">Tasting Menu</h2>
+        <h2 class="Display2 mb5 d-mb10">Tasting Menu</h2>
       </div>
       {% for i in page.tastingmenu %}
       <div class="column nested col-xs-12 col-md-6 mb5">
-        <p class="Caption">{{ i.title }}</p>
-        <p>{{ i.desc }}<Br><i>{{ i.wine }}</i></p>
+        <p><span class="Caption">{{ i.title }}</span><br>
+          {% if i.desc %}
+            {{ i.desc }}<Br>
+          {% endif %}
+          {% if i.wine %}
+            <i>{{ i.wine }}</i>
+          {% endif %}
+        </p>
       </div>
       {% endfor %}
     </div>
   </div>
 </div>
+</div></div>
 
 {% include footer.html %}

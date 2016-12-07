@@ -33,3 +33,13 @@ $(document).ready(function() {
     window.location = newLocation;
   }
 });
+
+$(document).ready(function() {
+
+$('.NavHamburger').click(function() {
+  console.log("nav clicked!")
+  $('.GlobalNav').toggleClass("Open");
+  $(this).toggleClass("Open");
+});
+
+});
