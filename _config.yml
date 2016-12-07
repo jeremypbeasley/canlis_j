@@ -18,6 +18,10 @@ github_username: jeremypbeasley
 markdown: kramdown
 exclude:
 - Gemfile.lock
+- Gruntfile.js
+- node_modules
+- package.json
+- README.md
 gems:
 - jekyll-assets
 assets:
