@@ -1,13 +1,14 @@
-.row {
-  margin: 3vw;
-}
+// .row {
+//   margin: 3vw;
+// }
 // .column {
 //   margin: 1vw;
 // }
-.col-md-offset-2 {
-  margin-left: 8.3333333%
+@media laptop {
+  .col-md-offset-2 {
+    margin-left: 8.3333333%
+  }
 }
-
 
 // ADDS MARGIN BELOW COLUMNS THAT ARE FORCED TO FULL WIDTH ON MOBILE
 
@@ -73,12 +74,19 @@
   padding-right: 2.5vw;
   padding-left: 2.5vw;
   
-.row
+.row {
   padding 2vw 4vw
   overflow visible
   z-index 10
   margin-left 0px 
   margin-right 0px
+}
+.row .row.nested {
+  padding: 0 !important;
+}
+.row .row.nested .column {
+  padding: 0 !important;
+}
 
 // .column.nested{
 //   margin: 0px;

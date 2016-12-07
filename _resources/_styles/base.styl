@@ -18,9 +18,10 @@ body {
 }
 img {
   max-width: 100%;
+  background: #999
 }
 .Logo {
-  width: 7rem;
+  width: 6rem;
   height: 1.5rem;
   background-image: url("http://cdn2.dropmark.com/39456/09169b4ae838f68c4071acf55fdd82eb134839fc/canlislogo.svg");
   background-repeat: no-repeat;
@@ -29,18 +30,46 @@ img {
   display: block;
   border: none; 
   position: absolute;
-  top: 4vw;
-  left: 4vw;
+  top: 8vw;
+  left: 8vw;
   color: color-background;
   text-align: center;
+  z-index: 100;
+}
+@media laptop {
+  .Logo {
+    width: 8rem;
+    height: 1.5rem;
+    top: 4vw;
+    left: 4vw;
+  }
 }
 .GlobalNav {
   position: absolute;
   top: 0vw;
-  padding-top: calc(4vw + 8px);
-  padding-right: 4vw;
+  z-index: 90;
+  padding-top: calc(8vw + 48px);
+  padding-right: 8vw;
   right: 0vw;
-  z-index: 9999999;
+  background: -moz-linear-gradient(top, rgba(242,241,239,.95) 0%, rgba(242,241,239,.95) 33%, rgba(242,241,239,0) 100%); 
+  background: -webkit-linear-gradient(top, rgba(242,241,239,.95) 0%,rgba(242,241,239,.95) 33%,rgba(242,241,239,0) 100%); 
+  background: linear-gradient(to bottom, rgba(242,241,239,.95) 0%,rgba(242,241,239,.95) 33%,rgba(242,241,239,0) 100%);
+  width: 100vw;
+  padding-bottom: 80vh;
+  opacity: 0;
+  transition: opacity 200ms ease-out;
+}
+.GlobalNav.Open {
+  opacity: 1;
+}
+@media laptop {
+  .GlobalNav {
+    background: none;
+    padding-top: calc(4vw + 8px);
+    padding-right: 4vw;
+    display: block;
+    opacity: 1;
+  }
 }
 .GlobalNavToggle {
   text-align: right;
@@ -51,6 +80,9 @@ img {
   //overflow: hidden;
   //transition: all 100ms ease-out;
   //margin-top: 2rem;
+}
+.GlobalNav li {
+  margin-bottom: 2rem;
 }
 .GlobalNav li, .GlobalNav li a {
   border: 0px;
@@ -70,14 +102,21 @@ img {
   float: right;
 }
 .SocialNav li a {
-  width: 22px;
-  height: 22px;
+  width: 30px;
+  height: 30px;
   background-size: 97%;
   background-repeat: no-repeat;
   text-indent: 99999px;
   display: block;
-  margin-left: .5rem;
+  margin-left: 1rem;
   transition: opacity 200ms ease-out;
+}
+@media laptop {
+  .SocialNav li a {
+    width: 22px;
+    height: 22px;
+    margin-left: .5rem;
+  }
 }
 .SocialNav li a:hover {
   opacity: .5;
@@ -89,7 +128,27 @@ img {
 .SocialNav li a.Instagram {
   background-image: url("http://cdn2.dropmark.com/39456/a0bc1cf323fb4f99e3cc26ea49d7851d819dfc0c/icon_instagram.png")
 }
-
+.NavHamburger {
+  position: absolute;
+  width: 15px;
+  height: 14px;
+  background-image: url(_img/hammy.svg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  right: 4vw;
+  top: 4vw;
+  margin: 4vw;
+  z-index: 100;
+  transition: all 200ms ease-out;
+}
+.NavHamburger.Open {
+  background-image: url(_img/hammy_open.svg)
+}
+@media laptop {
+  .NavHamburger {
+    display: none;
+  }
+}
 // GENERAL
 
 .column.FirstThing {
@@ -99,8 +158,14 @@ img {
 // FOOTER
 
 .GlobalFooter {
-  margin-top: 8vw;
-  margin-bottom: 8vw;
+  margin-top: 4vw;
+  margin-bottom: -10vw;
+}
+@media laptop {
+  .GlobalFooter {
+    margin-top: 8vw;
+    margin-bottom: 8vw;
+  }
 }
 .GlobalFooter a {
   border: none;
