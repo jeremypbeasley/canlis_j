@@ -1833,9 +1833,9 @@ img {
   background-repeat: no-repeat;
   background-position: top center;
   background-size: 100%;
-  right: 4vw;
-  top: 4vw;
-  margin: 4vw;
+  right: 0vw;
+  top: 0vw;
+  margin: 8vw;
   z-index: 100;
 }
 .NavHamburger.Open {
