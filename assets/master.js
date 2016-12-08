@@ -10243,17 +10243,17 @@ return jQuery;
 //   element: $(".GlobalNav")[0]
 // })
 
-$(document).ready(function() {
-  $('body').css('display', 'none');
-  $('body').fadeIn(200);
-  $('.NavLink').click(function() {
-    event.preventDefault();
-    newLocation = this.href;
-  $('body').fadeOut(200, newpage);});
-  function newpage() {
-    window.location = newLocation;
-  }
-});
+// $(document).ready(function() {
+//   $('body').css('display', 'none');
+//   $('body').fadeIn(200);
+//   $('.NavLink').click(function() {
+//     event.preventDefault();
+//     newLocation = this.href;
+//   $('body').fadeOut(200, newpage);});
+//   function newpage() {
+//     window.location = newLocation;
+//   }
+// });
 
 $(document).ready(function() {
 
