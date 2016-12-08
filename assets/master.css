@@ -2263,8 +2263,8 @@ img {
 }
 .HomePhoto1 {
   position: relative;
-  width: 105vw;
-  margin-left: -7vw;
+  width: 100vw;
+  margin-left: -6.5vw;
   max-width: 1000vw;
 }
 @media (min-width: 62em) {
@@ -2276,9 +2276,9 @@ img {
 }
 .HomePhoto2 {
   position: relative;
-  width: 105vw;
+  width: 100vw;
   max-width: 1000vw;
-  margin-left: -10vw;
+  margin-left: -6.5vw;
 }
 @media (min-width: 62em) {
   .HomePhoto2 {
@@ -2522,9 +2522,9 @@ img {
 }
 .WinePhoto1 {
   position: relative;
-  width: 104vw;
+  width: 100vw;
   max-width: 1000vw;
-  margin-left: -7vw;
+  margin-left: -6.5vw;
 }
 @media (min-width: 62em) {
   .WinePhoto1 {
@@ -2534,9 +2534,9 @@ img {
 }
 .WinePhoto2 {
   position: relative;
-  width: 104vw;
+  width: 100vw;
   max-width: 1000vw;
-  margin-left: -7vw;
+  margin-left: -6.5vw;
 }
 @media (min-width: 62em) {
   .WinePhoto2 {
