@@ -1705,6 +1705,7 @@ html {
 }
 body {
   height: 100%;
+  width: 100vw;
   overflow-y: auto;
   overflow-x: hidden;
   margin: 0;
@@ -1774,6 +1775,11 @@ img {
 .GlobalNav li {
   margin-bottom: 2rem;
 }
+@media (min-width: 62em) {
+  .GlobalNav li {
+    margin-bottom: 1rem;
+  }
+}
 .GlobalNav li,
 .GlobalNav li a {
   border: 0px;
@@ -1823,17 +1829,17 @@ img {
   position: absolute;
   width: 15px;
   height: 14px;
-  background-image: url("_img/hammy.svg");
+  background-image: url("_img/hammyfull.svg");
   background-repeat: no-repeat;
+  background-position: top center;
   background-size: 100%;
   right: 4vw;
   top: 4vw;
   margin: 4vw;
   z-index: 100;
-  transition: all 200ms ease-out;
 }
 .NavHamburger.Open {
-  background-image: url("_img/hammy_open.svg");
+  background-position: bottom center;
 }
 @media (min-width: 62em) {
   .NavHamburger {
