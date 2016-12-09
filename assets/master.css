@@ -1686,7 +1686,7 @@ li {
 .Caption {
   font-size: 0.75rem;
   text-transform: uppercase;
-  letter-spacing: 0.04rem;
+  letter-spacing: 0.2rem;
   font-family: "ApercuMono", Andale Mono, monospaced;
 }
 @media (min-width: 62em) {
@@ -1710,7 +1710,7 @@ body {
   overflow-x: hidden;
   margin: 0;
   font-family: "GTSectraTrialBook", Arial, sans-serif;
-  background: #f2f1ef;
+  background: #fcfbfa;
   color: #272320;
 }
 img {
@@ -1718,7 +1718,7 @@ img {
   background: #999;
 }
 .Logo {
-  width: 6rem;
+  width: 7rem;
   height: 1.5rem;
   background-image: url("http://cdn2.dropmark.com/39456/09169b4ae838f68c4071acf55fdd82eb134839fc/canlislogo.svg");
   background-repeat: no-repeat;
@@ -1729,7 +1729,7 @@ img {
   position: absolute;
   top: 8vw;
   left: 8vw;
-  color: #f2f1ef;
+  color: #fcfbfa;
   text-align: center;
   z-index: 100;
 }
@@ -1787,7 +1787,7 @@ img {
   transition: 200ms all ease-out;
 }
 .GlobalNav li a {
-  border-bottom: 1px solid #f2f1ef;
+  border-bottom: 1px solid #fcfbfa;
 }
 .GlobalNav li a:hover {
   border-bottom: 1px solid #bf9b30;
@@ -2222,6 +2222,7 @@ img {
   z-index: 10;
   margin-left: 0px;
   margin-right: 0px;
+  position: relative;
 }
 .row .row.nested {
   padding: 0 !important;
@@ -2233,19 +2234,25 @@ img {
   padding: 0 !important;
 }
 .Intro {
-  margin-top: 40vw;
-  margin-bottom: 20vw;
+  min-height: 100vh;
+  padding-left: 7vw;
+  padding-right: 7vw;
+  background: #f2f1ef;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  margin-bottom: -12vw;
+}
+.Intro h1 {
+  align-self: center;
 }
 @media (min-width: 62em) {
   .Intro {
+    min-height: 100vh;
     margin: 0;
-  }
-}
-@media (min-width: 62em) {
-  .HomeHeadline {
-    margin-left: 8%;
-    margin-top: 5vw;
-    margin-bottom: 0vw;
+    padding: 0;
+    margin-bottom: -6vw;
+    text-align: center;
   }
 }
 .ReservePrompt {
@@ -2308,7 +2315,7 @@ img {
 }
 @media (min-width: 62em) {
   .PortraitCard {
-    background: #f2f1ef;
+    background: #fcfbfa;
     padding: 5vw 5vw 2vw 5vw;
     margin-top: 15vw;
     margin-left: -10%;
@@ -2567,7 +2574,7 @@ img {
   height: 50vh;
 }
 body.Invert {
-  background-color: #151311;
+  background-color: #0c0b0a;
   color: #d6d3d0;
 }
 body.Invert a {
