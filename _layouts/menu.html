@@ -1,26 +1,17 @@
 {% include head.html %}
-<div class="row Intro">
-  <div class="column col-xs-12 col-md-3 ShowDesktop">
-    <div class="DinnerPlates DinnerPlate1"></div>
-  </div>
-  <div class="column col-xs-12 col-md-8">
-    <h1 class="d-mb10 Display1 d-mt10 MenuHeadline ShowDesktop">
-      &nbsp;&nbsp;&nbsp;&nbsp;Lorem&nbsp;ipsum,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dolor&nbsp;amet,<br>&nbsp;<i>consectetur&nbsp;adipiscing.</i>&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quisque&nbsp;mi&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mi,&nbsp;tempor.
-    </h1>
-    <h1 class="Display1 MenuHeadline ShowMobile">
-      &nbsp;&nbsp;&nbsp;&nbsp;Lorem&nbsp;ipsum,<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dolor&nbsp;amet,<br>&nbsp;<i>consectetur&nbsp;<Br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;adipiscing.</i>&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quisque&nbsp;mi&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mi,&nbsp;tempor.
-    </h1>
-  </div>
-  <div class="column col-xs-12 col-md-1">
+<div class="Intro Tall">
+  <h1 class="Display1 ShowDesktop">
+  &nbsp;&nbsp;&nbsp;&nbsp;Lorem&nbsp;ipsum,<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dolor&nbsp;amet,<br>
+  <i>consectetur&nbsp;adipiscing.</i><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quisque&nbsp;mi&nbsp;<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mi,&nbsp;tempor.
+  </h1>
+  <h1 class="Display1 ShowMobile">Lorem ipsum, dolor amet, consectetur adipiscing. Quisquemi mi, tempor.</h1>
+ </div>
+<!--   <div class="column col-xs-12 col-md-1">
     <div class="DinnerPlates DinnerPlate2"></div>
-  </div>
-</div>
+  </div> -->
 <div class="row">
   <div class="column col-xs-12 col-md-3">
     <div class="DinnerPlates DinnerPlate3"></div>
@@ -36,7 +27,7 @@
     </div>
     <div class="row nested">
       <div class="column col-xs-12 col-md-12">
-        <h2 class="Display2 d-mb5 d-mb10 mt5 d-mt0">Tasting Menu Pairings</h2>
+        <h2 class="Display2 d-mb5 d-mb5 mt5 d-mt5">Tasting Menu Pairings</h2>
       </div>
       {% for i in page.tastingmenupairings %}
       <div class="column nested col-xs-12 col-md-6">

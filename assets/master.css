@@ -1720,7 +1720,7 @@ img {
 .Logo {
   width: 7rem;
   height: 1.5rem;
-  background-image: url("http://cdn2.dropmark.com/39456/09169b4ae838f68c4071acf55fdd82eb134839fc/canlislogo.svg");
+  background-image: url("_img/canlislogo.svg");
   background-repeat: no-repeat;
   text-indent: -9999999px;
   background-size: 100%;
@@ -1787,7 +1787,7 @@ img {
   transition: 200ms all ease-out;
 }
 .GlobalNav li a {
-  border-bottom: 1px solid #fcfbfa;
+  border-bottom: 1px solid rgba(252,251,250,0);
 }
 .GlobalNav li a:hover {
   border-bottom: 1px solid #bf9b30;
@@ -1850,13 +1850,14 @@ img {
   margin-top: 40vh;
 }
 .GlobalFooter {
-  margin-top: 4vw;
-  margin-bottom: -10vw;
+  padding-top: 6vw;
+  padding-bottom: -10vw;
+  background: #f2f1ef;
 }
 @media (min-width: 62em) {
   .GlobalFooter {
     margin-top: 8vw;
-    margin-bottom: 8vw;
+    padding-bottom: 5vw;
   }
 }
 .GlobalFooter a {
@@ -2251,8 +2252,13 @@ img {
     min-height: 100vh;
     margin: 0;
     padding: 0;
-    margin-bottom: -6vw;
-    text-align: center;
+    margin-bottom: -4vw;
+  }
+  .Intro.Tall {
+    margin-bottom: 6vw;
+  }
+  .Intro h1 {
+    margin-left: 2vw;
   }
 }
 .ReservePrompt {
@@ -2579,4 +2585,14 @@ body.Invert {
 }
 body.Invert a {
   color: #d6d3d0;
+}
+body.Invert .Intro {
+  background-color: transparent;
+}
+body.Invert .Logo {
+  background-image: url("_img/canlislogo_light.svg");
+}
+body.Invert .GlobalFooter,
+body.Invert .GlobalFooter a {
+  color: #272320;
 }
