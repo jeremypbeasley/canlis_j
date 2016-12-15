@@ -1715,6 +1715,7 @@ body {
 }
 img {
   max-width: 100%;
+  filter: grayscale(100%);
   background: #999;
 }
 .Logo {
@@ -2233,7 +2234,8 @@ img {
   padding: 0 !important;
 }
 .row .row.nested .column {
-  padding: 0 !important;
+  padding: 0;
+  padding-right: 4vw;
 }
 .column .row {
   padding: 0 !important;
