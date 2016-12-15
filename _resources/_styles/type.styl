@@ -35,16 +35,33 @@ i {
 }
 a {
 	text-decoration: none;
-	border-bottom: 1px solid hsla(255,100%,100%,.2);
-	border-bottom: 1px solid hsla(0,0%,0%,.2);
+	// border-bottom: 1px solid hsla(255,100%,100%,.2);
+	// border-bottom: 1px solid hsla(0,0%,0%,.2);
 	color: color-text;
-	padding-bottom: .1rem;
+	// padding-bottom: .1rem;
+	position: relative;
 }
-a:hover {
-	border-color: hsla(0,0%,0%,1);
+// a:hover {
+// 	border-color: hsla(0,0%,0%,1);
+// }
+a:after {
+	content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 0%;
+  border-bottom: 1px solid hsla(0,0%,0%,1);
+  transition: 0.4s;
+}
+a:hover:after {
+  width: 100%;
 }
 a.NoLine {
 	border: none;
+}
+a.NoLine:after {
+	display: none;
+	opacity: 0;
 }
 hr
 	width 100%
