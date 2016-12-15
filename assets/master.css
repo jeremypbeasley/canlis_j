@@ -1585,16 +1585,27 @@ i {
 }
 a {
   text-decoration: none;
-  border-bottom: 1px solid rgba(255,255,255,0.2);
-  border-bottom: 1px solid rgba(0,0,0,0.2);
   color: #272320;
-  padding-bottom: 0.1rem;
+  position: relative;
 }
-a:hover {
-  border-color: #000;
+a:after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 0%;
+  border-bottom: 1px solid #000;
+  transition: 0.4s;
+}
+a:hover:after {
+  width: 100%;
 }
 a.NoLine {
   border: none;
+}
+a.NoLine:after {
+  display: none;
+  opacity: 0;
 }
 hr {
   width: 100%;
@@ -1786,12 +1797,6 @@ img {
   border: 0px;
   text-align: right;
   transition: 200ms all ease-out;
-}
-.GlobalNav li a {
-  border-bottom: 1px solid rgba(252,251,250,0);
-}
-.GlobalNav li a:hover {
-  border-bottom: 1px solid #bf9b30;
 }
 .SocialNav {
   margin-top: 1rem;
@@ -2305,16 +2310,38 @@ img {
     width: 70vw;
   }
 }
-.PeopleHeadline {
-  margin-left: -5%;
-  margin-top: 7vw;
+@media (min-width: 62em) {
+  .HomePhoto4 {
+    position: relative;
+    width: 60vw;
+    max-width: 10000vw;
+  }
+}
+@media (min-width: 62em) {
+  .HomePhoto5 {
+    position: relative;
+    margin-top: -5%;
+    z-index: 70;
+  }
+}
+@media (min-width: 62em) {
+  .HomePhoto6 {
+    position: relative;
+    margin-top: -5%;
+    z-index: 60;
+    width: 60vw;
+    max-width: 10000vw;
+  }
 }
 .Portrait {
   max-width: 10000000px;
+  margin-left: -6.5vw;
+  width: 100vw;
 }
-.Portrait.Mark,
-.Portrait.Brian {
-  width: 100%;
+@media (min-width: 62em) {
+  .Portrait {
+    margin-left: 0px;
+  }
 }
 @media (min-width: 62em) {
   .Portrait.Mark {
@@ -2355,35 +2382,56 @@ img {
   padding: 10vw 0;
   text-align: center;
 }
-.PrivateEventsHeadline {
-  margin-top: 15vh;
-  margin-bottom: 3vw;
-  margin-left: 5%;
-}
 .PrivateEventsPhoto3 {
   position: relative;
-  width: 130vw;
   max-width: 100000vw;
-  margin-left: -85vw;
-  margin-top: -3vw;
+  margin-left: -6.5vw;
+  width: 100vw;
+}
+@media (min-width: 62em) {
+  .PrivateEventsPhoto3 {
+    width: 130vw;
+    margin-left: -85vw;
+    margin-top: -3vw;
+  }
 }
 .PrivateEventsPhoto4 {
   position: relative;
-  width: 90vw;
+  width: 100vw;
   max-width: 100000vw;
-  margin-right: -53vw;
+  margin-left: -6.5vw;
+}
+@media (min-width: 62em) {
+  .PrivateEventsPhoto4 {
+    width: 90vw;
+    margin-right: -53vw;
+    margin-left: 0;
+  }
 }
 .PrivateEventsPhoto5 {
   position: relative;
-  width: 90vw;
+  width: 100vw;
   max-width: 100000vw;
-  margin-left: -45vw;
+  margin-left: -6.5vw;
+}
+@media (min-width: 62em) {
+  .PrivateEventsPhoto5 {
+    width: 90vw;
+    margin-left: -45vw;
+  }
 }
 .PrivateEventsPhoto6 {
   position: relative;
-  width: 110vw;
+  width: 100vw;
   max-width: 100000vw;
-  margin-right: -53vw;
+  margin-left: -6.5vw;
+}
+@media (min-width: 62em) {
+  .PrivateEventsPhoto6 {
+    width: 110vw;
+    margin-right: -53vw;
+    margin-left: 0;
+  }
 }
 .PrivateEventsOutro {
   margin: 15vw 5vw;
