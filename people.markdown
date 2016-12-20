@@ -1,5 +1,5 @@
 ---
-title: Our People
+title: People
 date: 2016-11-10 10:09:00 -08:00
 headline: Building on our roots as a family run business, our people are at the center
   of every part of the way we run Canlis.
