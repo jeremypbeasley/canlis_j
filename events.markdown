@@ -8,6 +8,7 @@ headline: |-
     &nbsp;&nbsp;&nbsp;dining suites.<Br>
 headline_mobile: Seattle's premiere private dining suites.
 intro:
+  label: A history of excellence
   desc: We are the most trusted private event venue in the city and we are ready to
     help you create a night you'll never forget. With three private dining rooms and
     180 degree views, Canlis gladly welcomes rehearsal dinners, wedding receptions,
