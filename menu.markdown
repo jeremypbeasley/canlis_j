@@ -1,8 +1,10 @@
 ---
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
-headline: 'Canlis is gorgeous and sleek, a mid-century-modern dream of clean lines
-  and striking natural elements. '
+headline: "&nbsp;&nbsp;&nbsp;&nbsp;Lorem&nbsp;ipsum,<br>\n  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dolor&nbsp;amet,<br>\n
+  \ <i>consectetur&nbsp;adipiscing.</i><br>\n  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quisque&nbsp;mi&nbsp;<br>\n
+  \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mi,&nbsp;tempor.\n  "
+headline_mobile: Lorem ipsum, dolor amet, consectetur adipiscing. Quisquemi mi, tempor.
 mealtypes:
 - title: Three Courses
   price: "$85"
