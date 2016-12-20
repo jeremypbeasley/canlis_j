@@ -14,9 +14,7 @@ intro:
     180 degree views, Canlis gladly welcomes rehearsal dinners, wedding receptions,
     family reunions, anniversary parties, business dinners and board meetings, heads
     of state, presidential dignitaries and grandmothers.
-  photo1: "/uploads/William-Eggleston-New-Dyes-Boy.jpg"
-  photo2: "/uploads/107875_7.jpg"
-  photo3: "/uploads/Eggleston_12.jpg"
+  photo: "/uploads/original-open-uri20130531-2-uzys54.jpg"
 cache:
   title: The Caché
   capacity: 2 - 4 guests
