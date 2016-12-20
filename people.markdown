@@ -1,8 +1,12 @@
 ---
 title: People
 date: 2016-11-10 10:09:00 -08:00
-headline: Building on our roots as a family run business, our people are at the center
-  of every part of the way we run Canlis.
+headline: |-
+  <i>Canlis</i>&nbsp;is&nbsp;our&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<Br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;family&nbsp;name.<Br>
+    &nbsp;This&nbsp;is&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<Br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;our&nbsp;home.&nbsp;&nbsp;&nbsp;<Br>
+headline_mobile: "<i>Canlis</i> is our family name. This is our home."
 person1:
   name: Mark Canlis
   title: Owner
