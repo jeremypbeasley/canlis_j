@@ -10,6 +10,7 @@ headline: |-
       &nbsp;&nbsp;&nbsp;&nbsp;nights&nbsp;of&nbsp;your&nbsp;life.
 headline_mobile: For 65 years, we’ve been trusted with the most important nights of<Br>
   your life.
+section1_photo: "/uploads/exterior.jpg"
 section1_label: Welcome
 section1_body: For decades, our family has been inviting guests to dine with us in
   this storied space. Our goal is to create the best dining experience possible —
