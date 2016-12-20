@@ -1,7 +1,12 @@
 ---
 title: Private Events
 date: 2016-11-10 10:10:00 -08:00
-headline: Seattle's premiere private dining suites. It doesn't get better than this.
+headline: |-
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seattle's<Br>
+    premiere<Br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;private<Br>
+    &nbsp;&nbsp;&nbsp;dining suites.<Br>
+headline_mobile: Seattle's premiere private dining suites.
 intro:
   desc: We are the most trusted private event venue in the city and we are ready to
     help you create a night you'll never forget. With three private dining rooms and
