@@ -14,10 +14,10 @@ section1_label: Welcome
 section1_body: For decades, our family has been inviting guests to dine with us in
   this storied space. Our goal is to create the best dining experience possible —
   a vision, a shared commitment that has been passed down for three generations.
-section1_photo: "/uploads/728255.jpg"
+section2_photo: "/uploads/728255.jpg"
 section2_body: Our Executive Chef Brady Williams joined Canlis in the summer of 2015.
   He brings his Japanese roots to Canlis’ classic Eastern influences.
-section2_photo: "/uploads/Canlis_Leitz2.jpg"
+section3_photo: "/uploads/Canlis_Leitz2.jpg"
 section3_label: the space
 section3_body: Though evolving over the years, our storied space designed by Roland
   Terry in 1950 continues to delight guests from all over the world with it’s natural
