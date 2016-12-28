@@ -22,6 +22,12 @@ cache:
     Originally built as the owner’s office, this treetop niche quickly became the most exclusive table in Seattle. The Caché is an entirely private, intimate room on the 2nd floor of our restaurant with spectacular views across Lake Union and the Cascade Mountains. Amenities include a telescope, sound system, and chaise lounge.
     A room rental charge of $150 applies.
   photo: "/uploads/cache.png"
+  photos:
+  - "/uploads/cache.png"
+  - "/uploads/Robert%20frank%20post%20war%202.jpg"
+  - "/uploads/1cbe5875294296d2dca23c23a9a4de92.jpg"
+  - "/uploads/robert_frank_41.jpg"
+  - "/uploads/dd25ad8c09d025e9b7ac8a57fe7b3def.jpg"
 executiveroom:
   title: The Executive Room
   capacity: 10 - 30 guests
@@ -29,6 +35,10 @@ executiveroom:
     The irresistibly comfortable “living room” of our restaurant. Host a business meeting with understated elegance, or a private dinner party with the warmth, intimacy, and personal touch that will make guests feel right at home. Amenities include a fireplace, wrap-around views, mahogany walls, oval or round tables, projector and screen, mp3 jack.
     A room rental charge of $250 applies.
   photo: "/uploads/exec-a70510.png"
+  photos:
+  - "/uploads/exec.png"
+  - "/uploads/robert-franks-quotes-6.jpg"
+  - "/uploads/05-1254.jpg"
 penthouse:
   title: The Penthouse
   capacity: 30 - 100 guests
@@ -37,6 +47,10 @@ penthouse:
 
     A room rental charge of $350 applies.
   photo: "/uploads/pent.png"
+  photos:
+  - "/uploads/pent.png"
+  - "/uploads/Robert%20frank%20post%20war%202.jpg"
+  - "/uploads/robert_frank_41.jpg"
 outro:
   headline: Ready to book your event?
   desc: |-
