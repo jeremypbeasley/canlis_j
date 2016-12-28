@@ -16,6 +16,7 @@
     "grunt-remove": "^0.1.0",
     "jquery": "latest",
     "normalize-css": "latest",
-    "waypoints": "latest"
+    "waypoints": "latest",
+    "slick-carousel": "latest"
   }
 }

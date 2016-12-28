@@ -171,6 +171,38 @@
     margin-top: -3vw;
   }
 }
+.PrivateEventsGallery {
+  width: 100vw;
+  height: 133vw;
+  background: gray;
+  margin-left: -6.5vw;
+}
+@media laptop {
+  .PrivateEventsGallery {
+    width: 60vw;
+    height: 86vw;
+  }
+  .PrivateEventsGallery.LeftFacing {
+    margin-left: -6.5vw;
+  }
+  .PrivateEventsGallery.RightFacing {
+    margin-left: 3.5vw;
+  }
+}
+.PrivateEventsGalleryItem {
+  width: 100vw;
+  height: 133vw;
+  background-position: center center;
+  background-size: cover;
+  -webkit-filter: grayscale(100%);
+  filter: gray;
+}
+@media laptop {
+  .PrivateEventsGalleryItem {
+    width: 65vw;
+    height: 86vw;
+  }
+}
 .PrivateEventsPhoto4 {
   position: relative;
   width: 100vw;
