@@ -18,6 +18,7 @@ github_username: jeremypbeasley
 markdown: kramdown
 exclude:
 - Gemfile.lock
+- Gemfile
 - Gruntfile.js
 - node_modules
 - package.json
