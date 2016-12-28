@@ -1,28 +1,7 @@
-// $( ".GlobalNavToggle" ).click(function() {
-//   $('.GlobalNav ul').toggleClass("Open");
-// });
-
-// function loadBrady() {
-//   $.getJSON('https://canlis.com/wp-json/wp/v2/posts?filter[p]=2127', function(result) {
-//     var output = '';
-//     $.each(result, function(i, thing){
-//       output += "<p class='LabelText'>" + thing.title.rendered + "</p>" + thing.content.rendered;
-//     });
-//     output += '';
-//     document.getElementById("BradyContainer").innerHTML = output;
-//   });
-// };
-
-// loadBrady();
-
-
-// console.log("maybe it's working!")
-
-// var sticky = new Waypoint.Sticky({
-//   element: $(".GlobalNav")[0]
-// })
-
 $(document).ready(function() {
+
+  // PAGE FADING
+
   $('body').css('display', 'none');
   $('body').fadeIn(200);
   $('.NavLink').click(function() {
@@ -32,14 +11,61 @@ $(document).ready(function() {
   function newpage() {
     window.location = newLocation;
   }
+
+  // MOBILE NAV
+
+  $('.NavHamburger').click(function() {
+    console.log("nav clicked!")
+    $('.GlobalNav').toggleClass("Open");
+    $(this).toggleClass("Open");
+  });
+
+  // PRIVATE EVENT'S GALLERIES
+
+  // function MakeASlick(GalleryID) {
+  //   $slideshow = $("#" + GalleryID).slick({
+  //     dots:true,
+  //     autoplay:false,
+  //     arrows:false,
+  //     slidesToShow:1,
+  //     slidesToScroll:1
+  //   });
+  //   $("#" + GalleryID).click(function() {
+  //     console.log("slick clicked");
+  //     $(this).slick('slickGoTo', parseInt($slideshow.slick('slickCurrentSlide'))+1);
+  //   });
+  // };
+
+  // MakeASlick("CacheGallery");
+  // MakeASlick("ExecutiveRoomGallery");
+  // MakeASlick("PenthouseGallery");
+
+  var sliders = {};
+
+  $('.slider').each(function (index, slider) {
+    var id = slider.getAttribute('id');
+    console.log(id);
+    sliders[id] = $(slider).slick({
+        dots:false,
+        autoplay:false,
+        arrows:false,
+        prevArrow:'<button type="button" class="slick-prev"></button>',
+        nextArrow:'<button type="button" class="slick-next"></button>',
+        slidesToShow:1,
+        slidesToScroll:1
+    })
+  });
+  
+  $('.slide').click(function() {
+    var id = $(this).closest('.slider').get(0).getAttribute('id');
+    console.log(id);
+    var $slideshow = sliders[id];
+    $slideshow.slick('slickGoTo', parseInt($slideshow.slick('slickCurrentSlide'))+1);
+  });
+
+  console.log(sliders);
+
 });
 
-$(document).ready(function() {
 
-$('.NavHamburger').click(function() {
-  console.log("nav clicked!")
-  $('.GlobalNav').toggleClass("Open");
-  $(this).toggleClass("Open");
-});
 
-});
