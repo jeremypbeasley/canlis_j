@@ -13136,24 +13136,6 @@ $(document).ready(function() {
 
   // PRIVATE EVENT'S GALLERIES
 
-  // function MakeASlick(GalleryID) {
-  //   $slideshow = $("#" + GalleryID).slick({
-  //     dots:true,
-  //     autoplay:false,
-  //     arrows:false,
-  //     slidesToShow:1,
-  //     slidesToScroll:1
-  //   });
-  //   $("#" + GalleryID).click(function() {
-  //     console.log("slick clicked");
-  //     $(this).slick('slickGoTo', parseInt($slideshow.slick('slickCurrentSlide'))+1);
-  //   });
-  // };
-
-  // MakeASlick("CacheGallery");
-  // MakeASlick("ExecutiveRoomGallery");
-  // MakeASlick("PenthouseGallery");
-
   var sliders = {};
 
   $('.slider').each(function (index, slider) {

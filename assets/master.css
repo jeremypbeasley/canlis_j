@@ -2526,8 +2526,12 @@ img {
 .PrivateEventsGallery {
   width: 100vw;
   height: 133vw;
-  background: #808080;
+  background: #000;
   margin-left: -6.5vw;
+  cursor: pointer;
+}
+.PrivateEventsGallery:hover .PrivateEventsGalleryItem {
+  transform: translateX(-60px);
 }
 @media (min-width: 62em) {
   .PrivateEventsGallery {
@@ -2548,12 +2552,18 @@ img {
   background-size: cover;
   -webkit-filter: grayscale(100%);
   filter: #808080;
+  transition: all 200ms ease-out;
 }
 @media (min-width: 62em) {
   .PrivateEventsGalleryItem {
     width: 65vw;
     height: 86vw;
   }
+}
+.PrivateEventsGalleryItem,
+.PrivateEventsGalleryItem:focus,
+.PrivateEventsGalleryItem:active {
+  outline: none;
 }
 .PrivateEventsPhoto4 {
   position: relative;

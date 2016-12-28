@@ -174,9 +174,13 @@
 .PrivateEventsGallery {
   width: 100vw;
   height: 133vw;
-  background: gray;
+  background: black;
   margin-left: -6.5vw;
+  cursor: pointer;
 }
+.PrivateEventsGallery:hover .PrivateEventsGalleryItem {
+  transform: translateX(-60px)
+} 
 @media laptop {
   .PrivateEventsGallery {
     width: 60vw;
@@ -196,12 +200,22 @@
   background-size: cover;
   -webkit-filter: grayscale(100%);
   filter: gray;
+  transition: all 200ms ease-out;
 }
 @media laptop {
   .PrivateEventsGalleryItem {
     width: 65vw;
     height: 86vw;
   }
+}
+// .slick-slide {
+//   opacity: .5;
+// }
+// .slick-current {
+//   opacity: 1;
+// }
+.PrivateEventsGalleryItem, .PrivateEventsGalleryItem:focus, .PrivateEventsGalleryItem:active {
+  outline: none;
 }
 .PrivateEventsPhoto4 {
   position: relative;
