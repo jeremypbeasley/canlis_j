@@ -1,5 +1,5 @@
 ---
-title: Wine List
+title: Wine & Spirits
 date: 2016-11-10 10:09:00 -08:00
 headline: 18,000 Bottles, 2,500 Selections, & 5 Sommeliers
 cocktails_section1_title: Canlis Originals
