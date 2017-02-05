@@ -1,5 +1,5 @@
 ---
-title: Wine List
+title: Wine & Spirits
 date: 2016-11-10 10:09:00 -08:00
 headline: 18,000 Bottles, 2,500 Selections, & 5 Sommeliers
 cocktails_section1_title: Canlis Originals
@@ -57,6 +57,37 @@ cocktails_section5:
   desc: Raspberry, tarragon, orange, Pok Pok apple vinegar / 8
 - title: KOKENIWA
   desc: Pineapple, ginger, basil, matcha / 8
+cocktails_intro:
+  title: The Lounge
+  desc: |-
+    We may be known for our fine dining menu, but don't miss the quality drinks, memorable nibbles and sweeping views in the lounge.
+    In addition to our cocktail menu, we have an extensive selection of spirits. Our fabulous bartenders will.
+  photo: "/uploads/Photo%20Dec%2022,%2011%2000%2017%20AM.jpg"
+wine_intro:
+  photo: 
+  desc: |
+    One of the finest cellars in the world, Canlis became Seattle’s wine destination in 1997, the first year of its seventeen consecutive Wine Spectator Magazine Grand Awards. The restaurant is one of 72 worldwide to be trusted with such an honor.
+    Our program is founded on a team of educated wine professionals, the highest quality amenities, and the warm and reputable service for which Canlis is famous. There is also one very juicy wine list. We look forward to sharing the world of wine with you.
+    All our wine is available for retail sale and delivery.
+    Please call the restaurant at <a href="tel:2062833313">(206)-283-3313</a>.
+  winelist: The list is close to 90 pages. We invite you to download it <a href="">here</a>
+    and enjoy a good read, or skip it all together and let a sommelier do the work
+    of pairing a wine to your evening.
+winestaff:
+  title: Our Award-winning Wine Staff
+  staff:
+  - name: 
+    title: 
+  - name: 
+    title: 
+  - name: 
+    title: 
+  - name: 
+    title: 
+  - name: 
+    title: 
+  - name: 
+    title: 
 layout: wine
 ---
 
