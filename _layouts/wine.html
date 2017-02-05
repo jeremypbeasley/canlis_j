@@ -50,23 +50,21 @@
   </div>
 </div>
 <div class="row AlignCenter">
-  <div class="column col-xs-12 col-md-5">
+  <div class="column col-xs-12 col-md-4">
     <h2 class="Display1 mb5">The Lounge</h2>
     <p>We may be known for our fine dining menu, but don't miss the quality drinks, memorable nibbles and sweeping views in the lounge.</p>
-    <p>In addition to our cocktail menu, we have an extensive selection of spirits. Our faboulous bartenders will</p>
+    <p>In addition to our cocktail menu, we have an extensive selection of spirits. Our faboulous bartenders will Praesent porttitor mauris felis, id convallis purus porttitor vel. In efficitur massa bibendum tortor iaculis consequat. Mauris vel convallis odio. Nunc vestibulum tincidunt nisl, nec pretium ligula.</p>
   </div>
-  <div class="column col-xs-12 col-md-6 col-md-offset-1">
-    <!-- <p><img class="WinePhoto2" src="https://s-media-cache-ak0.pinimg.com/originals/0d/7e/06/0d7e061be7e1ca61934661d24c9e3a24.jpg"></p> -->
-<!--     <img class="WinePhoto2" src="https://res.cloudinary.com/sagacity/image/upload/c_crop,h_1335,w_2000,x_0,y_728/c_limit,dpr_1.0,f_auto,fl_lossy,q_80,w_1024/Cocktails_Highres-7853_bandaid_removed_xw7dzb.jpg">
- -->    
-    <img class="WinePhoto2" src="https://s-media-cache-ak0.pinimg.com/736x/c3/51/01/c351012854f2f0d96dd618b3b1163d62.jpg">
+  <div class="column col-xs-12 col-md-5 col-md-offset-1">
+    <img class="WinePhoto2" src="/uploads/bar_1.jpg">
   </div>
 </div>
-<div class="row">
-  <div class="column col-xs-12">
-    <div class="row nested">
-      <div class="column col-xs-12 col-md-6">
-        <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section1_title }}</h2>
+<div class="row AlignCenter">
+  <div class="column col-xs-12 col-md-8">
+    <img class="WinePhoto3" src="/uploads/IMG_4310.JPG">
+  </div>
+  <div class="column col-xs-12 col-md-4">
+    <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section1_title }}</h2>
         {% for i in page.cocktails_section1 %}
           <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
           {% if i.author %}
@@ -74,7 +72,11 @@
           {% endif %}
           {{ i.desc }}</p>
         {% endfor %}
-      </div>
+  </div>
+</div>
+<div class="row">
+  <div class="column col-xs-12">
+    <div class="row nested">
       <div class="column col-xs-12 col-md-6">
         <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section2_title }}</h2>
         {% for i in page.cocktails_section2 %}
