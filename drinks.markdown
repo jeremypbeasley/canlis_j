@@ -65,15 +65,17 @@ cocktails_intro:
   photo: "/uploads/Photo%20Dec%2022,%2011%2000%2017%20AM.jpg"
 wine_intro:
   photo: "/uploads/cellar_1.jpg"
-  desc: |
+  desc: |-
     One of the finest cellars in the world, Canlis became Seattle’s wine destination in 1997, the first year of its seventeen consecutive Wine Spectator Magazine Grand Awards. The restaurant is one of 72 worldwide to be trusted with such an honor.
+
     Our program is founded on a team of educated wine professionals, the highest quality amenities, and the warm and reputable service for which Canlis is famous. There is also one very juicy wine list. We look forward to sharing the world of wine with you.
+
     All our wine is available for retail sale and delivery. Please call the restaurant at <a href="tel:2062833313">(206)-283-3313</a>.
   winelist: The list is close to 90 pages. We invite you to download it <a href="">here</a>
     and enjoy a good read, or skip it all together and let a sommelier do the work
     of pairing a wine to your evening.
 winestaff:
-  title: Our Award-winning Wine Staff
+  title: Our Award-winning <Br> Wine & Spirits Team
   staff:
   - name:
     title:
