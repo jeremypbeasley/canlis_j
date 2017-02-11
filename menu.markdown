@@ -122,9 +122,9 @@ plates:
   plate1: "/uploads/plate_nysteak.jpg"
   plate2: "/uploads/plate_cod.jpg"
   plate3: "/uploads/plate_salad.jpg"
-  plate4: "/uploads/plate_chocolate.jpg"
+  plate4: "/uploads/plate_lamb.jpg"
   plate5: "/uploads/plate_oyster.jpg"
-  plate6:
+  plate6: "/uploads/plate_foie.jpg"
   plate7: "/uploads/plate_chocolate.jpg"
   plate8: "/uploads/plate_shimaaji.jpg"
 layout: menu
