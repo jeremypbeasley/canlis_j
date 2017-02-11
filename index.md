@@ -8,7 +8,7 @@ headline: |-
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;important
   &nbsp;&nbsp;&nbsp;&nbsp;<br>
   &nbsp;&nbsp;&nbsp;&nbsp;nights&nbsp;of&nbsp;your&nbsp;life.
-headline_mobile: For 66 years you've trusted us with the most important nights of
+headline_mobile: For 66 years, you've trusted us with the most important nights of
   your life.
 section1_photo: "/uploads/exterior.jpg"
 section1_label: Welcome
