@@ -23,8 +23,7 @@ module.exports = function(grunt) {
         src: [
           'node_modules/jquery/dist/jquery.js',
           'node_modules/slick-carousel/slick/slick.js',
-          // 'node_modules/waypoints/lib/jquery.waypoints.js',
-          // 'node_modules/waypoints/lib/shortcuts/sticky.js',
+          'node_modules/smoothstate/jquery.smoothState.min.js',
           '_resources/_scripts/main.js'
         ], 
         dest: 'assets/master.js',
