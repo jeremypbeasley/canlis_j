@@ -13,12 +13,9 @@
     <img class="WinePhoto1" src="{{ page.wine_intro.photo }}">
   </div>
   <div class="column col-xs-12 col-md-4">
-    <p>One of the finest cellars in the world, Canlis became Seattle’s wine destination in 1997, the first year of its seventeen consecutive Wine Spectator Magazine Grand Awards. The restaurant is one of 72 worldwide to be trusted with such an honor.</p>
-    <p>Our program is founded on a team of educated wine professionals, the highest quality amenities, and the warm and reputable service for which Canlis is famous. There is also one very juicy wine list. We look forward to sharing the world of wine with you.</p>
-    <p>All our wine is available for retail sale and delivery.</p>
-    <p>Please call the restaurant at <a href="tel:2062833313">(206)-283-3313</a>.</p>
+    {{ page.wine_intro.desc | markdownify}}
     <p class="Caption mt5">Wine List</p>
-    <p class="">The list is close to 90 pages. We invite you to download it <a href="">here</a> and enjoy a good read, or skip it all together and let a sommelier do the work of pairing a wine to your evening.</p>
+    {{ page.wine_intro.winelist | markdownify}}
   </div>
 </div>
 <div class="row AlignTop StaffSection">
