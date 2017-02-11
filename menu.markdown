@@ -118,6 +118,14 @@ tastingmenu:
 - title: Coconut
   desc: Lime, saw-leaf, cucumber
   wine: 2014 La Spinetta, Bricco Quaglia, Moscato d’Asti, Piedmont, ITA
+plates:
+  plate1: 
+  plate2: 
+  plate3: 
+  plate4: 
+  plate5: 
+  plate6: 
+  plate7: 
 layout: menu
 ---
 
