@@ -75,7 +75,7 @@ wine_intro:
     and enjoy a good read, or skip it all together and let a sommelier do the work
     of pairing a wine to your evening.
 winestaff:
-  title: Our Award-winning Wine Staff
+  title: Wine & Spirits Team
   staff:
   - name: 
     title: 
