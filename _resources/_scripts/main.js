@@ -1,16 +1,30 @@
+// PAGE FADING
+
+$(function(){
+  'use strict';
+  var options = {
+    debug: true,
+    anchors: 'a',
+    onStart: {
+      duration: 300,
+      render: function ($container) {
+        $('.PageContent').addClass('is-exiting');
+        console.log("on start");
+      }
+    },
+    onReady: {
+      duration: 300,
+      render: function ($container, $newContent) {
+        $container.html($newContent);
+        $('.PageContent').removeClass('is-exiting');
+        console.log("on ready");
+      }
+    }
+  },
+  smoothState = $('#main').smoothState(options).data('smoothState');
+});
+
 $(document).ready(function() {
-
-  // PAGE FADING
-
-  $('body').css('display', 'none');
-  $('body').fadeIn(200);
-  $('.NavLink').click(function() {
-    event.preventDefault();
-    newLocation = this.href;
-  $('body').fadeOut(200, newpage);});
-  function newpage() {
-    window.location = newLocation;
-  }
 
   // MOBILE NAV
 
