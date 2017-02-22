@@ -11,10 +11,8 @@ headline: |-
 headline_mobile: For 66 years, you've trusted us with the most important nights of
   your life.
 section1_photo: "/uploads/exterior.jpg"
-section1_label: Welcome
-section1_body: For decades, our family has been inviting guests to dine with us in
-  this storied space. Our goal is to create the best dining experience possible —
-  a vision, a shared commitment that has been passed down for three generations.
+section1_label: Welcome to our home
+section1_body: Our family has invited thousands of guests just like you to dine in this storied space that was once our home. For three generations, we've worked hard to bring you the best of the best. We couldn't be more happy to have you.
 section2_photo: "/uploads/728255.jpg"
 section2_body: Our Executive Chef Brady Williams joined Canlis in the summer of 2015.
   He brings his Japanese roots to Canlis’ classic Eastern influences.
@@ -30,4 +28,3 @@ homephoto5: "/uploads/Screen%20Shot%202016-12-15%20at%2012.52.06%20PM%20(1).png"
 homephoto6: "/uploads/1110097.jpg"
 layout: home
 ---
-
