@@ -42,12 +42,12 @@ cocktails_section3:
 cocktails_section4_title: Draft Beer
 cocktails_section4:
 - title: ORLISON
-  author:
+  author: 
   desc: |-
     Clementine, Airway Heights, WA 4.40% / 10<Br>
     Rich malty lager with phenolic Belgian yeast and blood orange
 - title: GREAT DIVIDE
-  author:
+  author: 
   desc: |-
     22nd Anniversary Ale, Denver, CO 8.7% / 16<Br>
     Vinous sour with oak and tobacco
@@ -71,22 +71,24 @@ wine_intro:
     Our program is founded on a team of educated wine professionals, the highest quality amenities, and the warm and reputable service for which Canlis is famous. There is also one very juicy wine list. We look forward to sharing the world of wine with you.
 
     All our wine is available for retail sale and delivery. Please call the restaurant at <a href="tel:2062833313">(206)-283-3313</a>.
-  winelist: It is a mighty list. We invite you to download it <a href="">here</a> and enjoy a good read, or skip it all together and let us do the work of finding the right wine for your evening.
-
+  winelist: It is a mighty list. We invite you to download it <a href="">here</a>
+    and enjoy a good read, or skip it all together and let us do the work of finding
+    the right wine for your evening.
 winestaff:
   title: Our Award-winning <Br> Wine & Spirits Team
   staff:
-  - name:
-    title:
-  - name:
-    title:
-  - name:
-    title:
-  - name:
-    title:
-  - name:
-    title:
-  - name:
-    title:
+  - name: 
+    title: 
+  - name: 
+    title: 
+  - name: 
+    title: 
+  - name: 
+    title: 
+  - name: 
+    title: 
+  - name: 
+    title: 
 layout: wine
 ---
+
