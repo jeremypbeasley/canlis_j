@@ -2,12 +2,12 @@
 title: People
 date: 2016-11-10 10:09:00 -08:00
 headline: |-
-  &nbsp;&nbsp;&nbsp;&nbsp;Canlis&nbsp;is&nbsp;our<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;<i>Canlis</i>&nbsp;is&nbsp;our<br>
   family&nbsp;name.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;place&nbsp;and<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;these&nbsp;people&nbsp;are<br>
   &nbsp;&nbsp;home&nbsp;to&nbsp;us.&nbsp;<br>
-headline_mobile: "<i>Canlis</i> is our family name. This is our home."
+headline_mobile: "<i>Canlis</i> is our family name. This place and these people are home to us."
 person1:
   name: Mark Canlis
   title: Owner
