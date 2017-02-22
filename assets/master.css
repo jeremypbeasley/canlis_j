@@ -1712,8 +1712,21 @@ a:after {
   bottom: -4px;
   left: 0;
   width: 0%;
+  border-bottom: 1px solid #bf9b30;
+  transition: 0.4s;
+}
+a:before {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 100%;
   border-bottom: 1px solid #000;
   transition: 0.4s;
+}
+a.NavLink:before {
+  content: none;
+  display: none;
 }
 a:hover:after {
   width: 100%;
@@ -1721,7 +1734,8 @@ a:hover:after {
 a.NoLine {
   border: none;
 }
-a.NoLine:after {
+a.NoLine:after,
+a.NoLine:before {
   display: none;
   opacity: 0;
 }
