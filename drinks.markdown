@@ -42,12 +42,12 @@ cocktails_section3:
 cocktails_section4_title: Draft Beer
 cocktails_section4:
 - title: ORLISON
-  author: 
+  author:
   desc: |-
     Clementine, Airway Heights, WA 4.40% / 10<Br>
     Rich malty lager with phenolic Belgian yeast and blood orange
 - title: GREAT DIVIDE
-  author: 
+  author:
   desc: |-
     22nd Anniversary Ale, Denver, CO 8.7% / 16<Br>
     Vinous sour with oak and tobacco
@@ -66,29 +66,27 @@ cocktails_intro:
 wine_intro:
   photo: "/uploads/cellar_1.jpg"
   desc: |-
-    One of the finest cellars in the world, Canlis became Seattle’s wine destination in 1997, the first year of its seventeen consecutive Wine Spectator Magazine Grand Awards. The restaurant is one of 72 worldwide to be trusted with such an honor.
+    Canlis became a world-class wine destination in 1997, the first year of its twenty consecutive Wine Spectator Magazine Grand Awards. The restaurant is one several dozen to be trusted with such an honor for so long. In that time it has helped train 4 Master Sommeliers and 16 advanced sommeliers, collaborated to produce wines with Alois Kracher, Buty, Jean Milan, Hirsch, Berescht & Fils and played routinely hosts the best wine makers in the world for dinner (LaTour, Grace Family, Alan Shoupe, pio cezare, the Marchezzi Pierro Antinori, Angelo Gaja, Heredia Lopez) Which is all, very fancy. What distinguishes the Canlis wine program and the sommeliers who run it is their singular ability to relate to other people, particularly those who just like to enjoy a bottle with life, and then move on.
 
     Our program is founded on a team of educated wine professionals, the highest quality amenities, and the warm and reputable service for which Canlis is famous. There is also one very juicy wine list. We look forward to sharing the world of wine with you.
 
     All our wine is available for retail sale and delivery. Please call the restaurant at <a href="tel:2062833313">(206)-283-3313</a>.
-  winelist: The list is close to 90 pages. We invite you to download it <a href="">here</a>
-    and enjoy a good read, or skip it all together and let a sommelier do the work
-    of pairing a wine to your evening.
+  winelist: It is a mighty list. We invite you to download it <a href="">here</a> and enjoy a good read, or skip it all together and let us do the work of finding the right wine for your evening.
+
 winestaff:
   title: Our Award-winning <Br> Wine & Spirits Team
   staff:
-  - name: 
-    title: 
-  - name: 
-    title: 
-  - name: 
-    title: 
-  - name: 
-    title: 
-  - name: 
-    title: 
-  - name: 
-    title: 
+  - name:
+    title:
+  - name:
+    title:
+  - name:
+    title:
+  - name:
+    title:
+  - name:
+    title:
+  - name:
+    title:
 layout: wine
 ---
-
