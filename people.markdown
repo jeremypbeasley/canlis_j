@@ -7,7 +7,8 @@ headline: |-
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This&nbsp;place&nbsp;and<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;these&nbsp;people&nbsp;are<br>
   &nbsp;&nbsp;home&nbsp;to&nbsp;us.&nbsp;<br>
-headline_mobile: "<i>Canlis</i> is our family name. This place and these people are home to us."
+headline_mobile: "<i>Canlis</i> is our family name. This place and these people are
+  home to us."
 person1:
   name: Mark Canlis
   title: Owner
@@ -55,3 +56,4 @@ person4:
     dinner service.
 layout: people
 ---
+
