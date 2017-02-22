@@ -4,7 +4,7 @@ html
 
 body, p
 	font-size 1rem
-	
+
 @media (min-width: 62em) {
   body, p {
     font-size: 1rem
@@ -41,17 +41,27 @@ a {
 	// padding-bottom: .1rem;
 	position: relative;
 }
-// a:hover {
-// 	border-color: hsla(0,0%,0%,1);
-// }
 a:after {
 	content: '';
   position: absolute;
   bottom: -4px;
   left: 0;
   width: 0%;
+  border-bottom: 1px solid color-gold;
+  transition: 0.4s;
+}
+a:before {
+	content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 100%;
   border-bottom: 1px solid hsla(0,0%,0%,1);
   transition: 0.4s;
+}
+a.NavLink:before {
+	content: none;
+	display: none;
 }
 a:hover:after {
   width: 100%;
@@ -59,7 +69,7 @@ a:hover:after {
 a.NoLine {
 	border: none;
 }
-a.NoLine:after {
+a.NoLine:after, a.NoLine:before {
 	display: none;
 	opacity: 0;
 }
@@ -70,8 +80,8 @@ hr
 	background black
 	opacity .2
 	margin 4vw 0
-	
-strong 
+
+strong
 	font-weight normal
 
 h1,h2,h3,h4,h5,h6 {
@@ -88,7 +98,7 @@ h1,h2,h3,h4,h5,h6 {
 h1 {
 	font-size: 2rem;
 }
-	
+
 h3 {
 	font-size: 1rem;
 	opacity: .4;
@@ -118,7 +128,7 @@ li {
 	border-radius: 3px;
 	padding: .5rem 1rem;
 	background: none;
-	
+
 }
 
 // TYPE STYLES
@@ -165,5 +175,4 @@ li {
 	.Caption {
 		font-size: .75rem
 	}
-}	
-
+}
