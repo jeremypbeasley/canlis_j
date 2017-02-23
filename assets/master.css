@@ -1706,14 +1706,14 @@ a {
   color: #272320;
   position: relative;
 }
-a:after {
+a.NavLink:after {
   content: '';
   position: absolute;
   bottom: -4px;
   left: 0;
   width: 0%;
   border-bottom: 1px solid #bf9b30;
-  transition: 0.4s;
+  transition: 200ms;
 }
 a:before {
   content: '';
@@ -1722,7 +1722,8 @@ a:before {
   left: 0;
   width: 100%;
   border-bottom: 1px solid #000;
-  transition: 0.4s;
+  transition: 200ms;
+  padding: 50px 0;
 }
 a.NavLink:before {
   content: none;
@@ -1738,6 +1739,19 @@ a.NoLine:after,
 a.NoLine:before {
   display: none;
   opacity: 0;
+}
+.lift {
+  transition: all 200ms ease-out;
+  transform: translateY(0px);
+  display: block;
+}
+.lift:hover {
+  transform: translateY(-5px);
+}
+.lift:hover a:before,
+.lift:hover a:after {
+  bottom: -15px;
+  border-color: #bf9b30;
 }
 hr {
   width: 100%;
