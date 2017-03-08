@@ -1,30 +1,35 @@
 {% include head.html %}
-<!-- <div class="DinnerPlates DinnerPlate1">
+
+<div class="MenuIntro">
+  <div class="row">
+    <div class="column col-xs-12 col-md-4 col-md-offset-4">
+      <p class="Caption">Four Courses</p>
+      <p>Choose one of each from below.</p>
+      <p class="Caption">100</p>
+      <div class="Divider mb8 mt3"></div>
+      <p class="Caption">Tasting Menu</p>
+      <p>A nine-course preset menu designed <Br>to be ordered by the entire table</p>
+      <p class="Caption">145</p>
+    </div>
+  </div>
+</div>
+<div class="DinnerPlates DinnerPlate1">
   <img src="{{ page.plates.plate1 }}">
 </div>
-<div class="DinnerPlates DinnerPlate2 Flipped">
+<div class="DinnerPlates DinnerPlate2">
   <img src="{{ page.plates.plate2 }}">
-</div> -->
+</div>
+<!-- COURSE ONE -->
 <div class="row">
-    <!-- <div class="DinnerPlates DinnerPlate3">
-      <img src="{{ page.plates.plate3 }}">
-    </div> -->
-  <div class="column col-xs-12 col-md-7">
-    <div class="row nested">
-      {% for i in page.mealtypes %}
-      <div class="column nested col-xs-12 col-md-6">
-        <p><span class="Caption">{{ i.title }} / {{ i.price }}</span><br>
-        {{ i.desc }}</p>
-      </div>
-      {% endfor %}
+  <div class="column col-xs-12 col-md-5">
+    <div class="DinnerPlates DinnerPlate3">
+      <img src="{{ page.plates.plate1 }}">
     </div>
-
-
-<div class="row">
-  <div class="column col-xs-12 col-md-8 col-md-offset-1">
+  </div>
+  <div class="column col-xs-12 col-md-7 mb10 MenuColumn first-md">
     <div class="row nested">
-      <div class="column col-xs-12">
-        <h2 class="Display2 mb5 d-mb10">First & Second Courses</h2>
+      <div class="column col-xs-12 col-md-7">
+        <h2 class="Display2 mb5 d-mb10">One</h2>
       </div>
       {% for i in page.firstandsecondcourses %}
       <div class="column nested col-xs-12 col-md-6 mb5">
@@ -41,28 +46,19 @@
     </div>
   </div>
 </div>
+<!-- COURSE TWO -->
 <div class="row">
-  <div class="column col-xs-12 col-md-8">
+  <div class="column col-xs-12 col-md-5">
+    <div class="DinnerPlates DinnerPlate4">
+      <img src="{{ page.plates.plate4 }}">
+    </div>
+  </div>
+  <div class="column col-xs-12 col-md-7 MenuColumn">
     <div class="row nested">
-      <div class="column col-xs-12">
-        <h2 class="Display2 mb5 d-mb10">Main Courses</h2>
+      <div class="column col-xs-12 col-md-7">
+        <h2 class="Display2 mb5 d-mb10">Two</h2>
       </div>
-      {% for i in page.maincourses %}
-      <div class="column nested col-xs-12 col-md-6 mb5">
-        <p><span class="Caption">{{ i.title }}</span><br>
-          {% if i.desc %}
-            {{ i.desc }}<Br>
-          {% endif %}
-          {% if i.wine %}
-            <i>{{ i.wine }}</i>
-          {% endif %}
-        </p>
-      </div>
-      {% endfor %}
-      <div class="column col-xs-12">
-        <h2 class="Display2 mb5 d-mb5">Additions</h2>
-      </div>
-      {% for i in page.additions %}
+      {% for i in page.firstandsecondcourses %}
       <div class="column nested col-xs-12 col-md-6 mb5">
         <p><span class="Caption">{{ i.title }}</span><br>
           {% if i.desc %}
@@ -77,13 +73,19 @@
     </div>
   </div>
 </div>
+<!-- COURSE THREE -->
 <div class="row">
-  <div class="column col-xs-12 col-md-8">
+  <div class="column col-xs-12 col-md-5">
+    <div class="DinnerPlates DinnerPlate5">
+      <img src="{{ page.plates.plate5 }}">
+    </div>
+  </div>
+  <div class="column col-xs-12 col-md-7 MenuColumn first-md">
     <div class="row nested">
-      <div class="column col-xs-12">
-        <h2 class="Display2 mb5 d-mb10">Desserts</h2>
+      <div class="column col-xs-12 col-md-7">
+        <h2 class="Display2 mb5 d-mb10">Three</h2>
       </div>
-      {% for i in page.desserts %}
+      {% for i in page.firstandsecondcourses %}
       <div class="column nested col-xs-12 col-md-6 mb5">
         <p><span class="Caption">{{ i.title }}</span><br>
           {% if i.desc %}
@@ -98,13 +100,54 @@
     </div>
   </div>
 </div>
+<!-- COURSE FOUR -->
 <div class="row">
-  <div class="column col-xs-12 col-md-8">
+  <div class="column col-xs-12 col-md-5">
+    <div class="DinnerPlates DinnerPlate6">
+      <img src="{{ page.plates.plate6 }}">
+    </div>
+  </div>
+  <div class="column col-xs-12 col-md-7 MenuColumn">
     <div class="row nested">
-      <div class="column col-xs-12">
+      <div class="column col-xs-12 col-md-7">
+        <h2 class="Display2 mb5 d-mb10">Four</h2>
+      </div>
+      {% for i in page.firstandsecondcourses %}
+      <div class="column nested col-xs-12 col-md-6 mb5">
+        <p><span class="Caption">{{ i.title }}</span><br>
+          {% if i.desc %}
+            {{ i.desc }}<Br>
+          {% endif %}
+          {% if i.wine %}
+            <i>{{ i.wine }}</i>
+          {% endif %}
+        </p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+<!-- TASTING MENU -->
+<div class="row">
+  <div class="column col-xs-12">
+    <div class="Divider TastingMenuDivider"></div>
+  </div>
+</div>
+<div class="row">
+  <div class="column col-xs-12 col-md-3">
+    <div class="DinnerPlates DinnerPlate7">
+      <img src="{{ page.plates.plate7 }}">
+    </div>
+    <div class="DinnerPlates DinnerPlate8">
+      <img src="{{ page.plates.plate8 }}">
+    </div>
+  </div>
+  <div class="column col-xs-12 col-md-7">
+    <div class="row nested TastingMenuContents">
+      <div class="column col-xs-12 col-md-7">
         <h2 class="Display2 mb5 d-mb10">Tasting Menu</h2>
       </div>
-      {% for i in page.tastingmenu %}
+      {% for i in page.firstandsecondcourses %}
       <div class="column nested col-xs-12 col-md-6 mb5">
         <p><span class="Caption">{{ i.title }}</span><br>
           {% if i.desc %}
@@ -116,9 +159,23 @@
         </p>
       </div>
       {% endfor %}
+      <div class="Divider mt5 d-mt10 d-mb5"></div>
+      <div class="column col-xs-12 col-md-7">
+        <h2 class="Display2 mt10 d-mb10">Tasting Menu Pairings</h2>
+      </div>
+      <div class="column nested col-xs-12 col-md-6 mb5">
+        <p class="Caption">CLASSIC WINE PAIRING</p>
+        <p>Seven wines selected to complement the tasting menu.</p>
+        <p class="Caption">95</p>
+      </div>
+      <div class="column nested col-xs-12 col-md-6 mb5">
+        <p class="Caption">SOMMELIER WINE PAIRING</p>
+        <p>Seven pairings tailored to showcase rare bottlings and unique producers.</p>
+        <p class="Caption">145</p>
+      </div>
     </div>
   </div>
 </div>
-</div></div>
+
 
 {% include footer.html %}

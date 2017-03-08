@@ -71,11 +71,11 @@ course_4:
     for this dessert)
 tastingmenu:
 - title: Canlis Salad
-  desc: 
+  desc:
   wine: '2014 Thierry Véron, Cave de la Bouquette, Sancerre, FRA '
 - title: Oyster / Buckwheat / Shishito Pepper
-  desc: 
-  wine: 
+  desc:
+  wine:
 - title: Tuna
   desc: Caviar, onion, kombu
   wine: 2013 Joseph Roty, Rosé, Marsannay, FRA
@@ -90,13 +90,13 @@ tastingmenu:
   wine: 2008 López de Heredia Viña Tondonia, Viña Cubillo, Reserva, Rioja, ESP
 - title: Barley Porridge
   desc: Aged duck, plum, shiso
-  wine: 
+  wine:
 - title: Dry-Aged Beef
   desc: Pumpkin
   wine: 2011 Cadence Red Blend, Ciel du Cheval, Red Mountain, WA
 - title: Amazake
   desc: Fig, savory granola
-  wine: 
+  wine:
 - title: Coconut
   desc: Lime, saw-leaf, cucumber
   wine: 2014 La Spinetta, Bricco Quaglia, Moscato d’Asti, Piedmont, ITA
@@ -109,14 +109,13 @@ tastingmenupairings:
   desc: This pairing is tailored nightly by the sommelier team to showcase rare bottlings
     and unique producers.
 plates:
-  plate1: "/uploads/plate_nysteak.jpg"
-  plate2: "/uploads/plate_cod.jpg"
-  plate3: "/uploads/plate_salad.jpg"
-  plate4: "/uploads/plate_lamb.jpg"
-  plate5: "/uploads/plate_oyster.jpg"
-  plate6: "/uploads/plate_foie.jpg"
-  plate7: "/uploads/plate_chocolate.jpg"
-  plate8: "/uploads/plate_shimaaji.jpg"
+  plate1: "/uploads/plate_plain.png"
+  plate2: "/uploads/plate_plain.png"
+  plate3: "/uploads/plate_plain.png"
+  plate4: "/uploads/plate_plain.png"
+  plate5: "/uploads/plate_plain.png"
+  plate6: "/uploads/plate_plain.png"
+  plate7: "/uploads/plate_plain.png"
+  plate8: "/uploads/plate_plain.png"
 layout: menu
 ---
-

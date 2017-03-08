@@ -1885,7 +1885,7 @@ img {
   border: none;
   position: absolute;
   top: 8vw;
-  left: 8vw;
+  left: 6vw;
   color: #fcfbfa;
   text-align: center;
   z-index: 100;
@@ -2033,6 +2033,11 @@ img {
 }
 .PageContent.is-exiting {
   opacity: 0;
+}
+.Divider {
+  width: 100%;
+  height: 1px;
+  background: #000;
 }
 .mb0 {
   margin-bottom: 4px;
@@ -2662,17 +2667,27 @@ video {
     margin-top: 40vh;
   }
 }
+.MenuIntro {
+  margin: 48vw 0 15vw 0;
+}
+@media (min-width: 62em) {
+  .MenuIntro {
+    margin: 18vw 0 15vw 0;
+  }
+}
+.MenuIntro .Divider {
+  height: 1px;
+  background: #000;
+  width: 100%;
+}
 .MenuHeadline {
   margin-left: -5%;
 }
 .DinnerPlates {
-  background-image: url("_img/plate.svg");
-  background-repeat: no-repeat;
-  background-size: 100%;
   position: relative;
-  height: 40vw;
-  width: 40vw;
-  display: none;
+  height: 100%;
+  width: 100%;
+  z-index: 9999;
 }
 @media (min-width: 62em) {
   .DinnerPlates {
@@ -2687,55 +2702,94 @@ video {
   background: transparent;
 }
 .DinnerPlate1 {
-  position: absolute;
-  width: 29vw;
-  height: 29vw;
-  top: 12vw;
-  left: -4vw;
+  width: 50%;
+  left: 45%;
+  margin-top: -5%;
+}
+@media (min-width: 62em) {
+  .DinnerPlate1 {
+    display: none;
+    width: 135%;
+  }
 }
 .DinnerPlate2 {
-  position: absolute;
-  width: 36vw;
-  height: 36vw;
-  top: 35vw;
-  right: -5vw;
+  width: 65%;
+  margin-top: 0%;
+  margin-left: -10%;
+}
+@media (min-width: 62em) {
+  .DinnerPlate2 {
+    display: none;
+    width: 135%;
+  }
 }
 .DinnerPlate3 {
-  width: 36vw;
-  height: 37vw;
-  margin-top: -30%;
-  margin-left: -95%;
+  width: 100%;
+  margin-top: -3%;
+  margin-left: 20%;
 }
-.DinnerPlate4 {
-  width: 29vw;
-  height: 29vw;
-  bottom: -20vw;
-  margin-left: 5vw;
+@media (min-width: 62em) {
+  .DinnerPlate3 {
+    width: 135%;
+    margin-top: -3%;
+  }
 }
-.DinnerPlate5 {
-  width: 37vw;
-  height: 37vw;
-  top: 0vw;
-  margin-left: -15vw;
+@media (min-width: 62em) {
+  .DinnerPlate4 {
+    width: 135%;
+    margin-top: -3%;
+    margin-left: -40%;
+  }
 }
-.DinnerPlate6 {
-  width: 24vw;
-  height: 24vw;
-  bottom: -5vw;
-  margin-left: 0vw;
-  display: none;
+@media (min-width: 62em) {
+  .DinnerPlate5 {
+    width: 135%;
+    margin-top: -3%;
+  }
+}
+@media (min-width: 62em) {
+  .DinnerPlate6 {
+    margin-left: -3%;
+    width: 90%;
+  }
 }
 .DinnerPlate7 {
-  width: 40vw;
-  height: 40vw;
-  bottom: 0vw;
-  margin-left: 0vw;
+  width: 110%;
+  position: relative;
+  top: -14vw;
+  left: 5vw;
+}
+@media (min-width: 62em) {
+  .DinnerPlate7 {
+    width: 190%;
+    position: relative;
+    top: -20vw;
+    left: 5vw;
+  }
 }
 .DinnerPlate8 {
-  width: 40vw;
-  height: 40vw;
-  bottom: -5vw;
-  margin-left: -18vw;
+  width: 78%;
+  margin-left: -13%;
+  margin-top: -10vw;
+}
+@media (min-width: 62em) {
+  .DinnerPlate8 {
+    width: 130%;
+    margin-left: -50%;
+    margin-top: -60vw;
+  }
+}
+.TastingMenuDivider {
+  width: 100%;
+  height: 1px;
+  background: #000;
+  margin: 5vw 0;
+}
+.TastingMenuContents {
+  margin-top: 22vw;
+}
+.MenuColumn {
+  margin-bottom: 15vw;
 }
 @media (min-width: 62em) {
   .WineHeadline {
