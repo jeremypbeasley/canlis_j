@@ -6,25 +6,13 @@ headline: "&nbsp;&nbsp;&nbsp;&nbsp;Lorem&nbsp;ipsum,<br>\n  &nbsp;&nbsp;&nbsp;&n
   \ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mi,&nbsp;tempor.\n  "
 headline_mobile: Lorem ipsum, dolor amet, consectetur adipiscing. Quisquemi mi, tempor.
 mealtypes:
-- title: Three Courses
-  price: "$85"
-  desc: Includes first course, main course, and dessert.
 - title: Four Courses
-  price: "$100"
-  desc: Includes first and second courses, main course, and dessert.
+  price: "100"
+  desc: Choose one of each below.
 - title: Tasting Menu
-  price: "$145"
-  desc: This preset menu is designed for the entire table to enjoy. We will always
-    do our best to accommodate for allergies and dietary restrictions.
-tastingmenupairings:
-- title: Classic
-  price: "$95"
-  desc: Seven wines selected to complement the tasting menu.
-- title: Sommelier
-  price: "$145"
-  desc: This pairing is tailored nightly by the sommelier team to showcase rare bottlings
-    and unique producers.
-firstandsecondcourses:
+  price: "145"
+  desc: A nine-course preset menu designed to be ordered by the entire table.
+course_1:
 - title: Oysters
   desc: Red wine mignonette*
 - title: Spot Prawns
@@ -40,17 +28,18 @@ firstandsecondcourses:
   desc: Roasted in coffee grounds, with goat yogurt, persimmon, and wild rice
 - title: Sweet Onions
   desc: Buried in coals, with pear, fromage blanc, and boudin noir
+course_2:
 - title: Steak Tartare
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
 - title: Foie Gras
   desc: Whipped, with apples and hazelnuts
 - title: Barely Porridge
   desc: Geoduck, plum, and wood sorrel
-maincourses:
 - title: Cabbage Pierre
   desc: Fermented and grilled over coals; a nod to an early Canlis classic
 - title: Halibut
   desc: Fennel, grape, and sauce of vin jaune and oak*
+course_3:
 - title: Black Cod
   desc: Artichoke, fermented carrot, and roasted chicken sabayon*
 - title: Salmon
@@ -64,14 +53,7 @@ maincourses:
 - title: Wagyu
   desc: Canlis was the first restaurant to ever serve American grown Kobe-style beef.
     Your choice of filet mignon or new york strip.* / +20
-additions:
-- title: Forest Mushrooms
-  desc: Sautéed in sherry, garlic, and thyme
-- title: Truffle Fries
-  desc: With fine herbs
-- title: Twice baked potato
-  desc: A Canlis tradition for four generations
-desserts:
+course_4:
 - title: Sorbet
   desc: With seasonal fruit
 - title: Crème Brûlée
@@ -89,11 +71,11 @@ desserts:
     for this dessert)
 tastingmenu:
 - title: Canlis Salad
-  desc: 
+  desc:
   wine: '2014 Thierry Véron, Cave de la Bouquette, Sancerre, FRA '
 - title: Oyster / Buckwheat / Shishito Pepper
-  desc: 
-  wine: 
+  desc:
+  wine:
 - title: Tuna
   desc: Caviar, onion, kombu
   wine: 2013 Joseph Roty, Rosé, Marsannay, FRA
@@ -108,16 +90,24 @@ tastingmenu:
   wine: 2008 López de Heredia Viña Tondonia, Viña Cubillo, Reserva, Rioja, ESP
 - title: Barley Porridge
   desc: Aged duck, plum, shiso
-  wine: 
+  wine:
 - title: Dry-Aged Beef
   desc: Pumpkin
   wine: 2011 Cadence Red Blend, Ciel du Cheval, Red Mountain, WA
 - title: Amazake
   desc: Fig, savory granola
-  wine: 
+  wine:
 - title: Coconut
   desc: Lime, saw-leaf, cucumber
   wine: 2014 La Spinetta, Bricco Quaglia, Moscato d’Asti, Piedmont, ITA
+tastingmenupairings:
+- title: Classic
+  price: "$95"
+  desc: Seven wines selected to complement the tasting menu.
+- title: Sommelier
+  price: "$145"
+  desc: This pairing is tailored nightly by the sommelier team to showcase rare bottlings
+    and unique producers.
 plates:
   plate1: "/uploads/plate_nysteak.jpg"
   plate2: "/uploads/plate_cod.jpg"
@@ -129,4 +119,3 @@ plates:
   plate8: "/uploads/plate_shimaaji.jpg"
 layout: menu
 ---
-

@@ -1,20 +1,14 @@
 {% include head.html %}
-<div class="Intro Tall">
-  <h1 class="Display1 ShowDesktop">{{ page.headline }}</h1>
-  <h1 class="Display1 ShowMobile">{{ page.headline_mobile }}</h1>
- </div>
-<div class="DinnerPlates DinnerPlate1">
+<!-- <div class="DinnerPlates DinnerPlate1">
   <img src="{{ page.plates.plate1 }}">
 </div>
 <div class="DinnerPlates DinnerPlate2 Flipped">
   <img src="{{ page.plates.plate2 }}">
-</div>
+</div> -->
 <div class="row">
-  <div class="column col-xs-12 col-md-3">
-    <div class="DinnerPlates DinnerPlate3">
+    <!-- <div class="DinnerPlates DinnerPlate3">
       <img src="{{ page.plates.plate3 }}">
-    </div>
-  </div>
+    </div> -->
   <div class="column col-xs-12 col-md-7">
     <div class="row nested">
       {% for i in page.mealtypes %}
@@ -24,19 +18,8 @@
       </div>
       {% endfor %}
     </div>
-    <div class="row nested">
-      <div class="column col-xs-12 col-md-12">
-        <h2 class="Display2 d-mb5 d-mb5 mt5 d-mt5">Tasting Menu Pairings</h2>
-      </div>
-      {% for i in page.tastingmenupairings %}
-      <div class="column nested col-xs-12 col-md-6">
-        <p><span class="Caption">{{ i.title }} / {{ i.price }}</span><br>
-        {{ i.desc }}</p>
-      </div>
-      {% endfor %}
-    </div>
-</div>
-</div>
+
+
 <div class="row">
   <div class="column col-xs-12 col-md-8 col-md-offset-1">
     <div class="row nested">
@@ -57,21 +40,8 @@
       {% endfor %}
     </div>
   </div>
-  <div class="column col-xs-12 col-md-2">
-    <div class="DinnerPlates DinnerPlate4">
-      <img src="{{ page.plates.plate4 }}">
-    </div>
-  </div>
 </div>
 <div class="row">
-  <div class="column col-xs-12 col-md-4 Flipped">
-    <div class="DinnerPlates DinnerPlate5">
-      <img src="{{ page.plates.plate5 }}">
-    </div>
-    <div class="DinnerPlates DinnerPlate6">
-      <img src="{{ page.plates.plate6 }}">
-    </div>
-  </div>
   <div class="column col-xs-12 col-md-8">
     <div class="row nested">
       <div class="column col-xs-12">
@@ -127,18 +97,8 @@
       {% endfor %}
     </div>
   </div>
-  <div class="column col-xs-12 col-md-4">
-    <div class="DinnerPlates DinnerPlate7 Flipped">
-      <img src="{{ page.plates.plate7 }}">
-    </div>
-  </div>
 </div>
 <div class="row">
-  <div class="column col-xs-12 col-md-4">
-    <div class="DinnerPlates DinnerPlate8">
-      <img src="{{ page.plates.plate8 }}">
-    </div>
-  </div>
   <div class="column col-xs-12 col-md-8">
     <div class="row nested">
       <div class="column col-xs-12">

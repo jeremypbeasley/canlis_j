@@ -2024,6 +2024,9 @@ img {
     top: -5vw;
   }
 }
+.RelaisLogo img {
+  background: transparent;
+}
 .PageContent {
   transition: all 300ms ease-out;
   opacity: 1;
@@ -2424,6 +2427,17 @@ img {
   .Intro h1 {
     margin-left: 2vw;
   }
+}
+video {
+  position: relative;
+  min-width: 100%;
+  min-height: 100%;
+  width: 120vw;
+  height: 120vh;
+  z-index: -100;
+  background: url("//demosthenes.info/assets/images/polina.jpg") no-repeat;
+  background-size: cover;
+  transition: 1s opacity;
 }
 .ReservePrompt {
   position: absolute;
