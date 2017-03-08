@@ -7,10 +7,10 @@ headline: "&nbsp;&nbsp;&nbsp;&nbsp;Lorem&nbsp;ipsum,<br>\n  &nbsp;&nbsp;&nbsp;&n
 headline_mobile: Lorem ipsum, dolor amet, consectetur adipiscing. Quisquemi mi, tempor.
 mealtypes:
 - title: Four Courses
-  price: "100"
+  price: '100'
   desc: Choose one of each below.
 - title: Tasting Menu
-  price: "145"
+  price: '145'
   desc: A nine-course preset menu designed to be ordered by the entire table.
 course_1:
 - title: Oysters
@@ -71,11 +71,11 @@ course_4:
     for this dessert)
 tastingmenu:
 - title: Canlis Salad
-  desc:
+  desc: 
   wine: '2014 Thierry Véron, Cave de la Bouquette, Sancerre, FRA '
 - title: Oyster / Buckwheat / Shishito Pepper
-  desc:
-  wine:
+  desc: 
+  wine: 
 - title: Tuna
   desc: Caviar, onion, kombu
   wine: 2013 Joseph Roty, Rosé, Marsannay, FRA
@@ -90,13 +90,13 @@ tastingmenu:
   wine: 2008 López de Heredia Viña Tondonia, Viña Cubillo, Reserva, Rioja, ESP
 - title: Barley Porridge
   desc: Aged duck, plum, shiso
-  wine:
+  wine: 
 - title: Dry-Aged Beef
   desc: Pumpkin
   wine: 2011 Cadence Red Blend, Ciel du Cheval, Red Mountain, WA
 - title: Amazake
   desc: Fig, savory granola
-  wine:
+  wine: 
 - title: Coconut
   desc: Lime, saw-leaf, cucumber
   wine: 2014 La Spinetta, Bricco Quaglia, Moscato d’Asti, Piedmont, ITA
@@ -119,3 +119,4 @@ plates:
   plate8: "/uploads/plate_shimaaji.jpg"
 layout: menu
 ---
+
