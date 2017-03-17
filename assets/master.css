@@ -1889,7 +1889,7 @@ img {
   text-align: center;
   z-index: 100;
 }
-@media (min-width: 62em) {
+@media building {
   .Logo {
     width: 8rem;
     height: 1.5rem;
@@ -2060,9 +2060,11 @@ img {
   animation: fade_in 800ms ease-out forwards;
   animation-delay: 500ms;
 }
-@@media laptop .logo_building {
-  left: 50%;
-  transform: scale(1);
+@media (min-width: 62em) {
+  .logo_building {
+    left: 50%;
+    transform: scale(1);
+  }
 }
 #Stroke-1,
 #Stroke-2,
