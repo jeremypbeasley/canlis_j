@@ -57,7 +57,7 @@ course_4:
   desc: A selection of artisan cheeses
 tastingmenu:
 - title: Canlis Salad
-  desc:
+  desc: 
   wine: 2015 Thierry Véron, Cave de la Bouquette, Sancerre, FRA
 - title: Shima Aji
   desc: Raw, with burdock root and barley broth
@@ -73,7 +73,7 @@ tastingmenu:
   wine: 2011 Fontanafredda, Barolo, Serralunga d’Alba, Piedmont, ITA
 - title: Rabbit
   desc: Spring onion, buttermilk, and nettles
-  wine:
+  wine: 
 - title: Lamb
   desc: Cauliflower, mint
   wine: 2009 Buty, Syrah, Peter Canlis, Walla Walla Valley, WA
@@ -82,16 +82,16 @@ tastingmenu:
   wine: 2013 WillaKenzie, Pinot Noir, Pierre Léon, Willamette Valley, OR
 - title: Coconut
   desc: Lime, cilantro, cucumber
-  wine:
+  wine: 
 - title: Soufflè
   desc: with ginger madeleines
   wine: The Rare Wine Co., Boston Bual, Madeira, PRT
 tastingmenupairings:
 - title: Classic
-  price: "95"
+  price: '95'
   desc: Seven wines selected to complement the tasting menu.
 - title: Sommelier
-  price: "145"
+  price: '145'
   desc: Seven pairings tailored to showcase rare bottlings and unique producers.
 plates:
   plate1: "/uploads/plate_salad.png"
@@ -104,3 +104,4 @@ plates:
   plate8: "/uploads/plate_lamb.png"
 layout: menu
 ---
+
