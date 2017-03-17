@@ -2,7 +2,6 @@ source "https://rubygems.org"
 ruby RUBY_VERSION
 
 gem "jekyll", "3.3.1"
-gem "minimal-mistakes-jekyll"
 # gem "jekyll-assets"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
