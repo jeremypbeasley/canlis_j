@@ -1,24 +1,21 @@
 @font-face {
     font-family: 'GTSectraDisplayLight';
-    src: url('_fonts/GT-Sectra-Display-Light-Italic.eot');
-    src: url('_fonts/GT-Sectra-Display-Light-Italic.eot') format('embedded-opentype'),
-         url('_fonts/GT-Sectra-Display-Light-Italic.woff2') format('woff2'),
-         url('_fonts/GT-Sectra-Display-Light-Italic.woff') format('woff'),
-         url('_fonts/GT-Sectra-Display-Light-Italic.ttf') format('truetype');
+    src: url('_fonts/GT-Sectra-Display-Light.eot');
+    src: url('_fonts/GT-Sectra-Display-Light.eot') format('embedded-opentype'),
+         url('_fonts/GT-Sectra-Display-Light.woff') format('woff'),
+         url('_fonts/GT-Sectra-Display-Light.ttf') format('truetype');
 }
 @font-face {
     font-family: 'GTSectraDisplayLightItalic';
-    src: url('_fonts/GT-Sectra-Display-Light.eot');
-    src: url('_fonts/GT-Sectra-Display-Light.eot') format('embedded-opentype'),
-         url('_fonts/GT-Sectra-Display-Light.woff2') format('woff2'),
-         url('_fonts/GT-Sectra-Display-Light.woff') format('woff'),
-         url('_fonts/GT-Sectra-Display-Light.ttf') format('truetype');
+    src: url('_fonts/GT-Sectra-Display-Light-Italic.eot');
+    src: url('_fonts/GT-Sectra-Display-Light-Italic.eot') format('embedded-opentype'),
+        url('_fonts/GT-Sectra-Display-Light-Italic.woff') format('woff'),
+        url('_fonts/GT-Sectra-Display-Light-Italic.ttf') format('truetype');
 }
 @font-face {
     font-family: 'GTSectraBook';
     src: url('_fonts/GT-Sectra-Book.eot');
     src: url('_fonts/GT-Sectra-Book.eot') format('embedded-opentype'),
-         url('_fonts/GT-Sectra-Book.woff2') format('woff2'),
          url('_fonts/GT-Sectra-Book.woff') format('woff'),
          url('_fonts/GT-Sectra-Book.ttf') format('truetype');
 }
@@ -26,7 +23,6 @@
     font-family: 'GTSectraBookItalic';
     src: url('_fonts/GT-Sectra-Book-Italic.eot');
     src: url('_fonts/GT-Sectra-Book-Italic.eot') format('embedded-opentype'),
-         url('_fonts/GT-Sectra-Book-Italic.woff2') format('woff2'),
          url('_fonts/GT-Sectra-Book-Italic.woff') format('woff'),
          url('_fonts/GT-Sectra-Book-Italic.ttf') format('truetype');
 }
