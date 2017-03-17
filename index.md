@@ -24,8 +24,8 @@ section3_body: This storied building was first designed by Roland Terry in 1950.
   modern design. It continues to delight guests from all over the world with it’s
   natural light and stunning views of Seattle, Lake Union, and the Cascade mountain
   range.
-accolades_body: "“The Canlis Salad... one of the 100 best dishes in America.”"
-accolades_credit: "- Saveur Magazine, 2015"
+accolades_body: "“A Canlis Salad, when properly prepared, is a revelation.”"
+accolades_credit: "- Sam Sifton, New York Times"
 homephoto4: "/uploads/home-banner-bg-051.jpg"
 homephoto5: "/uploads/Screen%20Shot%202016-12-15%20at%2012.52.06%20PM%20(1).png"
 homephoto6: "/uploads/1110097.jpg"
