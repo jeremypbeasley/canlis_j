@@ -1872,7 +1872,6 @@ body {
 }
 img {
   max-width: 100%;
-  background: #999;
 }
 .Logo {
   width: 7rem;
@@ -2026,6 +2025,7 @@ img {
 }
 .RelaisLogo img {
   background: transparent;
+  max-width: 150px;
 }
 .PageContent {
   transition: all 300ms ease-out;
@@ -2499,6 +2499,9 @@ img {
   margin-right: 0px;
   position: relative;
 }
+.row.tall {
+  padding: 6vw 4vw;
+}
 .row .row.nested {
   padding: 0 !important;
 }
@@ -2617,6 +2620,9 @@ video {
     margin-left: 0;
   }
 }
+.AccoladesCard {
+  top: -9vw;
+}
 .Portrait {
   max-width: 10000000px;
   margin-left: -6.5vw;
@@ -2639,11 +2645,13 @@ video {
 @media (min-width: 62em) {
   .PortraitCard {
     background: #fcfbfa;
-    padding: 5vw 5vw 2vw 5vw;
+    padding: 5vw 5vw 3vw 5vw;
     margin-top: 15vw;
     margin-left: -10%;
     position: relative;
     z-index: 99999;
+    border: 1px solid #000;
+    box-shadow: 5px 5px 0px 0px #000;
   }
   .PortraitCard:nth-child(2) {
     margin-left: 10%;
@@ -2771,11 +2779,11 @@ video {
   }
 }
 .MenuIntro {
-  margin: 48vw 0 15vw 0;
+  padding: 48vw 0 15vw 0;
 }
 @media (min-width: 62em) {
   .MenuIntro {
-    margin: 18vw 0 15vw 0;
+    padding: 18vw 0 15vw 0;
   }
 }
 .MenuIntro .Divider {
@@ -2834,25 +2842,27 @@ video {
 @media (min-width: 62em) {
   .DinnerPlate3 {
     width: 135%;
-    margin-top: -3%;
+    margin-top: -20%;
+    margin-left: -3%;
   }
 }
 @media (min-width: 62em) {
   .DinnerPlate4 {
     width: 135%;
-    margin-top: -3%;
+    margin-top: -30%;
     margin-left: -40%;
   }
 }
 @media (min-width: 62em) {
   .DinnerPlate5 {
     width: 135%;
-    margin-top: -3%;
+    margin-top: -15%;
   }
 }
 @media (min-width: 62em) {
   .DinnerPlate6 {
     margin-left: -3%;
+    margin-top: -10%;
     width: 90%;
   }
 }
@@ -2864,10 +2874,10 @@ video {
 }
 @media (min-width: 62em) {
   .DinnerPlate7 {
-    width: 190%;
+    width: 96%;
     position: relative;
-    top: -20vw;
-    left: 5vw;
+    top: -19vw;
+    left: -4vw;
   }
 }
 .DinnerPlate8 {
@@ -2877,9 +2887,9 @@ video {
 }
 @media (min-width: 62em) {
   .DinnerPlate8 {
-    width: 130%;
-    margin-left: -50%;
-    margin-top: -60vw;
+    width: 140%;
+    margin-left: -1%;
+    margin-top: -47vw;
   }
 }
 .TastingMenuDivider {
@@ -2887,9 +2897,6 @@ video {
   height: 1px;
   background: #000;
   margin: 5vw 0;
-}
-.TastingMenuContents {
-  margin-top: 22vw;
 }
 .MenuColumn {
   margin-bottom: 15vw;
@@ -3046,10 +3053,6 @@ video {
 }
 .BigPlaceholderSection.Small {
   height: 50vh;
-}
-body.Invert {
-  background-color: #0c0b0a;
-  color: #d6d3d0;
 }
 body.Invert a {
   color: #d6d3d0;
