@@ -114,6 +114,9 @@ video {
     margin-left: 0;
   }
 }
+.AccoladesCard {
+  top: -9vw;
+}
 
 
 // PEOPLE
@@ -143,11 +146,14 @@ video {
 @media laptop {
   .PortraitCard {
     background: color-background;
-    padding: 5vw 5vw 2vw 5vw;
+    padding: 5vw 5vw 3vw 5vw;
     margin-top: 15vw;
     margin-left: -10%;
     position: relative;
     z-index: 99999;
+    // box-shadow: -15px 15px 75px 0px rgba(0,0,0,0.20);
+    border: 1px solid black;
+    box-shadow: 5px 5px 0px 0px black;
   }
   .PortraitCard:nth-child(2) {
     margin-left: 10%;
@@ -353,11 +359,13 @@ video {
 // MENU
 
 .MenuIntro {
-  margin: 48vw 0 15vw 0;
+  padding: 48vw 0 15vw 0;
+  // background: #212020;
+  // color: color-background
 }
 @media laptop {
   .MenuIntro {
-    margin: 18vw 0 15vw 0;
+    padding: 18vw 0 15vw 0;
   }
 }
 .MenuIntro .Divider {
@@ -388,6 +396,7 @@ video {
 .DinnerPlates img {
   transform: scale(1.7);
   background: transparent;
+  //-webkit-filter: drop-shadow( -31px 25px 128px rgba(36,33,28,0.54) );
 }
 .DinnerPlate1 {
   width: 50%;
@@ -419,25 +428,27 @@ video {
 @media laptop {
   .DinnerPlate3 {
     width: 135%;
-    margin-top: -3%;
+    margin-top: -20%;
+    margin-left: -3%;
   }
 }
 @media laptop {
   .DinnerPlate4 {
     width: 135%;
-    margin-top:  -3%;
+    margin-top:  -30%;
     margin-left: -40%;
   }
 }
 @media laptop {
   .DinnerPlate5 {
     width: 135%;
-    margin-top:  -3%;
+    margin-top:  -15%;
   }
 }
 @media laptop {
   .DinnerPlate6 {
     margin-left: -3%;
+    margin-top: -10%;
     width: 90%;
   }
 }
@@ -449,10 +460,10 @@ video {
 }
 @media laptop {
   .DinnerPlate7 {
-    width: 190%;
+    width: 96%;
     position: relative;
-    top: -20vw;
-    left: 5vw;
+    top: -19vw;
+    left: -4vw;
   }
 }
 .DinnerPlate8 {
@@ -462,9 +473,9 @@ video {
 }
 @media laptop {
   .DinnerPlate8 {
-    width: 130%;
-    margin-left: -50%;
-    margin-top: -60vw;
+    width: 140%;
+    margin-left: -1%;
+    margin-top: -47vw;
   }
 }
 .TastingMenuDivider {
@@ -473,9 +484,9 @@ video {
   background: black;
   margin: 5vw 0;
 }
-.TastingMenuContents {
-  margin-top: 22vw;
-}
+// .TastingMenuContents {
+//   margin-top: 22vw;
+// }
 .MenuColumn {
   margin-bottom: 15vw;
 }

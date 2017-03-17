@@ -16,8 +16,7 @@ section1_body: Our family has invited thousands of guests just like you to dine 
   this place that was once our home. For three generations, we've worked hard to bring
   you the best of the best. We couldn't be more happy to have you.
 section2_photo: "/uploads/728255.jpg"
-section2_body: Our Executive Chef, Brady Williams, joined Canlis in the summer of
-  2015. He brings his Japanese roots to Canlis’ classic Eastern influences.
+section2_body: “Canlis — the forward-thinking bastion of Seattle fine dining just scored two James Beard Awards nominations.”
 section3_photo: "/uploads/Canlis_Leitz2.jpg"
 section3_label: the space
 section3_body: This storied building was first designed by Roland Terry in 1950.  Both
@@ -25,11 +24,10 @@ section3_body: This storied building was first designed by Roland Terry in 1950.
   modern design. It continues to delight guests from all over the world with it’s
   natural light and stunning views of Seattle, Lake Union, and the Cascade mountain
   range.
-accolades_body: "“The Canlis Salad... one of the 100 best dishes in America.”"
-accolades_credit: "- Saveur Magazine, 2015"
+accolades_body: "“A Canlis Salad, when properly prepared, is a revelation.”"
+accolades_credit: "- Sam Sifton, New York Times"
 homephoto4: "/uploads/home-banner-bg-051.jpg"
 homephoto5: "/uploads/Screen%20Shot%202016-12-15%20at%2012.52.06%20PM%20(1).png"
 homephoto6: "/uploads/1110097.jpg"
 layout: home
 ---
-
