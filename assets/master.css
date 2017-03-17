@@ -2705,9 +2705,6 @@ video {
   .PrivateEventsGallery.RightFacing {
     margin-left: 3.5vw;
   }
-  .PrivateEventsGallery:hover .PrivateEventsGalleryItem {
-    transform: translateX(-60px);
-  }
 }
 .PrivateEventsGalleryItem {
   width: 100vw;
@@ -2720,7 +2717,7 @@ video {
 }
 @media (min-width: 62em) {
   .PrivateEventsGalleryItem {
-    width: 65vw;
+    width: 60vw;
     height: 86vw;
   }
 }
