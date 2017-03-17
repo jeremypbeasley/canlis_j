@@ -1889,7 +1889,7 @@ img {
   text-align: center;
   z-index: 100;
 }
-@media building {
+@media (min-width: 62em) {
   .Logo {
     width: 8rem;
     height: 1.5rem;
@@ -1904,9 +1904,7 @@ img {
   padding-top: calc(8vw + 48px);
   padding-right: 8vw;
   right: 0vw;
-  background: -moz-linear-gradient(top, rgba(242,241,239,0.95) 0%, rgba(242,241,239,0.95) 33%, rgba(242,241,239,0) 100%);
-  background: -webkit-linear-gradient(top, rgba(242,241,239,0.95) 0%, rgba(242,241,239,0.95) 33%, rgba(242,241,239,0) 100%);
-  background: linear-gradient(to bottom, rgba(242,241,239,0.95) 0%, rgba(242,241,239,0.95) 33%, rgba(242,241,239,0) 100%);
+  background: #fcfbfa;
   width: 100vw;
   padding-bottom: 30vh;
   opacity: 0;
@@ -2532,7 +2530,7 @@ img {
     min-height: 100vh;
     margin: 0;
     padding: 0;
-    margin-bottom: -4vw;
+    margin-bottom: -8vw;
   }
   .Intro.Tall {
     margin-bottom: 6vw;
