@@ -26,7 +26,7 @@ person1:
 person2:
   name: Brian Canlis
   title: Owner
-  photo: "/uploads/6a15a25c33468c58e558a4f9c5a6614e.jpg"
+  photo: "/uploads/Brian_2.jpg"
   bio: |-
     Brian Canlis returned to Seattle in 2005 after 12 years of studying and working abroad. His college education saw him in England, Austria, and Spain before finishing a hotel sciences degree at Cornell University. Commissioned as an Air Force officer in 2001, he led Elmendorf Air Force base in winning the coveted Hennessy Award for the Air Force’s best food and dining experience. Just prior to his promotion to Captain, Brian was transferred to the nation’s capital to help lead an elite protocol squad that played host to world leaders and international heads of state. (There’s a good chance you’ve seen him saluting the President on CNN.)
 
