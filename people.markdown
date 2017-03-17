@@ -42,19 +42,6 @@ person3:
 
     Soon after, he made his way to Dallas to attend college, but found his desire to cook too great to ignore and began working in local restaurants. In 2012, he was selected as the Chef de Cuisine at FT33 in Dallas, opening the restaurant under chef Matt McCallister and garnering numerous local and national awards. He then moved to Brooklyn, where he worked under chef Carlo Mirarchi as the Executive Sous Chef at Roberta’s and the two-Michelin-starred Blanca. In 2015, Brady joined Canlis as its sixth ever Executive Chef.
 person4:
-  name: Kyle Johnson
-  title: Director of Service
-  photo: "/uploads/0305e3237da7c96fc0b389190272fedc.jpg"
-  bio: A native of Colorado, Kyle moved to Germany as a Rotary International exchange
-    student at the age of 16 before attaining degrees in Economics and International
-    Relations at Seattle Pacific University. His first professional move took him
-    to India, volunteering in micro finance. In 2010 Kyle joined the team at Canlis
-    as a newcomer to the industry. Within four years, and having worked every position
-    in the dining room, he became the youngest Service Director in the restaurant’s
-    history. As the leader of our dining room staff, he is charged with creating the
-    warmest hospitality experience in fine dining—a task he eagerly pursues every
-    dinner service.
-person5:
   name: Nelson Daquip
   title: Director of Wine
   photo: "/uploads/0305e3237da7c96fc0b389190272fedc.jpg"
@@ -80,6 +67,19 @@ person5:
     spirit to the table - a welcoming tradition where he shares a piece of his life
     with each guest. As Queen Lililuokalani stated in her last message to the people
     of Hawaii, "Kulia I ka Nu'u" - strive for the highest.
+person5:
+  name: Kyle Johnson
+  title: Director of Service
+  photo: "/uploads/0305e3237da7c96fc0b389190272fedc.jpg"
+  bio: A native of Colorado, Kyle moved to Germany as a Rotary International exchange
+    student at the age of 16 before attaining degrees in Economics and International
+    Relations at Seattle Pacific University. His first professional move took him
+    to India, volunteering in micro finance. In 2010 Kyle joined the team at Canlis
+    as a newcomer to the industry. Within four years, and having worked every position
+    in the dining room, he became the youngest Service Director in the restaurant’s
+    history. As the leader of our dining room staff, he is charged with creating the
+    warmest hospitality experience in fine dining—a task he eagerly pursues every
+    dinner service.
 person6:
   name: Katie Coffman
   title: Director of Operations
@@ -92,4 +92,3 @@ person6:
     cooking.
 layout: people
 ---
-
