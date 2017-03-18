@@ -12,7 +12,7 @@ headline_mobile: "<i>Canlis</i> is our family name. This place and these people 
 person1:
   name: Mark Canlis
   title: Owner
-  photo: "/uploads/fob_fea-reinventionofvivianmaier-600.jpg"
+  photo: "/uploads/Brian_gritty_2.jpg"
   bio: "The second of three sons, Mark grew up in a restaurant family. When he officially
     joined Canlis in 2003, he had already graduated from Cornell University, served
     as a Captain in Air Force Special Operations, and worked in nearly a dozen restaurants
@@ -36,7 +36,7 @@ person2:
 person3:
   name: Brady Williams
   title: Executive Chef
-  photo: "/uploads/118757-md.jpg"
+  photo: "/uploads/Brian_gritty_2.jpg"
   bio: |-
     Born in Southern California and raised throughout different parts of the country, Brady fell in love with hockey at a young age. At the age of fifteen he moved away from home to pursue a promising professional career in the sport. After an injury ended his playing days, he moved home and started his first job – working at his grandparent’s neighborhood diner.
 
@@ -44,7 +44,7 @@ person3:
 person4:
   name: Kyle Johnson
   title: Director of Service
-  photo: "/uploads/0305e3237da7c96fc0b389190272fedc.jpg"
+  photo: "/uploads/Brian_gritty_2.jpg"
   bio: A native of Colorado, Kyle moved to Germany as a Rotary International exchange
     student at the age of 16 before attaining degrees in Economics and International
     Relations at Seattle Pacific University. His first professional move took him
@@ -57,7 +57,7 @@ person4:
 person5:
   name: Nelson Daquip
   title: Director of Wine
-  photo: "/uploads/0305e3237da7c96fc0b389190272fedc.jpg"
+  photo: "/uploads/Brian_gritty_2.jpg"
   bio: Canlis Sommelier Nelson Daquip has been the most rapidly promoted employee
     in Canlis' history, rising from server assistant, to server, to assistant sommelier,
     to wine director in only four years. We weren't the only ones to notice - Food
@@ -83,7 +83,7 @@ person5:
 person6:
   name: Katie Coffman
   title: Director of Operations
-  photo: "/uploads/0305e3237da7c96fc0b389190272fedc.jpg"
+  photo: "/uploads/Brian_gritty_2.jpg"
   bio: Katie Coffman joins Canlis after planning events for the Lynnwood Convention
     Center for nearly four years. Before this, she spent ten years in Stage Management.
     After graduating from Centenary College of Louisiana with a BS in Theater and
@@ -92,4 +92,3 @@ person6:
     cooking.
 layout: people
 ---
-
