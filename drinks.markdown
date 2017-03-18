@@ -42,12 +42,12 @@ cocktails_section3:
 cocktails_section4_title: Draft Beer
 cocktails_section4:
 - title: ORLISON
-  author:
+  author: 
   desc: |-
     Clementine, Airway Heights, WA 4.40% / 10<Br>
     Rich malty lager with phenolic Belgian yeast and blood orange
 - title: GREAT DIVIDE
-  author:
+  author: 
   desc: |-
     22nd Anniversary Ale, Denver, CO 8.7% / 16<Br>
     Vinous sour with oak and tobacco
@@ -77,17 +77,18 @@ wine_intro:
 winestaff:
   title: Our Award-winning <Br> Wine & Spirits Team
   staff:
-  - name:
-    title:
-  - name:
-    title:
-  - name:
-    title:
-  - name:
-    title:
-  - name:
-    title:
-  - name:
-    title:
+  - name: 
+    title: 
+  - name: 
+    title: 
+  - name: 
+    title: 
+  - name: 
+    title: 
+  - name: 
+    title: 
+  - name: 
+    title: 
 layout: wine
 ---
+
