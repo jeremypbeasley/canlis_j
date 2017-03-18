@@ -1657,8 +1657,13 @@ table {
 }
 
 html {
-  font-size: 15px;
+  font-size: 13px;
   font-family: typeface-body, serif;
+}
+@media (min-width: 30em) {
+  html {
+    font-size: 15px;
+  }
 }
 body,
 p {
@@ -2663,8 +2668,10 @@ video {
     margin-left: 0;
   }
 }
-.AccoladesCard {
-  top: -9vw;
+@media (min-width: 62em) {
+  .AccoladesCard {
+    top: -9vw;
+  }
 }
 .Portrait {
   max-width: 10000000px;
