@@ -5,17 +5,30 @@ One of the best wine lists<Br> in the world. We welcome <Br>you to be the judge.
   </h1>
   <h1 class="Display1 ShowMobile">8 awards, 18,000 bottles, 2,500 selections, & 5 sommeliers.</h1>
 </div>
-<div class="row AlignCenter">
+<div class="row tall">
   <div class="column col-xs-12 col-md-8">
     <img class="WinePhoto1" src="{{ page.wine_intro.photo }}">
   </div>
   <div class="column col-xs-12 col-md-4">
-    {{ page.wine_intro.desc | markdownify }}
-    <p class="Caption mt5">Wine List</p>
-    {{ page.wine_intro.winelist | markdownify }}
+    <img class="WinePhoto1" src="{{ page.wine_intro.photo }}">
   </div>
 </div>
-<div class="row AlignTop StaffSection">
+<div class="row tall">
+  <div class="column col-xs-12 col-md-3">
+    <h2 class="Display2">Five-time James Beard Nominee for Outstanding Wine Program.</h2>
+  </div>
+  <div class="column col-xs-12 col-md-4 col-md-offset-1">
+    <p>Canlis became a world-class wine destination in 1997, the first year of its twenty consecutive Wine Spectator Magazine Grand Awards. The restaurant is one several dozen to be trusted with such an honor for so long. In that time it has helped train 4 Master Sommeliers and 16 advanced sommeliers, collaborated to produce wines with Alois Kracher, Buty, Jean Milan, Hirsch, Berescht & Fils and played routinely hosts the best wine makers in the world for dinner (LaTour, Grace Family, Alan Shoupe, pio cezare, the Marchezzi Pierro Antinori, Angelo Gaja, Heredia Lopez) Which is all, very fancy. What distinguishes the Canlis wine program and the sommeliers who run it is their singular ability to relate to other people, particularly those who just like to enjoy a bottle with life, and then move on.</p>
+  </div>
+  <div class="column col-xs-12 col-md-4">
+    <p>Our program is founded on a team of educated wine professionals, the highest quality amenities, and the warm and reputable service for which Canlis is famous. There is also one very juicy wine list. We look forward to sharing the world of wine with you.</p>
+    <p>All our wine is available for retail sale and delivery. Please call the restaurant at <a href="tel:2062833313">(206)-283-3313</a>.</p>
+    <p>It is a mighty list. We invite you to download it <a href="">here</a>
+      and enjoy a good read, or skip it all together and let us do the work of finding
+      the right wine for your evening.</p>
+  </div>
+</div>
+<div class="row AlignTop tall">
   <div class="column col-xs-12 col-md-4">
     <h2 class="Display2 mt3">{{ page.winestaff.title }}</h2>
   </div>
@@ -42,35 +55,33 @@ One of the best wine lists<Br> in the world. We welcome <Br>you to be the judge.
     </div>
   </div>
 </div>
-<div class="row AlignCenter">
+<div class="row tall">
+  <div class="column col-xs-12 col-md-8">
+    <img class="WinePhoto1" src="/uploads/bar_1.jpg">
+  </div>
   <div class="column col-xs-12 col-md-4">
+    <img class="WinePhoto1" src="/uploads/IMG_4310.JPG">
+  </div>
+</div>
+<div class="row">
+  <div class="column col-xs-12 col-md-5">
     <h2 class="Display1 mb5">The Lounge</h2>
     <p>We may be known for our fine dining menu, but don't miss the quality drinks, memorable nibbles and sweeping views in the lounge.</p>
     <p>In addition to our cocktail menu, we have an extensive selection of spirits. Our faboulous bartenders will Praesent porttitor mauris felis, id convallis purus porttitor vel. In efficitur massa bibendum tortor iaculis consequat. Mauris vel convallis odio. Nunc vestibulum tincidunt nisl, nec pretium ligula.</p>
   </div>
-  <div class="column col-xs-12 col-md-5 col-md-offset-1">
-    <img class="WinePhoto2" src="/uploads/bar_1.jpg">
-  </div>
-</div>
-<div class="row AlignCenter">
-  <div class="column col-xs-12 col-md-8">
-    <img class="WinePhoto3" src="/uploads/IMG_4310.JPG">
-  </div>
-  <div class="column col-xs-12 col-md-4">
-    <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section1_title }}</h2>
-        {% for i in page.cocktails_section1 %}
-          <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
-          {% if i.author %}
-            <i>{{ i.author }}</i><br>
-          {% endif %}
-          {{ i.desc }}</p>
-        {% endfor %}
-  </div>
-</div>
-<div class="row">
-  <div class="column col-xs-12">
+  <!-- <div class="column col-xs-12 col-md-5 col-md-offset-1">
     <div class="row nested">
-      <div class="column col-xs-12 col-md-6">
+      <div class="column col-xs-12">
+        <h2 class="Display2 mb5 mt0 ">{{ page.cocktails_section1_title }}</h2>
+            {% for i in page.cocktails_section1 %}
+              <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
+              {% if i.author %}
+                <i>{{ i.author }}</i><br>
+              {% endif %}
+              {{ i.desc }}</p>
+            {% endfor %}
+      </div>
+      <div class="column col-xs-12">
         <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section2_title }}</h2>
         {% for i in page.cocktails_section2 %}
           <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
@@ -80,7 +91,7 @@ One of the best wine lists<Br> in the world. We welcome <Br>you to be the judge.
           {{ i.desc }}</p>
         {% endfor %}
       </div>
-      <div class="column col-xs-12 col-md-6">
+      <div class="column col-xs-12">
         <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section3_title }}</h2>
         {% for i in page.cocktails_section3 %}
           <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
@@ -90,7 +101,7 @@ One of the best wine lists<Br> in the world. We welcome <Br>you to be the judge.
           {{ i.desc }}</p>
         {% endfor %}
       </div>
-      <div class="column col-xs-12 col-md-6">
+      <div class="column col-xs-12">
         <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section4_title }}</h2>
         {% for i in page.cocktails_section4 %}
           <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
@@ -100,7 +111,7 @@ One of the best wine lists<Br> in the world. We welcome <Br>you to be the judge.
           {{ i.desc }}</p>
         {% endfor %}
       </div>
-      <div class="column col-xs-12 col-md-6">
+      <div class="column col-xs-12">
         <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section5_title }}</h2>
         {% for i in page.cocktails_section5 %}
           <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
@@ -111,6 +122,6 @@ One of the best wine lists<Br> in the world. We welcome <Br>you to be the judge.
         {% endfor %}
       </div>
     </div>
-  </div>
+  </div> -->
 </div>
 {% include footer.html %}
