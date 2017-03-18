@@ -3,7 +3,7 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 option_fourcourses:
   title: Four Courses
-  price: '100'
+  price: '105'
   desc: Choose one of each four courses below.
 option_tastingmenu:
   title: Tasting Menu
@@ -39,7 +39,7 @@ course_3:
 - title: Scallops
   desc: Barely seared, with Brussels sprouts, chestnut, and grapefruit
 - title: Lamb
-  desc: Cauli ower, pearl onion, and mint
+  desc: Cauliflower, pearl onion, and mint
 - title: Duck
   desc: Radicchio, apple, fennel, and a sauce of drippings and black garlic
 - title: Filet Mignon </br> or Wagyu NY Strip +20
@@ -49,15 +49,15 @@ course_4:
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Crème Brûlée
   desc: Classically prepared and served with sorbet
-- title: Japanese Cheesecake
-  desc: Sour cherry, cranberry, white chocolate, and matcha
+- title: Japanese Style Cheesecake
+  desc: Cherry Valley mousse, rhubarb, and buckwheat
 - title: Chocolate
   desc: Licorice, walnut, and tobacco
 - title: Cheese
   desc: A selection of artisan cheeses
 tastingmenu:
 - title: Canlis Salad
-  desc: 
+  desc:
   wine: 2015 Thierry Véron, Cave de la Bouquette, Sancerre, FRA
 - title: Shima Aji
   desc: Raw, with burdock root and barley broth
@@ -65,6 +65,9 @@ tastingmenu:
 - title: Carrots
   desc: Celery root, horseradish, black lime
   wine: 2014 Knoll, Grüner Veltliner, Federspiel, Loibner, Wachau, AUT
+- title: King Crab
+  desc: Sunflower seed, radish, and honey comb
+  wine:
 - title: Grilled Oyster
   desc: A5 Miyazaki beef, watercress
   wine: 2014 Frantz Chagnoleau, Saint-Véran, Mâconnais, FRA
@@ -73,7 +76,7 @@ tastingmenu:
   wine: 2011 Fontanafredda, Barolo, Serralunga d’Alba, Piedmont, ITA
 - title: Rabbit
   desc: Spring onion, buttermilk, and nettles
-  wine: 
+  wine:
 - title: Lamb
   desc: Cauliflower, mint
   wine: 2009 Buty, Syrah, Peter Canlis, Walla Walla Valley, WA
@@ -82,7 +85,7 @@ tastingmenu:
   wine: 2013 WillaKenzie, Pinot Noir, Pierre Léon, Willamette Valley, OR
 - title: Coconut
   desc: Lime, cilantro, cucumber
-  wine: 
+  wine:
 - title: Soufflè
   desc: with ginger madeleines
   wine: The Rare Wine Co., Boston Bual, Madeira, PRT
@@ -104,4 +107,3 @@ plates:
   plate8: "/uploads/plate_lamb.png"
 layout: menu
 ---
-
