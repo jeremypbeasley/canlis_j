@@ -9,11 +9,7 @@ headline: |-
 headline_mobile: Seattle's premiere private dining suites.
 intro:
   label: A history of excellence
-  desc: We are the most trusted private event venue in the city and we are ready to
-    help you create a night you'll never forget. With three private dining rooms and
-    180 degree views, Canlis gladly welcomes rehearsal dinners, wedding receptions,
-    family reunions, anniversary parties, business dinners and board meetings, heads
-    of state, presidential dignitaries and grandmothers.
+  desc: Canlis offers three private rooms, each with floor-to-ceiling windows that offer sweeping views of the city, Lake Union and the Cascade mountains beyond. The rooms range in size, accommodating from 2 - 100 guests. We gladly welcome rehearsal dinners, wedding receptions, family reunions, anniversary parties, business dinners and board meetings, heads of state, presidential dignitaries and grandmothers.
   photo: "/uploads/original-open-uri20130531-2-uzys54.jpg"
 cache:
   title: The Caché
@@ -59,4 +55,3 @@ outro:
     Download the [Canlis Event Planning Packet](http://canlis.com/packet.pdf)
 layout: privateevents
 ---
-
