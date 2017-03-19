@@ -12,7 +12,7 @@ headline_mobile: "<i>Canlis</i> is our family name. This place and these people 
 person1:
   name: Mark Canlis
   title: Owner
-  photo: "/uploads/Brian_gritty_2.jpg"
+  photo: "/uploads/portrait_mark.jpg"
   bio: "The second of three sons, Mark grew up in a restaurant family. When he officially
     joined Canlis in 2003, he had already graduated from Cornell University, served
     as a Captain in Air Force Special Operations, and worked in nearly a dozen restaurants
@@ -36,7 +36,7 @@ person2:
 person3:
   name: Brady Williams
   title: Executive Chef
-  photo: "/uploads/Brian_gritty_2.jpg"
+  photo: "/uploads/portrait_brady.jpg"
   bio: |-
     Born in Southern California and raised throughout different parts of the country, Brady fell in love with hockey at a young age. At the age of fifteen he moved away from home to pursue a promising professional career in the sport. After an injury ended his playing days, he moved home and started his first job – working at his grandparent’s neighborhood diner.
 
@@ -44,7 +44,7 @@ person3:
 person4:
   name: Kyle Johnson
   title: Director of Service
-  photo: "/uploads/Brian_gritty_2.jpg"
+  photo: "/uploads/portrait_kyle.jpg"
   bio: A native of Colorado, Kyle moved to Germany as a Rotary International exchange
     student at the age of 16 before attaining degrees in Economics and International
     Relations at Seattle Pacific University. His first professional move took him
@@ -92,4 +92,3 @@ person6:
     cooking.
 layout: people
 ---
-
