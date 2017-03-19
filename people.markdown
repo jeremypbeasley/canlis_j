@@ -36,8 +36,14 @@ person4:
   name: Kyle Johnson
   title: Director of Service
   photo: "/uploads/portrait_kyle.jpg"
-  bio: |-
-    A native of Colorado, Kyle moved to Germany as a Rotary International exchange student at the age of 16 before attaining degrees in Economics and International Relations at Seattle Pacific University. His first professional move took him to India, working in micro finance. In 2010 Kyle joined the team at Canlis as a newcomer to the industry. Within four years, and having worked every position in the dining room, he became the youngest Service Director in the restaurant’s history. And why not? He’s succeeded in creating the warmest hospitality experience in fine dining—a task he hardly considers to be work at all.
+  bio: A native of Colorado, Kyle moved to Germany as a Rotary International exchange
+    student at the age of 16 before attaining degrees in Economics and International
+    Relations at Seattle Pacific University. His first professional move took him
+    to India, working in micro finance. In 2010 Kyle joined the team at Canlis as
+    a newcomer to the industry. Within four years, and having worked every position
+    in the dining room, he became the youngest Service Director in the restaurant’s
+    history. And why not? He’s succeeded in creating the warmest hospitality experience
+    in fine dining—a task he hardly considers to be work at all.
 person5:
   name: Nelson Daquip
   title: Director of Wine
@@ -64,3 +70,4 @@ person6:
     cooking.
 layout: people
 ---
+
