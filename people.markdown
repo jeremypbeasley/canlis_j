@@ -46,7 +46,7 @@ person4:
     in fine dining—a task he hardly considers to be work at all.
 person5:
   name: Nelson Daquip
-  title: Director of Wine
+  title: Director of Wine & Spirits
   photo: "/uploads/portrait_nelson.jpg"
   bio: Canlis Sommelier Nelson Daquip has been the most rapidly promoted employee
     in Canlis' history, rising from server assistant, to server, to assistant sommelier,
@@ -70,4 +70,3 @@ person6:
     cooking.
 layout: people
 ---
-
