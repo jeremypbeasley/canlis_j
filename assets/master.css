@@ -2528,6 +2528,9 @@ video {
     width: 100%;
   }
 }
+.HomePhoto6 {
+  margin-top: -12%;
+}
 @media (min-width: 62em) {
   .HomePhoto6 {
     position: relative;
