@@ -40,11 +40,9 @@ i {
 }
 a {
 	text-decoration: none;
-	// border-bottom: 1px solid hsla(255,100%,100%,.2);
-	// border-bottom: 1px solid hsla(0,0%,0%,.2);
 	color: color-text;
-	// padding-bottom: .1rem;
 	position: relative;
+	cursor: pointer;
 }
 a.NavLink:after {
 	content: '';
@@ -63,13 +61,16 @@ a:before {
   width: 100%;
   border-bottom: 1px solid hsla(0,0%,0%,1);
   transition: 200ms;
+	padding: 5px 0;
+}
+a.FancyLink:before {
 	padding: 50px 0;
 }
 a.NavLink:before {
 	content: none;
 	display: none;
 }
-a:hover:after {
+a.FancyLink:hover:after {
   width: 100%;
 }
 a.NoLine {
@@ -163,6 +164,7 @@ li {
 }
 .Display1 a, .Display1 i {
 	font-family: typeface-secondary-italic;
+	font-style: normal;
 }
 .Display1 a {
 	border-bottom: 1px solid color-gold;
