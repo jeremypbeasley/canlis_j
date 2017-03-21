@@ -20,7 +20,7 @@ person1:
 person2:
   name: Brian Canlis
   title: Owner
-  photo: "/uploads/Brian_gritty_2.jpg"
+  photo: "/uploads/portrait_brian.jpg"
   bio: |-
     In his spare time, (and often at work) Brian enjoys photography, and serves as the company’s official photographer. He married photographer in 2015 and isn’t nearly as talented as she, but she loves him anyway.
     Brian Canlis returned home to Seattle in 2005 after 12 years of studying and working abroad. For college he spent time in England, Austria, and Spain before finishing a hotel sciences degree at Cornell University. Commissioned as an Air Force officer in 2001, he led Elmendorf Air Force base in winning the coveted Hennessy Award (for the Air Force’s best food and dining experience). Just prior to his promotion to Captain, Brian was transferred to Washington D.C. to help lead a protocol team that played host to world leaders and international heads of state. (There’s a good chance you saw him saluting the President on CNN.) Brian is also an accomplished photographer, a role he plays both for Canlis and in his spare time. He is married to fellow photographer [Mackenzie Canlis](http://www.mackenziecanlis.com/) and isn’t nearly as talented as she is, but she loves him anyway.
@@ -70,4 +70,3 @@ person6:
     cooking.
 layout: people
 ---
-
