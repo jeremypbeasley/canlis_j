@@ -57,7 +57,7 @@ course_4:
   desc: A selection of artisan cheeses
 tastingmenu:
 - title: Canlis Salad
-  desc:
+  desc: 
   wine: 2015 Thierry Véron, Cave de la Bouquette, Sancerre, FRA
 - title: Shima Aji
   desc: Raw, with burdock root and barley broth
@@ -67,7 +67,7 @@ tastingmenu:
   wine: 2014 Knoll, Grüner Veltliner, Federspiel, Loibner, Wachau, AUT
 - title: King Crab
   desc: Sunflower seed, radish, and honey comb
-  wine:
+  wine: 
 - title: Grilled Oyster
   desc: A5 Miyazaki beef, watercress
   wine: 2014 Frantz Chagnoleau, Saint-Véran, Mâconnais, FRA
@@ -76,7 +76,7 @@ tastingmenu:
   wine: 2011 Fontanafredda, Barolo, Serralunga d’Alba, Piedmont, ITA
 - title: Rabbit
   desc: Spring onion, buttermilk, and nettles
-  wine:
+  wine: 
 - title: Lamb
   desc: Cauliflower, mint
   wine: 2009 Buty, Syrah, Peter Canlis, Walla Walla Valley, WA
@@ -85,7 +85,7 @@ tastingmenu:
   wine: 2013 WillaKenzie, Pinot Noir, Pierre Léon, Willamette Valley, OR
 - title: Coconut
   desc: Lime, cilantro, cucumber
-  wine:
+  wine: 
 - title: Soufflè
   desc: with ginger madeleines
   wine: The Rare Wine Co., Boston Bual, Madeira, PRT
@@ -107,3 +107,4 @@ plates:
   plate8: "/uploads/plate_lamb.png"
 layout: menu
 ---
+
