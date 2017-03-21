@@ -2714,7 +2714,7 @@ video {
   }
 }
 .MenuIntro {
-  padding: 48vw 0 15vw 0;
+  padding: 28vw 0 15vw 0;
 }
 @media (min-width: 62em) {
   .MenuIntro {
@@ -2775,15 +2775,17 @@ video {
   }
 }
 .DinnerPlate3 {
-  width: 100%;
-  margin-top: -3%;
-  margin-left: 20%;
+  width: 140%;
+  margin-top: -23%;
+  margin-left: 1%;
+  margin-bottom: 20%;
 }
 @media (min-width: 62em) {
   .DinnerPlate3 {
     width: 135%;
     margin-top: -20%;
     margin-left: -3%;
+    margin-bottom: 0;
   }
 }
 @media (min-width: 62em) {
