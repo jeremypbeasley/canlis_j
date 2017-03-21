@@ -1695,7 +1695,7 @@ p {
 }
 i {
   font-family: "GTSectraBookItalic", Arial, sans-serif;
-  text-style: none;
+  font-style: normal;
 }
 a {
   text-decoration: none;
