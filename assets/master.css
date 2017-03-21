@@ -1977,10 +1977,10 @@ img {
   border-bottom: none;
 }
 .SocialNav li a.Twitter {
-  background-image: url("http://cdn2.dropmark.com/39456/8d64ff48f9e52a330d698b17e8ac32aea79bbbf0/icon_twitter.png");
+  background-image: url("/assets/_img/socialicon_twitter.svg");
 }
 .SocialNav li a.Instagram {
-  background-image: url("http://cdn2.dropmark.com/39456/a0bc1cf323fb4f99e3cc26ea49d7851d819dfc0c/icon_instagram.png");
+  background-image: url("/assets/_img/socialicon_insta.svg");
 }
 .NavHamburger {
   position: absolute;
