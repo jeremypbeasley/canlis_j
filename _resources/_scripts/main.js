@@ -28,20 +28,23 @@ $(document).ready(function() {
 
 // DYNAMIC RESY / OPENTABLE LINK
 
-window.setInterval(function(){
-
+function getResLink() {
   var current = new Date();
   var expiry  = new Date('March 20, 2017 22:31:00')
-
   if(current.getTime()>expiry.getTime()){
     console.log('Reservation platform: Resy');
-    $('#ResLink').attr('href', 'https://resy.com/cities/sea/canlis')
+    $('.ResLink').attr('href', 'https://resy.com/cities/sea/canlis')
   }
   else {
     console.log('Reservation platform: OpenTable');
-    $('#ResLink').attr('href', 'https://www.opentable.com/canlis-reservations-seattle')
+    $('.ResLink').attr('href', 'https://www.opentable.com/canlis-reservations-seattle')
   }
+}
 
+getResLink();
+
+window.setInterval(function(){
+  getResLink();
 }, 3000);
 
 
@@ -91,8 +94,6 @@ $('.NavHamburger').click(function() {
     var $slideshow = sliders[id];
     $slideshow.slick('slickGoTo', parseInt($slideshow.slick('slickCurrentSlide'))+1);
   });
-
-  console.log(sliders);
 
 });
 
@@ -183,8 +184,6 @@ $( document ).ready(function() {
 });
 
 // FORM VALIDATION
-
-Stripe.setPublishableKey('pk_test_Gbu2akKhNgGjbKi4LPxOOWqc');
 
 $("#payment-form").submit(function(event) {
   $("#payment-form").validate({
