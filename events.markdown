@@ -23,8 +23,7 @@ cache:
     A room rental charge of $150 applies.
   photo: "/uploads/cache.png"
   photos:
-  - "/uploads/cache.png"
-  - "/uploads/Robert%20frank%20post%20war%202.jpg"
+  - "/uploads/privateevents_cache.jpg"
   - "/uploads/1cbe5875294296d2dca23c23a9a4de92.jpg"
   - "/uploads/robert_frank_41.jpg"
   - "/uploads/dd25ad8c09d025e9b7ac8a57fe7b3def.jpg"
@@ -48,7 +47,7 @@ penthouse:
     A room rental charge of $350 applies.
   photo: "/uploads/pent.png"
   photos:
-  - "/uploads/pent.png"
+  - "/uploads/privateevents_penthouse.jpg"
   - "/uploads/Robert%20frank%20post%20war%202.jpg"
   - "/uploads/robert_frank_41.jpg"
 outro:
@@ -59,4 +58,3 @@ outro:
     Download the [Canlis Event Planning Packet](http://canlis.com/packet.pdf)
 layout: privateevents
 ---
-
