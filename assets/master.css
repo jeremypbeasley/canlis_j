@@ -2534,6 +2534,7 @@ video {
 @media (min-width: 62em) {
   .Portrait {
     margin-left: 0px;
+    width: 100%;
   }
 }
 @media (min-width: 62em) {
