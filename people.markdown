@@ -30,9 +30,9 @@ person2:
     lead a protocol team that played host to world leaders and international heads
     of state. (There’s a good chance you saw him saluting the President on CNN.) Brian
     is also an accomplished photographer, a role he plays both for Canlis and in his
-    spare time. He is married to fellow photographer Mackenzie Canlis (hot link to
-    her site) and isn’t nearly as talented as she is, but she loves him anyway. Their
-    daughter, Marlow, was born in March 2016.
+    spare time. He is married to fellow photographer (Mackenzie Canlis)[http://www.mackenziecanlis.com/]
+    and isn’t nearly as talented as she is, but she loves him anyway. Their daughter,
+    Marlow, was born in March 2016.
 person3:
   name: Brady Williams
   title: Executive Chef
@@ -62,7 +62,7 @@ person5:
 
     After earning a culinary degree from Kapiolani Community College through the University of Hawaii, Nelson served at the prestigious Alan Wong's restaurant in Hawaii for three years. He found Canlis in the summer of 2002 and within the year, Nelson had earned his place in the coveted six-month Canlis “Vinternship” program, aimed at developing young sommeliers within the Seattle wine community. Under master sommelier and Canlis Wine Director Shayn Bjornholm, Nelson learned how to run a world-class wine program. Shortly thereafter, he became a master sommelier candidate by passing his advanced course for the Court of Master Sommeliers.
 
-    Nelson expanded his horizons on his first trip to Champagne, France in order to assist with the second bottling of Jean Milan "Canlis Cuvée" Brut. He later led the Canlis Wine Team to Walla Walla Valley to bring the 2006 and 2009 Buty "Peter Canlis" Syrahs from vineyard to bottle, and to Austria for the creation of Kracher Vineyard’s “Christopher Alois.”
+    Nelson expanded his horizons on his first trip to Champagne, France, in order to assist with the second bottling of Jean Milan "Canlis Cuvée" Brut. He later led the Canlis Wine Team to Walla Walla Valley to bring the 2006 and 2009 Buty "Peter Canlis" Syrahs from vineyard to bottle, and to Austria for the creation of Kracher Vineyard’s “Christopher Alois.”
 
     Nelson brings his aloha spirit to the table - a welcoming tradition where he shares a piece of his life with each guest. As Queen Lililuokalani stated in her last message to the people of Hawaii, "Kulia I ka Nu'u" - strive for the highest.
 person6:
