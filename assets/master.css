@@ -1833,6 +1833,11 @@ li {
 }
 @media (min-width: 62em) {
   .Display2 {
+    font-size: 20px;
+  }
+}
+@media (min-width: 100em) {
+  .Display2 {
     font-size: 25px;
   }
 }
