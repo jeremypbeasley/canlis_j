@@ -35,7 +35,7 @@ executiveroom:
     A room rental charge of $250 applies.
   photo: "/uploads/exec-a70510.png"
   photos:
-  - "/uploads/exec.png"
+  - "/uploads/privateevents_executive.jpg"
   - "/uploads/robert-franks-quotes-6.jpg"
   - "/uploads/05-1254.jpg"
 penthouse:
