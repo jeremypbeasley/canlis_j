@@ -24,9 +24,6 @@ cache:
   photo: "/uploads/cache.png"
   photos:
   - "/uploads/privateevents_cache.jpg"
-  - "/uploads/1cbe5875294296d2dca23c23a9a4de92.jpg"
-  - "/uploads/robert_frank_41.jpg"
-  - "/uploads/dd25ad8c09d025e9b7ac8a57fe7b3def.jpg"
 executiveroom:
   title: The Executive Room
   capacity: 10 - 30 guests
@@ -36,8 +33,6 @@ executiveroom:
   photo: "/uploads/exec-a70510.png"
   photos:
   - "/uploads/privateevents_executive.jpg"
-  - "/uploads/robert-franks-quotes-6.jpg"
-  - "/uploads/05-1254.jpg"
 penthouse:
   title: The Penthouse
   capacity: 30 - 100 guests
@@ -48,14 +43,11 @@ penthouse:
   photo: "/uploads/pent.png"
   photos:
   - "/uploads/privateevents_penthouse.jpg"
-  - "/uploads/Robert%20frank%20post%20war%202.jpg"
-  - "/uploads/robert_frank_41.jpg"
 outro:
   headline: Ready to book your event?
   desc: |-
     Call us at [(206)-298-9550](tel:2062989550) or email at [privatedining@canlis.com](mailto:privatedining@canlis.com)
 
-    Download the [Canlis Event Planning Packet](http://canlis.com/packet.pdf)
+    Download the [Canlis Event Planning Packet](/uploads/diningpacket.pdf)
 layout: privateevents
 ---
-

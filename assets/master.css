@@ -1893,10 +1893,16 @@ img {
 }
 @media (min-width: 62em) {
   .Logo {
-    width: 8rem;
+    width: 7rem;
     height: 1.5rem;
     top: 4vw;
     left: 4vw;
+  }
+}
+@media (min-width: 100em) {
+  .Logo {
+    width: 8rem;
+    height: 1.5rem;
   }
 }
 .GlobalNav {
@@ -2689,6 +2695,11 @@ video {
   padding: 48vw 0 15vw 0;
 }
 @media (min-width: 62em) {
+  .MenuIntro {
+    padding: 10vw 0 10vw 0;
+  }
+}
+@media (min-width: 100em) {
   .MenuIntro {
     padding: 18vw 0 15vw 0;
   }
