@@ -12739,14 +12739,27 @@ return jQuery;
 
 $(document).ready(function() {
 
-console.log("working")
-  // MOBILE NAV
+// MOBILE NAV
 
-  $('.NavHamburger').click(function() {
-    console.log("nav clicked!")
-    $('.GlobalNav').toggleClass("Open");
-    $(this).toggleClass("Open");
-  });
+$('.GlobalNav').hide();
+var navOpen = false;
+
+$('.NavHamburger').click(function() {
+  if (!navOpen) {
+    $('.GlobalNav').show();
+    $('.GlobalNav').addClass("Open");
+    $(this).addClass("Open");
+    navOpen = true;
+  } else {
+    $('.GlobalNav').removeClass("Open");
+    $(this).removeClass("Open");
+    setTimeout(function(){
+      $('.GlobalNav').hide();
+      navOpen = false;
+    }, 400);
+  }
+});
+
 
   // PRIVATE EVENT'S GALLERIES
 
