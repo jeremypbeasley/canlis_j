@@ -57,16 +57,14 @@ person5:
   name: Nelson Daquip
   title: Director of Wine & Spirits
   photo: "/uploads/portrait_nelson.jpg"
-  bio: Canlis Sommelier Nelson Daquip has been the most rapidly promoted employee
-    in Canlis' history, rising from server assistant, to server, to assistant sommelier,
-    to wine director in only four years. We weren't the only ones to notice - Food
-    and Wine Magazine featured Nelson in their June 2005 profile of national up-and-coming
-    sommeliers. The following year, Wine & Spirits Magazine named Nelson one of the
-    "Best New Sommeliers" of 2006, and in 2008 he was recognized as Seattle's "Best
-    Sommelier" by Seattle Magazine. After earning a culinary degree from Kapiolani
-    Community College through the University of Hawaii, Nelson served at the prestigious
-    Alan Wong's restaurant in Hawaii for three years. He found Canlis in the summer
-    of 2002 and within the year.
+  bio: |-
+    Canlis Sommelier Nelson Daquip has been the most rapidly promoted employee in Canlis' history, rising from server assistant, to server, to assistant sommelier, to wine director in only four years. We weren't the only ones to notice - Food and Wine Magazine featured Nelson in their June 2005 profile of national up-and-coming sommeliers. The following year, Wine & Spirits Magazine named Nelson one of the "Best New Sommeliers" of 2006, and in 2008 he was recognized as Seattle's "Best Sommelier" by Seattle Magazine.
+
+    After earning a culinary degree from Kapiolani Community College through the University of Hawaii, Nelson served at the prestigious Alan Wong's restaurant in Hawaii for three years. He found Canlis in the summer of 2002 and within the year, Nelson had earned his place in the coveted six-month Canlis “Vinternship” program, aimed at developing young sommeliers within the Seattle wine community. Under master sommelier and Canlis Wine Director Shayn Bjornholm, Nelson learned how to run a world-class wine program. Shortly thereafter, he became a master sommelier candidate by passing his advanced course for the Court of Master Sommeliers.
+
+    Nelson expanded his horizons on his first trip to Champagne, France in order to assist with the second bottling of Jean Milan "Canlis Cuvée" Brut. He later led the Canlis Wine Team to Walla Walla Valley to bring the 2006 and 2009 Buty "Peter Canlis" Syrahs from vineyard to bottle, and to Austria for the creation of Kracher Vineyard’s “Christopher Alois.”
+
+    Nelson brings his aloha spirit to the table - a welcoming tradition where he shares a piece of his life with each guest. As Queen Lililuokalani stated in her last message to the people of Hawaii, "Kulia I ka Nu'u" - strive for the highest.
 person6:
   name: Katie Coffman
   title: Director of Operations
