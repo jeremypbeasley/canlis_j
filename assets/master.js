@@ -12741,7 +12741,7 @@ $(document).ready(function() {
 
 // MOBILE NAV
 
-$('.GlobalNav').hide();
+// $('.GlobalNav').hide();
 var navOpen = false;
 
 $('.NavHamburger').click(function() {
