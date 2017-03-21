@@ -12717,7 +12717,7 @@ $(document).ready(function() {
 
   function getResLink() {
     var current = new Date();
-    var expiry  = new Date('March 20, 2017 22:31:00')
+    var expiry  = new Date('March 21, 2017 08:00:00')
     if(current.getTime()>expiry.getTime()){
       //console.log('Reservation platform: Resy');
       $('.ResLink').attr('href', 'https://resy.com/cities/sea/canlis')
