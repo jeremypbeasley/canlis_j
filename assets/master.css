@@ -1829,6 +1829,7 @@ li {
   font-size: 18px;
   line-height: 160%;
   font-family: "GTSectraBook", Arial, sans-serif;
+  letter-spacing: 0.04em;
 }
 @media (min-width: 62em) {
   .Display2 {
