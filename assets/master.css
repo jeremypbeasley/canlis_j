@@ -2608,8 +2608,6 @@ video {
   height: 133vw;
   background-position: center center;
   background-size: cover;
-  -webkit-filter: grayscale(100%);
-  filter: #808080;
   transition: all 200ms ease-out;
 }
 @media (min-width: 62em) {
@@ -2659,6 +2657,11 @@ video {
     width: 110vw;
     margin-right: -53vw;
     margin-left: 0;
+  }
+}
+@media (min-width: 62em) {
+  .PrivateEventsPenthousePhoto {
+    margin-top: 6vw;
   }
 }
 .PrivateEventsOutro {
