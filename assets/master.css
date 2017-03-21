@@ -1970,7 +1970,7 @@ img {
   height: 30px;
   background-size: 97%;
   background-repeat: no-repeat;
-  text-indent: 99999px;
+  text-indent: -99999px;
   display: block;
   margin-left: 1rem;
   transition: opacity 200ms ease-out;
