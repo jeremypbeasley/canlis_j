@@ -1,23 +1,14 @@
 $(document).ready(function() {
 
-  // DYNAMIC RESY / OPENTABLE LINK
+  // DYNAMIC RESY WIDGET
 
-  function getResLink() {
-    var current = new Date();
-    var expiry  = new Date('March 21, 2017 08:00:00')
-    if(current.getTime()>expiry.getTime()){
-      //console.log('Reservation platform: Resy');
-      $('.ResLink').attr('href', 'https://resy.com/cities/sea/canlis')
-    }
-    else {
-      //console.log('Reservation platform: OpenTable');
-      $('.ResLink').attr('href', 'https://www.opentable.com/canlis-reservations-seattle')
-    }
-  }
-  getResLink();
-  window.setInterval(function(){
-    getResLink();
-  }, 3000);
+  $('.ResLink').click(function() {
+    resyWidget.openModal({
+      "venueId":1009,
+      "apiKey":"ID6KeKVfi4DZDk013RH9vP1nfYnQd57s",
+      "replace":true
+    });
+  });
 
   // MOBILE NAV
 
