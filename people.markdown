@@ -40,7 +40,7 @@ person3:
   bio: |-
     Born in Southern California and raised throughout different parts of the country, Brady fell in love with hockey at a young age. At the age of fifteen he moved away from home to pursue a promising professional career in the sport. After an injury ended his playing days, he moved home and started his first job – working at his grandparent’s neighborhood diner.
 
-    In 2012, he was selected as the Chef de Cuisine at FT33 in Dallas, opening the restaurant under chef Matt McCallister and garnering numerous local and national awards. He then moved to Brooklyn, where he worked under chef Carlo Mirarchi as the Executive Sous Chef at Roberta’s and the two-Michelin-starred Blanca. In 2015, Brady joined Canlis as its sixth ever Executive Chef. Two years later he was recognized by the James Beard Foundation as one of the country’s five hottest rising star chefs.
+    In 2012, he was selected as the Chef de Cuisine at FT33 in Dallas, opening the restaurant under chef Matt McCallister and garnering numerous local and national awards. He then moved to Brooklyn, where he worked under chef Carlo Mirarchi as the Executive Sous Chef at Roberta’s and the two-Michelin-starred Blanca. In 2015, Brady joined Canlis as its sixth-ever Executive Chef. Two years later he was recognized by the James Beard Foundation as one of the country’s five hottest rising star chefs.
 person4:
   name: Kyle Johnson
   title: Director of Service
