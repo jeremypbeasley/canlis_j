@@ -1,15 +1,7 @@
 ---
 title: Home
-headline: |-
-  &nbsp;&nbsp;&nbsp;&nbsp;For&nbsp;sixty-five&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;years,&nbsp;you've&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  trusted&nbsp;us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with&nbsp;the&nbsp;most&nbsp;&nbsp;&nbsp;<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;important
-  &nbsp;&nbsp;&nbsp;&nbsp;<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;nights&nbsp;of&nbsp;your&nbsp;life.
-headline_mobile: For 66 years, you've trusted us with the most important nights of
-  your life.
+headline: Please come </br>over for dinner.
+headline_mobile: Please come over for dinner.
 section1_photo: "/uploads/exterior.jpg"
 section1_label: Welcome to our home
 section1_body: Our family has invited thousands of guests just like you to dine in
