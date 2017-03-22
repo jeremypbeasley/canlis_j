@@ -37,10 +37,17 @@ person3:
   name: Brady Williams
   title: Executive Chef
   photo: "/uploads/portrait_brady.jpg"
-  bio: |-
-    Born in Southern California and raised throughout different parts of the country, Brady fell in love with hockey at a young age. At the age of fifteen he moved away from home to pursue a promising professional career in the sport. After an injury ended his playing days, he moved home and started his first job – working at his grandparent’s neighborhood diner.
-
-    In 2012, he was selected as the Chef de Cuisine at FT33 in Dallas, opening the restaurant under chef Matt McCallister and garnering numerous local and national awards. He then moved to Brooklyn, where he worked under chef Carlo Mirarchi as the Executive Sous Chef at Roberta’s and the two-Michelin-starred Blanca. In 2015, Brady joined Canlis as its sixth-ever Executive Chef. Two years later he was recognized by the James Beard Foundation as one of the country’s five hottest rising star chefs.
+  bio: "Born in Southern California, Brady spent his younger days pursuing a professional
+    hockey career. A serious injury would change those plans, and he returned home
+    to find the kitchen – working at his grandparent’s neighborhood diner.\n\nIn 2012,
+    he was selected as the Chef de Cuisine at FT33 in Dallas, opening the restaurant
+    under chef Matt McCallister. He then moved to Brooklyn, where he worked under
+    chef Carlo Mirarchi as the Executive Sous Chef at Roberta’s and the two-Michelin-starred
+    Blanca. In 2015, Brady joined Canlis as its sixth-ever Executive Chef. Since then,
+    he has garnered a number of local and national awards, including a perfect, 4-star
+    review from the Seattle Times. He was also named a Finalist for Rising Star Chef
+    of the Year by the James Beard Foundation for 2017, recognizing him as one of
+    the country's top, young culinary talents. "
 person4:
   name: Kyle Johnson
   title: Director of Service
