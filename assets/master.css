@@ -1977,8 +1977,6 @@ img {
 }
 @media (min-width: 62em) {
   .SocialNav li a {
-    width: 22px;
-    height: 22px;
     margin-left: 0.5rem;
   }
 }
@@ -2544,6 +2542,9 @@ video {
   .AccoladesCard {
     top: -9vw;
   }
+}
+.JBLogo {
+  max-width: 150px;
 }
 .Portrait {
   max-width: 10000000px;
