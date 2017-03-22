@@ -122,9 +122,25 @@ video {
     top: -9vw;
   }
 }
-
 .JBLogo {
   max-width: 150px;
+}
+.PortraitCard {
+}
+@media laptop {
+  .PortraitCard {
+    background: color-background;
+    padding: 5vw 5vw 3vw 5vw;
+    margin-top: 27vw;
+    margin-left: -10%;
+    position: relative;
+    z-index: 99999;
+    border: 1px solid black;
+    box-shadow: 5px 5px 0px 0px black;
+  }
+  .PortraitCard.AccoladesCard {
+    margin-top: 15vw;
+  }
 }
 
 
@@ -151,24 +167,7 @@ video {
     margin-left: -20%;
   }
 }
-.PortraitCard {
-}
-@media laptop {
-  .PortraitCard {
-    background: color-background;
-    padding: 5vw 5vw 3vw 5vw;
-    margin-top: 15vw;
-    margin-left: -10%;
-    position: relative;
-    z-index: 99999;
-    // box-shadow: -15px 15px 75px 0px rgba(0,0,0,0.20);
-    border: 1px solid black;
-    box-shadow: 5px 5px 0px 0px black;
-  }
-  .PortraitCard:nth-child(2) {
-    margin-left: 10%;
-  }
-}
+
 .KitchenWideShot {
   background-image: url(https://ashleyzharper.files.wordpress.com/2014/10/screen-shot-2014-10-04-at-9-54-42-am.png);
   background-repeat: no-repeat;

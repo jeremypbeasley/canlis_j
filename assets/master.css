@@ -2546,6 +2546,21 @@ video {
 .JBLogo {
   max-width: 150px;
 }
+@media (min-width: 62em) {
+  .PortraitCard {
+    background: #fcfbfa;
+    padding: 5vw 5vw 3vw 5vw;
+    margin-top: 27vw;
+    margin-left: -10%;
+    position: relative;
+    z-index: 99999;
+    border: 1px solid #000;
+    box-shadow: 5px 5px 0px 0px #000;
+  }
+  .PortraitCard.AccoladesCard {
+    margin-top: 15vw;
+  }
+}
 .Portrait {
   max-width: 10000000px;
   margin-left: -6.5vw;
@@ -2564,21 +2579,6 @@ video {
   .Portrait.Brian {
     width: 120%;
     margin-left: -20%;
-  }
-}
-@media (min-width: 62em) {
-  .PortraitCard {
-    background: #fcfbfa;
-    padding: 5vw 5vw 3vw 5vw;
-    margin-top: 15vw;
-    margin-left: -10%;
-    position: relative;
-    z-index: 99999;
-    border: 1px solid #000;
-    box-shadow: 5px 5px 0px 0px #000;
-  }
-  .PortraitCard:nth-child(2) {
-    margin-left: 10%;
   }
 }
 .KitchenWideShot {
