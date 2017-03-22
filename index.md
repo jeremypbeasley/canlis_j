@@ -1,6 +1,6 @@
 ---
 title: Home
-headline: Please come </br>over for dinner.
+headline: Please come<Br> over for dinner.
 headline_mobile: Please come over for dinner.
 section1_photo: "/uploads/exterior.jpg"
 section1_label: Welcome to our home
@@ -26,4 +26,3 @@ homephoto5: "/uploads/Screen%20Shot%202016-12-15%20at%2012.52.06%20PM%20(1).png"
 homephoto6: "/uploads/1110097.jpg"
 layout: home
 ---
-
