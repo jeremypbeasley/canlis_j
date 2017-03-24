@@ -1,37 +1,35 @@
 {% include head.html %}
+
 <div class="Intro">
   <h1 class="Display1 ShowDesktop">
-    One of the best wine<Br> lists in the world.
+    {{ page.headline }}
   </h1>
-  <h1 class="Display1 ShowMobile">One of the best wine lists in the world. </h1>
+  <h1 class="Display1 ShowMobile">{{ page.headline_mobile }}</h1>
 </div>
 <div class="row tall">
   <div class="column col-xs-12 col-md-8">
-    <img class="WinePhoto1" src="/uploads/cellar2.jpg">
+    <img class="WinePhoto1" src="{{ page.wine_photo_1 }}">
   </div>
   <div class="column col-xs-12 col-md-4">
-    <img class="WinePhoto2" src="/uploads/wine2.jpg">
+    <img class="WinePhoto2" src="{{ page.wine_photo_2 }}">
   </div>
 </div>
 <div class="row tall">
   <div class="column col-xs-12 col-md-3">
-    <h2 class="Display2">Wine & Spirits Director,<Br> Nelson Daquip</h2>
+    <h2 class="Display2">{{ page.wine_title }}</h2>
   </div>
   <div class="column col-xs-12 col-md-4 col-md-offset-1">
     <div class="Divider mb8"></div>
-    <p>Canlis became a world-class wine destination in 1997, the first year of its twenty consecutive Wine Spectator Magazine Grand Awards. The restaurant is one of a handful in the world to be trusted with the honor for that length of time. Since then, it has helped train four Master Sommeliers and nine advanced sommeliers. We’ve produced wines with Alois Kracher, Buty, Jean Milan, Hirsch, Berescht & Fils and routinely played hosts to the best winemakers in the world (LaTour, Grace Family, Penfolds Grange, Cayuse, the Marchesi Piero Antinori, Angelo Gaja, and Heredia Lopez).</p>
-    <p>Which is all, very fancy. What distinguishes the Canlis wine program and the sommeliers who run it is their singular ability to relate to other people, particularly those who just like to enjoy a bottle with life, and then move on. </p>
+    {{ page.wine_body_col1 | markdownify }}
   </div>
   <div class="column col-xs-12 col-md-4">
     <div class="Divider mb8 ShowDesktop"></div>
-    <p>The wine program at Canlis is founded on a team of educated wine professionals, the highest quality amenities, and the warm and reputable service for which Canlis is famous. There is also one very juicy wine list. We look forward to sharing the world of wine with you.</p>
-    <p>All our wine is available for retail sale and delivery. Please call the restaurant at <a href="tel:2062833313">(206)-283-3313</a>.</p>
-    <p>It is a mighty list. We invite you to download it <a href="/uploads/canlis_wine_list.pdf">here</a> and enjoy a good read, or skip it all together and let us do the work of finding the right wine for your evening.</p>
+    {{ page.wine_body_col2 | markdownify }}
   </div>
 </div>
 <div class="row AlignTop tall">
   <div class="column col-xs-12 col-md-3">
-    <h2 class="Display2">{{ page.winestaff.title }}</h2>
+    <h2 class="Display2">Our Award-winning <Br> Wine & Spirits Team</h2>
   </div>
   <div class="column col-xs-12 col-md-8 col-md-offset-2">
     <div class="row AlignTop nested">
@@ -59,71 +57,19 @@
 </div>
 <div class="row tall">
   <div class="column col-xs-12 col-md-5">
-    <img class="LoungePhoto1" src="/uploads/lounge2.jpg">
+    <img class="LoungePhoto1" src="{{ page.lounge_photo_1 }}">
   </div>
   <div class="column col-xs-12 col-md-7">
-    <img class="LoungePhoto2" src="/uploads/bar_1.jpg">
+    <img class="LoungePhoto2" src="{{ page.lounge_photo_2 }}">
   </div>
 </div>
 <div class="row">
   <div class="column col-xs-12 col-md-5">
-    <h2 class="Display1 mb5">The Lounge</h2>
-    <p>In 1949, Seattle lifted it's ban on restaurants offering liquor and issued Canlis the first license to sell.  With a live piano nightly and the best barman in town, a new era of the cocktail was born. Since then, as far as we’re concerned, it’s only gotten better.</p>
-    <p>For drinks or for dinner. Walk in only.</p>
+    <h2 class="Display1 mb5">
+      {{ page.lounge_title }}
+    </h2>
+    {{ page.lounge_body | markdownify }}
   </div>
-  <!-- <div class="column col-xs-12 col-md-5 col-md-offset-1">
-    <div class="row nested">
-      <div class="column col-xs-12">
-        <h2 class="Display2 mb5 mt0 ">{{ page.cocktails_section1_title }}</h2>
-            {% for i in page.cocktails_section1 %}
-              <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
-              {% if i.author %}
-                <i>{{ i.author }}</i><br>
-              {% endif %}
-              {{ i.desc }}</p>
-            {% endfor %}
-      </div>
-      <div class="column col-xs-12">
-        <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section2_title }}</h2>
-        {% for i in page.cocktails_section2 %}
-          <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
-          {% if i.author %}
-            <i>{{ i.author }}</i><br>
-          {% endif %}
-          {{ i.desc }}</p>
-        {% endfor %}
-      </div>
-      <div class="column col-xs-12">
-        <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section3_title }}</h2>
-        {% for i in page.cocktails_section3 %}
-          <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
-          {% if i.author %}
-            <i>{{ i.author }}</i><br>
-          {% endif %}
-          {{ i.desc }}</p>
-        {% endfor %}
-      </div>
-      <div class="column col-xs-12">
-        <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section4_title }}</h2>
-        {% for i in page.cocktails_section4 %}
-          <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
-          {% if i.author %}
-            <i>{{ i.author }}</i><br>
-          {% endif %}
-          {{ i.desc }}</p>
-        {% endfor %}
-      </div>
-      <div class="column col-xs-12">
-        <h2 class="Display2 mb5 mt0 d-mt10">{{ page.cocktails_section5_title }}</h2>
-        {% for i in page.cocktails_section5 %}
-          <p class="mb2 d-mb3"><span class="Caption InlineCaption mb1">{{ i.title }}</span><br>
-          {% if i.author %}
-            <i>{{ i.author }}</i><br>
-          {% endif %}
-          {{ i.desc }}</p>
-        {% endfor %}
-      </div>
-    </div>
-  </div> -->
 </div>
+
 {% include footer.html %}
