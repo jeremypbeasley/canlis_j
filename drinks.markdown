@@ -1,7 +1,7 @@
 ---
 title: Wine & Spirits
 date: 2016-11-10 10:09:00 -08:00
-headline: 18,000 Bottles, 2,500 Selections, & 5 Sommeliers
+headline: One of the best wine<Br> lists in the world.
 cocktails_section1_title: Canlis Originals
 cocktails_section1:
 - title: Red Griffin
@@ -89,6 +89,7 @@ winestaff:
     title: 
   - name: 
     title: 
+headline_mobile: One of the best wine lists in the world.
 layout: wine
 ---
 
