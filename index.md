@@ -9,11 +9,12 @@ section1_body: Sometimes all it takes is a real invitation, and our family would
   don’t take lightly. Not for the past three generations at least. Come spend an evening.
   Our favorite thing in the world is taking care of others, and few places can do
   it quite like Canlis.
-section2_photo: "/uploads/728255.jpg"
+section2_photo: "/uploads/kitchen_1.jpg"
 section2_body: "“Canlis — the forward-thinking bastion of Seattle fine dining just
   scored two James Beard Awards nominations.”"
-section3_photo: "/uploads/Canlis_Leitz2.jpg"
-section3_label: the space
+section2_link: www.seattletimes.com/life/food-drink/seattles-canlis-scores-two-james-beard-award-nominations-for-2017/
+section3_photo: "/uploads/dining.jpg"
+section3_label: The Space
 section3_body: This storied building was first designed by Roland Terry in 1950.  Both
   Jim Cutler and George Suyama have helped develop it into an iconic expression of
   modern design. It continues to delight guests from all over the world with it’s
@@ -21,9 +22,9 @@ section3_body: This storied building was first designed by Roland Terry in 1950.
   range.
 accolades_body: "“A Canlis Salad, when properly prepared, is a revelation.”"
 accolades_credit: "- Sam Sifton, NYT"
-homephoto4: "/uploads/home-banner-bg-051.jpg"
-homephoto5: "/uploads/Screen%20Shot%202016-12-15%20at%2012.52.06%20PM%20(1).png"
-homephoto6: "/uploads/1110097.jpg"
+homephoto4: "/uploads/crab.jpg"
+homephoto5: "/uploads/plate_slate2.jpg"
+homephoto6: "/uploads/prepping2.jpg"
 layout: home
 ---
 
