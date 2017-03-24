@@ -27,4 +27,3 @@ homephoto5: "/uploads/plate_slate2.jpg"
 homephoto6: "/uploads/prepping2.jpg"
 layout: home
 ---
-
