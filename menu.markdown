@@ -41,7 +41,7 @@ course_3:
 - title: Lamb
   desc: Cauliflower, pearl onion, and mint
 - title: Duck
-  desc: Radicchio, apple, fennel, and a sauce of drippings and black garlic
+  desc: Malted Barley, fennel, and wild licorice
 - title: Filet Mignon </br> or Wagyu NY Strip +20
   desc: Désirée potato, kale, trumpet mushrooms, and hollandaise
 course_4:
@@ -65,9 +65,6 @@ tastingmenu:
 - title: Carrots
   desc: Celery root, horseradish, black lime
   wine: 2014 Knoll, Grüner Veltliner, Federspiel, Loibner, Wachau, AUT
-- title: King Crab
-  desc: Sunflower seed, radish, and honey comb
-  wine: 
 - title: Grilled Oyster
   desc: A5 Miyazaki beef, watercress
   wine: 2014 Frantz Chagnoleau, Saint-Véran, Mâconnais, FRA
@@ -81,12 +78,12 @@ tastingmenu:
   desc: Cauliflower, mint
   wine: 2009 Buty, Syrah, Peter Canlis, Walla Walla Valley, WA
 - title: Duck
-  desc: Dry aged and served with apple, fennel and radicchio
+  desc: Dry-aged and served with malted barley, fennel, and wild licorice
   wine: 2013 WillaKenzie, Pinot Noir, Pierre Léon, Willamette Valley, OR
-- title: Coconut
-  desc: Lime, cilantro, cucumber
+- title: Æbelskiver
+  desc: Yogurt, mountain huckleberry, big leaf maple syrup
   wine: 
-- title: Soufflè
+- title: Black Sesame Soufflè
   desc: with ginger madeleines
   wine: The Rare Wine Co., Boston Bual, Madeira, PRT
 tastingmenupairings:
