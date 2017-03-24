@@ -22,7 +22,7 @@ section3_body: This storied building was first designed by Roland Terry in 1950.
   range.
 accolades_body: "“A Canlis Salad, when properly prepared, is a revelation.”"
 accolades_credit: "- Sam Sifton, NYT"
-homephoto4: "/uploads/tumblr_nue85sQOT91toruyho1_1280.jpg"
+homephoto4: "/uploads/crab.jpg"
 homephoto5: "/uploads/plate_slate2.jpg"
 homephoto6: "/uploads/prepping2.jpg"
 layout: home
