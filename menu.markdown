@@ -3,11 +3,11 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 option_fourcourses:
   title: Four Courses
-  price: '105'
+  price: 105
   desc: Choose one of each four courses below.
 option_tastingmenu:
   title: Tasting Menu
-  price: '145'
+  price: 145
   desc: A nine-course preset menu designed to be ordered by the entire table.
 course_1:
 - title: Oysters
@@ -90,11 +90,11 @@ tastingmenu:
   desc: with ginger madeleines
   wine: The Rare Wine Co., Boston Bual, Madeira, PRT
 tastingmenupairings:
-- title: Classic
-  price: '95'
+- title: Classic Wine Pairing
+  price: 95
   desc: Seven wines selected to complement the tasting menu.
-- title: Sommelier
-  price: '145'
+- title: Sommelier Wine Pairing
+  price: 145
   desc: Seven pairings tailored to showcase rare bottlings and unique producers.
 plates:
   plate1: "/uploads/plate_salad.png"
