@@ -165,16 +165,15 @@
       <div class="column col-xs-12 col-md-7">
         <h2 class="Display2 mt10 d-mb10">Tasting Menu Pairings</h2>
       </div>
-      <div class="column nested col-xs-12 col-md-6 mb5">
-        <p class="Caption">CLASSIC WINE PAIRING</p>
-        <p>Seven wines selected to complement the tasting menu.</p>
-        <p class="Caption">95</p>
-      </div>
-      <div class="column nested col-xs-12 col-md-6 mb5">
-        <p class="Caption">SOMMELIER WINE PAIRING</p>
-        <p>Seven pairings tailored to showcase rare bottlings and unique producers.</p>
-        <p class="Caption">145</p>
-      </div>
+      {% for i in page.tastingmenupairings %}
+        <div class="column nested col-xs-12 col-md-6 mb5">
+          <p class="Caption">{{ i.title }}</p>
+          {% if i.desc %}
+            <p>{{ i.desc }}</p>
+          {% endif %}
+          <p class="Caption">{{ i.price }}</p>
+        </div>
+      {% endfor %}
     </div>
   </div>
   <div class="column col-xs-12 col-md-5 mb10 mt10 d-mt0 d-mb0">
