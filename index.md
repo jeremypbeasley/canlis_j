@@ -2,7 +2,7 @@
 title: Home
 headline: Please come<Br> over for dinner.
 headline_mobile: Please come over for dinner.
-section1_photo: "/uploads/exterior.jpg"
+section1_photo: "/uploads/lounge2.jpg"
 section1_label: That’s pretty much it.
 section1_body: Sometimes all it takes is a real invitation, and our family would really
   like you to come over for dinner. The opportunity to meet and serve you is one we
