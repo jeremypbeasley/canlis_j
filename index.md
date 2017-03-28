@@ -12,7 +12,7 @@ section1_body: Sometimes all it takes is a real invitation, and our family would
 section2_photo: "/uploads/kitchen_1.jpg"
 section2_body: "“Canlis — the forward-thinking bastion of Seattle fine dining just
   scored two James Beard Awards nominations.”"
-section2_link: www.seattletimes.com/life/food-drink/seattles-canlis-scores-two-james-beard-award-nominations-for-2017/
+section2_link: http://www.seattletimes.com/life/food-drink/seattles-canlis-scores-two-james-beard-award-nominations-for-2017/
 section3_photo: "/uploads/dining.jpg"
 section3_label: The Space
 section3_body: This storied building was first designed by Roland Terry in 1950.  Both
