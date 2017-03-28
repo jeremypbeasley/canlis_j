@@ -10,8 +10,8 @@ option_tastingmenu:
   price: 145
   desc: A nine-course preset menu designed to be ordered by the entire table.
 course_1:
-- title: Oysters
-  desc: Red wine mignonette*
+- title: Grilled Oyster
+  desc: A5 Miyazaki wagyu and watercress
 - title: Spot Prawns
   desc: Vermouth, garlic, lime
 - title: Shima Aji
@@ -23,8 +23,8 @@ course_1:
 course_2:
 - title: Steak Tartare
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
-- title: Foie Gras Tart
-  desc: Whipped, with preserved huckleberry and hazelnut
+- title: Barley Porridge
+  desc: Geoduck, green strawberry, and sorrel
 - title: Dungeness Crab
   desc: Soy milk, sunflower seed, radish, and honeycomb
 - title: Rabbit Sausage
@@ -32,12 +32,12 @@ course_2:
 - title: Cabbage Pierre
   desc: Fermented and grilled over coals; a nod to an early Canlis classic
 course_3:
-- title: Cod
-  desc: Gently poached, with pickled root vegetables and clam velouté*
 - title: Beet Wellington
   desc: Sunchoke, mustard, and smoked mushroom
 - title: Scallops
   desc: Barely seared, with Brussels sprouts, chestnut, and grapefruit
+- title: Halibut
+  desc: Morels and peas, pickled plums and foie gras
 - title: Lamb
   desc: Cauliflower, pearl onion, and mint
 - title: Duck
