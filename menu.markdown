@@ -47,8 +47,8 @@ course_3:
 course_4:
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: Crème Brûlée
-  desc: Classically prepared and served with sorbet
+- title: Stawberries
+  desc: Champagne, vanilla sable, and Douglas fir
 - title: Japanese Style Cheesecake
   desc: Cherry Valley mousse, rhubarb, and buckwheat
 - title: Chocolate
