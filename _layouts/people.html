@@ -38,24 +38,35 @@
 </div>
 <div class="row AlignCenter ">
   <div class="column col-xs-12 col-md-7">
+    <img class="Portrait" src="{{ page.person5.photo }}">
+  </div>
+  <div class="column col-xs-12 col-md-5">
+    <div class="Divider mb6"></div>
+    <p class="Caption mb3">{{ page.person5.title }}</p>
+    <p class="Display2">{{ page.person5.name }}</p>
+    {{ page.person5.bio | markdownify }}
+  </div>
+</div>
+<div class="row AlignCenter">
+  <div class="column col-xs-12 col-md-7">
+    <img class="Portrait" src="{{ page.person6.photo }}">
+  </div>
+  <div class="column col-xs-12 col-md-5 first-md">
+    <div class="Divider mb6 d-mt10"></div>
+    <p class="Caption mb3">{{ page.person6.title }}</p>
+    <p class="Display2">{{ page.person6.name }}</p>
+    {{ page.person6.bio | markdownify }}
+  </div>
+</div>
+<div class="row AlignCenter ">
+  <div class="column col-xs-12 col-md-7">
     <img class="Portrait" src="{{ page.person4.photo }}">
   </div>
   <div class="column col-xs-12 col-md-5">
     <div class="Divider mb6"></div>
     <p class="Caption mb3">{{ page.person4.title }}</p>
-    <p class="Display2">{{ page.person4.name }}</p>
+    <p class="Display2">{{ page.person6.name }}</p>
     {{ page.person4.bio | markdownify }}
-  </div>
-</div>
-<div class="row AlignCenter">
-  <div class="column col-xs-12 col-md-7">
-    <img class="Portrait" src="{{ page.person5.photo }}">
-  </div>
-  <div class="column col-xs-12 col-md-5 first-md">
-    <div class="Divider mb6 d-mt10"></div>
-    <p class="Caption mb3">{{ page.person5.title }}</p>
-    <p class="Display2">{{ page.person5.name }}</p>
-    {{ page.person5.bio | markdownify }}
   </div>
 </div>
 <div class="row">
