@@ -63,7 +63,7 @@ person4:
 person5:
   name: Nelson Daquip
   title: Director of Wine & Spirits
-  photo: "/uploads/portrait_nelson.jpg"
+  photo: "/uploads/Nellie.jpg"
   bio: "Originally a native of Hawaii, Canlis Wine and Spirits Director Nelson Daquip
     left Alan Wong’s in Honolulu and joined Canlis in 2002. A quick study, Nelson
     became the most rapidly promoted employee in Canlis’ history, rising from server
