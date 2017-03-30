@@ -2,7 +2,7 @@
 title: Wine & Spirits
 date: 2016-11-10 10:09:00 -08:00
 headline: One of the best wine<Br> lists in the world.
-headline_mobile: One of the best wine<Br> lists in the world.
+headline_mobile: One of the best wine  lists in the world.
 wine_photo_1: "/uploads/cellar2.jpg"
 wine_photo_2: "/uploads/wine2.jpg"
 wine_title: Wine & Spirits Director,<Br> Nelson Daquip
