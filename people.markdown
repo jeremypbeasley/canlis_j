@@ -48,18 +48,6 @@ person3:
     review from the Seattle Times. He was also named a Finalist for Rising Star Chef
     of the Year by the James Beard Foundation for 2017, recognizing him as one of
     the country's top, young culinary talents. "
-person4:
-  name: Kyle Johnson
-  title: Director of Service
-  photo: "/uploads/portrait_kyle.jpg"
-  bio: A native of Colorado, Kyle moved to Germany as a Rotary International exchange
-    student at the age of 16 before attaining degrees in Economics and International
-    Relations at Seattle Pacific University. His first professional move took him
-    to India, working in micro finance. In 2010 Kyle joined the team at Canlis as
-    a newcomer to the industry. Within four years, and having worked every position
-    in the dining room, he became the youngest Service Director in the restaurant’s
-    history. And why not? He’s succeeded in creating the warmest hospitality experience
-    in fine dining—a task he hardly considers to be work at all.
 person5:
   name: Nelson Daquip
   title: Director of Wine & Spirits
@@ -79,13 +67,25 @@ person5:
 person6:
   name: Katie Coffman
   title: Director of Operations
-  photo: "/uploads/Brian_gritty_2.jpg"
+  photo: "/uploads/Katie_2.jpg"
   bio: Katie Coffman joins Canlis after planning events for the Lynnwood Convention
     Center for nearly four years. Before this, she spent ten years in Stage Management.
     After graduating from Centenary College of Louisiana with a BS in Theater and
     Mathematics, she worked in London before settling in Seattle. Now she can't leave
     the mountains and water. In her spare time, she enjoys hiking, theater, and vegetarian
     cooking.
+person4:
+  name: Kyle Johnson
+  title: Director of Service
+  photo: "/uploads/portrait_kyle.jpg"
+  bio: A native of Colorado, Kyle moved to Germany as a Rotary International exchange
+    student at the age of 16 before attaining degrees in Economics and International
+    Relations at Seattle Pacific University. His first professional move took him
+    to India, working in micro finance. In 2010 Kyle joined the team at Canlis as
+    a newcomer to the industry. Within four years, and having worked every position
+    in the dining room, he became the youngest Service Director in the restaurant’s
+    history. And why not? He’s succeeded in creating the warmest hospitality experience
+    in fine dining—a task he hardly considers to be work at all.
 layout: people
 ---
 
