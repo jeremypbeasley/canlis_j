@@ -61,19 +61,19 @@ tastingmenu:
   wine: 2015 Thierry Véron, Cave de la Bouquette, Sancerre, FRA
 - title: Shima Aji
   desc: Raw, with burdock root and barley broth
-  wine: NV Drappier, Carte d’Or, Brut, Urville, Champagne, FRA
+  wine: 2016 Copain, Pinot Noir Rosé, Tous Ensemble, Mendocino, CA
 - title: Carrots
   desc: Celery root, horseradish, black lime
   wine: 2014 Knoll, Grüner Veltliner, Federspiel, Loibner, Wachau, AUT
 - title: Grilled Oyster
   desc: A5 Miyazaki beef, watercress
-  wine: 2014 Frantz Chagnoleau, Saint-Véran, Mâconnais, FRA
+  wine: 2015 Domaine Oudin, Chablis, FRA
+- title: 'ALASKAN KING CRAB '
+  desc: Peas, tofu, and gomashio
+  wine: 
 - title: Cabbage Pierre
   desc: Inspired by the Peter Canlis original
   wine: 2011 Fontanafredda, Barolo, Serralunga d’Alba, Piedmont, ITA
-- title: Rabbit
-  desc: Spring onion, buttermilk, and nettles
-  wine: 
 - title: Lamb
   desc: Cauliflower, mint
   wine: 2009 Buty, Syrah, Peter Canlis, Walla Walla Valley, WA
