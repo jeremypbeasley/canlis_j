@@ -12,7 +12,7 @@ option_tastingmenu:
 course_1:
 - title: Peter Canlis Prawns
   desc: Alaskan spot prawns with vermouth, butter, and lime
-- title: Yellow Jack
+- title: Striped Jack
   desc: 'Raw, with burdock root and barley broth '
 - title: Carrots
   desc: Celery root, horseradish, and black lime
@@ -27,8 +27,6 @@ course_2:
   desc: Geoduck, green strawberry, and sorrel
 - title: Grilled Oyster
   desc: A5 Miyazaki wagyu and watercress
-- title: King Crab Pasta
-  desc: Toasted wheat, preserved tomato, fennel breadcrumbs
 - title: Rabbit Sausage
   desc: Spring onion, buttermilk, and nettles
 - title: Cabbage Pierre
@@ -44,7 +42,7 @@ course_3:
   desc: Cauliflower, pearl onion, and mint
 - title: Duck
   desc: Malted Barley, fennel, and wild licorice
-- title: Filet Mignon </br> or Wagyu NY Strip +20
+- title: Filet Mignon </br> or Wagyu Ribeye +20
   desc: Désirée potato, kale, trumpet mushrooms, and hollandaise
 course_4:
 - title: Soufflè
