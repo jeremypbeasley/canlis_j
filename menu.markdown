@@ -10,14 +10,14 @@ option_tastingmenu:
   price: 145
   desc: A nine-course preset menu designed to be ordered by the entire table.
 course_1:
-- title: Grilled Oyster
-  desc: A5 Miyazaki wagyu and watercress
-- title: Spot Prawns
-  desc: Vermouth, garlic, lime
-- title: Shima Aji
-  desc: Raw, with burdock root and barley broth
+- title: Peter Canlis Prawns
+  desc: Alaskan spot prawns with vermouth, butter, and lime
+- title: Yellow Jack
+  desc: 'Raw, with burdock root and barley broth '
 - title: Carrots
   desc: Celery root, horseradish, and black lime
+- title: Dungeness Crab
+  desc: Soy milk, sunflower seed, radish, and honeycomb
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
@@ -25,8 +25,10 @@ course_2:
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
 - title: Barley Porridge
   desc: Geoduck, green strawberry, and sorrel
-- title: Dungeness Crab
-  desc: Soy milk, sunflower seed, radish, and honeycomb
+- title: Grilled Oyster
+  desc: A5 Miyazaki wagyu and watercress
+- title: King Crab Pasta
+  desc: Toasted wheat, preserved tomato, fennel breadcrumbs
 - title: Rabbit Sausage
   desc: Spring onion, buttermilk, and nettles
 - title: Cabbage Pierre
@@ -59,7 +61,7 @@ tastingmenu:
 - title: Canlis Salad
   desc: 
   wine: 2015 Thierry Véron, Cave de la Bouquette, Sancerre, FRA
-- title: Shima Aji
+- title: Striped Jack
   desc: Raw, with burdock root and barley broth
   wine: 2016 Copain, Pinot Noir Rosé, Tous Ensemble, Mendocino, CA
 - title: Carrots
@@ -68,12 +70,12 @@ tastingmenu:
 - title: Grilled Oyster
   desc: A5 Miyazaki beef, watercress
   wine: 2015 Domaine Oudin, Chablis, FRA
-- title: 'ALASKAN KING CRAB '
-  desc: Peas, tofu, and gomashio
-  wine: 
 - title: Cabbage Pierre
   desc: Inspired by the Peter Canlis original
   wine: 2011 Fontanafredda, Barolo, Serralunga d’Alba, Piedmont, ITA
+- title: Rabbit
+  desc: Spring onion, buttermilk, and nettles
+  wine: 
 - title: Lamb
   desc: Cauliflower, mint
   wine: 2009 Buty, Syrah, Peter Canlis, Walla Walla Valley, WA
