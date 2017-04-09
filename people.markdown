@@ -20,7 +20,7 @@ person1:
 person2:
   name: Brian Canlis
   title: Owner
-  photo: "/uploads/portrait_brian.jpg"
+  photo: "/uploads/Brian_new.jpg"
   bio: Brian Canlis returned home to Seattle in 2005 after 12 years of studying and
     working abroad. For college he spent time in England, Austria, and Spain before
     finishing a hotel sciences degree at Cornell University. Commissioned as an Air
