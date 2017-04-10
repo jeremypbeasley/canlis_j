@@ -57,7 +57,7 @@ course_4:
   desc: A selection of artisan cheeses
 tastingmenu:
 - title: Canlis Salad
-  desc:
+  desc: 
   wine: 2015 Thierry Véron, Cave de la Bouquette, Sancerre, FRA
 - title: Striped Jack
   desc: Raw, with burdock root and barley broth
@@ -73,7 +73,7 @@ tastingmenu:
   wine: 2011 Fontanafredda, Barolo, Serralunga d’Alba, Piedmont, ITA
 - title: Rabbit
   desc: Spring onion, buttermilk, and nettles
-  wine:
+  wine: 
 - title: Lamb
   desc: Cauliflower, mint
   wine: 2009 Buty, Syrah, Peter Canlis, Walla Walla Valley, WA
@@ -82,7 +82,7 @@ tastingmenu:
   wine: 2013 WillaKenzie, Pinot Noir, Pierre Léon, Willamette Valley, OR
 - title: Æbelskiver
   desc: Yogurt, mountain huckleberry, big leaf maple syrup
-  wine:
+  wine: 
 - title: Black Sesame Soufflè
   desc: with ginger madeleines
   wine: The Rare Wine Co., Boston Bual, Madeira, PRT
@@ -104,3 +104,4 @@ plates:
   plate8: "/uploads/plate_lamb.png"
 layout: menu
 ---
+
