@@ -57,7 +57,7 @@ course_4:
   desc: A selection of artisan cheeses
 tastingmenu:
 - title: Canlis Salad
-  desc: 
+  desc:
   wine: 2015 Thierry Véron, Cave de la Bouquette, Sancerre, FRA
 - title: Striped Jack
   desc: Raw, with burdock root and barley broth
@@ -73,7 +73,7 @@ tastingmenu:
   wine: 2011 Fontanafredda, Barolo, Serralunga d’Alba, Piedmont, ITA
 - title: Rabbit
   desc: Spring onion, buttermilk, and nettles
-  wine: 
+  wine:
 - title: Lamb
   desc: Cauliflower, mint
   wine: 2009 Buty, Syrah, Peter Canlis, Walla Walla Valley, WA
@@ -82,7 +82,7 @@ tastingmenu:
   wine: 2013 WillaKenzie, Pinot Noir, Pierre Léon, Willamette Valley, OR
 - title: Æbelskiver
   desc: Yogurt, mountain huckleberry, big leaf maple syrup
-  wine: 
+  wine:
 - title: Black Sesame Soufflè
   desc: with ginger madeleines
   wine: The Rare Wine Co., Boston Bual, Madeira, PRT
@@ -94,14 +94,13 @@ tastingmenupairings:
   price: 145
   desc: Seven pairings tailored to showcase rare bottlings and unique producers.
 plates:
-  plate1: "/uploads/plate_salad.png"
-  plate2: "/uploads/plate_cabbage.png"
-  plate3: "/uploads/plate_salad.png"
-  plate4: "/uploads/plate_cabbage.png"
-  plate5: "/uploads/plate_nysteak.png"
-  plate6: "/uploads/plate_chocolate.png"
+  plate1: "/uploads/plate_salad.jpg"
+  plate2: "/uploads/plate_cabbage.jpg"
+  plate3: "/uploads/plate_salad.jpg"
+  plate4: "/uploads/plate_cabbage.jpg"
+  plate5: "/uploads/plate_nysteak.jpg"
+  plate6: "/uploads/plate_chocolate.jpg"
   plate7: "/uploads/plate_oyster.png"
   plate8: "/uploads/plate_lamb.png"
 layout: menu
 ---
-
