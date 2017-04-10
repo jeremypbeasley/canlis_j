@@ -2742,7 +2742,6 @@ video {
   position: relative;
   height: 100%;
   width: 100%;
-  z-index: 9999;
 }
 @media (min-width: 62em) {
   .DinnerPlates {
@@ -2817,6 +2816,7 @@ video {
   position: relative;
   top: -14vw;
   left: 5vw;
+  z-index: 9;
 }
 @media (min-width: 62em) {
   .DinnerPlate7 {
@@ -2830,6 +2830,7 @@ video {
   width: 78%;
   margin-left: -13%;
   margin-top: -10vw;
+  z-index: 9;
 }
 @media (min-width: 62em) {
   .DinnerPlate8 {
@@ -2846,6 +2847,7 @@ video {
 }
 .MenuColumn {
   margin-bottom: 15vw;
+  z-index: 9;
 }
 @media (min-width: 62em) {
   .WineHeadline {
