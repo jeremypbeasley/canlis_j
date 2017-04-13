@@ -1925,6 +1925,7 @@ img {
   opacity: 0;
   transition: opacity 200ms ease-out;
   height: 100vh;
+  box-shadow: 10px 0px 32px 0px rgba(0,0,0,0.37);
 }
 .GlobalNav.Open {
   opacity: 1;
@@ -1932,6 +1933,7 @@ img {
 @media (min-width: 62em) {
   .GlobalNav {
     background: none;
+    box-shadow: none;
     padding-top: calc(4vw + 8px);
     padding-right: 4vw;
     display: block;
@@ -1949,7 +1951,7 @@ img {
   width: 100%;
 }
 .GlobalNavInside ul li {
-  padding-right: 8vw;
+  padding-right: 6.5vw;
 }
 .GlobalNavInside ul li a {
   color: #fcfbfa;
@@ -2045,13 +2047,21 @@ img {
   cursor: pointer;
 }
 .NavHamburger div span {
-  border-bottom: 1px solid #2b2e26;
+  float: right;
+  margin-right: -0.25em;
 }
 .NavHamburger div span:after {
   content: "";
-  width: 100px;
-  background-color: #f00;
+  display: block;
   height: 1px;
+}
+.NavHamburger div span.Open:after {
+  background-color: #2b2e26;
+  width: 3.1em;
+}
+.NavHamburger div span.Close:after {
+  background-color: #fcfbfa;
+  width: 4em;
 }
 .NavHamburger div:nth-child(1) {
   display: none;
