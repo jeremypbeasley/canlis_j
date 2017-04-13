@@ -1882,6 +1882,9 @@ body {
   background: #fcfbfa;
   color: #272320;
 }
+#main {
+  overflow-x: hidden;
+}
 img {
   max-width: 100%;
 }
@@ -1972,7 +1975,6 @@ img {
 .GlobalNav li a {
   border: 0px;
   text-align: right;
-  transition: 200ms all ease-out;
 }
 .SocialNav {
   margin-top: 2rem;
@@ -1996,7 +1998,6 @@ img {
   text-indent: -99999px;
   display: block;
   margin-left: 1rem;
-  transition: opacity 200ms ease-out;
 }
 @media (min-width: 62em) {
   .SocialNav li a {
