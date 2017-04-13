@@ -158,9 +158,7 @@ img {
 }
 .NavHamburger {
   position: absolute;
-  width: 15px;
   height: 14px;
-  background-image: url(_img/hammyfull.svg);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: 100%;
@@ -168,6 +166,8 @@ img {
   top: 0vw;
   margin: 8vw 6.5vw;
   z-index: 100;
+  width: 10em;
+  cursor: pointer;
 }
 .NavHamburger.Open {
   background-position: bottom center;
@@ -176,6 +176,38 @@ img {
   .NavHamburger {
     display: none;
   }
+}
+.NavHamburger div {
+  position: absolute;
+  text-align: right;
+  float: right;
+  width: 100%;
+  cursor: pointer;
+}
+.NavHamburger div span {
+  border-bottom: 1px solid color-brand-dark;
+}
+.NavHamburger div span:after {
+  content: "";
+  width: 100px;
+  background-color: red;
+  height: 1px;
+}
+.NavHamburger div:nth-child(1) {
+  display: none;
+}
+.NavHamburger div:nth-child(0) {
+  display: none;
+}
+.NavHamburger.Open div span {
+  border-color: color-brand-light
+  color: color-brand-light
+}
+.NavHamburger.Open div:nth-child(1) {
+  display: inline;
+}
+.NavHamburger.Open div:nth-child(2) {
+  display: none;
 }
 // GENERAL
 
