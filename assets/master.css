@@ -1853,7 +1853,7 @@ li {
   font-weight: bold;
 }
 .Caption {
-  font-size: 0.75rem;
+  font-size: 0.92rem;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
   font-family: "ApercuMono", Andale Mono, monospaced;
@@ -1919,14 +1919,13 @@ img {
   position: absolute;
   top: 0vw;
   z-index: 90;
-  padding-top: calc(8vw + 48px);
-  padding-right: 6.5vw;
   right: 0vw;
-  background: #fcfbfa;
+  background: #2b2e26;
   width: 100vw;
-  padding-bottom: 30vh;
   opacity: 0;
   transition: opacity 200ms ease-out;
+  height: 100vh;
+  box-shadow: 10px 0px 32px 0px rgba(0,0,0,0.37);
 }
 .GlobalNav.Open {
   opacity: 1;
@@ -1934,19 +1933,35 @@ img {
 @media (min-width: 62em) {
   .GlobalNav {
     background: none;
+    box-shadow: none;
     padding-top: calc(4vw + 8px);
     padding-right: 4vw;
     display: block;
     opacity: 1;
     padding-bottom: 0;
+    height: auto;
   }
+}
+.GlobalNavInside {
+  flex-direction: row;
+  height: 100vh;
+  width: 100vw;
+}
+.GlobalNavInside ul {
+  width: 100%;
+}
+.GlobalNavInside ul li {
+  padding-right: 6.5vw;
+}
+.GlobalNavInside ul li a {
+  color: #fcfbfa;
 }
 .GlobalNavToggle {
   text-align: right;
   cursor: pointer;
 }
 .GlobalNav li {
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 @media (min-width: 62em) {
   .GlobalNav li {
@@ -1961,6 +1976,14 @@ img {
 }
 .SocialNav {
   margin-top: 2rem;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+@media (min-width: 62em) {
+  .SocialNav {
+    position: relative;
+  }
 }
 .SocialNav li {
   float: right;
@@ -1988,13 +2011,16 @@ img {
   background-image: url("/assets/_img/socialicon_twitter.svg");
 }
 .SocialNav li a.Instagram {
-  background-image: url("/assets/_img/socialicon_insta.svg");
+  background-image: url("/assets/_img/socialicon_insta_light.svg");
+}
+@media (min-width: 62em) {
+  .SocialNav li a.Instagram {
+    background-image: url("/assets/_img/socialicon_insta.svg");
+  }
 }
 .NavHamburger {
   position: absolute;
-  width: 15px;
   height: 14px;
-  background-image: url("_img/hammyfull.svg");
   background-repeat: no-repeat;
   background-position: top center;
   background-size: 100%;
@@ -2002,6 +2028,8 @@ img {
   top: 0vw;
   margin: 8vw 6.5vw;
   z-index: 100;
+  width: 10em;
+  cursor: pointer;
 }
 .NavHamburger.Open {
   background-position: bottom center;
@@ -2010,6 +2038,46 @@ img {
   .NavHamburger {
     display: none;
   }
+}
+.NavHamburger div {
+  position: absolute;
+  text-align: right;
+  float: right;
+  width: 100%;
+  cursor: pointer;
+}
+.NavHamburger div span {
+  float: right;
+  margin-right: -0.25em;
+}
+.NavHamburger div span:after {
+  content: "";
+  display: block;
+  height: 1px;
+}
+.NavHamburger div span.Open:after {
+  background-color: #2b2e26;
+  width: 3.1em;
+}
+.NavHamburger div span.Close:after {
+  background-color: #fcfbfa;
+  width: 4em;
+}
+.NavHamburger div:nth-child(1) {
+  display: none;
+}
+.NavHamburger div:nth-child(0) {
+  display: none;
+}
+.NavHamburger.Open div span {
+  border-color: #fcfbfa;
+  color: #fcfbfa;
+}
+.NavHamburger.Open div:nth-child(1) {
+  display: inline;
+}
+.NavHamburger.Open div:nth-child(2) {
+  display: none;
 }
 .column.FirstThing {
   margin-top: 40vh;
@@ -2291,9 +2359,11 @@ img {
 }
 .AlignCenter {
   align-items: center;
+  display: flex;
 }
 .AlignTop {
   align-items: flex-start;
+  display: flex;
 }
 .ShowDesktop {
   display: none;
