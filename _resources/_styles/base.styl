@@ -58,14 +58,12 @@ img {
   position: absolute;
   top: 0vw;
   z-index: 90;
-  padding-top: calc(8vw + 48px);
-  padding-right: 6.5vw;
   right: 0vw;
-  background: color-background;
+  background: color-brand-dark;
   width: 100vw;
-  padding-bottom: 30vh;
   opacity: 0;
   transition: opacity 200ms ease-out;
+  height: 100vh;
 }
 .GlobalNav.Open {
   opacity: 1;
@@ -78,7 +76,19 @@ img {
     display: block;
     opacity: 1;
     padding-bottom: 0;
+    height: auto;
   }
+}
+.GlobalNavInside {
+  flex-direction: row;
+  height: 100vh;
+  width: 100vw;
+}
+.GlobalNavInside ul {
+  width: 100%;
+}
+.GlobalNavInside ul li {
+  padding-right: 8vw;
 }
 .GlobalNavToggle {
   text-align: right;
@@ -87,7 +97,7 @@ img {
 .GlobalNav ul {
 }
 .GlobalNav li {
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 @media laptop {
   .GlobalNav li {
@@ -98,9 +108,13 @@ img {
   border: 0px;
   text-align: right;
   transition: 200ms all ease-out;
+  color: color-brand-light;
 }
 .SocialNav {
   margin-top: 2rem;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
 }
 .SocialNav li {
   float: right;
