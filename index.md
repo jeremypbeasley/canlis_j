@@ -17,9 +17,8 @@ section3_photo: "/uploads/dining.jpg"
 section3_label: The Space
 section3_body: This storied building was first designed by Roland Terry in 1950.  Both
   Jim Cutler and George Suyama have helped develop it into an iconic expression of
-  modern design. It continues to delight guests from all over the world with it’s
-  natural light and stunning views of Seattle, Lake Union, and the Cascade mountain
-  range.
+  modern design. It continues to delight guests from all over the world with its natural
+  light and stunning views of Seattle, Lake Union, and the Cascade mountain range.
 accolades_body: "“A Canlis Salad, when properly prepared, is a revelation.”"
 accolades_credit: "- Sam Sifton, NYT"
 homephoto4: "/uploads/crab.jpg"
