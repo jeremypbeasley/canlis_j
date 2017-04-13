@@ -1920,7 +1920,7 @@ img {
   top: 0vw;
   z-index: 90;
   right: 0vw;
-  background: #2b2e26;
+  background: #272320;
   width: 100vw;
   opacity: 0;
   transition: opacity 200ms ease-out;
@@ -2056,7 +2056,7 @@ img {
   height: 1px;
 }
 .NavHamburger div span.Open:after {
-  background-color: #2b2e26;
+  background-color: #272320;
   width: 3.1em;
 }
 .NavHamburger div span.Close:after {
