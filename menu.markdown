@@ -94,12 +94,12 @@ tastingmenupairings:
   price: 145
   desc: Seven pairings tailored to showcase rare bottlings and unique producers.
 plates:
-  plate1: "/uploads/plate_salad.png"
-  plate2: "/uploads/plate_cabbage.png"
-  plate3: "/uploads/plate_salad.png"
-  plate4: "/uploads/plate_cabbage.png"
-  plate5: "/uploads/plate_nysteak.png"
-  plate6: "/uploads/plate_chocolate.png"
+  plate1: "/uploads/plate_salad.jpg"
+  plate2: "/uploads/plate_cabbage.jpg"
+  plate3: "/uploads/plate_salad.jpg"
+  plate4: "/uploads/plate_cabbage.jpg"
+  plate5: "/uploads/plate_nysteak.jpg"
+  plate6: "/uploads/plate_chocolate.jpg"
   plate7: "/uploads/plate_oyster.png"
   plate8: "/uploads/plate_lamb.png"
 layout: menu
