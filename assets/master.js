@@ -12725,6 +12725,8 @@ $(document).ready(function() {
 
   // MOBILE NAV
 
+  $('.GlobalNav').hide();
+
   var navOpen = false;
   $('.NavHamburger').click(function() {
     if (!navOpen) {
