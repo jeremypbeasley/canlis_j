@@ -25,8 +25,8 @@ course_2:
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
 - title: Barley Porridge
   desc: Geoduck, green strawberry, and sorrel
-- title: Grilled Oyster
-  desc: A5 Miyazaki wagyu and watercress
+- title: Bonito
+  desc: Grilled favas, seabean caper, and chrysanthemum
 - title: Rabbit Sausage
   desc: Spring onion, buttermilk, and nettles
 - title: Cabbage Pierre
