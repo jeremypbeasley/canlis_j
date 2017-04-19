@@ -7,7 +7,7 @@ option_fourcourses:
   desc: Choose one of each four courses below.
 option_tastingmenu:
   title: Tasting Menu
-  price: 145
+  price: 150
   desc: A nine-course preset menu designed to be ordered by the entire table.
 course_1:
 - title: Peter Canlis Prawns
