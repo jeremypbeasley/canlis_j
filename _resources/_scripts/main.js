@@ -12,7 +12,7 @@ $(document).ready(function() {
 
   // MOBILE NAV
 
-  $('.GlobalNav').hide();
+  $('.GlobalNav.ShowMobile').hide();
 
   var navOpen = false;
   $('.NavHamburger').click(function() {
