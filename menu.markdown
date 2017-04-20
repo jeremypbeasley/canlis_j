@@ -64,7 +64,7 @@ tastingmenu:
   wine: 2016 Copain, Pinot Noir Rosé, Tous Ensemble, Mendocino, CA
 - title: Carrots
   desc: Celery root, horseradish, black lime
-  wine: 2014 Knoll, Grüner Veltliner, Federspiel, Loibner, Wachau, AUT
+  wine: 
 - title: BARLEY PANCAKE
   desc: 'Charred rapini, smelt bagna cauda '
   wine: 2014 Knoll, Grüner Veltliner, Federspiel, Loibner, Wachau, AUT
