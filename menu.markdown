@@ -65,21 +65,21 @@ tastingmenu:
 - title: Carrots
   desc: Celery root, horseradish, black lime
   wine: 2014 Knoll, Grüner Veltliner, Federspiel, Loibner, Wachau, AUT
-- title: Grilled Oyster
-  desc: A5 Miyazaki beef, watercress
-  wine: 2015 Domaine Oudin, Chablis, FRA
-- title: Cabbage Pierre
-  desc: Inspired by the Peter Canlis original
-  wine: 2011 Fontanafredda, Barolo, Serralunga d’Alba, Piedmont, ITA
+- title: BARLEY PANCAKE
+  desc: 'Charred rapini, smelt bagna cauda '
+  wine: 2014 Knoll, Grüner Veltliner, Federspiel, Loibner, Wachau, AUT
 - title: Rabbit
   desc: Spring onion, buttermilk, and nettles
-  wine: 
+  wine: 2011 Fontanafredda, Barolo, Serralunga d’Alba, Piedmont, ITA
 - title: Lamb
   desc: Cauliflower, mint
   wine: 2009 Buty, Syrah, Peter Canlis, Walla Walla Valley, WA
 - title: Duck
   desc: Dry-aged and served with malted barley, fennel, and wild licorice
   wine: 2013 WillaKenzie, Pinot Noir, Pierre Léon, Willamette Valley, OR
+- title: Grilled Oyster
+  desc: A5 Miyazaki beef, watercress
+  wine: 2011 Champ Divin, Cuvée Pollux, Jura, FRA
 - title: Æbelskiver
   desc: Yogurt, mountain huckleberry, big leaf maple syrup
   wine: 
