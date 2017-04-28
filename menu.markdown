@@ -12,12 +12,12 @@ option_tastingmenu:
 course_1:
 - title: Peter Canlis Prawns
   desc: Alaskan spot prawns with vermouth, butter, and lime
-- title: Striped Jack
+- title: Shima Aji
   desc: 'Raw, with burdock root and barley broth '
 - title: Carrots
   desc: Celery root, horseradish, and black lime
-- title: Dungeness Crab
-  desc: Soy milk, sunflower seed, radish, and honeycomb
+- title: BEETS
+  desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
@@ -42,7 +42,7 @@ course_3:
   desc: Cauliflower, pearl onion, and mint
 - title: Duck
   desc: Malted Barley, fennel, and wild licorice
-- title: Filet Mignon </br> or Wagyu Ribeye +20
+- title: Filet Mignon </br> or Wagyu New York +20
   desc: Désirée potato, kale, trumpet mushrooms, and hollandaise
 course_4:
 - title: Soufflè
@@ -59,11 +59,11 @@ tastingmenu:
 - title: Canlis Salad
   desc: 
   wine: 2015 Thierry Véron, Cave de la Bouquette, Sancerre, FRA
-- title: Striped Jack
-  desc: Raw, with burdock root and barley broth
+- title: Spot Prawns
+  desc: Seabeans and barley broth
   wine: 2016 Copain, Pinot Noir Rosé, Tous Ensemble, Mendocino, CA
-- title: Carrots
-  desc: Celery root, horseradish, black lime
+- title: Beets
+  desc: Tofu, sunflower, and honeycomb
   wine: 
 - title: BARLEY PANCAKE
   desc: 'Charred rapini, smelt bagna cauda '
