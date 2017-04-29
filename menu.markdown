@@ -32,8 +32,8 @@ course_2:
 - title: Cabbage Pierre
   desc: Fermented and grilled over coals; a nod to an early Canlis classic
 course_3:
-- title: Beet Wellington
-  desc: Sunchoke, mustard, and smoked mushroom
+- title: Ricotta Dumplings
+  desc: stinging nettles, rapini, mustard
 - title: Scallops
   desc: Barely seared, with Brussels sprouts, chestnut, and grapefruit
 - title: Halibut
