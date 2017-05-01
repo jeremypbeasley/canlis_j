@@ -16,7 +16,7 @@ course_1:
   desc: 'Raw, with burdock root and barley broth '
 - title: Carrots
   desc: Celery root, horseradish, and black lime
-- title: BEETS
+- title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
