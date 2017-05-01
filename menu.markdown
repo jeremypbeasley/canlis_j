@@ -59,8 +59,8 @@ tastingmenu:
 - title: Canlis Salad
   desc: 
   wine: 2015 Thierry Véron, Cave de la Bouquette, Sancerre, FRA
-- title: Spot Prawns
-  desc: Seabeans and barley broth
+- title: Shima Aji
+  desc: Raw, with burdock root and barley broth
   wine: 2016 Copain, Pinot Noir Rosé, Tous Ensemble, Mendocino, CA
 - title: Beets
   desc: Tofu, sunflower, and honeycomb
