@@ -61,7 +61,7 @@ tastingmenu:
   wine: 2015 Thierry Véron, Cave de la Bouquette, Sancerre, FRA
 - title: Shima Aji
   desc: Raw, with burdock root and barley broth
-  wine: 2016 Copain, Pinot Noir Rosé, Tous Ensemble, Mendocino, CA
+  wine: 2016 Gran Moraine, Pinot Noir Rosé, Willamette Valley, OR
 - title: Beets
   desc: Tofu, sunflower, and honeycomb
   wine: 
