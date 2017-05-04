@@ -83,9 +83,12 @@ tastingmenu:
 - title: Æbelskiver
   desc: Yogurt, mountain huckleberry, big leaf maple syrup
   wine: 
-- title: Black Sesame Soufflè
-  desc: with ginger madeleines
-  wine: The Rare Wine Co., Boston Bual, Madeira, PRT
+- title: Soufflè
+  desc: Orange Curaçao, crème anglaise, and warm madeleines
+  wine: 2010 Domaine Bru-Baché, Jurançon, FRA
+- title: Strawberries
+  desc: Champagne, vanilla sablé, and Douglas fir
+  wine: 2016 La Spinetta, Biancospino, Moscato d'Asti, ITA
 tastingmenupairings:
 - title: Classic Wine Pairing
   price: 95
