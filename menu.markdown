@@ -37,7 +37,7 @@ course_3:
 - title: Salmon
   desc: 'Wild rice, spruce tips, and green tomatoes '
 - title: Halibut
-  desc: Morels and peas, pickled plums and foie gras
+  desc: Morels and peas, strawberry-boshi, and foie gras
 - title: Lamb
   desc: Cauliflower, pearl onion, and mint
 - title: Duck
