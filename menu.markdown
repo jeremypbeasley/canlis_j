@@ -50,7 +50,7 @@ course_4:
 - title: Stawberries
   desc: Champagne, vanilla sable, and Douglas fir
 - title: Japanese Style Cheesecake
-  desc: Cherry Valley mousse, rhubarb, and buckwheat
+  desc: Rhubarb, buckwheat, and shiso
 - title: Chocolate
   desc: Licorice, walnut, and tobacco
 - title: Cheese
