@@ -14,8 +14,8 @@ course_1:
   desc: Alaskan spot prawns with vermouth, butter, and lime
 - title: Shima Aji
   desc: 'Raw, with burdock root and barley broth '
-- title: Carrots
-  desc: Celery root, horseradish, and black lime
+- title: Asparagus
+  desc: Poached in dashi, with artichoke and dill
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Canlis Salad
@@ -34,8 +34,8 @@ course_2:
 course_3:
 - title: Ricotta Dumplings
   desc: stinging nettles, rapini, mustard
-- title: Scallops
-  desc: Barely seared, with Brussels sprouts, chestnut, and grapefruit
+- title: Salmon
+  desc: 'Wild rice, spruce tips, and green tomatoes '
 - title: Halibut
   desc: Morels and peas, pickled plums and foie gras
 - title: Lamb
@@ -43,7 +43,7 @@ course_3:
 - title: Duck
   desc: Malted Barley, fennel, and wild licorice
 - title: Filet Mignon </br> or Wagyu New York +20
-  desc: Désirée potato, kale, trumpet mushrooms, and hollandaise
+  desc: Charred lettuce, miso, and black garlic
 course_4:
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
