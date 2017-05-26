@@ -12,7 +12,7 @@ section1_body: Sometimes all it takes is a real invitation, and our family would
 section2_photo: "/uploads/kitchen_1.jpg"
 section2_body: Winner of the 2017 James Beard Outstanding Wine Program Award.
 section2_link: http://www.seattletimes.com/life/food-drink/tenth-times-the-charm-canlis-wins-a-james-beard-award/
-section3_photo: "/uploads/dining.jpg"
+section3_photo: "/uploads/Dining_room.jpg"
 section3_label: The Space
 section3_body: This storied building was first designed by Roland Terry in 1950.  Both
   Jim Cutler and George Suyama have helped develop it into an iconic expression of
