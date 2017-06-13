@@ -14,10 +14,10 @@ course_1:
   desc: Alaskan spot prawns with vermouth, butter, and lime
 - title: Shima Aji
   desc: 'Raw, with burdock root and barley broth '
-- title: Asparagus
-  desc: Poached in dashi, with artichoke and dill
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
+- title: Asparagus
+  desc: Poached in dashi, with artichoke and dill
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
@@ -29,8 +29,8 @@ course_2:
   desc: Grilled favas, seabean caper, and chrysanthemum
 - title: Rabbit Sausage
   desc: Spring onion, buttermilk, and nettles
-- title: Cabbage Pierre
-  desc: Fermented and grilled over coals; a nod to an early Canlis classic
+- title: Malted Pancake
+  desc: Fermented rapini, cabbage, and smelt bagna cauda
 course_3:
 - title: Ricotta Dumplings
   desc: stinging nettles, rapini, mustard
@@ -52,7 +52,7 @@ course_4:
 - title: Japanese Style Cheesecake
   desc: Rhubarb, buckwheat, and shiso
 - title: Chocolate
-  desc: Licorice, walnut, and tobacco
+  desc: Licorice, black walnut, and tobacco
 - title: Cheese
   desc: A selection of artisan cheeses
 tastingmenu:
@@ -61,34 +61,31 @@ tastingmenu:
   wine: 2015 Thierry Véron, Cave de la Bouquette, Sancerre, FRA
 - title: Shima Aji
   desc: Raw, with burdock root and barley broth
-  wine: 2016 Gran Moraine, Pinot Noir Rosé, Willamette Valley, OR
+  wine: 2016 Gramercy Cellars, Olsen Vineyard Rosé, Columbia Valley, WA
 - title: Beets
   desc: Tofu, sunflower, and honeycomb
   wine: 
 - title: BARLEY PANCAKE
   desc: 'Charred rapini, smelt bagna cauda '
-  wine: 2014 Knoll, Grüner Veltliner, Federspiel, Loibner, Wachau, AUT
+  wine: 2015 Knoll, Grüner Veltliner, Federspiel, Loibner, Wachau, AUT
 - title: Rabbit
   desc: Spring onion, buttermilk, and nettles
   wine: 2011 Fontanafredda, Barolo, Serralunga d’Alba, Piedmont, ITA
 - title: Lamb
   desc: Cauliflower, mint
   wine: 2009 Buty, Syrah, Peter Canlis, Walla Walla Valley, WA
-- title: Duck
-  desc: Dry-aged and served with malted barley, fennel, and wild licorice
-  wine: 2013 WillaKenzie, Pinot Noir, Pierre Léon, Willamette Valley, OR
 - title: Grilled Oyster
   desc: A5 Miyazaki beef, watercress
   wine: 2011 Champ Divin, Cuvée Pollux, Jura, FRA
-- title: Æbelskiver
-  desc: Yogurt, mountain huckleberry, big leaf maple syrup
+- title: Strawberry
+  desc: Soy, kasu, and vanilla
   wine: 
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
   wine: 2010 Domaine Bru-Baché, Jurançon, FRA
-- title: Strawberries
-  desc: Champagne, vanilla sablé, and Douglas fir
-  wine: 2016 La Spinetta, Biancospino, Moscato d'Asti, ITA
+- title: Chocolate
+  desc: Licorice, walnut, and tobacco
+  wine: The Rare Wine Co., Boston Bual, Madeira, PRT
 tastingmenupairings:
 - title: Classic Wine Pairing
   price: 95
