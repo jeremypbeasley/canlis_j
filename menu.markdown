@@ -40,8 +40,6 @@ course_3:
   desc: Morels and peas, strawberry-boshi, and foie gras
 - title: Lamb
   desc: Cauliflower, pearl onion, and mint
-- title: Duck
-  desc: Malted Barley, fennel, and wild licorice
 - title: Filet Mignon </br> or Wagyu New York +20
   desc: Charred lettuce, miso, and black garlic
 course_4:
