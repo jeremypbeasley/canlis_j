@@ -63,7 +63,7 @@ tastingmenu:
 - title: Beets
   desc: Tofu, sunflower, and honeycomb
   wine: 
-- title: BARLEY PANCAKE
+- title: Barley pancake
   desc: 'Charred rapini, smelt bagna cauda '
   wine: 2015 Knoll, Grüner Veltliner, Federspiel, Loibner, Wachau, AUT
 - title: Rabbit
@@ -71,7 +71,7 @@ tastingmenu:
   wine: 2011 Fontanafredda, Barolo, Serralunga d’Alba, Piedmont, ITA
 - title: Lamb
   desc: Cauliflower, mint
-  wine: 2009 Buty, Syrah, Peter Canlis, Walla Walla Valley, WA
+  wine: 2011 Ogier, Syrah, La Rosine, Rhône Valley, FRA
 - title: Grilled Oyster
   desc: A5 Miyazaki beef, watercress
   wine: 2011 Champ Divin, Cuvée Pollux, Jura, FRA
