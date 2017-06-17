@@ -2,7 +2,7 @@
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
 option_fourcourses:
-  title: Four Courses
+  title: 'Four Courses '
   price: 105
   desc: Choose one of each four courses below.
 option_tastingmenu:
