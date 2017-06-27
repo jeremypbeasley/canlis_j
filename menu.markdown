@@ -12,12 +12,12 @@ option_tastingmenu:
 course_1:
 - title: Peter Canlis Prawns
   desc: Alaskan spot prawns with vermouth, butter, and lime
-- title: Shima Aji
-  desc: 'Raw, with burdock root and barley broth '
+- title: Rabbit Sausage
+  desc: Spring onion, buttermilk, and nettles
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Asparagus
-  desc: Poached in dashi, with artichoke and dill
+  desc: Artichoke, aprium, and dill
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
@@ -27,8 +27,8 @@ course_2:
   desc: Geoduck, green strawberry, and sorrel
 - title: Bonito
   desc: Grilled favas, seabean caper, and chrysanthemum
-- title: Rabbit Sausage
-  desc: Spring onion, buttermilk, and nettles
+- title: Dungeness Crab
+  desc: Polenta, cilantro, and truffle
 - title: Malted Pancake
   desc: Fermented rapini, cabbage, and smelt bagna cauda
 course_3:
