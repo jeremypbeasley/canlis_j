@@ -44,14 +44,14 @@ course_3:
 - title: Filet Mignon </br> or Wagyu New York +20
   desc: Charred lettuce, miso, and black garlic
 course_4:
-- title: Soufflè
-  desc: Orange Curaçao, crème anglaise, and warm madeleines
+- title: Chocolate
+  desc: Licorice, black walnut, and tobacco
 - title: Strawberries
   desc: Champagne, vanilla sable, and Douglas fir
 - title: Japanese Style Cheesecake
   desc: Rhubarb, buckwheat, and shiso
-- title: Chocolate
-  desc: Licorice, black walnut, and tobacco
+- title: Soufflè
+  desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Cheese
   desc: A selection of artisan cheeses
 tastingmenu:
