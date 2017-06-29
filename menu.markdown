@@ -12,8 +12,9 @@ option_tastingmenu:
 course_1:
 - title: Peter Canlis Prawns
   desc: Alaskan spot prawns with vermouth, butter, and lime
-- title: Rabbit Sausage
-  desc: Spring onion, buttermilk, and nettles
+- title: Bonito
+  desc: Grilled favas, seabean caper, and chrysanthemumSpring onion, buttermilk, and
+    nettles
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Asparagus
@@ -25,8 +26,8 @@ course_2:
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
 - title: Barley Porridge
   desc: Geoduck, green strawberry, and sorrel
-- title: Bonito
-  desc: Grilled favas, seabean caper, and chrysanthemum
+- title: Rabbit Sausage
+  desc: Spring onion, buttermilk, and nettles
 - title: Dungeness Crab
   desc: Polenta, cilantro, and truffle
 - title: Malted Pancake
@@ -45,7 +46,7 @@ course_3:
 course_4:
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: Stawberries
+- title: Strawberries
   desc: Champagne, vanilla sable, and Douglas fir
 - title: Japanese Style Cheesecake
   desc: Rhubarb, buckwheat, and shiso
