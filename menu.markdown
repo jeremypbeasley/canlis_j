@@ -25,7 +25,7 @@ course_2:
 - title: Steak Tartare
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
 - title: Barley Porridge
-  desc: Geoduck, green strawberry, and sorrel
+  desc: Geoduck, gooseberries, and sorrel
 - title: Rabbit Sausage
   desc: Spring onion, buttermilk, and nettles
 - title: Dungeness Crab
