@@ -35,7 +35,7 @@ course_2:
 course_3:
 - title: Ricotta Dumplings
   desc: stinging nettles, rapini, mustard
-- title: Copper River Salmon +10
+- title: Salmon
   desc: 'Wild rice, spruce tips, and green tomatoes '
 - title: Halibut
   desc: Morels and peas, strawberry-boshi, and foie gras
