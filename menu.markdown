@@ -27,18 +27,18 @@ course_2:
 - title: Barley Porridge
   desc: Geoduck, gooseberries, and sorrel
 - title: Rabbit Sausage
-  desc: Spring onion, buttermilk, and nettles
+  desc: Spring onion, buttermilk, and mustard greens
 - title: Dungeness Crab
   desc: Polenta, cilantro, and truffle
 - title: Malted Pancake
   desc: Fermented rapini, cabbage, and smelt bagna cauda
 course_3:
 - title: Ricotta Dumplings
-  desc: stinging nettles, rapini, mustard
+  desc: stinging nettles, rapini, dandelion
 - title: Salmon
   desc: 'Wild rice, spruce tips, and green tomatoes '
 - title: Halibut
-  desc: Morels and peas, strawberry-boshi, and foie gras
+  desc: Morels and peas, umeboshi, and foie gras
 - title: Lamb
   desc: Cauliflower, pearl onion, and mint
 - title: Filet Mignon </br> or Wagyu New York +20
