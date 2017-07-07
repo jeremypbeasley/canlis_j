@@ -12,13 +12,12 @@ option_tastingmenu:
 course_1:
 - title: Peter Canlis Prawns
   desc: Alaskan spot prawns with vermouth, butter, and lime
-- title: Bonito
-  desc: Grilled favas, seabean caper, and chrysanthemumSpring onion, buttermilk, and
-    nettles
-- title: Beets
-  desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Asparagus
   desc: Artichoke, aprium, and dill
+- title: Beets
+  desc: 'Soy milk, sunflower seed, radish, and honeycomb '
+- title: Dungeness Crab
+  desc: Polenta, cilantro, and truffle
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
@@ -28,8 +27,8 @@ course_2:
   desc: Geoduck, gooseberries, and sorrel
 - title: Rabbit Sausage
   desc: Spring onion, buttermilk, and mustard greens
-- title: Dungeness Crab
-  desc: Polenta, cilantro, and truffle
+- title: Eggplant
+  desc: Hazelnut, green tomato, and malted grains
 - title: Malted Pancake
   desc: Fermented rapini, cabbage, and smelt bagna cauda
 course_3:
