@@ -1,14 +1,6 @@
 ---
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
-option_fourcourses:
-  title: 'Four Courses '
-  price: 105
-  desc: Choose one of each four courses below.
-option_tastingmenu:
-  title: Tasting Menu
-  price: 150
-  desc: A nine-course preset menu designed to be ordered by the entire table.
 course_1:
 - title: Peter Canlis Prawns
   desc: Alaskan spot prawns with vermouth, butter, and lime
@@ -54,44 +46,6 @@ course_4:
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Cheese
   desc: A selection of artisan cheeses
-tastingmenu:
-- title: Canlis Salad
-  desc: 
-  wine: 2015 Thierry Véron, Cave de la Bouquette, Sancerre, FRA
-- title: Shima Aji
-  desc: Raw, with burdock root and barley broth
-  wine: 2016 Gramercy Cellars, Olsen Vineyard Rosé, Columbia Valley, WA
-- title: Beets
-  desc: Tofu, sunflower, and honeycomb
-  wine: 
-- title: Barley pancake
-  desc: 'Charred rapini, smelt bagna cauda '
-  wine: 2015 Knoll, Grüner Veltliner, Federspiel, Loibner, Wachau, AUT
-- title: Rabbit
-  desc: Spring onion, buttermilk, and nettles
-  wine: 2011 Fontanafredda, Barolo, Serralunga d’Alba, Piedmont, ITA
-- title: Lamb
-  desc: Cauliflower, mint
-  wine: 2011 Ogier, Syrah, La Rosine, Rhône Valley, FRA
-- title: Grilled Oyster
-  desc: A5 Miyazaki beef, watercress
-  wine: 2011 Champ Divin, Cuvée Pollux, Jura, FRA
-- title: Strawberry
-  desc: Soy, kasu, and vanilla
-  wine: 
-- title: Soufflè
-  desc: Orange Curaçao, crème anglaise, and warm madeleines
-  wine: 2010 Domaine Bru-Baché, Jurançon, FRA
-- title: Chocolate
-  desc: Licorice, walnut, and tobacco
-  wine: The Rare Wine Co., Boston Bual, Madeira, PRT
-tastingmenupairings:
-- title: Classic Wine Pairing
-  price: 95
-  desc: Seven wines selected to complement the tasting menu.
-- title: Sommelier Wine Pairing
-  price: 145
-  desc: Seven pairings tailored to showcase rare bottlings and unique producers.
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/plate_cabbage.jpg"
@@ -103,4 +57,3 @@ plates:
   plate8: "/uploads/plate_lamb.png"
 layout: menu
 ---
-
