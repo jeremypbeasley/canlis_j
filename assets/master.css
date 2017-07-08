@@ -2640,7 +2640,6 @@ img {
 .row {
   padding: 2vw 4vw;
   overflow: visible;
-  z-index: 10;
   margin-left: 0px;
   margin-right: 0px;
   position: relative;
@@ -2949,7 +2948,7 @@ video {
   }
 }
 .MenuIntro {
-  padding: 28vw 0 15vw 0;
+  padding: 58vw 0 65vw 0;
   position: relative;
   z-index: 11;
 }
@@ -3081,6 +3080,11 @@ video {
 .MenuColumn {
   margin-bottom: 15vw;
   z-index: 9;
+  position: relative;
+}
+.MenuColumn .column {
+  z-index: 19;
+  position: relative;
 }
 @media (min-width: 62em) {
   .WineHeadline {
