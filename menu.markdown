@@ -8,8 +8,8 @@ course_1:
   desc: Artichoke, aprium, and dill
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
-- title: Dungeness Crab
-  desc: Polenta, cilantro, and truffle
+- title: Malted Pancake
+  desc: Fermented rapini, cabbage, and smelt bagna cauda
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
@@ -20,9 +20,9 @@ course_2:
 - title: Rabbit Sausage
   desc: Spring onion, buttermilk, and mustard greens
 - title: Eggplant
-  desc: Hazelnut, green tomato, and malted grains
-- title: Malted Pancake
-  desc: Fermented rapini, cabbage, and smelt bagna cauda
+  desc: Sesame, green tomato, and malted grains
+- title: Dungeness Crab
+  desc: Polenta, cilantro, and truffle
 course_3:
 - title: Ricotta Dumplings
   desc: stinging nettles, rapini, dandelion
