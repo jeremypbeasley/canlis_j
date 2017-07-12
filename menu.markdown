@@ -45,6 +45,8 @@ course_4:
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Cheese
   desc: A selection of artisan cheeses
+- title: Midsummer Ice Cream
+  desc: Sugar cone,  granola, and berries
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/plate_cabbage.jpg"
