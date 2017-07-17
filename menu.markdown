@@ -4,10 +4,10 @@ date: 2016-11-10 10:09:00 -08:00
 course_1:
 - title: Peter Canlis Prawns
   desc: Alaskan spot prawns with vermouth, butter, and lime
-- title: Asparagus
-  desc: Artichoke, aprium, and dill
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
+- title: Summer Squash
+  desc: Fromage blanc and aprium
 - title: Malted Pancake
   desc: Fermented rapini, cabbage, and smelt bagna cauda
 - title: Canlis Salad
@@ -28,8 +28,8 @@ course_3:
   desc: stinging nettles, rapini, dandelion
 - title: Salmon
   desc: 'Wild rice, spruce tips, and green tomatoes '
-- title: Halibut
-  desc: Morels and peas, umeboshi, and foie gras
+- title: Black Cod
+  desc: 'Tomatoes, artichoke, and mussel '
 - title: Lamb
   desc: Cauliflower, pearl onion, and mint
 - title: Filet Mignon </br> or Wagyu New York +20
