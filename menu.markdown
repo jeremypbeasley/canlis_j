@@ -7,7 +7,7 @@ course_1:
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Summer Squash
-  desc: Fromage blanc and aprium
+  desc: Fromage blanc and apricot
 - title: Malted Pancake
   desc: Fermented rapini, cabbage, and smelt bagna cauda
 - title: Canlis Salad
@@ -15,8 +15,8 @@ course_1:
 course_2:
 - title: Steak Tartare
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
-- title: Barley Porridge
-  desc: Geoduck, gooseberries, and sorrel
+- title: Foie Gras
+  desc: Peas, umeboshi, and Vin Jaune
 - title: Rabbit Sausage
   desc: Spring onion, buttermilk, and mustard greens
 - title: Eggplant
@@ -40,7 +40,7 @@ course_4:
 - title: Strawberries
   desc: Champagne, vanilla sable, and Douglas fir
 - title: Japanese Style Cheesecake
-  desc: Rhubarb, buckwheat, and shiso
+  desc: Raspberries, buckwheat, and shiso
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Midsummer Ice Cream
