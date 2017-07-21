@@ -19,13 +19,13 @@ course_2:
   desc: Peas, umeboshi, and Vin Jaune
 - title: Rabbit Sausage
   desc: Spring onion, buttermilk, and mustard greens
-- title: Eggplant
-  desc: Sesame, green tomato, and malted grains
+- title: Cucumber
+  desc: Geoduck and fennel
 - title: Dungeness Crab
   desc: Polenta, cilantro, and truffle
 course_3:
-- title: Ricotta Dumplings
-  desc: stinging nettles, rapini, dandelion
+- title: Eggplant
+  desc: Sesame, green tomato, and malted grains
 - title: Salmon
   desc: 'Wild rice, spruce tips, and green tomatoes '
 - title: Black Cod
@@ -45,8 +45,8 @@ course_4:
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Midsummer Ice Cream
   desc: Sugar cone,  granola, and berries
-- title: Cheese
-  desc: A selection of artisan cheeses
+- title: Fresh Chevre
+  desc: Nasturtium, blueberry, and rye
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/plate_cabbage.jpg"
