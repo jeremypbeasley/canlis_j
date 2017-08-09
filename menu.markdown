@@ -17,8 +17,8 @@ course_2:
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
 - title: Foie Gras
   desc: Peas, umeboshi, and Vin Jaune
-- title: Rabbit Sausage
-  desc: Spring onion, buttermilk, and mustard greens
+- title: Garganelli
+  desc: Squab, black pepper, and tomato
 - title: Cucumber
   desc: Geoduck and fennel
 - title: Dungeness Crab
@@ -30,9 +30,11 @@ course_3:
   desc: 'Wild rice, spruce tips, and green tomatoes '
 - title: Black Cod
   desc: 'Tomatoes, artichoke, and mussel '
+- title: Chicken
+  desc: Cherry, pine nut, and celtuce
 - title: Lamb
   desc: Cauliflower, pearl onion, and mint
-- title: Filet Mignon </br> or Wagyu New York +20
+- title: Filet Mignon </br> or upgrade to Wagyu Ribeye +20
   desc: Charred lettuce, miso, and black garlic
 course_4:
 - title: Chocolate
@@ -45,7 +47,7 @@ course_4:
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Midsummer Ice Cream
   desc: Sugar cone,  granola, and berries
-- title: Fresh Chevre
+- title: Fresh Sheep's Milk Cheese
   desc: Nasturtium, blueberry, and rye
 plates:
   plate1: "/uploads/plate_salad.jpg"
