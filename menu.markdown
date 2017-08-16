@@ -1,6 +1,7 @@
 ---
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
+menu_cost: 110
 course_1:
 - title: Peter Canlis Prawns
   desc: Alaskan spot prawns with vermouth, butter, and lime
@@ -60,4 +61,3 @@ plates:
   plate8: "/uploads/plate_lamb.png"
 layout: menu
 ---
-
