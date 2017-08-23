@@ -35,7 +35,7 @@ course_3:
   desc: Cherry, pine nut, and celtuce
 - title: Lamb
   desc: Cauliflower, pearl onion, and mint
-- title: Filet Mignon </br> or upgrade to Wagyu Ribeye +20
+- title: Filet Mignon </br> or upgrade to Wagyu Ribeye +30
   desc: Charred lettuce, miso, and black garlic
 course_4:
 - title: Chocolate
