@@ -17,7 +17,7 @@ course_2:
 - title: Steak Tartare
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
 - title: Foie Gras
-  desc: Peas, umeboshi, and Vin Jaune
+  desc: Figs and hazelnut
 - title: Garganelli
   desc: Squab, black pepper, and tomato
 - title: Cucumber
