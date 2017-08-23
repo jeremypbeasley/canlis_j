@@ -9,8 +9,8 @@ course_1:
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Summer Squash
   desc: Fromage blanc and apricot
-- title: Malted Pancake
-  desc: Fermented rapini, cabbage, and smelt bagna cauda
+- title: Cucumber
+  desc: 'Geoduck and fennel '
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
@@ -20,8 +20,8 @@ course_2:
   desc: Figs and hazelnut
 - title: Garganelli
   desc: Squab, black pepper, and tomato
-- title: Cucumber
-  desc: Geoduck and fennel
+- title: Malted Pancake
+  desc: Fermented rapini, cabbage, and smelt bagna cauda
 - title: Dungeness Crab
   desc: Polenta, cilantro, and truffle
 course_3:
