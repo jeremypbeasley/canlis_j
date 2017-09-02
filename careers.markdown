@@ -1,7 +1,7 @@
 ---
 title: Careers
 date: 2016-12-19 21:13:00 -08:00
-headline: Striving to be the <i>best restaurant<br> in America</i> and have a <br>damn
+headline: Striving to be the <i>best restaurant<br> in America</i> and having a <br>damn
   good time along the way.
 headline_mobile: Striving to be the <i>best restaurant in America</i> and have a damn
   good time along the way.
@@ -21,12 +21,12 @@ section2:
     and grown. Only then can they truly serve. Additionally, there is a particular
     humility inherent in learning. We want you to have this...or at least to desperately
     want to have this. It is a requirement for employment.
-layout: careers
 photo1: "/uploads/careersphoto_01.jpg"
 photo2: "/uploads/careersphoto_02.jpg"
 photo3: "/uploads/careersphoto_03.jpg"
 photo4: "/uploads/careersphoto_04.jpg"
 photo5: "/uploads/careersphoto_05.jpg"
 photo6: "/uploads/careersphoto_06.jpg"
+layout: careers
 ---
 
