@@ -32,24 +32,22 @@ course_3:
 - title: Black Cod
   desc: 'Tomatoes, artichoke, and mussel '
 - title: Chicken
-  desc: Cherry, pine nut, and celtuce
+  desc: Cherry, pine nut, and celery
 - title: Lamb
   desc: Cauliflower, pearl onion, and mint
-- title: Filet Mignon </br> or upgrade to Wagyu Ribeye +30
+- title: Filet Mignon </br> or upgrade to A5 Miyazaki Strip Loin +105
   desc: Charred lettuce, miso, and black garlic
 course_4:
 - title: Chocolate
   desc: Licorice, black walnut, and tobacco
-- title: Strawberries
-  desc: Champagne, vanilla sable, and Douglas fir
+- title: Blackberries
+  desc: Yogurt, almond cake, and amaro
 - title: Japanese Style Cheesecake
-  desc: Raspberries, buckwheat, and shiso
+  desc: Plum, buckwheat, and shiso
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: Midsummer Ice Cream
-  desc: Sugar cone,  granola, and berries
-- title: Fresh Sheep's Milk Cheese
-  desc: Nasturtium, blueberry, and rye
+- title: Stilton Cheese
+  desc: Fig and black walnut bread pudding
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/plate_cabbage.jpg"
