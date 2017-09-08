@@ -18,8 +18,8 @@ course_2:
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
 - title: Foie Gras
   desc: Figs and hazelnut
-- title: Garganelli
-  desc: Squab, black pepper, and tomato
+- title: Orecchiette
+  desc: Braised veal, caramelized whey, Newaukum Hill cheese
 - title: Malted Pancake
   desc: Fermented rapini, cabbage, and smelt bagna cauda
 - title: Dungeness Crab
@@ -36,7 +36,7 @@ course_3:
 - title: Lamb
   desc: Cauliflower, pearl onion, and mint
 - title: Filet Mignon </br> or upgrade to A5 Miyazaki Strip Loin +105
-  desc: Charred lettuce, miso, and black garlic
+  desc: Nardello pepper and hazelnut muhammara, grape saba
 course_4:
 - title: Chocolate
   desc: Licorice, black walnut, and tobacco
