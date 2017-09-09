@@ -46,8 +46,8 @@ course_4:
   desc: Plum, buckwheat, and shiso
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: Stilton Cheese
-  desc: Fig and black walnut bread pudding
+- title: 'Blue d''Auvergne '
+  desc: 'Fig and black walnut bread '
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/plate_cabbage.jpg"
