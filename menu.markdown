@@ -8,7 +8,7 @@ course_1:
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Summer Squash
-  desc: Fromage blanc and apricot
+  desc: Fromage blanc and nectarine
 - title: Cucumber
   desc: 'Geoduck and fennel '
 - title: Canlis Salad
