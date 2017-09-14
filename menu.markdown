@@ -40,8 +40,8 @@ course_3:
 course_4:
 - title: Chocolate
   desc: Licorice, black walnut, and tobacco
-- title: Blackberries
-  desc: Yogurt, almond cake, and amaro
+- title: Apple
+  desc: Hazelnut and milk chocolate
 - title: Japanese Style Cheesecake
   desc: Plum, buckwheat, and shiso
 - title: Soufflè
