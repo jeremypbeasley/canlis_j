@@ -18,8 +18,8 @@ course_2:
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
 - title: Foie Gras
   desc: Figs and hazelnut
-- title: Orecchiette
-  desc: Braised veal, caramelized whey, Newaukum Hill cheese
+- title: Garganelli
+  desc: Squab, tomato, and black pepper
 - title: Malted Pancake
   desc: Fermented rapini, cabbage, and smelt bagna cauda
 - title: Dungeness Crab
