@@ -31,8 +31,6 @@ course_3:
   desc: 'Wild rice, spruce tips, and green tomatoes '
 - title: Black Cod
   desc: 'Tomatoes, artichoke, and mussel '
-- title: Chicken
-  desc: Huckleberry, pine nut, and celery
 - title: Lamb
   desc: Cauliflower, pearl onion, and mint
 - title: Filet Mignon </br> or upgrade to A5 Miyazaki Strip Loin +105
