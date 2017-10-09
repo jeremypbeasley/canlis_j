@@ -34,7 +34,7 @@ course_3:
 - title: Lamb
   desc: Cauliflower, pearl onion, and mint
 - title: Filet Mignon </br> or upgrade to A5 Miyazaki Strip Loin +105
-  desc: Nardello pepper and hazelnut muhammara, grape saba
+  desc: Roasted peppers and hazelnut muhammara, and grape saba
 course_4:
 - title: Chocolate
   desc: Licorice, black walnut, and tobacco
