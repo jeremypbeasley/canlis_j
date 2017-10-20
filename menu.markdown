@@ -9,8 +9,8 @@ course_1:
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Summer Squash
   desc: Fromage blanc and nectarine
-- title: Cucumber
-  desc: 'Geoduck and fennel '
+- title: Miso Soup
+  desc: Geoduck, seaweed, and liberty apple
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
@@ -18,8 +18,8 @@ course_2:
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
 - title: Foie Gras
   desc: Figs and hazelnut
-- title: Garganelli
-  desc: Squab, tomato, and black pepper
+- title: Abalone
+  desc: Rice porridge, kohlrabi, and chrysanthemum
 - title: Malted Pancake
   desc: Fermented rapini, cabbage, and smelt bagna cauda
 - title: Dungeness Crab
@@ -32,7 +32,9 @@ course_3:
 - title: Black Cod
   desc: 'Tomatoes, artichoke, and mussel '
 - title: Lamb
-  desc: Cauliflower, pearl onion, and mint
+  desc: Brussels sprouts, chestnut, and mint
+- title: Duck
+  desc: Poached quince and chanterelle
 - title: Filet Mignon </br> or upgrade to A5 Miyazaki Strip Loin +105
   desc: Roasted peppers and hazelnut muhammara, and grape saba
 course_4:
@@ -45,7 +47,7 @@ course_4:
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: 'Bleu d''Auvergne '
-  desc: 'Fig and black walnut bread '
+  desc: Port glazed pear and black walnut bread
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/plate_cabbage.jpg"
