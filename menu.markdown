@@ -46,7 +46,7 @@ course_4:
   desc: Plum, buckwheat, and shiso
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: 'Bleu d''Auvergne '
+- title: Stilton
   desc: Port glazed pear and black walnut bread
 plates:
   plate1: "/uploads/plate_salad.jpg"
