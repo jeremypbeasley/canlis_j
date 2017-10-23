@@ -7,8 +7,8 @@ course_1:
   desc: Alaskan spot prawns with vermouth, butter, and lime
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
-- title: Summer Squash
-  desc: Fromage blanc and nectarine
+- title: Pumpkin
+  desc: Pumpkin seed and nori granola, sake, and snow sweet apple
 - title: Miso Soup
   desc: Geoduck, seaweed, and liberty apple
 - title: Canlis Salad
