@@ -16,10 +16,10 @@ course_1:
 course_2:
 - title: Steak Tartare
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
-- title: Foie Gras
-  desc: Figs and hazelnut
-- title: Abalone
-  desc: Rice porridge, kohlrabi, and chrysanthemum
+- title: Seared Foie Gras
+  desc: Preserved figs and hazelnut
+- title: Abalone Okayu
+  desc: Warm rice porridge with kohlrabi and chrysanthemum
 - title: Malted Pancake
   desc: Fermented rapini, cabbage, and smelt bagna cauda
 - title: Dungeness Crab
