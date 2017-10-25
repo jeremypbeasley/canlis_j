@@ -18,8 +18,8 @@ course_2:
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
 - title: Seared Foie Gras
   desc: Preserved figs and hazelnut
-- title: Abalone Okayu
-  desc: Warm rice porridge with kohlrabi and chrysanthemum
+- title: Garganelli
+  desc: Squab, tomato, and black pepper
 - title: Malted Pancake
   desc: Fermented rapini, cabbage, and smelt bagna cauda
 - title: Dungeness Crab
@@ -33,8 +33,6 @@ course_3:
   desc: 'Tomatoes, artichoke, and mussel '
 - title: Lamb
   desc: Brussels sprouts, chestnut, and mint
-- title: Duck
-  desc: Poached quince and chanterelle
 - title: Filet Mignon </br> or upgrade to A5 Miyazaki Strip Loin +105
   desc: Roasted peppers and hazelnut muhammara, and grape saba
 course_4:
