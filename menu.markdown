@@ -18,8 +18,8 @@ course_2:
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
 - title: Seared Foie Gras
   desc: Preserved figs and hazelnut
-- title: Garganelli
-  desc: Squab, tomato, and black pepper
+- title: 'Ravioli '
+  desc: Uni, yuzu, and pepper yubeshi
 - title: Malted Pancake
   desc: Fermented rapini, cabbage, and smelt bagna cauda
 - title: Dungeness Crab
