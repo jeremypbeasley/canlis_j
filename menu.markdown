@@ -3,8 +3,9 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 110
 course_1:
-- title: Peter Canlis Prawns
-  desc: Alaskan spot prawns with vermouth, butter, and lime
+- title: King Crab
+  desc: chanterelle mushrooms, radicchio, and kani misochanterelle mushrooms, radicchio,
+    and kani miso
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Pumpkin
@@ -21,7 +22,7 @@ course_2:
 - title: 'Ravioli '
   desc: Uni, yuzu, and pepper yubeshi
 - title: Malted Pancake
-  desc: Fermented rapini, cabbage, and smelt bagna cauda
+  desc: Fermented cabbage and sauce Pierre
 - title: Dungeness Crab
   desc: Polenta, cilantro, and truffle
 course_3:
