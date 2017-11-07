@@ -3,9 +3,8 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 110
 course_1:
-- title: King Crab
-  desc: chanterelle mushrooms, radicchio, and kani misochanterelle mushrooms, radicchio,
-    and kani miso
+- title: Peter Canlis Prawns
+  desc: Alaskan spot prawns with vermouth, butter, and lime
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Pumpkin
@@ -19,8 +18,8 @@ course_2:
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
 - title: Seared Foie Gras
   desc: Preserved figs and hazelnut
-- title: 'Ravioli '
-  desc: Uni, yuzu, and pepper yubeshi
+- title: King Crab
+  desc: Chanterelle mushrooms, radicchio, and kani miso
 - title: Malted Pancake
   desc: Fermented cabbage and sauce Pierre
 - title: Dungeness Crab
