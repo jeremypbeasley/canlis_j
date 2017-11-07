@@ -22,8 +22,8 @@ course_2:
   desc: Chanterelle mushrooms, radicchio, and kani miso
 - title: Malted Pancake
   desc: Fermented cabbage and sauce Pierre
-- title: Dungeness Crab
-  desc: Polenta, cilantro, and truffle
+- title: Abalone
+  desc: Rice porridge, kohlrabi, and chrysanthemum
 course_3:
 - title: Eggplant
   desc: Sesame, green tomato, and malted grains
