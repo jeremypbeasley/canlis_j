@@ -18,8 +18,8 @@ course_2:
   desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
 - title: Seared Foie Gras
   desc: Preserved figs and hazelnut
-- title: King Crab
-  desc: Chanterelle mushrooms, radicchio, and kani miso
+- title: Ravioli
+  desc: 'Uni, yuzu, and pepper yubeshi '
 - title: Malted Pancake
   desc: Fermented cabbage and sauce Pierre
 - title: Abalone
