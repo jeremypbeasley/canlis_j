@@ -3,19 +3,19 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 110
 course_1:
-- title: Peter Canlis Prawns
-  desc: Alaskan spot prawns with vermouth, butter, and lime
+- title: Steak Tartare
+  desc: A take on our original recipe, with capers, mustard, and egg yolk
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Pumpkin
-  desc: Pumpkin seed and nori granola, sake, and snow sweet apple
+  desc: Pumpkin seed and nori granola, sake, and 'snow sweet' apple
 - title: Miso Soup
-  desc: Geoduck, seaweed, and liberty apple
+  desc: Geoduck, seaweed, and 'liberty' apple
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
-- title: Steak Tartare
-  desc: Peter Canlis’ recipe, made with raw, Wagyu tenderloin*
+- title: Dungeness Crab
+  desc: Polenta, cilantro, and black truffle
 - title: Seared Foie Gras
   desc: Preserved figs and hazelnut
 - title: Ravioli
@@ -44,7 +44,7 @@ course_4:
   desc: Chocolate, pecan brittle, and hibiscus sorbet
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: Stilton
+- title: Stilton Cheese
   desc: Port glazed pear and black walnut bread
 plates:
   plate1: "/uploads/plate_salad.jpg"
