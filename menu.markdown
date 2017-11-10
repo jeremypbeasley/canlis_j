@@ -40,8 +40,8 @@ course_4:
   desc: Licorice, black walnut, and tobacco
 - title: Apple
   desc: Hazelnut and milk chocolate
-- title: Japanese Style Cheesecake
-  desc: Plum, buckwheat, and shiso
+- title: Persimmon
+  desc: Chocolate, pecan brittle, and hibiscus sorbet
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Stilton
