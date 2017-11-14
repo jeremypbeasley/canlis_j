@@ -14,10 +14,12 @@ course_1:
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
-- title: Dungeness Crab
-  desc: Polenta, cilantro, and black truffle
+- title: Rutabega
+  desc: 'Cooked in schmaltz with dungeness crab, quince, and kani miso
+
+'
 - title: Seared Foie Gras
-  desc: Preserved figs and hazelnut
+  desc: Preserved green strawberry and almond
 - title: Ravioli
   desc: 'Uni, yuzu, and pepper yubeshi '
 - title: Malted Pancake
