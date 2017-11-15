@@ -48,7 +48,7 @@ outro:
   desc: |-
     Call us at [(206)-298-9550](tel:2062989550) or email at [privatedining@canlis.com](mailto:privatedining@canlis.com)
 
-    Download the Private Dining Packet [here](http://canlis.com/uploads/2017%20Private%20Dining%20Packet-4d210f.pdf).
+    Download the Private Dining Packet [here](http://canlis.com/uploads/2017%20Private%20Dining%20Packet-1f712d.pdf).
 layout: privateevents
 ---
 
