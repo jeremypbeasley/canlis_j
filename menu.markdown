@@ -32,7 +32,7 @@ course_3:
 - title: Salmon
   desc: 'Wild rice, spruce tips, and green tomatoes '
 - title: Black Cod
-  desc: 'Tomatoes, artichoke, and mussel '
+  desc: Rojo Chiquito beans, kale, and squid broth
 - title: Lamb
   desc: Brussels sprouts, chestnut, and mint
 - title: Filet Mignon </br> or upgrade to A5 Miyazaki Strip Loin +105
