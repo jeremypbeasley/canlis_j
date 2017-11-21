@@ -29,8 +29,6 @@ course_2:
 course_3:
 - title: Eggplant
   desc: Sesame, green tomato, and malted grains
-- title: Salmon
-  desc: 'Wild rice, spruce tips, and green tomatoes '
 - title: Black Cod
   desc: Rojo Chiquito beans, kale, and squid broth
 - title: Lamb
