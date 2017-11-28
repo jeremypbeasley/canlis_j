@@ -3532,22 +3532,6 @@ body.Home .NavHamburger div span.Open:after {
   opacity: 0;
   animation: flicker_1 400ms 3.5s ease-out forwards;
 }
-.Title:hover svg .Midnight .I {
-  opacity: 0;
-  animation: flicker_1 600ms 2.1s ease-out 10 forwards;
-}
-.Title:hover svg .Midnight .G {
-  opacity: 0;
-  animation: flicker_1 700ms 2.2s ease-out 10 forwards;
-}
-.Title:hover svg .Midnight .H {
-  opacity: 0;
-  animation: flicker_1 300ms 2.3s ease-out 10 forwards;
-}
-.Title:hover svg .Midnight .M {
-  opacity: 0;
-  animation: flicker_1 400ms 2.5s ease-out 10 forwards;
-}
 .MidnightIntro .BlueBar {
   width: 100vw;
   height: 0px;
