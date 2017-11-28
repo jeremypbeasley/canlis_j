@@ -3439,8 +3439,7 @@ body.Home .NavHamburger div span.Open:after {
 }
 .MidnightIntro .Moon {
   width: 130px;
-  height: 0px;
-  padding-bottom: 100%;
+  height: 130px;
   position: absolute;
   top: 0vw;
   left: calc(50vw - 65px);
@@ -3451,7 +3450,7 @@ body.Home .NavHamburger div span.Open:after {
 }
 @media (min-width: 62em) {
   .MidnightIntro .Moon {
-    top: 17vw;
+    top: 12vw;
     transform: scale(1);
     animation: move_in_moon 3s 1s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards, fade_in 3s 1s ease-out forwards;
   }
@@ -3461,8 +3460,7 @@ body.Home .NavHamburger div span.Open:after {
 }
 .MidnightIntro .Skyline {
   width: 100vw;
-  height: 0px;
-  padding-bottom: 30%;
+  height: 30vw;
   position: absolute;
   top: 20vw;
   left: 0;
@@ -3534,8 +3532,7 @@ body.Home .NavHamburger div span.Open:after {
 }
 .MidnightIntro .BlueBar {
   width: 100vw;
-  height: 0px;
-  padding-bottom: 132%;
+  height: 132vw;
   position: absolute;
   top: 98vw;
   left: 0;
@@ -3545,7 +3542,7 @@ body.Home .NavHamburger div span.Open:after {
 @media (min-width: 48em) {
   .MidnightIntro .BlueBar {
     top: 75vw;
-    padding-bottom: 29vw;
+    height: 29vw;
   }
 }
 @media (min-width: 62em) {
@@ -3555,8 +3552,7 @@ body.Home .NavHamburger div span.Open:after {
 }
 .MidnightIntro .BlueBar .Details_Mobile {
   width: 87vw;
-  height: 0;
-  padding-bottom: 194.2%;
+  height: 194.2vw;
   overflow: hidden;
   position: absolute;
   top: 7vw;
@@ -3576,8 +3572,7 @@ body.Home .NavHamburger div span.Open:after {
   .MidnightIntro .BlueBar .Details_Desktop {
     display: block;
     width: 85vw;
-    height: 0;
-    padding-bottom: 14.2%;
+    height: 15vw;
     overflow: hidden;
     position: absolute;
     top: 7vw;
