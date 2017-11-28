@@ -3545,7 +3545,7 @@ body.Home .NavHamburger div span.Open:after {
 @media (min-width: 48em) {
   .MidnightIntro .BlueBar {
     top: 75vw;
-    padding-bottom: 29%;
+    padding-bottom: 29vw;
   }
 }
 @media (min-width: 62em) {
