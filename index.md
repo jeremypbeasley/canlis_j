@@ -4,10 +4,10 @@ headline: Please come<Br> over for dinner.
 headline_mobile: Please come over for dinner.
 section1_photo: "/uploads/exterior.jpg"
 section1_label: An invitation
-section1_body: The opportunity to meet and serve you is one we
-  don’t take lightly. Not for the past three generations at least. Come spend an evening.
-  Our favorite thing in the world is taking care of others, and few places can do
-  it quite like Canlis. 
+section1_body: The opportunity to meet and serve you is one we don’t take lightly.
+  Not for the past three generations at least. Come spend an evening. Our favorite
+  thing in the world is taking care of others, and few places can do it quite like
+  Canlis.
 section2_photo: "/uploads/kitchen_1.jpg"
 section2_body: Winner of the 2017 James Beard Outstanding Wine Program Award.
 section2_link: http://www.seattletimes.com/life/food-drink/tenth-times-the-charm-canlis-wins-a-james-beard-award/
