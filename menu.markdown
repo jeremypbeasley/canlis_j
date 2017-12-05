@@ -14,22 +14,22 @@ course_1:
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
-- title: Rutabega
+- title: Rutabaga
   desc: 'Cooked in schmaltz with dungeness crab, quince, and kani miso
 
 '
 - title: Seared Foie Gras
   desc: Preserved green strawberry and almond
-- title: Ravioli
-  desc: 'Uni, yuzu, and pepper yubeshi '
+- title: Fazzoletti
+  desc: Rabbit, parsnip, and lovage
 - title: Malted Pancake
   desc: Fermented cabbage and sauce Pierre
 - title: Abalone
   desc: Rice porridge, kohlrabi, and chrysanthemum
 course_3:
 - title: Eggplant
-  desc: Sesame, green tomato, and malted grains
-- title: Black Cod
+  desc: Sesame and malted grains
+- title: Sole
   desc: Rojo Chiquito beans, kale, and squid broth
 - title: Lamb
   desc: Brussels sprouts, chestnut, and mint
