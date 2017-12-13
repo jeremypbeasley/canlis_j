@@ -8,7 +8,7 @@ module.exports = function(grunt) {
       },
       compile: {
         files: {
-          'assets/master_new.css': '_resources/_styles/master.styl',
+          'assets/master_newer.css': '_resources/_styles/master.styl',
         }
       }
     },
@@ -21,7 +21,7 @@ module.exports = function(grunt) {
           'node_modules/jquery-validation/dist/jquery.validate.min.js',
           '_resources/_scripts/main.js'
         ],
-        dest: 'assets/master_new.js',
+        dest: 'assets/master_newer.js',
       }
     },
     exec: {
