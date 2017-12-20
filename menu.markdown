@@ -1,7 +1,7 @@
 ---
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
-menu_cost: 110
+menu_cost: 115
 course_1:
 - title: Steak Tartare
   desc: A take on our original recipe, with capers, mustard, and egg yolk
