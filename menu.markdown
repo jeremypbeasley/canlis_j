@@ -19,7 +19,7 @@ course_2:
 
 '
 - title: Seared Foie Gras
-  desc: Preserved green strawberry and almond
+  desc: Hazelnut and cranberry
 - title: Fazzoletti
   desc: Rabbit, parsnip, and lovage
 - title: Malted Pancake
@@ -30,7 +30,9 @@ course_3:
 - title: Eggplant
   desc: Sesame and malted grains
 - title: Sole
-  desc: Rojo Chiquito beans, kale, and squid broth
+  desc: Kale, beans, and squid broth
+- title: Pork
+  desc: Persimmon, mysost, and radicchio
 - title: Lamb
   desc: Brussels sprouts, chestnut, and mint
 - title: Filet Mignon </br> or upgrade to A5 Miyazaki Strip Loin +105
