@@ -32,7 +32,7 @@ course_3:
 - title: Sole
   desc: Kale, beans, and squid broth
 - title: Pork
-  desc: Persimmon, mysost, and radicchio
+  desc: Asian pear, mysost, and radicchio
 - title: Lamb
   desc: Brussels sprouts, chestnut, and mint
 - title: Filet Mignon </br> or upgrade to A5 Miyazaki Strip Loin +105
