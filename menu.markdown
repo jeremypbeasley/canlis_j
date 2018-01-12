@@ -9,7 +9,7 @@ course_1:
   desc: Pumpkin seed and nori granola, sake, and 'snow sweet' apple
 - title: Miso Soup
   desc: Geoduck, seaweed, and 'liberty' apple
-- title: Fluke + 40
+- title: 'Fluke '
   desc: caviar, potato, and citrus and herb gomashio
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
