@@ -46,7 +46,7 @@ course_4:
   desc: 'Tahitian vanilla and quince '
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: Stilton Cheese
+- title: Blue Cheese
   desc: Port glazed pear and black walnut bread
 plates:
   plate1: "/uploads/plate_salad.jpg"
