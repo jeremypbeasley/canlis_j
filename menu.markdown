@@ -3,14 +3,14 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 115
 course_1:
-- title: Steak Tartare
-  desc: A take on our original recipe, with capers, mustard, and egg yolk
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Pumpkin
   desc: Pumpkin seed and nori granola, sake, and 'snow sweet' apple
 - title: Miso Soup
   desc: Geoduck, seaweed, and 'liberty' apple
+- title: Fluke + 40
+  desc: caviar, potato, and citrus and herb gomashio
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
@@ -18,8 +18,8 @@ course_2:
   desc: 'Cooked in schmaltz with dungeness crab, quince, and kani miso
 
 '
-- title: Seared Foie Gras
-  desc: Hazelnut and cranberry
+- title: Steak Tartare
+  desc: A take on our original recipe, with capers, mustard, and egg yolk
 - title: Fazzoletti
   desc: Rabbit, parsnip, and lovage
 - title: Malted Pancake
@@ -42,8 +42,8 @@ course_4:
   desc: Licorice, black walnut, and tobacco
 - title: Apple
   desc: Hazelnut and milk chocolate
-- title: Persimmon
-  desc: Chocolate, pecan brittle, and hibiscus sorbet
+- title: Créme Brûlée
+  desc: 'Tahitian vanilla and quince '
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Stilton Cheese
