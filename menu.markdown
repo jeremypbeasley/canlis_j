@@ -10,7 +10,7 @@ course_1:
 - title: Miso Soup
   desc: Geoduck, seaweed, and 'liberty' apple
 - title: 'Fluke '
-  desc: caviar, potato, and citrus and herb gomashio
+  desc: Raw, with caviar, potato, and citrus and herb gomashio
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
