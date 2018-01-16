@@ -31,12 +31,12 @@ course_3:
   desc: Sesame and malted grains
 - title: Sole
   desc: Kale, beans, and squid broth
-- title: Pork
+- title: Duck
   desc: Asian pear, mysost, and radicchio
 - title: Lamb
   desc: Brussels sprouts, chestnut, and mint
 - title: Filet Mignon </br> or upgrade to A5 Miyazaki Strip Loin +105
-  desc: Roasted peppers and hazelnut muhammara, and grape saba
+  desc: Salsify, mushrooms, sansho pepper
 course_4:
 - title: Chocolate
   desc: Licorice, black walnut, and tobacco
