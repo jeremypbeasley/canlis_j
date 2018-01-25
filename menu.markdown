@@ -50,7 +50,7 @@ course_4:
   desc: Port glazed pear and black walnut bread
 plates:
   plate1: "/uploads/plate_salad.jpg"
-  plate2: "/uploads/plate_cabbage.jpg"
+  plate2: "/uploads/fish.jpg"
   plate3: "/uploads/plate_salad.jpg"
   plate4: "/uploads/plate_cabbage.jpg"
   plate5: "/uploads/plate_nysteak.jpg"
