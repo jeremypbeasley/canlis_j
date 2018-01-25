@@ -52,7 +52,7 @@ plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
   plate3: "/uploads/plate_salad.jpg"
-  plate4: "/uploads/fish.jpg"
+  plate4: "/uploads/FISH2.jpg"
   plate5: "/uploads/plate_nysteak.jpg"
   plate6: "/uploads/plate_chocolate.jpg"
   plate7: "/uploads/plate_oyster.png"
