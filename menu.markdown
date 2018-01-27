@@ -3,14 +3,14 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 115
 course_1:
+- title: Daikon Radish
+  desc: 'Lightly poached oysters, pear, and mustard greens '
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Pumpkin
   desc: Pumpkin seed and nori granola, sake, and 'snow sweet' apple
-- title: Miso Soup
-  desc: Geoduck, seaweed, and 'liberty' apple
 - title: 'Fluke '
-  desc: Raw, with caviar, potato, and citrus and herb gomashio
+  desc: Cured in kelp, with preserved kiwi berry and smoked bone broth gelée
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
@@ -27,10 +27,10 @@ course_2:
 - title: Abalone
   desc: Rice porridge, kohlrabi, and chrysanthemum
 course_3:
-- title: Eggplant
-  desc: Sesame and malted grains
+- title: Pullet Egg
+  desc: Glazed in onion broth, with oca root, turnip, and malted barley
 - title: Sole
-  desc: Kale, beans, and squid broth
+  desc: Lacinato kale, beans, and squid broth
 - title: Duck
   desc: Asian pear, mysost, and radicchio
 - title: Lamb
@@ -42,8 +42,8 @@ course_4:
   desc: Licorice, black walnut, and tobacco
 - title: Apple
   desc: Hazelnut and milk chocolate
-- title: Créme Brûlée
-  desc: 'Tahitian vanilla and quince '
+- title: Black Sesame
+  desc: 'Chocolate, blood orange, and yogurt '
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Blue Cheese
