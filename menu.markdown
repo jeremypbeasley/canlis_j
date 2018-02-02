@@ -25,7 +25,7 @@ course_2:
 - title: Malted Pancake
   desc: Fermented cabbage and sauce Pierre
 - title: Abalone
-  desc: Rice porridge, kohlrabi, and chrysanthemum
+  desc: Porridge of grains and seeds with kumquat and kombu
 course_3:
 - title: Pullet Egg
   desc: Glazed in onion broth, with oca root, turnip, and malted barley
@@ -35,7 +35,7 @@ course_3:
   desc: Asian pear, mysost, and radicchio
 - title: Lamb
   desc: Brussels sprouts, chestnut, and mint
-- title: Filet Mignon </br> or upgrade to A5 Miyazaki Strip Loin +105
+- title: Ribeye </br> or upgrade to Dry Aged Wagyu +25
   desc: Salsify, mushrooms, sansho pepper
 course_4:
 - title: Chocolate
