@@ -3,14 +3,14 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 115
 course_1:
+- title: 'Fluke '
+  desc: Cured in kelp, with preserved kiwi berry and a gelée of its smoked bones
 - title: Daikon Radish
   desc: 'Lightly poached oysters, pear, and mustard greens '
-- title: Beets
-  desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Pumpkin
   desc: Pumpkin seed and nori granola, sake, and 'snow sweet' apple
-- title: 'Fluke '
-  desc: Cured in kelp, with preserved kiwi berry and smoked bone broth gelée
+- title: Beets
+  desc: 'Soy milk, sunflower seed, radish, and honeycomb '
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
@@ -18,23 +18,23 @@ course_2:
   desc: 'Cooked in schmaltz with dungeness crab, quince, and kani miso
 
 '
-- title: Steak Tartare
-  desc: A take on our original recipe, with capers, mustard, and egg yolk
-- title: Fazzoletti
-  desc: Rabbit, parsnip, and lovage
 - title: Malted Pancake
   desc: Fermented cabbage and sauce Pierre
 - title: Abalone
   desc: Porridge of grains and seeds with kumquat and kombu
+- title: Steak Tartare
+  desc: A take on our original recipe, with capers, mustard, and egg yolk
+- title: Sea Urchin Ravioli
+  desc: Smoked pepper yubesh
 course_3:
 - title: Pullet Egg
   desc: Glazed in onion broth, with oca root, turnip, and malted barley
 - title: Sole
   desc: Lacinato kale, beans, and squid broth
-- title: Duck
-  desc: Asian pear, mysost, and radicchio
 - title: Lamb
   desc: Brussels sprouts, chestnut, and mint
+- title: Duck
+  desc: Asian pear, mysost, and radicchio
 - title: Ribeye </br> or upgrade to Dry Aged Wagyu +25
   desc: Salsify, mushrooms, sansho pepper
 course_4:
