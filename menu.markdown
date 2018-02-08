@@ -24,8 +24,8 @@ course_2:
   desc: Porridge of grains and seeds with kumquat and kombu
 - title: Steak Tartare
   desc: A take on our original recipe, with capers, mustard, and egg yolk
-- title: Sea Urchin Ravioli
-  desc: Smoked pepper yubesh
+- title: fazzoletti
+  desc: Rabbit, parsnip, and lovage
 course_3:
 - title: Pullet Egg
   desc: Glazed in onion broth, with oca root, turnip, and malted barley
