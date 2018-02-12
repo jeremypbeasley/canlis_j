@@ -33,9 +33,9 @@ course_3:
   desc: Lacinato kale, beans, and squid broth
 - title: Lamb
   desc: Brussels sprouts, chestnut, and mint
-- title: Duck
+- title: Pork
   desc: Asian pear, mysost, and radicchio
-- title: Ribeye </br> or upgrade to Dry Aged Wagyu +25
+- title: Filet </br> or upgrade to Dry Aged Wagyu +25
   desc: Salsify, mushrooms, sansho pepper
 course_4:
 - title: Chocolate
