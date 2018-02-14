@@ -28,7 +28,7 @@ course_2:
   desc: Rabbit, parsnip, and lovage
 course_3:
 - title: Pullet Egg
-  desc: Glazed in onion broth, with oca root, turnip, and malted barley
+  desc: Glazed in onion broth, turnip, and malted barley
 - title: Sole
   desc: Lacinato kale, beans, and squid broth
 - title: Lamb
