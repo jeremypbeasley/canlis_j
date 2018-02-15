@@ -35,7 +35,7 @@ course_3:
   desc: Brussels sprouts, chestnut, and mint
 - title: Pork
   desc: Asian pear, mysost, and radicchio
-- title: Filet </br> or upgrade to Dry Aged Wagyu +25
+- title: Ribeye </br> or upgrade to Dry Aged Wagyu +25
   desc: Salsify, mushrooms, sansho pepper
 course_4:
 - title: Chocolate
