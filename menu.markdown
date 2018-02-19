@@ -29,7 +29,7 @@ course_2:
 course_3:
 - title: Pullet Egg
   desc: Glazed in onion broth, turnip, and malted barley
-- title: Sole
+- title: Black Cod
   desc: Lacinato kale, beans, and squid broth
 - title: Lamb
   desc: Brussels sprouts, chestnut, and mint
@@ -38,16 +38,16 @@ course_3:
 - title: Ribeye </br> or upgrade to Dry Aged Wagyu +25
   desc: Salsify, mushrooms, sansho pepper
 course_4:
+- title: 'Grapefruit '
+  desc: Vanilla crémeux and long pepper meringue
 - title: Chocolate
   desc: Licorice, black walnut, and tobacco
-- title: Apple
-  desc: Hazelnut and milk chocolate
 - title: Black Sesame
   desc: 'Chocolate, blood orange, and yogurt '
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: Blue Cheese
-  desc: Port glazed pear and black walnut bread
+- title: DÉlice d'argental
+  desc: 'Triple creme with pain perdu, petit greens, and dates '
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
