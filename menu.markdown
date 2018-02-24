@@ -10,7 +10,7 @@ course_1:
 - title: Pumpkin
   desc: Pumpkin seed and nori granola, sake, and 'snow sweet' apple
 - title: Beets
-  desc: 'Soy milk, sunflower seed, radish, and honeycomb '
+  desc: 'Soy milk, sunflower seed, radish, and honey '
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
