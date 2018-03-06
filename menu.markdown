@@ -29,7 +29,7 @@ course_2:
 course_3:
 - title: Pullet Egg
   desc: Glazed in onion broth, turnip, and malted barley
-- title: Black Cod
+- title: Sole
   desc: Lacinato kale, beans, and squid broth
 - title: Lamb
   desc: Brussels sprouts, chestnut, and mint
@@ -46,7 +46,7 @@ course_4:
   desc: 'Chocolate, blood orange, and yogurt '
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: DÉlice d'argental
+- title: Vacherousse d'Argental
   desc: 'Triple creme with pain perdu, petit greens, and dates '
 plates:
   plate1: "/uploads/plate_salad.jpg"
