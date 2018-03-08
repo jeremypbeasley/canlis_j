@@ -35,7 +35,7 @@ course_3:
   desc: Brussels sprouts, chestnut, and mint
 - title: Pork
   desc: Asian pear, mysost, and radicchio
-- title: Ribeye </br> or upgrade to A5 +85
+- title: Ribeye </br> or upgrade to A5 +105
   desc: Salsify, mushrooms, sansho pepper
 course_4:
 - title: 'Grapefruit '
