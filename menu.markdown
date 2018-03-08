@@ -23,19 +23,19 @@ course_2:
 - title: Abalone
   desc: Porridge of grains and seeds with kumquat and kombu
 - title: Steak Tartare
-  desc: A take on our original recipe, with capers, mustard, and egg yolk
+  desc: A take on our original, with capers, mustard, and egg yolk
 - title: fazzoletti
   desc: Rabbit, parsnip, and lovage
 course_3:
 - title: Pullet Egg
   desc: Glazed in onion broth, turnip, and malted barley
-- title: Sole
+- title: Black Cod
   desc: Lacinato kale, beans, and squid broth
 - title: Lamb
   desc: Brussels sprouts, chestnut, and mint
 - title: Pork
   desc: Asian pear, mysost, and radicchio
-- title: Ribeye </br> or upgrade to Dry Aged Wagyu +25
+- title: Ribeye </br> or upgrade to A5 +85
   desc: Salsify, mushrooms, sansho pepper
 course_4:
 - title: 'Grapefruit '
@@ -47,7 +47,7 @@ course_4:
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Vacherousse d'Argental
-  desc: 'Triple creme with pain perdu, petit greens, and dates '
+  desc: 'Double creme  cheese with pain perdu, petit greens, and dates '
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
