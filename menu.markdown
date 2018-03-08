@@ -23,7 +23,7 @@ course_2:
 - title: Abalone
   desc: Porridge of grains and seeds with kumquat and kombu
 - title: Steak Tartare
-  desc: A take on our original, with capers, mustard, and egg yolk
+  desc: A take on our 1950's original, with capers, mustard, and egg yolk
 - title: fazzoletti
   desc: Rabbit, parsnip, and lovage
 course_3:
