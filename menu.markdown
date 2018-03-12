@@ -32,7 +32,7 @@ course_3:
 - title: Black Cod
   desc: Lacinato kale, beans, and squid broth
 - title: Lamb
-  desc: Brussels sprouts, chestnut, and mint
+  desc: Spring onions with a sauce of grilled brassica leaves and currant vinegar
 - title: Pork
   desc: Asian pear, mysost, and radicchio
 - title: Ribeye </br> or upgrade to A5 +105
