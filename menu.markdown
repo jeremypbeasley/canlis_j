@@ -34,20 +34,20 @@ course_3:
 - title: Lamb
   desc: Spring onions with a sauce of grilled brassica leaves and currant vinegar
 - title: Pork
-  desc: Asian pear, mysost, and radicchio
-- title: Ribeye </br> or upgrade to A5 +105
+  desc: Radicchio, roasted in quince butter, and mysost
+- title: Ribeye </br> or upgrade to A5 miyazaki +105
   desc: Salsify, mushrooms, sansho pepper
 course_4:
 - title: 'Grapefruit '
   desc: Vanilla crémeux and long pepper meringue
-- title: Chocolate
-  desc: Licorice, black walnut, and tobacco
+- title: Rhubarb
+  desc: Tarragon, white chocolate mousse, and black lime
 - title: Black Sesame
   desc: 'Chocolate, blood orange, and yogurt '
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: Vacherousse d'Argental
-  desc: 'Double creme  cheese with pain perdu, petit greens, and dates '
+- title: delice d'argental
+  desc: 'Triple crème cheese with pain perdu, petit greens, and dates '
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
