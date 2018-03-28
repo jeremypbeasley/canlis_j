@@ -46,8 +46,8 @@ course_4:
   desc: 'Chocolate, blood orange, and yogurt '
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: delice d'argental
-  desc: 'Triple crème cheese with pain perdu, petit greens, and dates '
+- title: Fougerus
+  desc: 'Double crème cheese with pain perdu, petit greens, and dates '
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
