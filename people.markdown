@@ -21,7 +21,7 @@ person2:
   name: Brian Canlis
   title: Owner
   photo: "/uploads/Brian_new.jpg"
-  bio: Brian Canlis returned home to Seattle in 2005 after 12 years of studying and
+  bio: 'Brian Canlis returned home to Seattle in 2005 after 12 years of studying and
     working abroad. For college he spent time in England, Austria, and Spain before
     finishing a hotel sciences degree at Cornell University. Commissioned as an Air
     Force officer in 2001, he led Elmendorf Air Force base in winning the coveted
@@ -31,8 +31,8 @@ person2:
     of state. (There’s a good chance you saw him saluting the President on CNN.) Brian
     is also an accomplished photographer, a role he plays both for Canlis and in his
     spare time. He is married to fellow photographer [Mackenzie Canlis](http://www.mackenziecanlis.com/)
-    and isn’t nearly as talented as she is, but she loves him anyway. Their daughter,
-    Marlow, was born in March 2016.
+    and isn’t nearly as talented as she is, but she loves him anyway. They live in
+    Shoreline with their two kids, Marlow and George. '
 person3:
   name: Brady Williams
   title: Executive Chef
