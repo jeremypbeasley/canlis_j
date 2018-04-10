@@ -32,7 +32,7 @@ course_3:
 - title: halibut*
   desc: Poached with kohlrabi and chrysanthemum
 - title: Lamb
-  desc: Smelt bagna cauda, green peach, and bitter greens
+  desc: 'Bitter greens, preserved green peach, and a sauce of cured smelt '
 - title: Pork
   desc: Radicchio, roasted in quince butter, and mysost
 - title: Ribeye </br> or upgrade to A5 miyazaki +105
