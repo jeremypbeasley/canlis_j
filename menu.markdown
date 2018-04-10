@@ -24,19 +24,19 @@ course_2:
   desc: Slowly roasted with onion jam, beans, and celeriac
 - title: Abalone
   desc: Porridge of grains and seeds with kumquat and kombu
-- title: fazzoletti
-  desc: Rabbit, parsnip, and lovage
+- title: rabbit dumplings
+  desc: Bok choy, ginger, and a broth of fermented chickpeas
 course_3:
 - title: Pullet Egg
   desc: Glazed in onion broth, turnip, and malted barley
 - title: halibut*
   desc: Poached with kohlrabi and chrysanthemum
 - title: Lamb
-  desc: Spring onions with a sauce of grilled brassica leaves and currant vinegar
+  desc: Smelt bagna cauda, green peach, and bitter greens
 - title: Pork
   desc: Radicchio, roasted in quince butter, and mysost
 - title: Ribeye </br> or upgrade to A5 miyazaki +105
-  desc: Salsify, mushrooms, sansho pepper
+  desc: Spring onions with a sauce of grilled brassica leaves and currant vinegar
 course_4:
 - title: 'Grapefruit '
   desc: Vanilla crémeux and long pepper meringue
@@ -46,7 +46,7 @@ course_4:
   desc: 'Chocolate, blood orange, and yogurt '
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: explorateur
+- title: brillat-savarin
   desc: 'Triple crème cheese with pain perdu, petit greens, and dates '
 plates:
   plate1: "/uploads/plate_salad.jpg"
