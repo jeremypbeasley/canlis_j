@@ -14,23 +14,23 @@ course_1:
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
-- title: Rutabaga
-  desc: 'Cooked in schmaltz with dungeness crab, quince, and kani miso
+- title: Dungeness Crab
+  desc: 'Kohlrabi and chrysanthemum
 
 '
 - title: Malted Pancake
   desc: Fermented cabbage and sauce Pierre
 - title: carrots
-  desc: Slowly roasted with onion jam, beans, and celeriac
+  desc: Onion jam, beans, and celeriac
 - title: Abalone
   desc: Porridge of grains and seeds with kumquat and kombu
-- title: rabbit dumplings
-  desc: Bok choy, ginger, and a broth of fermented chickpeas
+- title: Milled Wheat and Seaweed Fusilli
+  desc: Mussels and fermented green garlic
 course_3:
 - title: Pullet Egg
   desc: Glazed in onion broth, turnip, and malted barley
 - title: halibut*
-  desc: Poached with kohlrabi and chrysanthemum
+  desc: Fennel, fermented potato, and a sauce of Dungeness crab
 - title: Lamb
   desc: 'Bitter greens, preserved green peach, and a sauce of cured smelt '
 - title: Pork
