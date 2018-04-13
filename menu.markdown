@@ -20,7 +20,7 @@ course_2:
 '
 - title: Malted Pancake
   desc: Fermented cabbage and sauce Pierre
-- title: carrots
+- title: Carrots
   desc: Onion jam, beans, and celeriac
 - title: Abalone
   desc: Porridge of grains and seeds with kumquat and kombu
