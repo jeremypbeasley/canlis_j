@@ -9,8 +9,8 @@ course_1:
   desc: 'Lightly poached oysters, pear, and mustard greens '
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honey '
-- title: Steak Tartare
-  desc: A take on our 1950's original with capers, mustard, and egg yolk
+- title: Spot Prawns
+  desc: Nettles, tatsoi, butter, and vermouth
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
@@ -22,8 +22,8 @@ course_2:
   desc: Fermented cabbage and sauce Pierre
 - title: Carrots
   desc: Onion jam, beans, and celeriac
-- title: Abalone
-  desc: Porridge of grains and seeds with kumquat and kombu
+- title: Steak Tartare
+  desc: A take on our 1950's original with capers, mustard, and egg yolk
 - title: Milled Wheat and Seaweed Fusilli
   desc: Mussels and fermented green garlic
 course_3:
