@@ -9,13 +9,13 @@ course_1:
   desc: 'Lightly poached oysters, pear, and mustard greens '
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honey '
-- title: Spot Prawns
-  desc: Nettles, tatsoi, butter, and vermouth
+- title: Dungeness Crab
+  desc: Kohlrabi and chrysanthemum
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
-- title: Dungeness Crab
-  desc: 'Kohlrabi and chrysanthemum
+- title: Spot Prawns
+  desc: 'Nettles, tatsoi, butter, and vermouth
 
 '
 - title: Malted Pancake
