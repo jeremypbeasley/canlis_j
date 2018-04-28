@@ -14,10 +14,8 @@ course_1:
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
-- title: Spot Prawns
-  desc: 'Nettles, tatsoi, butter, and vermouth
-
-'
+- title: Abalone
+  desc: Porridge of grains and seeds with kumquat and kombu
 - title: Malted Pancake
   desc: Fermented cabbage and sauce Pierre
 - title: Carrots
