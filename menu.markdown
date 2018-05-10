@@ -40,12 +40,12 @@ course_4:
   desc: Vanilla crémeux and long pepper meringue
 - title: Rhubarb
   desc: Tarragon, white chocolate mousse, and black lime
-- title: Black Sesame
-  desc: 'Chocolate, blood orange, and yogurt '
+- title: Yogurt
+  desc: Honey, granola, and coffee
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: brillat-savarin
-  desc: 'Triple crème cheese with pain perdu, petit greens, and dates '
+- title: Cheese
+  desc: Poached rhubarb, green strawberries, and rye
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
