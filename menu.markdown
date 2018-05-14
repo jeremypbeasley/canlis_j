@@ -6,28 +6,28 @@ course_1:
 - title: 'Fluke '
   desc: Cured in kelp, with preserved kiwi berry and a gelée of its smoked bones
 - title: Daikon Radish
-  desc: 'Lightly poached oysters, pear, and mustard greens '
+  desc: 'Lightly poached oysters, turnip, pear, and mustard greens '
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honey '
-- title: Dungeness Crab
-  desc: Kohlrabi and chrysanthemum
+- title: Steak Tartare
+  desc: A take on our 1950's original with capers, mustard, and egg yolk
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
-- title: Abalone
-  desc: Porridge of grains and seeds with kumquat and kombu
+- title: Dungeness Crab
+  desc: Kohlrabi and chrysanthemum
+- title: Asparagus
+  desc: Hemp pudding, spruce, and arugula
 - title: Malted Pancake
-  desc: Fermented cabbage and sauce Pierre
-- title: Carrots
-  desc: Onion jam, beans, and celeriac
-- title: Steak Tartare
-  desc: A take on our 1950's original with capers, mustard, and egg yolk
+  desc: 'Fermented cabbage and sauce Pierre '
+- title: 'Abalone '
+  desc: Porridge of grains and seeds with kumquat and kombu
 - title: Milled Wheat and Seaweed Fusilli
   desc: Mussels and fermented green garlic
 course_3:
-- title: Pullet Egg
-  desc: Glazed in onion broth, turnip, and malted barley
-- title: halibut*
+- title: Smoked Carrots
+  desc: Onion jam, beans, and celeriac
+- title: Halibut*
   desc: Fennel, fermented potato, and a sauce of Dungeness crab
 - title: Lamb
   desc: 'Bitter greens, preserved green peach, and a sauce of cured smelt '
