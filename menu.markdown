@@ -3,27 +3,27 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 115
 course_1:
-- title: 'Fluke '
-  desc: Cured in kelp, with preserved kiwi berry and a gelée of its smoked bones
-- title: Daikon Radish
+- title: Radish
   desc: 'Lightly poached oysters, turnip, pear, and mustard greens '
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honey '
 - title: Steak Tartare
   desc: A take on our 1950's original with capers, mustard, and egg yolk
+- title: Asparagus
+  desc: Hemp pudding, spruce, and arugula
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
 - title: Dungeness Crab
   desc: Kohlrabi and chrysanthemum
-- title: Asparagus
-  desc: Hemp pudding, spruce, and arugula
 - title: Malted Pancake
   desc: 'Fermented cabbage and sauce Pierre '
 - title: 'Abalone '
   desc: Porridge of grains and seeds with kumquat and kombu
 - title: Milled Wheat and Seaweed Fusilli
   desc: Mussels and fermented green garlic
+- title: King Salmon
+  desc: Glazed in caramelized onion juice and grilled with peas and gari
 course_3:
 - title: Smoked Carrots
   desc: Onion jam, beans, and celeriac
