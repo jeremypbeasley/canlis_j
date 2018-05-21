@@ -32,7 +32,7 @@ course_3:
 - title: Lamb
   desc: 'Bitter greens, preserved green peach, and a sauce of cured smelt '
 - title: Pork
-  desc: Radicchio, roasted in quince butter, and mysost
+  desc: Radicchio, roasted in pear butter, and mysost
 - title: Ribeye </br> or upgrade to A5 miyazaki +105
   desc: Spring onions with a sauce of grilled brassica leaves and currant vinegar
 course_4:
