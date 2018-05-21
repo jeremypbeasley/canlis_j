@@ -1,7 +1,7 @@
 ---
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
-menu_cost: 115
+menu_cost: 125
 course_1:
 - title: Radish
   desc: 'Lightly poached oysters, turnip, pear, and mustard greens '
