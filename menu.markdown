@@ -18,8 +18,8 @@ course_2:
   desc: Kohlrabi and chrysanthemum
 - title: Malted Pancake
   desc: 'Fermented cabbage and sauce Pierre '
-- title: 'Abalone '
-  desc: Porridge of grains and seeds with kumquat and kombu
+- title: Wild Geoduck
+  desc: Wild geoduck with green tomato, artichoke, and hazelnut
 - title: Milled Wheat and Seaweed Fusilli
   desc: Mussels and fermented green garlic
 - title: King Salmon
