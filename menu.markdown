@@ -20,8 +20,8 @@ course_2:
   desc: 'Fermented cabbage and sauce Pierre '
 - title: Wild Geoduck
   desc: Wild geoduck with green tomato, artichoke, and hazelnut
-- title: Milled Wheat and Seaweed Fusilli
-  desc: Mussels and fermented green garlic
+- title: Rabbit
+  desc: Sausage and grilled liver with morels and a toasted rice ponzu
 - title: King Salmon
   desc: Glazed in caramelized onion juice and grilled with peas and gari
 course_3:
