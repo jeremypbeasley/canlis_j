@@ -30,7 +30,7 @@ course_3:
 - title: Halibut*
   desc: Fennel, fermented potato, and a sauce of Dungeness crab
 - title: Lamb
-  desc: 'Bitter greens, preserved green peach, and a sauce of cured smelt '
+  desc: Bitter greens, preserved green peach, and a sauce of cured smelt
 - title: Pork
   desc: Porcini mushrooms, white asparagus, and vin jaune
 - title: Ribeye </br> or upgrade to A5 miyazaki +105
