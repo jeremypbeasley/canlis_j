@@ -36,8 +36,8 @@ course_3:
 - title: Ribeye </br> or upgrade to A5 miyazaki +105
   desc: Spring onions with a sauce of grilled brassica leaves and currant vinegar
 course_4:
-- title: 'Grapefruit '
-  desc: Vanilla crémeux and long pepper meringue
+- title: 'Strawberry Mille Feuille '
+  desc: Roasted strawberry gelato, vanilla custard with lime and black pepper
 - title: Rhubarb
   desc: Tarragon, white chocolate mousse, and black lime
 - title: Yogurt
