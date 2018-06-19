@@ -10,12 +10,13 @@ wine_body_col1: |-
   Canlis became a world-class wine destination in 1997, the first year of its twenty-one consecutive Wine Spectator Magazine Grand Awards. The restaurant is one of a handful in the world to be trusted with the honor for that length of time. Since then, it has helped train four Master Sommeliers and nine advanced sommeliers. We’ve produced wines with Alois Kracher, Buty, Jean Milan, Hirsch, and Guiborat & Fils. We’ve routinely played hosts to the best winemakers and wineries in the world, like Château Latour, Grace Family, Penfolds, Cayuse, Piero Antinori, Angelo Gaja and Maria López de Heredia.
 
   Which is all, very fancy. What distinguishes the Canlis wine program and the sommeliers who run it is their singular ability to relate to other people, particularly those who just like to enjoy a bottle with dinner, and then move on.
-wine_body_col2: |-
-  The wine program at Canlis is founded on a team of educated wine professionals, the highest quality amenities, and the warm and reputable service for which Canlis is famous. There is also one very juicy wine list. We look forward to sharing the world of wine with you.
-
-  We invite you to <a href="/uploads/Canlis%20Wine%20List%204.25.18.pdf">download the list</a> and enjoy a good read, or skip it all together and let us do the work of finding the right wine for your evening.
-
-  All our wine is available for retail sale and delivery.
+wine_body_col2: "The wine program at Canlis is founded on a team of educated wine
+  professionals, the highest quality amenities, and the warm and reputable service
+  for which Canlis is famous. There is also one very juicy wine list. We look forward
+  to sharing the world of wine with you. \n\nWe invite you to <a href=\"/uploads/Canlis%20Wine%20List%206.19.18.pdf\">download
+  the list</a> and enjoy a good read, or skip it all together and let us do the work
+  of finding the right wine for your evening.\n\nAll our wine is available for retail
+  sale and delivery."
 lounge_title: The Lounge
 lounge_photo_1: "/uploads/lounge2.jpg"
 lounge_photo_2: "/uploads/bar_1.jpg"
