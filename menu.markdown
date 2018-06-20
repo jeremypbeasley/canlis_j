@@ -22,7 +22,7 @@ course_2:
   desc: Wild geoduck with green tomato, artichoke, and hazelnut
 - title: Rabbit
   desc: Sausage and grilled liver with morels and a toasted rice ponzu
-- title: King Salmon
+- title: Salmon
   desc: Glazed in caramelized onion juice and grilled with peas and gari
 course_3:
 - title: Smoked Carrots
