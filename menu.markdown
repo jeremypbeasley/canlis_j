@@ -34,7 +34,7 @@ course_3:
 - title: Pork
   desc: Porcini mushrooms, white asparagus, and vin jaune
 - title: Ribeye </br> or upgrade to A5 miyazaki +105
-  desc: Spring onions with a sauce of grilled brassica leaves and currant vinegar
+  desc: Spring onions with a sauce of grilled brassicas and preserved berrry vinegar
 course_4:
 - title: 'Strawberry Mille Feuille '
   desc: Roasted strawberry gelato, vanilla custard with lime and black pepper
