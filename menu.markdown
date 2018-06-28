@@ -32,8 +32,8 @@ course_3:
 - title: Lamb
   desc: Bitter greens, preserved green peach, and a sauce of cured smelt
 - title: Pork
-  desc: Porcini mushrooms, white asparagus, and vin jaune
-- title: Ribeye </br> or upgrade to A5 miyazaki +105
+  desc: Chantrelle mushrooms, white asparagus, and vin jaune
+- title: Ribeye </br> or upgrade to Wagyu Ribeye +50
   desc: Spring onions with a sauce of grilled brassicas and preserved berry vinegar
 course_4:
 - title: 'Strawberry Mille Feuille '
