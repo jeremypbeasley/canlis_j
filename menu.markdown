@@ -3,14 +3,14 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 125
 course_1:
-- title: Radish
-  desc: 'Lightly poached oysters, turnip, pear, and mustard greens '
-- title: Beets
-  desc: 'Soy milk, sunflower seed, radish, and honey '
-- title: Steak Tartare
-  desc: A take on our 1950's original with capers, mustard, and egg yolk
 - title: Asparagus
   desc: Hemp pudding, spruce, and arugula
+- title: Beets
+  desc: 'Soy milk, sunflower seed, radish, and honey '
+- title: Summer Squash
+  desc: Goat's milk ricotta, sesame, hyssop, and albacore bottarga
+- title: Steak Tartare
+  desc: A take on our 1950's original with capers, mustard, and egg yolk
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
