@@ -31,8 +31,8 @@ course_3:
   desc: Fennel, fermented potato, and a sauce of Dungeness crab
 - title: Lamb
   desc: Bitter greens, preserved green peach, and a sauce of cured smelt
-- title: Pork
-  desc: Chantrelle mushrooms, white asparagus, and vin jaune
+- title: Aged Duck
+  desc: Smoked cherries, chanterelles, and caramelized milk
 - title: Ribeye </br> or upgrade to Wagyu Ribeye +50
   desc: Spring onions with a sauce of grilled brassicas and preserved berry vinegar
 course_4:
