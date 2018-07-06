@@ -3,7 +3,7 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 125
 course_1:
-- title: Asparagus
+- title: Celtuce
   desc: Hemp pudding, spruce, and arugula
 - title: Beets
   desc: 'Soy milk, sunflower seed, radish, and honey '
@@ -31,7 +31,7 @@ course_3:
   desc: Fennel, fermented potato, and a sauce of Dungeness crab
 - title: Lamb
   desc: Bitter greens, preserved green peach, and a sauce of cured smelt
-- title: Aged Duck
+- title: Pork
   desc: Smoked cherries, chanterelles, and caramelized milk
 - title: Ribeye </br> or upgrade to Wagyu Ribeye +50
   desc: Spring onions with a sauce of grilled brassicas and preserved berry vinegar
