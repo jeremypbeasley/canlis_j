@@ -18,8 +18,8 @@ course_2:
   desc: Kohlrabi and chrysanthemum
 - title: Malted Pancake
   desc: 'Fermented cabbage and sauce Pierre '
-- title: Wild Geoduck
-  desc: Wild geoduck with green tomato, artichoke, and hazelnut
+- title: Strascinati
+  desc: Soured corn, basil, and goat cheese
 - title: Rabbit
   desc: Sausage and grilled liver with morels and a toasted rice ponzu
 - title: Salmon
