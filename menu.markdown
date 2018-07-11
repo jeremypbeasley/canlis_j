@@ -18,8 +18,8 @@ course_2:
   desc: Kohlrabi and chrysanthemum
 - title: Malted Pancake
   desc: 'Fermented cabbage and sauce Pierre '
-- title: Strascinati
-  desc: Soured corn, basil, and goat cheese
+- title: Soured Corn Strascinati
+  desc: Burnt wheat, basil, and goat cheese
 - title: Rabbit
   desc: Sausage and grilled liver with morels and a toasted rice ponzu
 - title: Salmon
@@ -36,8 +36,8 @@ course_3:
 - title: Ribeye </br> or upgrade to Wagyu Ribeye +50
   desc: Spring onions with a sauce of grilled brassicas and preserved berry vinegar
 course_4:
-- title: 'Strawberry Mille Feuille '
-  desc: Roasted strawberry gelato, vanilla custard with lime and black pepper
+- title: 'Raspberry Mille Feuille '
+  desc: Raspberry Sorbet, vanilla custard, and puff pastry
 - title: Rhubarb
   desc: Tarragon, white chocolate mousse, and black lime
 - title: Yogurt
