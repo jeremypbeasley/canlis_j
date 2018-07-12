@@ -5,10 +5,10 @@ menu_cost: 125
 course_1:
 - title: Celtuce
   desc: Hemp pudding, spruce, and arugula
-- title: Beets
-  desc: 'Soy milk, sunflower seed, radish, and honey '
 - title: Summer Squash
   desc: Goat's milk ricotta, sesame, hyssop, and albacore bottarga
+- title: Beets and Potatoes
+  desc: Wild blackberries, umeboshi, and fresh cream
 - title: Steak Tartare
   desc: A take on our 1950's original with capers, mustard, and egg yolk
 - title: Canlis Salad
