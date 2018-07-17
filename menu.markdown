@@ -3,10 +3,10 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 125
 course_1:
-- title: Celtuce
-  desc: Hemp pudding, spruce, and arugula
 - title: Summer Squash
   desc: Goat's milk ricotta, sesame, hyssop, and albacore bottarga
+- title: Vichyssoise
+  desc: Spot prawns, blueberries, and chamomile
 - title: Beets and Potatoes
   desc: Wild blackberries, umeboshi, and fresh cream
 - title: Steak Tartare
@@ -38,8 +38,8 @@ course_3:
 course_4:
 - title: 'Raspberry Mille Feuille '
   desc: Raspberry Sorbet, vanilla custard, and puff pastry
-- title: Rhubarb
-  desc: Tarragon, white chocolate mousse, and black lime
+- title: Blackberry
+  desc: Anise hyssop and white chocolate mousse
 - title: Yogurt
   desc: Honey, granola, and coffee
 - title: Soufflè
