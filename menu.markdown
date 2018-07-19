@@ -40,8 +40,8 @@ course_4:
   desc: Raspberry Sorbet, vanilla custard, and puff pastry
 - title: Blackberry
   desc: Anise hyssop and white chocolate mousse
-- title: Yogurt
-  desc: Honey, granola, and coffee
+- title: Cherries and Cucumbers
+  desc: Sweet and sour cherries, cucumber granita, and yogurt mousse
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Cheese
