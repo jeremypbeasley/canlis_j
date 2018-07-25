@@ -31,7 +31,7 @@ course_3:
   desc: Fennel, fermented potato, and a sauce of Dungeness crab
 - title: Lamb
   desc: Bitter greens, preserved green peach, and a sauce of cured smelt
-- title: Aged Duck
+- title: Pork
   desc: Smoked cherries, chanterelles, and caramelized milk
 - title: Ribeye </br> or Cote De Boeuf for two  + 30/per person
   desc: Spring onions with a sauce of grilled brassicas and preserved berry vinegar
