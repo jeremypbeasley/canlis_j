@@ -35,7 +35,7 @@ defaults:
     is_sold_out: false
     rsvp_button:
       url: "http://"
-      button_text: "Get tickets"
+      button_label: "Get tickets"
 gems:
 - jekyll-assets
 assets:
