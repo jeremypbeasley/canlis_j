@@ -14,9 +14,9 @@ defaults:
     type: pages
   values:
     layout: events
-    image: 
-    event_date: 
-    event_time: 
+    image:
+    event_date:
+    event_time:
     is_sold_out: false
     rsvp_button:
       url: http://
@@ -24,7 +24,7 @@ defaults:
 email: jeremy@jeremypbeasley.com
 description: Landmark fine-dining destination (since 1950s) offering Pacific NW fare
   in a midcentury-modern home.
-baseurl: 
+baseurl:
 url: http://canlis.com/
 twitter_username: canlis
 github_username: jeremypbeasley
@@ -36,6 +36,19 @@ exclude:
 - node_modules
 - package.json
 - README.md
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: events
+    image:
+    event_date:
+    event_time:
+    is_sold_out: false
+    rsvp_button:
+      url: "http://"
+      button_label: "Get tickets"
 gems:
 - jekyll-assets
 assets:
