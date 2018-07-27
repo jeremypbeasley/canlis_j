@@ -1,0 +1,31 @@
+{% include head.html %}
+
+<div class="EventsIntro">
+  <div class="row">
+    <div class="column col-xs-12 col-sm-6">
+      <img src="{{ page.image }}" class="EventsThumb"/>
+    </div>
+    <div class="column col-xs-12 col-sm-6">
+      <h1 class="Display1 EventsTitle mb4 mt4 d-mt0">{{ page.title }}</h1>
+      <p class="Caption mb4 d-mb0">
+        {{ page.event_date | date: '%B %d, %Y' }}
+        </br>{{ page.event_time }}
+      <p>
+      {% if page.is_sold_out == true %}
+        <p class="Caption EventSoldOutLabel mb8">Sold Out</p>
+      {% endif %}
+      {% if page.rsvp_button and page.is_sold_out == false %}
+        <div class="EventsButton mb8">
+          <a class="Caption" href="{{ page.rsvp_button.url }}">
+            {{ page.rsvp_button.button_text }}
+          </a>
+        </div>
+      {% endif %}
+      <div class="mb10">
+        {{ content | Markdownify }}
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include footer.html %}
