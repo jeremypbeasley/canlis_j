@@ -3,8 +3,8 @@ title: Name of the Big Party Goes Here
 date: 2018-07-26 19:22:00 -07:00
 image: "/uploads/zahav.jpg"
 rsvp_button:
-  url: "http://splashthat.com"
-  button_label: "Get Tickets"
+  url: http://splashthat.com
+  button_label: Get Tickets
 is_sold_out: false
 event_date: 2018-02-12 10:00:00 -08:00
 event_time: 5:00 PM - 8:00 PM
