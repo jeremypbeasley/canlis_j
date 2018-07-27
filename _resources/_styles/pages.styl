@@ -728,3 +728,79 @@ video {
 .BigPlaceholderSection.Small {
   height: 50vh;
 }
+
+// EVENTS PAGES
+
+.EventsIntro {
+  margin-top: 18vw;
+  position: relative;
+  z-index: 11;
+}
+
+@media tablet {
+  .EventsIntro {
+    margin-top: 9.5vw;
+    max-width: 75vw;
+    border-top: 1px solid black;
+  }
+}
+
+@media tablet {
+  .EventsIntro .row {
+    padding: 0;
+  }
+}
+
+@media tablet {
+  .EventsTitle {
+    margin-top: 5vw;
+  }
+}
+
+.EventsThumb {
+  margin-left: -6.5vw;
+  max-width: 100vw;
+  width: 100vw;
+}
+
+@media tablet {
+  .EventsThumb {
+    max-width: 120%;
+    width: 120%;
+  }
+}
+
+.EventsButton a {
+  border: 1px solid black;
+  box-shadow: 5px 5px 0px 0px black;
+  padding: 15px;
+  text-align: center;
+  transition: all 200ms ease-out;
+}
+
+.EventsButton a:hover {
+  background: black
+  color: white;
+  box-shadow: 0px 0px 0px 0px black;
+}
+
+.EventsButton a::before {
+  display: none;
+}
+
+.EventSoldOutLabel {
+  padding: 15px;
+  background: black;
+  color: white;
+}
+
+/* @media laptop {
+  .MenuIntro {
+    padding: 10vw 0 10vw 0;
+  }
+}
+@media bigscreen {
+  .MenuIntro {
+    padding: 18vw 0 15vw 0;
+  }
+} */
