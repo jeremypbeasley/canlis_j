@@ -1,5 +1,5 @@
 ---
-title: Milk Bar Ice Cream Social & Bake Sale
+title: Milk Bar        Ice Cream Social & Bake Sale
 date: 2018-07-28 19:17:00 -07:00
 image: "/uploads/National%20Ice%20Cream%20Day%20Soft%20Serve-20.JPG"
 event_date: 2018-08-12 00:00:00 -07:00
