@@ -6,7 +6,7 @@ event_date: 2018-08-12 00:00:00 -07:00
 event_time: 11am VIP entry, 12-4pm general admission
 ---
 
-**WHAT: ** A one day event to celebrate summer, indulgent eats, and the sweetness of friendship. Event includes all-ages games & activities and live music. Proceeds benefit the Queen Anne Farmers Market. 
+**WHAT** A one day event to celebrate summer, indulgent eats, and the sweetness of friendship. Event includes all-ages games & activities and live music. Proceeds benefit the Queen Anne Farmers Market. 
 
 **WHERE** In our parking lot! Which means no parking on site, so ride a bike or grab an Uber. Drop offs can be at the restaurant, or in the event of a line, at Thomas C Wales Park. 
 
