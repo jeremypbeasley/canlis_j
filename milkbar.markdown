@@ -8,7 +8,7 @@ event_time: 11am VIP entry, 12-4pm general admission
 
 **WHAT** A one day event to celebrate summer, indulgent eats, and the sweetness of friendship. Event includes all-ages games & activities and live music. Proceeds benefit the [Queen Anne Farmers Market.](https://qafma.net/)
 
-**WHERE** In our parking lot! Which means no parking on site, so ride a bike or grab an Uber. Drop offs can be at the restaurant, or in the event of a line, at Thomas C Wales Park. 
+**WHERE** In our parking lot! Which means no parking on site, so ride a bike or grab an Uber. Drop offs can be at the restaurant, or in the event of a line, at [Thomas C Wales Park. ](https://www.google.com/maps/place/Thomas+C.+Wales+Park/@47.6404319,-122.3473135,17z/data=!3m1!4b1!4m5!3m4!1s0x5490151a867fe2f5:0x8e0f0f853d36b65!8m2!3d47.6404319!4d-122.3451248)
 
 **PRICE** General admission is free. Menu prices range from $4 - $10. A fifty dollar donation to the Queen Anne Farmer's Market (for sale at the market August 2nd and 9th) allows early entrance, line skipping privilege, and an event poster designed by artist Marisol Ortega and signed by Christina Tosi.
 
