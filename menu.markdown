@@ -28,7 +28,7 @@ course_3:
 - title: Smoked Carrots
   desc: Onion jam, beans, and celeriac
 - title: Halibut*
-  desc: Fennel, fermented potato, and a sauce of Dungeness crab
+  desc: Fig leaf curry, celtuce, and puffed grains
 - title: Lamb
   desc: Bitter greens, preserved green peach, and a sauce of cured smelt
 - title: Pork
