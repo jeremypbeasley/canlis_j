@@ -14,7 +14,7 @@
       {% if page.is_sold_out == true %}
         <p class="Caption EventSoldOutLabel mb8">Sold Out</p>
       {% endif %}
-      {% if page.rsvp_button and page.is_sold_out == false %}
+      {% if page.rsvp_button.has_button == true and page.is_sold_out == false %}
         <div class="EventsButton mb8">
           <a class="Caption" href="{{ page.rsvp_button.url }}">
             {{ page.rsvp_button.button_label }}
