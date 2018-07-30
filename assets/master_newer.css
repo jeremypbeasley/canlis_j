@@ -3323,6 +3323,23 @@ video {
   background: #000;
   color: #fff;
 }
+.EventsIntro h2,
+.EventsIntro h3,
+.EventsIntro h4 {
+  font-size: 0.92rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+  font-family: "ApercuMono", Andale Mono, monospaced;
+  opacity: 1;
+  margin: 2em 0;
+}
+@media (min-width: 62em) {
+  .EventsIntro h2,
+  .EventsIntro h3,
+  .EventsIntro h4 {
+    font-size: 0.75rem;
+  }
+}
 body.Invert a {
   color: #d6d3d0;
 }
