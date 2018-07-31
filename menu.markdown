@@ -27,8 +27,8 @@ course_2:
 course_3:
 - title: Smoked Carrots
   desc: Onion jam, beans, and celeriac
-- title: Halibut*
-  desc: Fig leaf curry, celtuce, and puffed grains
+- title: Sea Bream*
+  desc: 'Crispy scales, fig leaf curry, celtuce, and green tomato '
 - title: Lamb
   desc: Bitter greens, preserved green peach, and a sauce of cured smelt
 - title: Pork
