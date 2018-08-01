@@ -2,7 +2,9 @@
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 125
-disclaimer: "A 20% service charge will be added to your final bill and is retained by Canlis.  All of these funds are distributed to our team and no additional gratuity is expected."
+disclaimer: A 20% service charge will be added to your final bill and is retained
+  by Canlis.  All of these funds are distributed to our team and no additional gratuity
+  is expected.
 course_1:
 - title: Summer Squash
   desc: Goat's milk ricotta, sesame, hyssop, and albacore bottarga
@@ -58,3 +60,4 @@ plates:
   plate8: "/uploads/plate_lamb.png"
 layout: menu
 ---
+
