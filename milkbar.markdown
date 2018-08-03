@@ -20,7 +20,7 @@ In our parking lot! Which means no parking on site, so ride a bike or grab an Ub
 
 ### Price
 
-General admission is free. Menu prices range from $4 - $10. A fifty dollar donation to the Queen Anne Farmer's Market (for sale at the market August 2nd and 9th) allows early entrance, line skipping privilege, and an event poster designed by artist Marisol Ortega and signed by Christina Tosi.
+General admission is free. Menu prices range from $4 - $10. A fifty dollar donation to the Queen Anne Farmer's Market (limited number for sale at the market August 9th) allows line skipping privileges!
 
 ### Details
 
