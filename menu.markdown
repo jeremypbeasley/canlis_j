@@ -47,8 +47,8 @@ course_4:
   desc: Sweet and sour cherries, cucumber granita, and yogurt mousse
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: Apres Soleil
-  desc: Apricot galette, mustard, and onions
+- title: Après Soleil
+  desc: Apricot galette, mustard, and caramelized onion
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
