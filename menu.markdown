@@ -12,8 +12,8 @@ course_1:
   desc: Spot prawns, blueberries, and chamomile
 - title: Beets and Potatoes
   desc: Wild blackberries, umeboshi, and fresh cream
-- title: Steak Tartare
-  desc: A take on our 1950's original with capers, mustard, and egg yolk
+- title: Albacore and Tomato
+  desc: In a vinaigrette of albacore, tomato, and bone marrow
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
