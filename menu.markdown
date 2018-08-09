@@ -39,8 +39,8 @@ course_3:
 - title: Ribeye </br> or Cote De Boeuf for two  + 30/per person
   desc: Spring onions with a sauce of grilled brassicas and preserved berry vinegar
 course_4:
-- title: 'Raspberry Mille Feuille '
-  desc: Raspberry Sorbet, vanilla custard, and puff pastry
+- title: 'Blueberry Mille Feuille '
+  desc: Lemon curd ice cream, vanilla custard, and bee pollen
 - title: Blackberry
   desc: Anise hyssop and white chocolate mousse
 - title: Cherries and Cucumbers
