@@ -18,9 +18,12 @@ intro:
 cache:
   title: The Caché
   capacity: 2 - 4 guests
-  desc: |-
-    Originally built as the owner’s office, this treetop niche quickly became the most exclusive table in Seattle. The Caché is an entirely private, intimate room on the 2nd floor of our restaurant with spectacular views across Lake Union and the Cascade Mountains. Amenities include a telescope, sound system, and chaise lounge.
-    A room rental charge of $150 applies.
+  desc: "Originally built as the owner’s office, this treetop niche quickly became
+    the most exclusive table in Seattle. The Caché is an entirely private, intimate
+    room on the 2nd floor of our restaurant with spectacular views across Lake Union
+    and the Cascade Mountains. Amenities include a telescope, sound system, and chaise
+    lounge.\nA room rental charge of $150 applies. Please call the main line 206-283-3313
+    to reserve. "
   photo: "/uploads/cache.png"
   photos:
   - "/uploads/privateevents_cache.jpg"
