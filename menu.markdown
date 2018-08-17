@@ -30,18 +30,18 @@ course_2:
 course_3:
 - title: Smoked Carrots
   desc: Onion jam, beans, and celeriac
-- title: Sea Bream*
+- title: Sea Bream
   desc: 'Crispy scales, fig leaf curry, peppers, and green tomato '
 - title: Lamb
-  desc: Bitter greens, preserved green peach, and a sauce of cured smelt
-- title: Pork
+  desc: Burnt and pickled eggplant with smelt bagna cauda verde
+- title: Aged Duck
   desc: Smoked cherries, chanterelles, and caramelized milk
 - title: Ribeye </br> or Cote De Boeuf for two  + 30/per person
   desc: Spring onions with a sauce of grilled brassicas and preserved berry vinegar
 course_4:
 - title: 'Blueberry Mille Feuille '
   desc: Lemon curd ice cream, vanilla custard, and bee pollen
-- title: Blackberry
+- title: Peach
   desc: Anise hyssop and white chocolate mousse
 - title: Cherries and Cucumbers
   desc: Sweet and sour cherries, cucumber granita, and yogurt mousse
