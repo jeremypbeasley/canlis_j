@@ -17,8 +17,9 @@ course_1:
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
-- title: Dungeness Crab
-  desc: Kohlrabi and chrysanthemum
+- title: Haiga Rice
+  desc: Simmered in a brown butter dashi with dungeness crab, preserved strawberries,
+    and hazelnuts
 - title: Malted Pancake
   desc: 'Fermented cabbage and sauce Pierre '
 - title: Soured Corn Strascinati
@@ -48,7 +49,7 @@ course_4:
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Après Soleil
-  desc: Apricot galette, mustard, and caramelized onion
+  desc: Plum galette, mustard, and caramelized onion
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
