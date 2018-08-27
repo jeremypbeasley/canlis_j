@@ -11,7 +11,7 @@ course_1:
 - title: Vichyssoise
   desc: Spot prawns, blueberries, and chamomile
 - title: Beets and Potatoes
-  desc: Wild blackberries, umeboshi, and fresh cream
+  desc: Huckleberries, umeboshi, and fresh cream
 - title: Albacore and Tomato
   desc: In a vinaigrette of albacore, tomato, and bone marrow
 - title: Canlis Salad
@@ -49,7 +49,7 @@ course_4:
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Après Soleil
-  desc: Plum galette, mustard, and caramelized onion
+  desc: Apple galette, mustard, and caramelized onion
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
