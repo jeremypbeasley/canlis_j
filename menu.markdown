@@ -26,7 +26,7 @@ course_2:
 - title: Rabbit
   desc: Sausage and grilled liver with lobster mushrooms and a toasted rice ponzu
 - title: Salmon
-  desc: Glazed in caramelized onion juice and grilled with peas and gari
+  desc: Glazed in caramelized onion juice and grilled with fava beans and gari
 course_3:
 - title: Smoked Carrots
   desc: Onion jam, beans, and celeriac
