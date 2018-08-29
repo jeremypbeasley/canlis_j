@@ -1,5 +1,46 @@
 $(document).ready(function() {
 
+  // HOME video
+
+  $("#bgvid").fadeTo( 600, 1 );
+  $(".Inverted.GlobalNav, .Inverted.AddressSidebar").hide();
+  // $(".Inverted.GlobalNav").show();
+  $(".Inverted.GlobalNav, .Inverted.AddressSidebar").css("opacity", 0);
+  $(".Inverted.GlobalNav, .Inverted.AddressSidebar").delay(1000).fadeTo( 600, 1 );
+
+  var vid = document.getElementById("bgvid");
+  var pauseButton = document.querySelector("#polina button");
+
+  if (window.matchMedia('(prefers-reduced-motion)').matches) {
+      vid.removeAttribute("autoplay");
+      vid.pause();
+      pauseButton.innerHTML = "Paused";
+  }
+
+  function vidFade() {
+    vid.classList.add("stopfade");
+  }
+
+  vid.addEventListener('ended', function()
+  {
+  // only functional if "loop" is removed
+  vid.pause();
+  // to capture IE10
+  vidFade();
+  });
+
+
+  pauseButton.addEventListener("click", function() {
+    vid.classList.toggle("stopfade");
+    if (vid.paused) {
+      vid.play();
+      pauseButton.innerHTML = "Pause";
+    } else {
+      vid.pause();
+      pauseButton.innerHTML = "Paused";
+    }
+  })
+
   // DYNAMIC RESY WIDGET
 
   $('.ResLink').click(function() {
@@ -33,7 +74,7 @@ $(document).ready(function() {
 
 });
 
-// Trigger Resy Widget for Midnight 
+// Trigger Resy Widget for Midnight
 
 $('.MidnightButton').click(function() {
   resyWidget.openModal(

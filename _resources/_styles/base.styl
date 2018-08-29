@@ -84,6 +84,9 @@ img {
     height: auto;
   }
 }
+/* .GlobalNav.Inverted {
+  opacity: 0;
+} */
 .GlobalNavInside {
   flex-direction: row;
   height: 100vh;
@@ -116,6 +119,9 @@ img {
   border: 0px;
   text-align: right;
   //transition: 200ms all ease-out;
+}
+.GlobalNav.Inverted li, .GlobalNav.Inverted li a {
+  color: white;
 }
 .SocialNav {
   margin-top: 2rem;
@@ -150,9 +156,6 @@ img {
   opacity: .5;
   border-bottom: none;
 }
-.SocialNav li a.Twitter {
-  background-image: url("/assets/_img/socialicon_twitter.svg")
-}
 .SocialNav li a.Instagram {
   background-image: url("/assets/_img/socialicon_insta_light.svg")
 }
@@ -160,6 +163,9 @@ img {
   .SocialNav li a.Instagram {
     background-image: url("/assets/_img/socialicon_insta.svg")
   }
+}
+.Inverted .SocialNav li a.Instagram {
+  background-image: url("/assets/_img/socialicon_insta_light.svg");
 }
 .NavHamburger {
   position: absolute;
