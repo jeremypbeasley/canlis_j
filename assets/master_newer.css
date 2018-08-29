@@ -1978,6 +1978,10 @@ img {
   border: 0px;
   text-align: right;
 }
+.GlobalNav.Inverted li,
+.GlobalNav.Inverted li a {
+  color: #fff;
+}
 .SocialNav {
   margin-top: 2rem;
   position: absolute;
@@ -2010,9 +2014,6 @@ img {
   opacity: 0.5;
   border-bottom: none;
 }
-.SocialNav li a.Twitter {
-  background-image: url("/assets/_img/socialicon_twitter.svg");
-}
 .SocialNav li a.Instagram {
   background-image: url("/assets/_img/socialicon_insta_light.svg");
 }
@@ -2020,6 +2021,9 @@ img {
   .SocialNav li a.Instagram {
     background-image: url("/assets/_img/socialicon_insta.svg");
   }
+}
+.Inverted .SocialNav li a.Instagram {
+  background-image: url("/assets/_img/socialicon_insta_light.svg");
 }
 .NavHamburger {
   position: absolute;
@@ -2663,7 +2667,6 @@ img {
   min-height: 90vh;
   padding-left: 7vw;
   padding-right: 7vw;
-  background: #fcfbfa;
   position: relative;
   display: flex;
   justify-content: center;
@@ -2677,7 +2680,7 @@ img {
     min-height: 100vh;
     margin: 0;
     padding: 0;
-    margin-bottom: -8vw;
+/* margin-bottom: -8vw; */
   }
   .Intro.Tall {
     margin-bottom: 6vw;
@@ -2686,18 +2689,34 @@ img {
     margin-left: 2vw;
   }
 }
-video {
-  position: relative;
+.HomeVideoBg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
   min-width: 100%;
   min-height: 100%;
-  width: 120vw;
-  height: 120vh;
-  z-index: -100;
-  background: url("//demosthenes.info/assets/images/polina.jpg") no-repeat;
-  background-size: cover;
-  transition: 1s opacity;
+  width: auto;
+  height: auto;
+  z-index: -101;
+  transform: translateX(-50%) translateY(-50%);
+  background: #131d1f;
 }
-.ReservePrompt {
+#bgvid {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  transform: translateX(-50%) translateY(-50%);
+  z-index: -100;
+  transition: 1s opacity;
+  background: #131d1f;
+  opacity: 0;
+}
+.AddressSidebar {
   position: absolute;
   left: 4vw;
   bottom: 4vw;
@@ -2706,9 +2725,13 @@ video {
   display: none;
 }
 @media (min-width: 62em) {
-  .ReservePrompt {
+  .AddressSidebar {
     display: block;
   }
+}
+.AddressSidebar.Inverted,
+.AddressSidebar.Inverted a {
+  color: #fff;
 }
 .HomePhoto1 {
   position: relative;

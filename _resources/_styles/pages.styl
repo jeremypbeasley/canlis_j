@@ -4,7 +4,6 @@
   min-height: 90vh;
   padding-left: 7vw;
   padding-right: 7vw;
-  background: color-background;
   position: relative;
   display: flex;
   justify-content: center;
@@ -18,7 +17,7 @@
     min-height: 100vh;
     margin: 0;
     padding: 0;
-    margin-bottom: -8vw;
+    /* margin-bottom: -8vw; */
     //text-align: center;
   }
   .Intro.Tall {
@@ -31,22 +30,35 @@
 
 // HOME
 
-video {
-  position: relative;
-  // top: 50%;
-  // left: 50%;
+.HomeVideoBg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
   min-width: 100%;
   min-height: 100%;
-  width: 120vw;
-  height: 120vh;
-  z-index: -100;
-  // transform: translateX(-50%) translateY(-50%);
- background: url('//demosthenes.info/assets/images/polina.jpg') no-repeat;
-  background-size: cover;
-  transition: 1s opacity;
+  width: auto;
+  height: auto;
+  z-index: -101;
+  transform: translateX(-50%) translateY(-50%);
+  background: #131D1F;
 }
 
-.ReservePrompt {
+#bgvid {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  transform: translateX(-50%) translateY(-50%);
+  z-index: -100;
+  transition: 1s opacity;
+  background: #131D1F;
+  opacity: 0;
+}
+.AddressSidebar {
   position: absolute;
   left: 4vw;
   bottom: 4vw;
@@ -55,10 +67,15 @@ video {
   display: none;
 }
 @media laptop {
-  .ReservePrompt {
+  .AddressSidebar {
     display: block;
   }
 }
+
+.AddressSidebar.Inverted, .AddressSidebar.Inverted a {
+  color: white;
+}
+
 .HomePhoto1 {
   position: relative;
   width: 100vw;
