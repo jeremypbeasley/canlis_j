@@ -34,7 +34,7 @@ course_3:
   desc: 'Crispy scales, fig leaf curry, peppers, and green tomato '
 - title: Lamb
   desc: Burnt and pickled eggplant with smelt bagna cauda verde
-- title: Aged Duck
+- title: Pork
   desc: Smoked cherries, chanterelles, and caramelized milk
 - title: Ribeye </br> or Cote De Boeuf for two  + 30/per person
   desc: Spring onions with a sauce of grilled brassicas and preserved berry vinegar
