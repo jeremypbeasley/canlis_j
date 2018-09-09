@@ -14,7 +14,7 @@ intro:
     The rooms range in size, accommodating from 2 - 100 guests. We gladly welcome
     rehearsal dinners, wedding receptions, family reunions, anniversary parties, business
     dinners and board meetings, heads of state, presidential dignitaries and grandmothers.
-  photo: "/uploads/original-open-uri20130531-2-uzys54.jpg"
+  photo: "/uploads/pent%20web2.jpg"
 cache:
   title: The Caché
   capacity: 2 - 4 guests
