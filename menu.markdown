@@ -30,8 +30,8 @@ course_2:
 course_3:
 - title: Smoked Carrots
   desc: Onion jam, beans, and celeriac
-- title: Sea Bream
-  desc: 'Crispy scales, fig leaf curry, peppers, and green tomato '
+- title: Halibut
+  desc: 'Fig leaf curry, peppers, and green tomato '
 - title: Lamb
   desc: 'Burnt and pickled eggplant with smelt bagna cauda '
 - title: Pork
