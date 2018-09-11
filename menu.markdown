@@ -30,14 +30,14 @@ course_2:
 course_3:
 - title: Smoked Carrots
   desc: Onion jam, beans, and celeriac
-- title: Halibut
-  desc: 'Fig leaf curry, peppers, and green tomato '
+- title: Sea Bream
+  desc: 'Crispy scales, fig leaf curry, peppers, and green tomato '
 - title: Lamb
   desc: 'Burnt and pickled eggplant with smelt bagna cauda '
 - title: Pork
   desc: Smoked plums, chanterelles, and caramelized milk
 - title: Ribeye </br> or Cote De Boeuf for two  + 30/per person
-  desc: Spring onions with a sauce of grilled brassicas and preserved berry vinegar
+  desc: Radicchio, rutabaga, and fermented garlic
 course_4:
 - title: 'Blueberry Mille Feuille '
   desc: Lemon curd ice cream, vanilla custard, and bee pollen
