@@ -8,7 +8,7 @@ course_1:
 - title: Summer Squash
   desc: Goat's milk ricotta, sesame, hyssop, and albacore bottarga
 - title: Vichyssoise
-  desc: Spot prawns, blueberries, and chamomile
+  desc: Spot prawns, grapes, and chamomile
 - title: Beets and Potatoes
   desc: Huckleberries, umeboshi, and fresh cream
 - title: Albacore and Tomato
