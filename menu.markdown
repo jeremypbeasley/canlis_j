@@ -24,14 +24,14 @@ course_2:
 - title: Soured Corn Strascinati
   desc: Burnt wheat, basil, and goat cheese
 - title: Rabbit
-  desc: Sausage and grilled liver with lobster mushrooms and a toasted rice ponzu
+  desc: Sausage and grilled liver with mushrooms and a toasted rice ponzu
 - title: Salmon
   desc: Glazed in caramelized onion juice and grilled with green beans and gari
 course_3:
 - title: Smoked Carrots
   desc: Onion jam, beans, and celeriac
-- title: Sea Bream
-  desc: 'Crispy scales, fig leaf curry, peppers, and green tomato '
+- title: Halibut
+  desc: 'Fig leaf curry, peppers, and green tomato '
 - title: Lamb
   desc: 'Burnt and pickled eggplant with smelt bagna cauda '
 - title: Pork
