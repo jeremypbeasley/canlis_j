@@ -6,7 +6,7 @@ disclaimer: A 20% service charge will be added to your final bill and is retaine
   by Canlis. No additional gratuity is expected.
 course_1:
 - title: Summer Squash
-  desc: Goat's milk ricotta, sesame, hyssop, and albacore bottarga
+  desc: Goat's milk ricotta, sesame, hyssop, and mullet bottarga
 - title: Vichyssoise
   desc: Spot prawns, grapes, and chamomile
 - title: Beets and Potatoes
@@ -39,8 +39,8 @@ course_3:
 - title: Ribeye </br> or Cote De Boeuf for two  + 30/per person
   desc: Radicchio, rutabaga, and fermented garlic
 course_4:
-- title: 'Blueberry Mille Feuille '
-  desc: Lemon curd ice cream, vanilla custard, and bee pollen
+- title: Apple Confit
+  desc: Pâte feulleteèe, vanilla chantilly, and applewood cream
 - title: Peach
   desc: Anise hyssop and white chocolate mousse
 - title: Cherries and Cucumbers
