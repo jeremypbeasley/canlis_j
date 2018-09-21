@@ -40,7 +40,7 @@ course_3:
   desc: Radicchio, rutabaga, and fermented garlic
 course_4:
 - title: Apple Confit
-  desc: Pâte feulleteèe, vanilla chantilly, and applewood cream
+  desc: Pâte feulletèe, vanilla chantilly, and applewood cream
 - title: Peach
   desc: Anise hyssop and white chocolate mousse
 - title: Cherries and Cucumbers
