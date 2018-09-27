@@ -28,10 +28,10 @@ course_2:
 - title: Salmon
   desc: Glazed in caramelized onion juice and grilled with green beans and gari
 course_3:
-- title: Smoked Carrots
-  desc: Onion jam, beans, and celeriac
+- title: Chewy Carrots
+  desc: Applewood-smoked with onion jam, ubeshi beans, and celeriac
 - title: Sea Bream
-  desc: Crispy scales, fig leaf curry, peppers, and husk cherries
+  desc: Crisped scales, fig leaf curry, peppers, and husk cherries
 - title: Lamb
   desc: 'Burnt and pickled eggplant with smelt bagna cauda '
 - title: Pork
@@ -40,7 +40,7 @@ course_3:
   desc: Radicchio, rutabaga, and fermented garlic
 course_4:
 - title: Apple Confit
-  desc: Pâte feulletèe, vanilla chantilly, and applewood cream
+  desc: Vanilla chantilly, puff pastry, and applewood cream
 - title: Peach
   desc: Anise hyssop and white chocolate mousse
 - title: Cherries and Cucumbers
@@ -48,7 +48,7 @@ course_4:
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Après Soleil
-  desc: Apple galette, mustard, and caramelized onion
+  desc: Unpasteurized Swiss cheese served with fig galette and caramelized onions
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
