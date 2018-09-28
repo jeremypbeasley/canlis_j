@@ -5,14 +5,14 @@ menu_cost: 135
 disclaimer: A 20% service charge will be added to your final bill and is retained
   by Canlis. No additional gratuity is expected.
 course_1:
-- title: Summer Squash
-  desc: Goat's milk ricotta, sesame, hyssop, and mullet bottarga
+- title: Bonito and Tomato
+  desc: In a vinaigrette of bonito, tomato, and bone marrow
 - title: Vichyssoise
   desc: Spot prawns, grapes, and chamomile
 - title: Beets and Potatoes
   desc: Huckleberries, umeboshi, and fresh cream
-- title: Albacore and Tomato
-  desc: In a vinaigrette of albacore, tomato, and bone marrow
+- title: Foie Gras
+  desc: Quince, chestnut pudding, and brioche
 - title: Canlis Salad
   desc: Our great grandmother’s recipe, with bacon, mint, and lemon
 course_2:
