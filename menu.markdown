@@ -47,8 +47,8 @@ course_4:
   desc: Sweet and sour cherries, cucumber granita, and yogurt mousse
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: Après Soleil
-  desc: Unpasteurized Swiss cheese served with fig galette and caramelized onions
+- title: 'Cirone '
+  desc: Raw cow's milk cheese served with fig galette and caramelized onions
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
