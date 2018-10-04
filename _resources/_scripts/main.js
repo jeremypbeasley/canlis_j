@@ -1,11 +1,23 @@
 $(document).ready(function() {
 
-  // HOME video
+  // DYNAMIC RESY WIDGET
+
+  $('.ResLink').click(function() {
+    resyWidget.openModal({
+      "venueId":1009,
+      "apiKey":"ID6KeKVfi4DZDk013RH9vP1nfYnQd57s",
+      "replace":true
+    });
+  });
+
+  // Drone video on home page
 
   $("#bgvid").fadeTo( 600, 1 );
+
   $(".Inverted.GlobalNav, .Inverted.AddressSidebar").hide();
-  // $(".Inverted.GlobalNav").show();
+
   $(".Inverted.GlobalNav, .Inverted.AddressSidebar").css("opacity", 0);
+
   $(".Inverted.GlobalNav, .Inverted.AddressSidebar").delay(1000).fadeTo( 600, 1 );
 
   var vid = document.getElementById("bgvid");
@@ -21,14 +33,11 @@ $(document).ready(function() {
     vid.classList.add("stopfade");
   }
 
-  vid.addEventListener('ended', function()
-  {
-  // only functional if "loop" is removed
-  vid.pause();
-  // to capture IE10
-  vidFade();
+  vid.addEventListener('ended', function() {
+    vid.pause();
+    // to capture IE10
+    vidFade();
   });
-
 
   pauseButton.addEventListener("click", function() {
     vid.classList.toggle("stopfade");
@@ -40,16 +49,6 @@ $(document).ready(function() {
       pauseButton.innerHTML = "Paused";
     }
   })
-
-  // DYNAMIC RESY WIDGET
-
-  $('.ResLink').click(function() {
-    resyWidget.openModal({
-      "venueId":1009,
-      "apiKey":"ID6KeKVfi4DZDk013RH9vP1nfYnQd57s",
-      "replace":true
-    });
-  });
 
   // MOBILE NAV
 
