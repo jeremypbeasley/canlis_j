@@ -5,3 +5,4 @@ _site
 node_modules
 .asset-cache
 npm-debug.log
+*.mp4
