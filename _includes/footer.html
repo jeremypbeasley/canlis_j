@@ -48,10 +48,12 @@ Seattle, WA <br>98109</a></p>
   );
 </script>
 
+<!-- Ensure the logo, navigation, and address are inverted (white) only on the home page due to dark background video -->
 {% if page.layout == 'home' %}
   <script>
     $(".GlobalNav.ShowDesktop").addClass("Inverted");
     $(".AddressSidebar").addClass("Inverted");
+    $(".NavHamburger").addClass("Inverted");
     $('.Logo').hide();
   </script>
 {% else %}

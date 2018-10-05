@@ -1,5 +1,6 @@
 ---
 title: Home
+intro_video: https://cdn2.dropmarkusercontent.com/39456/e6001c400d2a4e4e1b4238377da9b42dbae7763886a048f3be8d303198d32e42/Canlis_Moorise_Dos2.mp4?Expires=1538759966&Signature=k83YxuXfslahUIcZkTrkP8~OeoD8OVd7Yjss6p-6DaUoasOeFcBStCwJJLNY~NXU5XQPnQT8s09h6P7buBd-7fEm76K2dAxNL~atRLATCSW9d9nDcPQ7Xu0RN9LWcVRcWgesJGQ61J~ZxyZHjtcr0hpmVZRZTScwomoAfCPbHqUpMGxc4PhZYIsOPfzqn-3ZOiXNEnCP3TW3P78XKH21QztRb-CIfiedr~HhKRX0bZVoAsntMtvFmIFgibbBLba1W0-yZBMV0eq65kH53pN-CnwQtdKixTdoRw3ehX0Kqq~6RLblL~2pUkQxqHMz-hf~JQYKNhR6kQXKjxVdJwSAUw__&Key-Pair-Id=APKAITQYWVEN757ZA4KQ
 headline: Please come<Br> over for dinner.
 headline_mobile: Please come over for dinner.
 section1_photo: "/uploads/fish.jpg"
@@ -19,8 +20,8 @@ section3_body: This storied building was first designed by Roland Terry in 1950.
   light and stunning views of Seattle, Lake Union, and the Cascade mountain range.
 accolades_body: "“A Canlis Salad, when properly prepared, is a revelation.”"
 accolades_credit: "- Sam Sifton, NYT"
-homephoto4: "/uploads/Exterior_website.jpg"
-homephoto5: "/uploads/plate_slate2.jpg"
+homephoto4: "/uploads/tree.jpg"
+homephoto5: "/uploads/berries.jpg"
 homephoto6: "/uploads/prepping2.jpg"
 layout: home
 ---
