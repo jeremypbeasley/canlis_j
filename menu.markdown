@@ -29,7 +29,7 @@ course_2:
   desc: Glazed in caramelized onion juice and grilled with green beans and gari
 course_3:
 - title: Chewy Carrots
-  desc: Applewood-smoked with onion jam, ubeshi beans, and celeriac
+  desc: Applewood-smoked with onion jam, yubeshi beans, and celeriac
 - title: Sea Bream
   desc: Crisped scales, fig leaf curry, peppers, and husk cherries
 - title: Lamb
