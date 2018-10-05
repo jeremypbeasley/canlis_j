@@ -12846,12 +12846,6 @@ $(document).ready(function() {
 
   $("#bgvid").fadeTo( 600, 1 );
 
-  $(".Inverted.GlobalNav, .Inverted.AddressSidebar").hide();
-
-  $(".Inverted.GlobalNav, .Inverted.AddressSidebar").css("opacity", 0);
-
-  $(".Inverted.GlobalNav, .Inverted.AddressSidebar").delay(1000).fadeTo( 600, 1 );
-
   var vid = document.getElementById("bgvid");
   var pauseButton = document.querySelector("#polina button");
 
@@ -12865,26 +12859,16 @@ $(document).ready(function() {
     vid.classList.add("stopfade");
   }
 
-  vid.addEventListener('ended', function() {
-    vid.pause();
-    // to capture IE10
-    vidFade();
-  });
-
-  pauseButton.addEventListener("click", function() {
-    vid.classList.toggle("stopfade");
-    if (vid.paused) {
-      vid.play();
-      pauseButton.innerHTML = "Pause";
-    } else {
-      vid.pause();
-      pauseButton.innerHTML = "Paused";
-    }
-  })
+  // vid.addEventListener('ended', function() {
+  //   vid.pause();
+  //   vidFade();
+  // });
 
   // MOBILE NAV
 
   $('.GlobalNav.ShowMobile').hide();
+
+  console.log("closed")
 
   var navOpen = false;
   $('.NavHamburger').click(function() {
@@ -12903,17 +12887,4 @@ $(document).ready(function() {
     }
   });
 
-});
-
-// Trigger Resy Widget for Midnight
-
-$('.MidnightButton').click(function() {
-  resyWidget.openModal(
-    {
-      "venueId":1009,
-      "apiKey":"ID6KeKVfi4DZDk013RH9vP1nfYnQd57s",
-      "replace":true,
-      "date":"2017-12-31"
-    }
-  )
 });
