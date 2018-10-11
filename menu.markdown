@@ -21,8 +21,8 @@ course_2:
     and hazelnuts
 - title: Malted Pancake
   desc: 'Fermented cabbage and sauce Pierre '
-- title: Soured Corn Strascinati
-  desc: Burnt wheat, basil, and goat cheese
+- title: White Truffle
+  desc: Scrambled eggs and onion soubise
 - title: Rabbit
   desc: Sausage and grilled liver with mushrooms and a toasted rice ponzu
 - title: Salmon
@@ -35,7 +35,7 @@ course_3:
 - title: Lamb
   desc: 'Burnt and pickled eggplant with smelt bagna cauda '
 - title: Pork
-  desc: Smoked plums, chanterelles, and caramelized milk
+  desc: Smoked pears, chanterelles, and caramelized milk
 - title: Ribeye </br> or Cote De Boeuf for two  + 30/per person
   desc: Radicchio, rutabaga, and fermented garlic
 course_4:
