@@ -21,8 +21,8 @@ course_2:
     and hazelnuts
 - title: Malted Pancake
   desc: 'Fermented cabbage and sauce Pierre '
-- title: White Truffle
-  desc: Scrambled eggs and onion soubise
+- title: Soured Corn Strascinati
+  desc: Burnt wheat pasta, basil, and goat cheese
 - title: Rabbit
   desc: Sausage and grilled liver with mushrooms and a toasted rice ponzu
 - title: Salmon
