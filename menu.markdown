@@ -41,10 +41,10 @@ course_3:
 course_4:
 - title: Apple Confit
   desc: Vanilla chantilly, puff pastry, and applewood cream
-- title: Peach
-  desc: Anise hyssop and white chocolate mousse
 - title: Cherries and Cucumbers
   desc: Sweet and sour cherries, cucumber granita, and yogurt mousse
+- title: Pumpkin
+  desc: Roasted pumpkin with spices, brown sugar churro, and chocolate
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: 'Cirone '
