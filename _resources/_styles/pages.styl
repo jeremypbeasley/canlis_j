@@ -31,7 +31,18 @@
 // HOME
 
 .HomeIntro {
-  margin-bottom: 10vw;
+  margin-bottom: -6vw;
+  background-image: url(/uploads/exterior2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+
+@media laptop {
+  .HomeIntro {
+    margin-bottom: 10vw;
+    background-image: none;
+  }
 }
 
 .HomeLogo {
@@ -44,7 +55,7 @@
 }
 
 .HomeLogo svg {
-  transform: scale(.8);
+  transform: scale(1);
 }
 
 @media laptop {
@@ -52,6 +63,7 @@
     top: 50%;
     left: 50%;
     margin-left: -10vw;
+    transform: scale(.8);
     width: 20vw;
   }
   .HomeLogo svg {
@@ -75,7 +87,7 @@
 #bgvid {
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: -1000%;
   min-width: 100%;
   min-height: 100%;
   width: auto;
@@ -86,6 +98,12 @@
   transition: 1s opacity;
   background: #131D1F;
   opacity: 0;
+}
+
+@media laptop {
+  #bgvid {
+    left: 50%;
+  }
 }
 .AddressSidebar {
   position: absolute;
