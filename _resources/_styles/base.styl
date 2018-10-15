@@ -46,9 +46,6 @@ img {
     height: 1.5rem;
     top: 4vw;
     left: 4vw;
-    // top: 7vw;
-    // left: 1.3vw;
-    // transform: rotate(-90deg)
   }
 }
 @media bigscreen {
@@ -84,6 +81,9 @@ img {
     height: auto;
   }
 }
+/* .GlobalNav.Inverted {
+  opacity: 0;
+} */
 .GlobalNavInside {
   flex-direction: row;
   height: 100vh;
@@ -116,6 +116,9 @@ img {
   border: 0px;
   text-align: right;
   //transition: 200ms all ease-out;
+}
+.GlobalNav.Inverted li, .GlobalNav.Inverted li a {
+  color: white;
 }
 .SocialNav {
   margin-top: 2rem;
@@ -150,9 +153,6 @@ img {
   opacity: .5;
   border-bottom: none;
 }
-.SocialNav li a.Twitter {
-  background-image: url("/assets/_img/socialicon_twitter.svg")
-}
 .SocialNav li a.Instagram {
   background-image: url("/assets/_img/socialicon_insta_light.svg")
 }
@@ -160,6 +160,9 @@ img {
   .SocialNav li a.Instagram {
     background-image: url("/assets/_img/socialicon_insta.svg")
   }
+}
+.Inverted .SocialNav li a.Instagram {
+  background-image: url("/assets/_img/socialicon_insta_light.svg");
 }
 .NavHamburger {
   position: absolute;
@@ -222,6 +225,12 @@ img {
 }
 .NavHamburger.Open div:nth-child(2) {
   display: none;
+}
+.Inverted.NavHamburger .Open {
+  color: white;
+}
+.Inverted.NavHamburger div span.Open:after {
+  background-color: white;
 }
 // GENERAL
 
