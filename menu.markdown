@@ -47,8 +47,8 @@ course_4:
   desc: Roasted pumpkin with spices, brown sugar churro, and chocolate
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: 'Cirone '
-  desc: Raw cow's milk cheese served with fig galette and caramelized onions
+- title: Le Cousin
+  desc: Raw cow's milk cheese served with fig galette, mustard, and roasted onions
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
