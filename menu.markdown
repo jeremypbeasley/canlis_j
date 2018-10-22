@@ -30,8 +30,8 @@ course_2:
 course_3:
 - title: Chewy Carrots
   desc: Applewood-smoked with onion jam, yubeshi beans, and celeriac
-- title: Sea Bream
-  desc: Crisped scales, fig leaf curry, peppers, and husk cherries
+- title: Black Cod
+  desc: Puffed amaranth, fig leaf curry, peppers, and husk cherries
 - title: Lamb
   desc: 'Burnt and pickled eggplant with smelt bagna cauda '
 - title: Pork
