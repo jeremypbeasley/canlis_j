@@ -44,7 +44,7 @@ course_4:
 - title: Cherries and Cucumbers
   desc: Sweet and sour cherries, cucumber granita, and yogurt mousse
 - title: Pumpkin
-  desc: Roasted pumpkin with spices, brown sugar churro, and chocolate
+  desc: Spiced churro, dark chocolate, and yogurt sorbet
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Le Cousin
