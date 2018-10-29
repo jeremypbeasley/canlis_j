@@ -47,8 +47,8 @@ course_4:
   desc: Spiced churro, dark chocolate, and yogurt sorbet
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: Le Cousin
-  desc: Raw cow's milk cheese served with fig galette, mustard, and roasted onions
+- title: Manchego Curado
+  desc: Raw sheep's milk cheese served with fig galette, mustard, and roasted onions
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
