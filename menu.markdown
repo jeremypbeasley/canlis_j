@@ -10,7 +10,7 @@ course_1:
 - title: Vichyssoise
   desc: Spot prawns, grapes, and chamomile
 - title: Beets and Potatoes
-  desc: Huckleberries, umeboshi, and fresh cream
+  desc: Preserved blackberries, umeboshi, and fresh cream
 - title: Foie Gras
   desc: Quince, chestnut pudding, and brioche
 - title: Canlis Salad
