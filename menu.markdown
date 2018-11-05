@@ -41,8 +41,8 @@ course_3:
 course_4:
 - title: Apple Confit
   desc: Vanilla chantilly, puff pastry, and applewood cream
-- title: Cherries and Cucumbers
-  desc: Sweet and sour cherries, cucumber granita, and yogurt mousse
+- title: Chocolate
+  desc: Dark chocolate ice cream, peanut butter, and caramel
 - title: Pumpkin
   desc: Spiced churro, dark chocolate, and yogurt sorbet
 - title: Soufflè
