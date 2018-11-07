@@ -25,8 +25,8 @@ course_2:
   desc: White Alba truffle and Newaukum Hill 'Old World Cheese'
 - title: Rabbit
   desc: Sausage and grilled liver with mushrooms and a toasted rice ponzu
-- title: Salmon
-  desc: Glazed in caramelized onion juice and grilled with green beans and gari
+- title: Salsify
+  desc: Boudin noir and caramelized milk
 course_3:
 - title: Chewy Carrots
   desc: Applewood-smoked with onion jam, yubeshi beans, and celeriac
@@ -35,7 +35,7 @@ course_3:
 - title: Lamb
   desc: 'Burnt and pickled eggplant with smelt bagna cauda '
 - title: Pork
-  desc: Smoked pears, chanterelles, and caramelized milk
+  desc: Smoked pears and chanterelles
 - title: Ribeye </br> or Cote De Boeuf for two  + 30/per person
   desc: Radicchio, rutabaga, and fermented garlic
 course_4:
