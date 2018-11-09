@@ -5,10 +5,10 @@ menu_cost: 135
 disclaimer: A 20% service charge will be added to your final bill and is retained
   by Canlis. No additional gratuity is expected.
 course_1:
-- title: Bonito and Tomato
-  desc: In a vinaigrette of bonito, tomato, and bone marrow
-- title: Vichyssoise
-  desc: Spot prawns, grapes, and chamomile
+- title: Kanpachi Tartare
+  desc: Persimmon and puffed rice cracker
+- title: Lightly Poached Oysters
+  desc: Leeks and roasted chicken sabayan
 - title: Beets and Potatoes
   desc: Preserved blackberries, umeboshi, and fresh cream
 - title: Foie Gras
