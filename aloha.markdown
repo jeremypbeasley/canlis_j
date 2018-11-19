@@ -1,5 +1,5 @@
 ---
-title: Midnight Hawaii<Br>A New Year's Eve Dance Party
+title: 'MIDNIGHT: Hawaii'
 date: 2018-07-28 19:17:00 -07:00
 image: "/uploads/Canlis-Hawaii-Poster.pdf"
 event_date: 2018-12-31 00:00:00 -08:00
