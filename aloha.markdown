@@ -16,13 +16,11 @@ rsvp_button:
 
 Once again, Seattle's finest new year's eve throw down returns. Revelers are invited for a night of island intrigue and trade wind fare, champagne and dancing, and as always, a hint of the unexpected. In partnership with legendary accomplices, Tommy Bahama and the Chris Norton Band.
 
-21 and over only.
-
 ### Attire
 
 Aloha Formal / Island Black Tie. Proper dress strongly encouraged.
 
 ### Price
 
-$525 per person
+$525 per person - 21 and over only
 
