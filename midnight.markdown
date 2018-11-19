@@ -1,27 +1,28 @@
 ---
-title: Milk Bar<Br>Ice Cream Social & Bake Sale
+title: Midnight Hawaii<Br>A New Year's Eve Dance Party
 date: 2018-07-28 19:17:00 -07:00
-image: "/uploads/National%20Ice%20Cream%20Day%20Soft%20Serve-20.JPG"
-event_date: 2018-08-12 00:00:00 -07:00
-event_time: 11am VIP entry, 12-4pm general admission
+image: "/uploads/Canlis-Hawaii-Poster.pdf"
+event_date: 2018-12-31 00:00:00 -08:00
+event_time: 9pm
 rsvp_button:
-  has_button: false
-  url: http://splashthat.com
+  has_button: true
+  url: 'https://www.exploretock.com/canlis/experience/38004/midnight-hawaii-a-canlis-new-year%27s-eve-party
+
+'
   button_label: Get Tickets
 ---
 
 ### What
 
-A one day event to celebrate summer, indulgent eats, and the sweetness of friendship. Event includes all-ages games & activities and live music. Proceeds benefit the [Queen Anne Farmers Market.](https://qafma.net/)
+Once again, Seattle's finest new year's eve throw down. Revelers are invited for a night of island intrigue and trade wind fare, champagne and dancing, and as always, a hint of the unexpected. In partnership with legendary accomplices, Tommy Bahama and the Chris Norton Band.
 
-### Where
+21 and over only.
 
-In our parking lot! Which means no parking on site, so ride a bike or grab an Uber. Drop offs can be at the restaurant, or in the event of a line, at [Thomas C Wales Park. ](https://www.google.com/maps/place/Thomas+C.+Wales+Park/@47.6404319,-122.3473135,17z/data=!3m1!4b1!4m5!3m4!1s0x5490151a867fe2f5:0x8e0f0f853d36b65!8m2!3d47.6404319!4d-122.3451248)
+### Attire
+
+Aloha Formal / Island Black Tie. Proper dress strongly encouraged.
 
 ### Price
 
-General admission is free. Menu prices range from $4 - $10. A fifty dollar donation to the Queen Anne Farmer's Market (limited number for sale at the market August 9th) allows line skipping privileges!
+$525 per person
 
-### Details
-
-Milk Bar will be serving a selection of their iconic treats including Cereal Milk Soft Serve, Crack Pie, as well as a variety of their famous truffles and cookies. Canlis will offer Brady Williams' interpretation of country fair classics including turkey legs, corn on the cob, corn dogs, fried cheese, and popcorn. The back parking lot of Canlis will be transformed into a social space where guests will nosh while listening to the Tallboys, try their hand at carnival games, and visit fun activity stations. Guests will have the opportunity to pose for a Polaroid picture with Christina Tosi then decorate it in the craft tent where special Milk Bar friendship bracelets will be distributed. If you'd like beer or wine, bring your ID!
