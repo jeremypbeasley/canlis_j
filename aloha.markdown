@@ -14,7 +14,7 @@ rsvp_button:
 
 ### What
 
-Once again, Seattle's finest new year's eve throw down. Revelers are invited for a night of island intrigue and trade wind fare, champagne and dancing, and as always, a hint of the unexpected. In partnership with legendary accomplices, Tommy Bahama and the Chris Norton Band.
+Once again, Seattle's finest new year's eve throw down returns. Revelers are invited for a night of island intrigue and trade wind fare, champagne and dancing, and as always, a hint of the unexpected. In partnership with legendary accomplices, Tommy Bahama and the Chris Norton Band.
 
 21 and over only.
 
