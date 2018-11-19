@@ -1,7 +1,7 @@
 ---
 title: 'MIDNIGHT: Hawaii'
 date: 2018-07-28 19:17:00 -07:00
-image: "/uploads/Canlis-Hawaii-Poster.pdf"
+image: "/uploads/Canlis-Hawaii-Poster.jpg"
 event_date: 2018-12-31 00:00:00 -08:00
 event_time: 9pm
 rsvp_button:
