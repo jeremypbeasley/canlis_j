@@ -6,9 +6,7 @@ event_date: 2018-12-31 00:00:00 -08:00
 event_time: 9pm
 rsvp_button:
   has_button: true
-  url: 'https://www.exploretock.com/canlis/experience/38004/midnight-hawaii-a-canlis-new-year%27s-eve-party
-
-'
+  url: https://www.exploretock.com/Canlis
   button_label: Get Tickets
 ---
 
