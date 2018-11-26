@@ -33,7 +33,7 @@ course_3:
 - title: Sea Bream
   desc: Apple, kohlrabi, and matsutake
 - title: Lamb
-  desc: 'Burnt and pickled eggplant with smelt bagna cauda '
+  desc: Caramelized parsnip with a sauce of mint and kelp vinegar
 - title: Pork
   desc: Smoked pears and chanterelles
 - title: Ribeye </br> or Cote De Boeuf for two  + 30/per person
