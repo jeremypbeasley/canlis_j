@@ -9,12 +9,12 @@ course_1:
   desc: Persimmon and puffed rice cracker
 - title: Lightly Poached Oysters
   desc: Leeks and roasted chicken sabayan
-- title: Galeux D'eysines Pumpkin Soup
-  desc: Cauliflower, horseradish, and pepita and seaweed granola
 - title: Beets and Potatoes
   desc: Preserved blackberries, umeboshi, and fresh cream
 - title: Foie Gras
   desc: Quince, chestnut pudding, and brioche
+- title: Canlis Salad
+  desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
 course_2:
 - title: Haiga Rice
   desc: Simmered in a brown butter dashi with dungeness crab, preserved strawberries,
