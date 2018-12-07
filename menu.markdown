@@ -38,7 +38,7 @@ course_3:
 
 '
   desc: 'Galeux d''eysines pumpkin, mountain cranberry,  and black truffle '
-- title: Ribeye </br> or Cote De Boeuf for two  + $30/per person
+- title: Ribeye </br> or Cote De Boeuf for two  + $30 / per person
   desc: Radicchio, rutabaga, and fermented garlic
 course_4:
 - title: Apple Confit
