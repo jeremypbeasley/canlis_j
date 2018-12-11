@@ -8,19 +8,18 @@
   },
   "devDependencies": {
     "flexboxgrid": "5.0.0",
-    "grunt": "^0.4.5",
-    "grunt-cli": "^0.1.13",
+    "grunt": "^1.0.3",
+    "grunt-cli": "^1.3.2",
     "grunt-contrib-concat": "^0.5.0",
-    "grunt-contrib-stylus": "^0.20.0",
-    "grunt-contrib-watch": "^0.6.1",
+    "grunt-contrib-stylus": "^1.2.0",
+    "grunt-contrib-watch": "^1.1.0",
     "grunt-exec": "^1.0.1",
-    "grunt-remove": "^0.1.0",
-    "jquery": "2.2.4",
+    "jquery": "^3.3.1",
     "jquery-validation": "^1.15.0",
     "normalize-css": "latest",
-    "waypoints": "latest",
     "slick-carousel": "latest",
     "smoothstate": "latest",
-    "stripe": "latest"
+    "stripe": "latest",
+    "waypoints": "latest"
   }
 }

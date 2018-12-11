@@ -3,7 +3,7 @@ title: Home
 intro_video: "/uploads/bgvideo.mp4"
 headline: Please come<Br> over for dinner.
 headline_mobile: Please come over for dinner.
-section1_photo: "/uploads/fish.jpg"
+section1_photo: "/uploads/fish_compressed.jpg"
 section1_label: An invitation
 section1_body: The opportunity to meet and serve you is one we don’t take lightly.
   Not for the past three generations at least. Come spend an evening. Our favorite
@@ -26,4 +26,3 @@ homephoto6: "/uploads/prepping2.jpg"
 newsletter_link: http://
 layout: home
 ---
-
