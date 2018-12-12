@@ -2780,6 +2780,18 @@ img {
 .AddressSidebar.Inverted a {
   color: #fff;
 }
+.HomePhoto0 {
+  position: relative;
+  width: 100vw;
+  max-width: 100vw;
+  margin-left: -6.5vw;
+}
+@media (min-width: 62em) {
+  .HomePhoto0 {
+    position: relative;
+    width: 50vw;
+  }
+}
 .HomePhoto1 {
   position: relative;
   width: 100vw;
@@ -2862,6 +2874,12 @@ img {
   .PortraitCard.AccoladesCard {
     margin-top: 15vw;
   }
+}
+.NewsletterField {
+  background: transparent;
+  padding: 0;
+  margin: 0;
+  border-bottom: 1px solid #000;
 }
 .Portrait {
   max-width: 10000000px;
