@@ -26,3 +26,4 @@ homephoto6: "/uploads/prepping2.jpg"
 newsletter_link: http://
 layout: home
 ---
+
