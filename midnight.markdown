@@ -16,7 +16,7 @@ Once again, Seattle's finest new year's eve throw-down returns. Revelers are inv
 
 ### Attire
 
-Aloha Formal / Island Black Tie. Proper dress strongly encouraged.
+Aloha Formal / Island Black Tie. Proper dress strongly encouraged. Style guide <a href="/uploads/styleguide.pdf">here</a>.
 
 ### Price
 
