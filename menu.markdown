@@ -34,7 +34,7 @@ course_3:
   desc: Apple, kohlrabi, and matsutake
 - title: Lamb
   desc: Caramelized parsnip with a sauce of mint and kelp vinegar
-- title: Pork
+- title: Guinea Hen for two*
   desc: Galeux d'eysines pumpkin, mountain cranberry,  and black truffle
 - title: Ribeye </br> or Cote De Boeuf for two  + $30 / per person
   desc: Radicchio, rutabaga, and fermented garlic
