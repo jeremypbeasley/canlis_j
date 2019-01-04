@@ -48,7 +48,7 @@ course_4:
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Manchego Curado
-  desc: Raw sheep's milk cheese served with fig galette, mustard, and roasted onions
+  desc: 'Raw sheep''s milk cheese served on a quince galette with chestnut and arugula '
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
