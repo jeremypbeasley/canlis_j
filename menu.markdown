@@ -10,7 +10,7 @@ course_1:
 - title: Lightly Poached Oysters
   desc: Leeks and roasted chicken sabayan
 - title: Beets and Potatoes
-  desc: Preserved blackberries, umeboshi, and fresh cream
+  desc: Preserved blueberries, umeboshi, and fresh cream
 - title: Foie Gras
   desc: Quince, chestnut pudding, and brioche
 - title: Canlis Salad
