@@ -6,7 +6,7 @@ disclaimer: A 20% service charge will be added to your final bill and is retaine
   by Canlis. No additional gratuity is expected.
 course_1:
 - title: Kanpachi Tartare
-  desc: Persimmon and puffed rice cracker
+  desc: 'Persimmon, kalamansi, and puffed rice cracker '
 - title: Lightly Poached Oysters
   desc: Leeks and roasted chicken sabayan
 - title: Beets and Potatoes
