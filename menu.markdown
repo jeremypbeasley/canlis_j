@@ -21,8 +21,8 @@ course_2:
     and hazelnuts
 - title: Malted Pancake
   desc: 'Fermented cabbage and sauce Pierre '
-- title: Pasta Alla Chitarra + 60
-  desc: White Alba truffle and Newaukum Hill 'Old World Cheese'
+- title: Pasta Alla Chitarra + 30
+  desc: Winter black truffle and Newaukum Hill 'Old World Cheese'
 - title: Rabbit
   desc: Sausage and grilled liver with mushrooms and a toasted rice ponzu
 - title: Salsify
