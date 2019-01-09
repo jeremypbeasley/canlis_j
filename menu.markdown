@@ -35,7 +35,7 @@ course_3:
 - title: Lamb
   desc: Caramelized parsnip with a sauce of mint and kelp vinegar
 - title: Pork
-  desc: Galeux d'eysines pumpkin, mountain cranberry,  and black truffle
+  desc: Galeux d'eysines pumpkin, cranberry,  and black truffle
 - title: 'Ribeye '
   desc: Radicchio, rutabaga, and fermented garlic
 course_4:
