@@ -31,7 +31,7 @@ course_3:
 - title: Chewy Carrots
   desc: Applewood-smoked with onion jam, yubeshi beans, and celeriac
 - title: Sea Bream
-  desc: Apple, kohlrabi, and matsutake
+  desc: King trumpet mushrooms, apple, and kohlrabi
 - title: Lamb
   desc: Caramelized parsnip with a sauce of mint and kelp vinegar
 - title: Pork
