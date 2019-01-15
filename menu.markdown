@@ -8,7 +8,7 @@ course_1:
 - title: Amberjack Tataki
   desc: Shiso, oxalis and citrus broth
 - title: Lightly Poached Oysters
-  desc: Leeks and roasted chicken sabayan
+  desc: Leeks and roasted chicken sabayon
 - title: Beets and Potatoes
   desc: Preserved blueberries, umeboshi, and fresh cream
 - title: Foie Gras
