@@ -33,7 +33,7 @@ course_3:
   desc: King trumpet mushrooms, apple, and kohlrabi
 - title: Lamb
   desc: Caramelized parsnip with a sauce of mint and kelp vinegar
-- title: Dry-Aged Duck for two + 75/person
+- title: Pork
   desc: Galeux d'eysines pumpkin, cranberry,  and black truffle
 - title: Ribeye
   desc: Radicchio, rutabaga, and fermented garlic
