@@ -18,10 +18,10 @@ course_1:
 course_2:
 - title: Haiga Rice
   desc: Dungeness crab, preserved strawberries, and hazelnuts
+- title: Buckwheat Pasta
+  desc: Cuttlefish, sansho, and tarragon
 - title: Malted Pancake
   desc: 'Fermented cabbage and sauce Pierre '
-- title: Pasta Alla Chitarra + 30
-  desc: Winter black truffle and Newaukum Hill 'Old World Cheese'
 - title: Rabbit
   desc: Sausage and grilled liver with mushrooms and a toasted rice ponzu
 - title: Salsify
