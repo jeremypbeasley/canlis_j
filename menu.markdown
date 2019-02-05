@@ -33,8 +33,8 @@ course_3:
   desc: King trumpet mushrooms, apple, and kohlrabi
 - title: Lamb
   desc: Caramelized parsnip with a sauce of mint and kelp vinegar
-- title: Pork
-  desc: Galeux d'eysines pumpkin, cranberry,  and black truffle
+- title: Dry-Aged Duck
+  desc: Blue hubbard squash, cranberry,  and black truffle
 - title: Ribeye
   desc: Radicchio, rutabaga, and fermented garlic
 course_4:
