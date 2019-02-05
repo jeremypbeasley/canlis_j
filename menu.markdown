@@ -22,8 +22,8 @@ course_2:
   desc: Cuttlefish, sansho, and tarragon
 - title: Malted Pancake
   desc: 'Fermented cabbage and sauce Pierre '
-- title: Rabbit
-  desc: Sausage and grilled liver with mushrooms and a toasted rice ponzu
+- title: Fried Rabbit
+  desc: Yoshoku potatoes, shio buttermilk, and herbs
 - title: Salsify
   desc: Boudin noir and caramelized milk
 course_3:
@@ -42,8 +42,8 @@ course_4:
   desc: Vanilla chantilly, puff pastry, and applewood cream
 - title: Chocolate
   desc: Dark chocolate ice cream, peanut butter, and caramel
-- title: Pumpkin
-  desc: Spiced churro, dark chocolate, and yogurt sorbet
+- title: Chicory
+  desc: Chocolate, salsify, and Meyer lemon
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Manchego Curado
