@@ -6,7 +6,7 @@ disclaimer: A 20% service charge will be added to your final bill and is retaine
   by Canlis. No additional gratuity is expected.
 course_1:
 - title: Amberjack Tataki
-  desc: Shiso, sunchoke, and citrus broth
+  desc: Shiso, oca, and citrus broth
 - title: Lightly Poached Oysters
   desc: Leeks and roasted chicken sabayon
 - title: Beets and Potatoes
