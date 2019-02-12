@@ -18,8 +18,8 @@ course_1:
 course_2:
 - title: Haiga Rice
   desc: Dungeness crab, preserved strawberries, and hazelnuts
-- title: Buckwheat Pasta
-  desc: Cuttlefish, sansho, and tarragon
+- title: Pasta a la Chitarra + $15
+  desc: 'King crab, tomato, fennel, and bottarga '
 - title: Malted Pancake
   desc: 'Fermented cabbage and sauce Pierre '
 - title: Fried Rabbit
@@ -29,10 +29,10 @@ course_2:
 course_3:
 - title: Chewy Carrots
   desc: Applewood-smoked with onion jam, yubeshi beans, and celeriac
-- title: King Crab + $25
-  desc: Celeriac, kani miso, and black lime
 - title: Sea Bream
   desc: King trumpet mushrooms, apple, and kohlrabi
+- title: Pork
+  desc: Blue hubbard squash, cranberry, and black truffle
 - title: Lamb
   desc: Caramelized parsnip with a sauce of mint and kelp vinegar
 - title: Ribeye
