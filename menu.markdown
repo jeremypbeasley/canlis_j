@@ -18,8 +18,8 @@ course_1:
 course_2:
 - title: Haiga Rice
   desc: Dungeness crab, preserved strawberries, and hazelnuts
-- title: King Crab + $25
-  desc: Celeriac, kani miso, and black lime
+- title: 'Pasta a la Chitarra '
+  desc: King crab, tomato, fennel, and bottarga
 - title: Malted Pancake
   desc: 'Fermented cabbage and sauce Pierre '
 - title: Fried Rabbit
