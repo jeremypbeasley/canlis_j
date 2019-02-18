@@ -9,8 +9,8 @@ course_1:
   desc: Shiso, oca, and citrus broth
 - title: Lightly Poached Oysters
   desc: Leeks and roasted chicken sabayon
-- title: Beets and Potatoes
-  desc: Preserved blueberry ume and fresh cream
+- title: Sunchoke
+  desc: Cured duck, ikura roe, maple, and hazelnuts
 - title: Foie Gras
   desc: Quince, chestnut pudding, and brioche
 - title: Canlis Salad
