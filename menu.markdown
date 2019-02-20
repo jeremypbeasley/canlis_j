@@ -46,8 +46,8 @@ course_4:
   desc: Chocolate, salsify, and Meyer lemon
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: Beufort D'Alpage
-  desc: 'Raw cow''s milk cheese served on a quince galette with chestnut and arugula '
+- title: Manchego Curado
+  desc: 'Raw sheep''s milk cheese served on a quince galette with chestnut and arugula '
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
