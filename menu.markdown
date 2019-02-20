@@ -19,7 +19,7 @@ course_2:
 - title: Haiga Rice
   desc: Dungeness crab, preserved strawberries, and hazelnuts
 - title: 'Pasta a la Chitarra '
-  desc: "King Crab, tomato, and fennel \n - or - \nNewaukum Hill cheese and black
+  desc: "King Crab, tomato, and fennel \n - OR - \nNewaukum Hill cheese and black
     truffle"
 - title: Malted Pancake
   desc: 'Fermented cabbage and sauce Pierre '
