@@ -17,6 +17,19 @@ wine_body_col2: "The wine program at Canlis is founded on a team of educated win
   the list</a> and enjoy a good read, or skip it all together and let us do the work
   of finding the right wine for your evening.\n\nAll our wine is available for retail
   sale and delivery."
+wine_staff:
+- name: Nelson Daquip
+  title: Wine & Spirits Director
+- name: Elton Nichols  
+  title: Vice Director
+- name: James MacWilliams
+  title: Head Barman
+- name: Paul Coker
+  title: Cellar Master
+- name: José Castillo
+  title: Barman
+- name: Emily Edeen
+  title: Sommelier
 lounge_title: The Lounge
 lounge_photo_1: "/uploads/lounge2.jpg"
 lounge_photo_2: "/uploads/bar_1.jpg"
@@ -26,4 +39,3 @@ lounge_body: |-
   For drinks or for dinner. Walk in only.
 layout: wine
 ---
-
