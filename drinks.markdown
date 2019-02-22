@@ -20,7 +20,7 @@ wine_body_col2: "The wine program at Canlis is founded on a team of educated win
 wine_staff:
 - name: Nelson Daquip
   title: Wine & Spirits Director
-- name: Elton Nichols  
+- name: Elton Nichols
   title: Vice Director
 - name: James MacWilliams
   title: Head Barman
@@ -39,3 +39,4 @@ lounge_body: |-
   For drinks or for dinner. Walk in only.
 layout: wine
 ---
+
