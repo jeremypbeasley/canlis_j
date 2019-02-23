@@ -706,8 +706,14 @@
 .sk8r_container {
   width: 100%;
   position: relative;
-  max-width: 300px;
-  margin-top: -55px;
+  max-width: 280px;
+  margin-top: -43px;
+}
+
+@media tablet {
+  .sk8r_container {
+    margin-top: -55px;
+  }
 }
 
 .sk8r {
@@ -718,9 +724,15 @@
   left: 0;
   background-position: 0px 0px;
   opacity: 0;
+  transform: scale(.5)
 }
 
-/* Starting */
+@media tablet {
+  .sk8r {
+    transform: scale(1)
+  }
+}
+
 @keyframes sk8r_starting {
   0%  { background-position: 0px 0;    }
   5%  { background-position: -64px 0;  }
