@@ -26,10 +26,10 @@ wine_staff:
   title: Head Barman
 - name: Paul Coker
   title: Cellar Master
-- name: José Castillo
-  title: Barman
 - name: Emily Edeen
   title: Sommelier
+- name: José Castillo
+  title: Barman
 lounge_title: The Lounge
 lounge_photo_1: "/uploads/lounge2.jpg"
 lounge_photo_2: "/uploads/bar_1.jpg"
@@ -39,4 +39,3 @@ lounge_body: |-
   For drinks or for dinner. Walk in only.
 layout: wine
 ---
-

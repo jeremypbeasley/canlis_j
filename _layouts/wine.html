@@ -33,9 +33,14 @@
   </div>
   <div class="column col-xs-12 col-md-8 col-md-offset-2">
     <div class="row AlignTop nested">
+      <div class="sk8r_container">
+        <div class="sk8r_movement">
+          <div class="sk8r"></div>
+        </div>
+      </div>
       <div class="Divider mb8"></div>
       {% for i in page.wine_staff %}
-        <div class="column col-xs-6 col-md-4">
+        <div class="column col-xs-6 col-md-4 wineStaff">
           <p class="mb5 d-mb0">{{ i.name }}<br>
           <span><i>{{ i.title }}</i></span></p>
         </div>
