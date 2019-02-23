@@ -3260,8 +3260,13 @@ img {
 .sk8r_container {
   width: 100%;
   position: relative;
-  max-width: 300px;
-  margin-top: -55px;
+  max-width: 280px;
+  margin-top: -43px;
+}
+@media (min-width: 48em) {
+  .sk8r_container {
+    margin-top: -55px;
+  }
 }
 .sk8r {
   background-image: url("/uploads/sk8r.gif");
@@ -3271,6 +3276,12 @@ img {
   left: 0;
   background-position: 0px 0px;
   opacity: 0;
+  transform: scale(0.5);
+}
+@media (min-width: 48em) {
+  .sk8r {
+    transform: scale(1);
+  }
 }
 .sk8r.sk8r_starting {
   animation: sk8r_starting step-end 1.5s 1;
