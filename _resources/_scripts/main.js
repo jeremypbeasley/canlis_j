@@ -27,10 +27,20 @@ $(document).ready(function() {
     vid.classList.add("stopfade");
   }
 
-  // vid.addEventListener('ended', function() {
-  //   vid.pause();
-  //   vidFade();
-  // });
+  // SK8R Feature
+
+  function sk8r() {
+    $('.sk8r').addClass( "sk8r_starting" );
+    $('.sk8r_movement').addClass( "moving" );
+    setTimeout(function(){
+      $('.sk8r').removeClass( "sk8r_starting" );
+      $('.sk8r_movement').removeClass( "moving" );
+    }, 2500);
+  }
+
+  $('.wineStaff:last-of-type').click(function() {
+    sk8r();
+  });
 
   // MOBILE NAV
 
