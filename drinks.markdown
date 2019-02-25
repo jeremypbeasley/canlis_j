@@ -7,7 +7,7 @@ wine_photo_1: "/uploads/cellar2.jpg"
 wine_photo_2: "/uploads/wine2.jpg"
 wine_title: Wine & Spirits Director,<Br> Nelson Daquip
 wine_body_col1: |-
-  Canlis became a world-class wine destination in 1997, the first year of its twenty-two consecutive Wine Spectator Magazine Grand Awards. The restaurant is one of a handful in the world to be trusted with the honor for that length of time. Since then, it has helped train five Master Sommeliers and nine advanced sommeliers. We’ve produced wines with Alois Kracher, Buty, Jean Milan, Hirsch, and Guiborat & Fils. We’ve routinely played hosts to the best winemakers and wineries in the world, like Château Latour, Grace Family, Penfolds, Cayuse, Piero Antinori, Angelo Gaja and Maria López de Heredia.
+  Canlis became a world-class wine destination in 1997, the first year of its twenty-two consecutive Wine Spectator Magazine Grand Awards. The restaurant is one of a handful in the world to be trusted with the honor for that length of time. Since then, it has helped train four Master Sommeliers and nine advanced sommeliers. We’ve produced wines with Alois Kracher, Buty, Jean Milan, Hirsch, and Guiborat & Fils. We’ve routinely played hosts to the best winemakers and wineries in the world, like Château Latour, Grace Family, Penfolds, Cayuse, Piero Antinori, Angelo Gaja and Maria López de Heredia.
 
   Which is all, very fancy. What distinguishes the Canlis wine program and the sommeliers who run it is their singular ability to relate to other people, particularly those who just like to enjoy a bottle with dinner, and then move on.
 wine_body_col2: "The wine program at Canlis is founded on a team of educated wine
