@@ -5,8 +5,8 @@ menu_cost: 135
 disclaimer: A 20% service charge will be added to your final bill and is retained
   by Canlis. No additional gratuity is expected.
 course_1:
-- title: Amberjack Tataki
-  desc: Shiso, oca, and citrus broth
+- title: "Japanese Cuttlefish Crudo \t"
+  desc: "Rhubarb and preserved strawberry juice\t"
 - title: Lightly Poached Oysters
   desc: Leeks and roasted chicken sabayon
 - title: Sunchoke
@@ -17,7 +17,7 @@ course_1:
   desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
 course_2:
 - title: Haiga Rice
-  desc: Dungeness crab, preserved strawberries, and hazelnuts
+  desc: 'Dungeness crab, fried chili, and hazelnuts '
 - title: King Crab + $25
   desc: Celeriac, kani miso, and black lime
 - title: Malted Pancake
