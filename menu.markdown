@@ -19,7 +19,8 @@ course_2:
 - title: Haiga Rice
   desc: 'Dungeness crab, fried chili, and hazelnuts '
 - title: Pasta a la Chitarra + $20
-  desc: 'King crab, tomato, fennel, and bottarga '
+  desc: "King Crab, tomato, and fennel \n - or - \nNewaukum Hill cheese and black
+    truffle"
 - title: Malted Pancake
   desc: 'Fermented cabbage and sauce Pierre '
 - title: Fried Rabbit
