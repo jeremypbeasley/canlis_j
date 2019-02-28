@@ -21,18 +21,22 @@ person2:
   name: Brian Canlis
   title: Owner
   photo: "/uploads/Brian_new.jpg"
-  bio: 'Brian Canlis returned home to Seattle in 2005 after 12 years of studying and
-    working abroad. For college he spent time in England, Austria, and Spain before
-    finishing a hotel sciences degree at Cornell University. Commissioned as an Air
-    Force officer in 2001, he led Elmendorf Air Force base in winning the coveted
-    Hennessy Award (for the Air Force’s best food and dining experience). Just prior
-    to his promotion to Captain, Brian was transferred to Washington D.C. to help
-    lead a protocol team that played host to world leaders and international heads
-    of state. (There’s a good chance you saw him saluting the President on CNN.) Brian
-    is also an accomplished photographer, a role he plays both for Canlis and in his
-    spare time. He is married to fellow photographer [Mackenzie Canlis](http://www.mackenziecanlis.com/)
-    and isn’t nearly as talented as she is, but she loves him anyway. They live in
-    Shoreline with their two kids, Marlow and George. '
+  bio: After having grown up in the restaurant business, Brian Canlis spent eight
+    years studying and working abroad in England, Austria, and Spain before finishing
+    a hotel sciences degree at Cornell University. Commissioned as an Air Force Officer
+    in 2001, he led his Services team in winning the coveted Hennessy Award for the
+    Air Force’s best food and dining experience. Just prior to his promotion to Captain,
+    Brian was transferred to Washington D.C. to help lead a protocol team that played
+    host to world leaders and international heads of state. (There’s a good chance
+    you saw him saluting the President on CNN.) In 2005, he returned to Seattle to
+    join his brother Mark in leading Canlis restaurant into the 21st century. As third
+    generation owners, Brian and Mark have continued to strengthen the restaurant's
+    legacy as one of the finest in the country. Brian has been featured on No Reservations
+    with Anthony Bourdain, as a guest judge on Top Chef, and has spoken extensively
+    on strategic leadership and customer service. Brian has hosted the country's preeminent
+    event on hospitality, The Welcome Conference, in New York City since 2015. He
+    currently lives in Magnolia with his wife [Mackenzie](http://www.mackenziecanlis.com/)
+    and their two tiny adorable children.
 person3:
   name: Brady Williams
   title: Executive Chef
