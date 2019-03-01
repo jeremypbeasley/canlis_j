@@ -38,8 +38,8 @@ course_3:
 - title: Ribeye
   desc: Radicchio, rutabaga, and fermented garlic
 course_4:
-- title: Apple Confit
-  desc: Vanilla chantilly, puff pastry, and applewood cream
+- title: 'Rhubarb '
+  desc: White chocolate and matcha
 - title: Chocolate
   desc: Dark chocolate ice cream, peanut butter, and caramel
 - title: Chicory
