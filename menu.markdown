@@ -22,7 +22,7 @@ course_2:
   desc: 'Citrus, yubeshi, and bottarga '
 - title: Malted Pancake
   desc: 'Fermented cabbage and sauce Pierre '
-- title: Fried Rabbit
+- title: Rabbit
   desc: Yoshoku potatoes, shio buttermilk, and herbs
 - title: Salsify
   desc: Boudin noir and caramelized milk
@@ -31,7 +31,7 @@ course_3:
   desc: Applewood-smoked with onion jam, yubeshi beans, and celeriac
 - title: Sea Bream
   desc: King trumpet mushrooms, apple, and kohlrabi
-- title: Duck
+- title: Pork
   desc: Blue hubbard squash, cranberry, and black truffle
 - title: Lamb
   desc: Caramelized parsnip with a sauce of mint and kelp vinegar
