@@ -31,7 +31,7 @@ course_3:
   desc: Applewood-smoked with onion jam, yubeshi beans, and celeriac
 - title: Sea Bream
   desc: King trumpet mushrooms, apple, and kohlrabi
-- title: Pork
+- title: Duck
   desc: Blue hubbard squash, cranberry, and black truffle
 - title: Lamb
   desc: Caramelized parsnip with a sauce of mint and kelp vinegar
