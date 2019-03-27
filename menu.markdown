@@ -12,7 +12,7 @@ course_1:
 - title: Sunchoke
   desc: Cured duck, ikura roe, maple, and hazelnuts
 - title: Foie Gras
-  desc: Quince, chestnut pudding, and brioche
+  desc: 'Beet, sunflower seed pudding, and brioche '
 - title: Canlis Salad
   desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
 course_2:
