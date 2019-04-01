@@ -32,7 +32,7 @@ course_3:
 - title: Sea Bream
   desc: King trumpet mushrooms, apple, and kohlrabi
 - title: Duck
-  desc: Blue hubbard squash, cranberry, and black truffle
+  desc: Purple Japanese sweet potato, cranberry, and black truffle
 - title: Lamb
   desc: Caramelized parsnip with a sauce of mint and kelp vinegar
 - title: Ribeye
