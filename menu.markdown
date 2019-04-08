@@ -32,9 +32,9 @@ course_3:
 - title: Sea Bream
   desc: King trumpet mushrooms, apple, and kohlrabi
 - title: Pork
-  desc: Purple Japanese sweet potato, cranberry, and black truffle
+  desc: Green garlic and hazelnut, confit lemon, and hakurei turnip
 - title: Lamb
-  desc: Caramelized parsnip with a sauce of mint and kelp vinegar
+  desc: 'Cauliflower and mustard greens cooked in pear vinegar '
 - title: Ribeye
   desc: Radicchio, rutabaga, and fermented garlic
 course_4:
