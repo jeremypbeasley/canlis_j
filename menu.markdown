@@ -5,8 +5,8 @@ menu_cost: 135
 disclaimer: A 20% service charge will be added to your final bill and is retained
   by Canlis. No additional gratuity is expected.
 course_1:
-- title: "Japanese Cuttlefish Crudo \t"
-  desc: "Rhubarb and preserved strawberry juice\t"
+- title: Lightly Cured Halibut
+  desc: "Rhubarb, preserved strawberry, and green peach \"olives\"\t"
 - title: Lightly Poached Oysters
   desc: Leeks and roasted chicken sabayon
 - title: Sunchoke
