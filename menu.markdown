@@ -31,7 +31,7 @@ course_3:
   desc: Applewood-smoked with onion jam, yubeshi beans, and celeriac
 - title: Sea Bream
   desc: King trumpet mushrooms, apple, and kohlrabi
-- title: Lacquered Duck for two $15/person
+- title: Pork
   desc: Green garlic and hazelnut persillade, lemon, and hakurei turnip
 - title: Lamb
   desc: 'Cauliflower and mustard greens cooked in pear vinegar '
