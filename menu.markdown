@@ -24,8 +24,8 @@ course_2:
   desc: 'Fermented cabbage and sauce Pierre '
 - title: Rabbit
   desc: Yoshoku potatoes, shio buttermilk, and herbs
-- title: Salsify
-  desc: Boudin noir and caramelized milk
+- title: 'Asparagus '
+  desc: Hemp seed, tama miso, and arugula
 course_3:
 - title: Chewy Carrots
   desc: Applewood-smoked with onion jam, yubeshi beans, and celeriac
