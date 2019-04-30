@@ -11,8 +11,8 @@ course_1:
   desc: Leeks and roasted chicken sabayon
 - title: Sunchoke
   desc: Cured duck, ikura roe, maple, and hazelnuts
-- title: Foie Gras
-  desc: 'Beet, sunflower seed pudding, and brioche '
+- title: 'Steak Tartare '
+  desc: Pastrami spice, pickles, and rye
 - title: Canlis Salad
   desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
 course_2:
