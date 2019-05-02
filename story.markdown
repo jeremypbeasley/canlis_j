@@ -37,3 +37,5 @@ layout: story
 <p class="mb5 Display2">Once, this guest called and left a message saying I had really nice hands. Here’s the thing, praise comes in all forms. But the voice we trust most is that one inside calling us to love on our neighbors and serve them a really nice meal.</p>
 
 <p class="mb5 Display2">Most nights, we’ll be right here, waiting to do just that.</p>
+
+<p class="mb5 Display2">— Mark Canlis</p>
