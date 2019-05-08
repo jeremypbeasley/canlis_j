@@ -29,7 +29,7 @@ cache:
   - "/uploads/privateevents_cache.jpg"
 executiveroom:
   title: The Executive Room
-  capacity: 10 - 30 guests
+  capacity: 10 - 24 guests
   desc: |-
     The irresistibly comfortable “living room” of our restaurant. Host a business meeting with understated elegance, or a private dinner party with the warmth, intimacy, and personal touch that will make guests feel right at home. Amenities include a fireplace, wrap-around views, mahogany walls, oval or round tables, projector and screen, mp3 jack.
     A room rental charge of $250 applies.
