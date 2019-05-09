@@ -6,7 +6,7 @@ disclaimer: A 20% service charge will be added to your final bill and is retaine
   by Canlis. No additional gratuity is expected.
 course_1:
 - title: Lightly Cured Halibut
-  desc: "Rhubarb, preserved strawberry, and green peach \"olives\"\t"
+  desc: "Green strawberries, with crispy skin and onion; and halibut and barley tea\t"
 - title: Lightly Poached Oysters
   desc: Leeks and roasted chicken sabayon
 - title: Sunchoke
