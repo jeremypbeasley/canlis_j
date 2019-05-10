@@ -5,8 +5,8 @@ menu_cost: 135
 disclaimer: A 20% service charge will be added to your final bill and is retained
   by Canlis. No additional gratuity is expected.
 course_1:
-- title: Lightly Cured Halibut
-  desc: "Green strawberries, with crispy skin and onion; and halibut and barley tea\t"
+- title: Halibut
+  desc: Lightly cured, with green strawberries and a tea of its smoked bones and barley
 - title: Lightly Poached Oysters
   desc: Leeks and roasted chicken sabayon
 - title: Sunchoke
