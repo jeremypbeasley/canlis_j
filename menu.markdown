@@ -7,36 +7,38 @@ disclaimer: A 20% service charge will be added to your final bill and is retaine
 course_1:
 - title: Halibut
   desc: Lightly cured, with green strawberries and a tea of its smoked bones and barley
-- title: Lightly Poached Oysters
-  desc: Leeks and roasted chicken sabayon
+- title: 'Asparagus '
+  desc: Grilled, pickled, and raw, with hemp pudding and arugula oil
 - title: Sunchoke
-  desc: Cured duck, ikura roe, maple, and hazelnuts
+  desc: "Cured duck breast, ikura roe, maple, and hazelnuts\t "
 - title: 'Steak Tartare '
-  desc: Pastrami spice, pickles, and rye
+  desc: "Sansyo peppercorn, pickles, and rye foccacia\t"
 - title: Canlis Salad
   desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
 course_2:
+- title: 'White Asparagus '
+  desc: Barely cooked spot prawns, mangalitsa lardo, and a sauce of shellfish and
+    vermouth
 - title: Haiga Rice
-  desc: 'Dungeness crab, fried chili, and hazelnuts '
-- title: 'Sea Urchin Ravioli '
-  desc: 'Citrus, yubeshi, and bottarga '
-- title: Malted Pancake
-  desc: 'Fermented cabbage and sauce Pierre '
+  desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
+- title: Hokkaido Sea Urchin Ravioli
+  desc: In a sauce of citrus and yubeshi with bottarga breadcrumb
+- title: Malted Barley Pancake
+  desc: 'Fermented cabbage and sauce "Pierre" '
 - title: Rabbit
-  desc: Yoshoku potatoes, shio buttermilk, and herbs
-- title: 'Asparagus '
-  desc: Hemp seed, tama miso, and arugula
+  desc: Yoshoku potatoes, buttermilk, and herbs from our garden
 course_3:
 - title: Chewy Carrots
-  desc: Applewood-smoked with onion jam, yubeshi beans, and celeriac
+  desc: 'Applewood-smoked with onion jam, yubeshi beans, and celeriac '
 - title: Sea Bream
-  desc: King trumpet mushrooms, apple, and kohlrabi
+  desc: Leeks caramelized in shio koji and a roasted chicken sabayon
 - title: Pork
-  desc: Green garlic and hazelnut persillade, lemon, and hakurei turnip
+  desc: Green garlic and hazelnut persillade, preserved lemon, and hakurei turnip
 - title: Lamb
-  desc: 'Cauliflower and mustard greens cooked in pear vinegar '
+  desc: 'Dry-aged leg and belly, with cauliflower and mustard greens cooked in pear
+    vinegar '
 - title: Ribeye
-  desc: Radicchio, rutabaga, and fermented garlic
+  desc: Charred radicchio, rutabaga, and fermented garlic
 course_4:
 - title: 'Rhubarb '
   desc: White chocolate and matcha
