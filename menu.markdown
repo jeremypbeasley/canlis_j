@@ -32,7 +32,7 @@ course_3:
   desc: 'Applewood-smoked with onion jam, yubeshi beans, and celeriac '
 - title: Sea Bream
   desc: Leeks caramelized in shio koji and a roasted chicken sabayon
-- title: Pork
+- title: Duck
   desc: Green garlic and hazelnut persillade, preserved lemon, and hakurei turnip
 - title: Lamb
   desc: 'Dry-aged leg and belly, with cauliflower and mustard greens cooked in pear
