@@ -17,8 +17,8 @@ course_1:
   desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
 course_2:
 - title: 'White Asparagus '
-  desc: Barely cooked spot prawns, mangalitsa lardo, and a sauce of shellfish and
-    vermouth
+  desc: Barely cooked side-stripe prawns, mangalitsa lardo, and a sauce of shellfish
+    and vermouth
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: Hokkaido Sea Urchin Ravioli
