@@ -19,10 +19,11 @@ course_2:
 - title: 'White Asparagus '
   desc: Barely cooked side-stripe prawns, mangalitsa lardo, and a sauce of shellfish
     and vermouth
+- title: Copper River Sockeye Salmon
+  desc: "Marinated in a paste of seaweed, caperberries, and shio koji, with artichoke
+    and          \nporcini mushroom "
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
-- title: Hokkaido Sea Urchin Ravioli
-  desc: In a sauce of citrus and yubeshi with bottarga breadcrumb
 - title: Malted Barley Pancake
   desc: 'Fermented cabbage and sauce "Pierre" '
 - title: Rabbit
