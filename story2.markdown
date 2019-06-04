@@ -32,6 +32,8 @@ layout: story
 
 <p class="mb5 Display2"><img src="/uploads/Screen%20Shot%202019-06-04%20at%2011.02.25%20AM.png"/></p>
 
+<p class="mb5 Display2"><img src="/uploads/Screen%20Shot%202019-06-04%20at%2010.58.44%20AM.png"/></p>
+
 <p class="mb5 Display2">In the years to follow, three more restaurants were built. Returning to Hawaii with funds and reputation to spare, The Broiler was replaced with the island’s most iconic and storied restaurant, Canlis Honolulu.  In San Francisco, he insisted The Fairmont rebuild the first floor to include Canlis’ iconic stone and windows. At the time, it was the most expensive restaurant ever built in America. In Portland, Baron Hilton asked him to build on top of his newest hotel, and then made deals for half a dozen more.</p>
 
 <p class="mb5 Display2"><img src="/uploads/Screen%20Shot%202019-06-04%20at%2011.02.34%20AM.png"/></p>
@@ -49,6 +51,8 @@ layout: story
 <p class="mb5 Display2">In 2007, my brother and I officially took over the company. We took it from a Greek runaway come to America to find a new home. We took it from a restaurant visionary who staked it all to make a name for his family. We took it from the loving arms of our parents who breathed life into the world around them.  </p>
 
 <p class="mb5 Display2">We took it, and it was like, “oh no...now what?”</p>
+
+<p class="mb5 Display2"><img src="/uploads/canlis-page.jpg"/></p>
 
 <p class="mb5 Display2">Since then we’ve worked towards one goal: to live out and grow the idea that more often than not, it’s worth putting other people first. We’ve sought to understand what turning towards one another really looks like and in so doing, see if our restaurant would stand the test of time. In truth, there’s not been enough time to know one way or the other. Food & Wine Magazine once called Canlis “one of the 40 most important restaurants in the past 40 years.” We’ve humbly received 22 consecutive Wine Spectator Grand Awards. We’ve been nominated for 15 James Beard Awards and have even won a couple.  </p>
 
