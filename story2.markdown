@@ -36,6 +36,8 @@ layout: story
 
 <p class="mb5 Display2">In the years to follow, three more restaurants were built. Returning to Hawaii with funds and reputation to spare, The Broiler was replaced with the island’s most iconic and storied restaurant, Canlis Honolulu.  In San Francisco, he insisted The Fairmont rebuild the first floor to include Canlis’ iconic stone and windows. At the time, it was the most expensive restaurant ever built in America. In Portland, Baron Hilton asked him to build on top of his newest hotel, and then made deals for half a dozen more.</p>
 
+<p class="mb5 Display2"><img src="/uploads/B5BDA482-F902-E091-E3EAE30744165834-720x515.jpg"/></p>
+
 <p class="mb5 Display2"><img src="/uploads/Screen%20Shot%202019-06-04%20at%2011.02.34%20AM.png"/></p>
 
 <p class="mb5 Display2">In 1977, we moved to Seattle. I was three. That was the year my younger brother was born. The year Peter asked our father to take over the company. The year he eventually died of cancer. In 1977 the soul of our company passed away with its founder. And in its place a new soul was reborn. Wary of the repercussions of restaurant life on a family, mom and dad were reluctant restaurateurs. Our board of directors even advised they sell the company before ruining its value. Peter Canlis they were not. Seattle, the board, and everyone knew it...and this likely saved our company.</p>
