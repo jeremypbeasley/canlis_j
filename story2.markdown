@@ -8,7 +8,7 @@ layout: story
 
 <p class="mb5 Display2">Family lore has it that as a very young man, he swam five miles from the island of Lesvos, Greece to the shores of Turkey. Then he hitchhiked his way to the Mena House Hotel in Cairo where he met Teddy Roosevelt and signed on as a cook for the Smithsonian–Roosevelt African Expedition. For more than a year they traveled the rural Africa together, collecting 1100 specimens that would find their way back to the Smithsonian Institute. Eventually, Nick would reach American shores, clearing immigration with an Egyptian passport and settling down in Stockton, California.</p>
 
-<img src="/uploads/vintage-greece-late-19th-ccentury-14.jpg"/>
+<p class="mb5 Display2"><img src="/uploads/vintage-greece-late-19th-ccentury-14.jpg"/></p>
 
 <p class="mb5 Display2">Along the way he met our great grandmother, an immigrant herself--a Lebanese beauty--and the most talented cook our dad claims to have ever met. Together, they opened the first-generation Canlis restaurant in 1910. It was a mom and pop shop from the old world. A family cafe they named The Food Palace and Fish Grotto. It was heart and sweat and hope. The untamed west and the streets of Stockton, two honest, immigrant parents and “The Palace” raised our grandfather. His name was Peter Canlis.</p>
 
