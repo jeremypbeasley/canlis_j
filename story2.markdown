@@ -40,6 +40,8 @@ layout: story
 
 <p class="mb5 Display2"><img src="/uploads/Screen%20Shot%202019-06-04%20at%2011.01.47%20AM.png"/></p>
 
+<p class="mb5 Display2"><img src="/uploads/Screen%20Shot%202019-06-04%20at%2011.00.12%20AM.png"/></p>
+
 <p class="mb5 Display2">Our parents would shepherd Canlis restaurant for 30 years, choosing family first at every turn in the road. They shrank the business to focus on their marriage and their children. They elevated the brand in the face of new competition and a rapidly evolving industry. They won awards, helped build a city, influenced a nation, raised a family and stayed married to one another. They also practiced a kind of hospitality that would transcend the restaurant business. Hospitality, they’d say, is more than caring for someone. It’s a certain kind of turning towards “the other.” The stranger. The foreigner. The one who is different. It’s the act of carving out space for someone you may not understand, who may not look like you, for no other reason, no personal gain except the singular fulfillment gained from following a belief to its end: We fundamentally need one another, and we were made for relationship.</p>
 
 <p class="mb5 Display2">Hospitality was not so much a business for our parents as it was a natural response to the inevitable moment they came face to face with another human being. They taught us that carving out space for one another would likely be hard but worth it. That it was a form of generosity: a power and wealth that everyone had equal access and right to. A function of one’s character, not their circumstances.</p>
