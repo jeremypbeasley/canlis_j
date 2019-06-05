@@ -3,6 +3,45 @@
   $("body").addClass("Invert");
   console.log("story layout loaded")
 </script> -->
+
+<style>
+
+.LeanLeft {
+  left: -5vw;
+  width: 40vw;
+}
+
+.LeanRight {
+  width: 45vw;
+  left: -5vw;
+  max-width: 100vw;
+}
+
+.RotateLeft {
+  transform: rotate(-5deg);
+}
+
+.RotateRight {
+  transform: rotate(5deg);
+}
+
+.SetRelative {
+  position: relative;
+}
+
+p:nth-child(2) img {
+  width: 110%;
+  max-width: 110%;
+}
+
+p:nth-child(2) img,
+p:nth-child(3) img {
+  margin-top: -40px;
+  margin-left: -20px;
+}
+
+</style>
+
 <div class="Intro Tall">
     <h1 class="Display1 ShowDesktop">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A story that goes<Br>
@@ -16,82 +55,93 @@ back more than&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<Br>
 </div>
 <div class="row">
   <div class="column col-xs-12 col-md-4 col-md-offset-1">
-    <p class="Caption mb5">WRITTEN BY ANY COMER<br>
-    WORDS FROM MARK & BRIAN CANLIS</p>
-    <p>In the late 1939, Peter Canlis struck out on his own, leaving his parents' restaurant in Stockton, California. </p>
-    <p>His father, Nick Canlis, was a Greek immigrant who served as cook for Teddy Roosevelt during the President's 1909 one year African safari. Eventually, he reached Ellis Island with an Egyptian passport. Together, they opened the first-generation Canlis restaurant.</p>
-    <p>During World War II, Peter's knowledge of food and his shrewd purchasing skills led to an offer to manage the United Services Organization’s Honolulu food service operations. Soon everyone on Oahu knew that the best meal to be had in Hawaii was at the USO. After the war, Peter remained in Hawaii and opened his first restaurant, The Broiler, a ten-table sidewalk restaurant in Waikiki. In 1950, Peter Canlis moved to Seattle and opened the restaurant that was to put his mark on the nation’s fine dining scene.</p> <!-- He chose a magnificent view location just three miles north of the city center, and, with characteristic vision, hired up-and-coming architect Roland Terry to make his vision a reality. Terry is now widely known as the father of Northwest architecture; his sweeping and timeless design.</p> -->
+    <p class="Caption mb3">Words by Mark Canlis</p>
+    <p>Nicholas Kanlis was a runaway.</p>
+    <p>Family lore has it that as a very young man, he swam five miles from the island of Lesvos, Greece to the shores of Turkey. Then he hitchhiked his way to the Mena House Hotel in Cairo where he met Teddy Roosevelt and signed on as a cook for the Smithsonian–Roosevelt African Expedition. For more than a year they traveled the rural Africa together, collecting 1100 specimens that would find their way back to the Smithsonian Institute. Eventually, Nick would reach American shores, clearing immigration with an Egyptian passport and settling down in Stockton, California.</p>
   </div>
-  <div class="column col-xs-12 col-md-5 col-md-offset-1 ">
-    <p><img class="YoungPeter0" src="/assets/_img/story_01.jpg"></p>
+  <div class="column col-xs-12 col-md-5 col-md-offset-1 SetRelative">
+    <p><img class="LeanRight RotateRight" src="/uploads/vintage-greece-late-19th-ccentury-14.jpg"></p>
   </div>
 </div>
 <div class="row">
-  <div class="column col-xs-12 col-md-4">
-    <p><img class="YoungPeter1" src="/assets/_img/story_03.jpg"></p>
-  </div>
-  <div class="column col-xs-12 col-md-4">
-    <p><img class="YoungPeter2" src="/assets/_img/story_04.jpg"></p>
-  </div>
-  <div class="column col-xs-12 col-md-4">
-    <p><img class="YoungPeter3" src="/assets/_img/story_02.jpg"></p>
+  <div class="column col-xs-10 col-md-offset-1 AlignCenter">
+    <p class="Caption mt10 mb10 ">Peter</p>
   </div>
 </div>
 <div class="row">
   <div class="column col-xs-12 col-md-5 col-md-offset-1">
-    <p><img class="Honolulu1 mb5" src="/assets/_img/honolulu1.jpg"></p>
-    <p><img class="Honolulu1" src="/assets/_img/honolulu2.jpg"></p>
+    <p><img class=" RotateLeft" src="/uploads/Screen%20Shot%202019-06-04%20at%2010.59.58%20AM.png"></p>
+    <!-- <p><img class="mb5" src="/uploads/Screen%20Shot%202019-06-04%20at%2010.59.02%20AM.png"></p> -->
   </div>
   <div class="column col-xs-12 col-md-5">
-    <p class="Caption">Hawaiian beginnings</p>
+    <!-- <p class="Caption">Hawaiian beginnings</p> -->
     <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam velit justo, imperdiet eu nulla at, hendrerit tincidunt quam. Nullam id enim porttitor, placerat libero ac, sollicitudin ante. Donec vitae metus non ipsum fringilla facilisis ac at mi. Aliquam tincidunt sapien vitae felis pretium semper. Nam accumsan nunc nulla, quis faucibus felis gravida et. Duis scelerisque eros vel lacinia sagittis. Nunc lobortis mollis pretium. Etiam quis leo id lorem euismod vehicula in ultricies neque. Maecenas ut imperdiet dolor, sit amet mollis sem. Quisque elementum vel ligula vel scelerisque. Aliquam pulvinar, sapien luctus aliquet semper, nisi nisi vulputate neque, ac vulputate eros lectus eget ante. Maecenas eu sagittis quam, cursus tincidunt augue.
+    Along the way he met our great grandmother, an immigrant herself--a Lebanese beauty--and the most talented cook our dad claims to have ever met. Together, they opened the first-generation Canlis restaurant in 1910. It was a mom and pop shop from the old world. A family cafe they named The Food Palace and Fish Grotto. It was heart and sweat and hope. The untamed west and the streets of Stockton, two honest, immigrant parents and “The Palace” raised our grandfather. His name was Peter Canlis.
     </p>
     <p>
-    In ornare volutpat nisl, ac dapibus elit ullamcorper id. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut laoreet massa vitae egestas vulputate. Integer malesuada ultrices efficitur. Maecenas velit sapien, luctus a pellentesque eget, pellentesque ut nunc. Nulla ut purus id libero vulputate tempor. Phasellus sed ante vitae elit mattis luctus. Aenean id molestie odio. Fusce consequat pellentesque ultricies. Mauris pulvinar turpis porttitor dapibus luctus. Vestibulum tellus libero, faucibus ac molestie vel, sollicitudin at erat. Duis vel nibh et velit fermentum molestie. Duis aliquam ullamcorper metus non sagittis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque imperdiet dui elit, tempor posuere augue condimentum ut.
+    In 1939, Peter left the family and its restaurant and struck out on his own. Maybe he was keeping in his father’s tradition. A few who knew him said he had something to prove—a vision too grand for his family’s small cafe to bear. With the untested confidence of youth and a first-generation immigrant chip on his shoulder, he left to make a name for himself in Hawaii. It was then a place of passenger ships and Pan-American Airways, royal palaces and rows of palms on underdeveloped beaches. This paradise was full of promise. And war.
     </p>
-  </div>
-</div>
-<div class="row">
-  <div class="column col-xs-12 col-md-4 col-md-offset-1 SeattleRevealText">
-    <p class="Caption">Canlis opens in Seattle</p>
-    <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu lobortis arcu. Etiam vitae semper risus, nec luctus nisl. Etiam fringilla ipsum mauris, ut tincidunt metus mattis ac. Mauris mattis cursus enim sed blandit. Nullam facilisis ipsum in lectus viverra tempor. Proin finibus gravida lacinia. Nam eget lacus at nibh porta sagittis eu quis ligula. Nunc in pretium enim. Praesent malesuada quam risus, vitae commodo felis semper a. Sed eget faucibus sem, a aliquam purus. Nunc ut hendrerit ligula. In ligula nibh, mollis sit amet eleifend ut, consectetur eu libero. Nam porta diam diam, vitae efficitur augue porttitor a. Quisque id vehicula ante. Aliquam ullamcorper nisl sem, at iaculis sem dictum in. Morbi convallis vulputate metus vitae sagittis.</p>
-    <p>Integer blandit velit nec sem pretium viverra. Donec vitae consectetur ante. Etiam faucibus scelerisque aliquet. Suspendisse porttitor iaculis orci, ut dapibus nisl scelerisque aliquam. Duis posuere, quam vehicula malesuada auctor, metus risus.Donec vitae consectetur ante. Etiam faucibus scelerisque aliquet. Suspendisse porttitor iaculis orci, ut dapibus nisl scelerisque aliquam. Duis posuere, quam vehicula malesuada auctor, metus risus.
-    </p>
-  </div>
-  <div class="column col-xs-12 col-md-6 col-md-offset-1">
-    <p><img class="SeattleReveal" src="/assets/_img/store_seattle.jpg"></p>
   </div>
 </div>
 <div class="row">
   <div class="column col-xs-12 col-md-5 col-md-offset-1">
-    <p><img class="SeattleFrontDoor" src="/assets/_img/story_frontdoor.jpg"></p>
-    <p><img class="SeattlePeterEating" src="/assets/_img/story_petereating.jpg"></p>
+    <p class="Caption">The Broiler</p>
+    <p>On December 7, 1941 Peter watched Imperial Japanese aircraft raid Wheeler Field. As a reeling nation lurched into action, the people of Honolulu, and our grandfather, put Pearl Harbor back together. To better support its troops, America formed the United Services Organization in 1941, and hired a young kid from Stockton who had a lot to prove to run one of the busiest kitchens in the Pacific. He won the job with a challenge that he could outcook anyone on the base, and within a few months a surging war and word of mouth saw the USO preparing 3,500 meals a day. Peter Canlis, who’d run away from the restaurant business, quickly showed the island that the best meal in Hawaii was at the USO.</p>
+    <p>After the war, Peter opened his first restaurant, The Broiler, on a little-known beach called Waikiki. Humble in size (and signage...it hung from a palm tree) the restaurant hired Japanese women for the traditionally-male role of server captain. It was 1947. As best we know, these women changed the future of American fine dining. It was a social experiment ahead of its time. The Broiler exchanged European pretension for humility, hubris for Japanese warmth and hospitality. Gone were the tuxedos and traditional captain-style service. The Broiler, with firsts like tip-pools and team-style service, and cuisine that celebrated European and Eastern techniques was not just an immediate success, but nothing less than a recipe for the future of American dining.</p>
   </div>
-  <div class="column col-xs-12 col-md-5 SeattleRevealText">
-    <p>
-    Originally built as the owner’s office, this treetop niche quickly became the most exclusive table in Seattle. The Caché is an entirely private, intimate room on the 2nd floor of our restaurant with spectacular views across Lake Union and the Cascade Mountains. Amenities include a telescope, sound system, and chaise lounge.</p>
-    <p>A room rental charge of $150 applies.Originally built as the owner’s office, this treetop niche quickly became the most exclusive table in Seattle. The Caché is an entirely private, intimate room on the 2nd floor of our restaurant with spectacular views across Lake Union and the Cascade Mountains. Amenities include a telescope, sound system, and chaise lounge.
-    A room rental charge of $150 applies.</p>
-    <p>Originally built as the owner’s office, this treetop niche quickly became the most exclusive table in Seattle. The Caché is an entirely private, intimate room on the 2nd floor of our restaurant with spectacular views across Lake Union and the Cascade Mountains. Amenities include a telescope, sound system, and chaise lounge.
-    A room rental charge of $150 applies.
-    </p>
+  <div class="column col-xs-12 col-md-5">
+    <p><img class="RotateRight" src="/uploads/broiler1.jpg"></p>
+    <p><img class="RotateLeft" src="/uploads/broiler2.jpg"></p>
   </div>
 </div>
 <div class="row">
-  <div class="column col-xs-12 col-md-5 SeattleRevealText">
-    <p class="SeattleEndText">
-    Originally built as the owner’s office, this treetop niche quickly became the most exclusive table in Seattle. The Caché is an entirely private, intimate room on the 2nd floor of our restaurant with spectacular views across Lake Union and the Cascade Mountains. Amenities include a telescope, sound system, and chaise lounge.</p>
-    <p>A room rental charge of $150 applies.Originally built as the owner’s office, this treetop niche quickly became the most exclusive table in Seattle. The Caché is an entirely private, intimate room on the 2nd floor of our restaurant with spectacular views across Lake Union and the Cascade Mountains. Amenities include a telescope, sound system, and chaise lounge.
-    A room rental charge of $150 applies.</p>
-  </div>
   <div class="column col-xs-12 col-md-5 col-md-offset-1">
-    <p><img class="SeattleMiddle" src="/assets/_img/story_02.jpg"></p>
-    <p><img class="SeattleEnd" src="/assets/_img/story_peterposed.jpg"></p>
+    <p><img class="RotateLeft" src="/uploads/120817094432-restaurants-canlis.jpg"></p>
+    <p><img class="RotateRight" src="/uploads/Screen%20Shot%202019-06-04%20at%2010.58.53%20AM.png"></p>
+    <p><img class="RotateLeft" src="/uploads/Screen%20Shot%202019-06-04%20at%2010.58.44%20AM.png"></p>
+  </div>
+  <div class="column col-xs-12 col-md-5">
+    <p class="Caption">Canlis Seattle</p>
+    <p>In 1950, Peter Canlis moved to Seattle and opened the restaurant that would make his mark on the nation’s emerging fine dining scene. Borrowing all he could (fifty thousand dollars) he sought to build a restaurant in the heart of the city, but as an outsider he could not break in. Unknown, untrusted, and with “an idea so crazy that Seattle would never go for it” Peter fought to find his start. Famed restaurateur Walter Clark took an interest in the newcomer and offered a piece of land “way outside the city.” Even as young kids we could recite his answer: “If it’s within a dollar’s cab ride of downtown, they'll come.”</p>
+    <p>Peter drew from what he could: his mother’s recipes, the beauty and grace of Japanese hospitality, the intoxication of Polynesian cuisine, the soul-warming embrace of the Hawaiian people. His impossibly lofty strategy was to build the most beautiful restaurant in the world. Eschewing the style of the great dining rooms in New York and Chicago, Peter hired then-undiscovered residential architect Roland Terry to build a restaurant that felt like a home. He bet on upstart Northwest artists (George Tsutakawa’s first sculpture is still our door handle). He snuck fresh fish from Hawaii on Pan Am flights and returned the same suitcases to The Broiler with salmon and Dungeness crab. He built his lounge around a piano and the first post-prohibition liquor license in the city and priced his menu twice as high as the nearest competitor. Then he invited kings and heads of state, business tycoons and civic leaders. He invited them before ever earning the right to. His experiment in Hawaii had worked and in Seattle he would double down on it. Finally, waiting to serve a city of skeptics and naysayers, was his team of women of Japanese descent who had recently endured internment, clad in their own stunning kimonos. Seattle fell for the restaurant and overnight, Europe’s 200-year, influential grip on American fine dining was under legitimate siege.</p>
+    <p>In the years to follow, three more restaurants were built. Returning to Hawaii with funds and reputation to spare, The Broiler was replaced with the island’s most iconic and storied restaurant, Canlis Honolulu.  In San Francisco, he insisted The Fairmont rebuild the first floor to include Canlis’ iconic stone and windows. At the time, it was the most expensive restaurant ever built in America. In Portland, Baron Hilton asked him to build on top of his newest hotel, and then made deals for half a dozen more.</p>
   </div>
 </div>
-<div class="BigPlaceholderSection Large">
-  <p class="Caption">The rest of the story...</p>
+<div class="row">
+  <div class="column col-xs-10 col-md-offset-1 AlignCenter">
+    <p class="Caption mt10 mb10 ">Chris & Alice</p>
+  </div>
+</div>
+<div class="row">
+  <div class="column col-xs-12 col-md-5 col-md-offset-1">
+    <p>In 1977, we moved to Seattle. I was three. That was the year my younger brother was born. The year Peter asked our father to take over the company. The year he eventually died of cancer. In 1977 the soul of our company passed away with its founder. And in its place a new soul was reborn. Wary of the repercussions of restaurant life on a family, mom and dad were reluctant restaurateurs. Our board of directors even advised they sell the company before ruining its value. Peter Canlis they were not. Seattle, the board, and everyone knew it...and this likely saved our company.</p>
+    <p>Our parents would shepherd Canlis restaurant for 30 years, choosing family first at every turn in the road. They shrank the business to focus on their marriage and their children. They elevated the brand in the face of new competition and a rapidly evolving industry. They won awards, helped build a city, influenced a nation, raised a family and stayed married to one another. They also practiced a kind of hospitality that would transcend the restaurant business. Hospitality, they’d say, is more than caring for someone. It’s a certain kind of turning towards “the other.” The stranger. The foreigner. The one who is different. It’s the act of carving out space for someone you may not understand, who may not look like you, for no other reason, no personal gain except the singular fulfillment gained from following a belief to its end: We fundamentally need one another, and we were made for relationship.</p>
+    <p>Hospitality was not so much a business for our parents as it was a natural response to the inevitable moment they came face to face with another human being. They taught us that carving out space for one another would likely be hard but worth it. That it was a form of generosity: a power and wealth that everyone had equal access and right to. A function of one’s character, not their circumstances.</p>
+  </div>
+  <div class="column col-xs-12 col-md-5">
+    <p><img class="RotateLeft" src="/uploads/Screen%20Shot%202019-06-04%20at%2011.01.47%20AM.png"/></p>
+    <p><img class="RotateRight" src="/uploads/Screen%20Shot%202019-06-04%20at%2011.00.12%20AM.png"/></p>
+  </div>
+</div>
+<div class="row">
+  <div class="column col-xs-10 col-md-offset-1 AlignCenter">
+    <p class="Caption mt10 mb10 ">Mark & Brian</p>
+  </div>
+</div>
+<div class="row">
+  <!-- Images -->
+  <div class="column col-xs-12 col-md-5 col-md-offset-1">
+    <p><img class="RotateLeft" src="/uploads/markbrian.png"/></p>
+    <p><img class="RotateRight LeanLeft" src="/uploads/beardd.jpg"/></p>
+  </div>
+  <!-- Text -->
+  <div class="column col-xs-12 col-md-5">
+    <p>In 2007, my brother and I officially took over the company. We took it from a Greek runaway come to America to find a new home. We took it from a restaurant visionary who staked it all to make a name for his family. We took it from the loving arms of our parents who breathed life into the world around them.  </p>
+    <p>We took it, and it was like, “oh no...now what?”</p>
+    <p>Since then we’ve worked towards one goal: to live out and grow the idea that more often than not, it’s worth putting other people first. We’ve sought to understand what turning towards one another really looks like and in so doing, see if our restaurant would stand the test of time. In truth, there’s not been enough time to know one way or the other. Food & Wine Magazine once <a href="https://www.foodandwine.com/lifestyle/40-most-important-restaurants-past-40-years" target="_blank">called</a> Canlis “one of the 40 most important restaurants in the past 40 years.” We’ve humbly received 22 consecutive Wine Spectator Grand Awards. We’ve been nominated for 15 James Beard Awards and we've won three of <a href="https://www.seattletimes.com/life/food-drink/canlis-chef-brady-williams-wins-best-chef-in-the-northwest-at-the-james-beard-award/" target="_blank">them</a>.</p>
+    <p>Once, this guest called and left a message saying I had really nice hands. Here’s the thing, praise comes in all forms. But the voice we trust most is that one inside calling us to love on our neighbors and serve them a really nice meal.</p>
+    <p>Most nights, we’ll be right here, waiting to do just that.</p>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Cate_Blanchett_signature_%28autograph%29.svg" width="200px"/></p>
+  </div>
 </div>
 {% include footer.html %}
