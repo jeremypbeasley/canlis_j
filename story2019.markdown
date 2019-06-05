@@ -1,5 +1,5 @@
 ---
-title: Story
+title: Story (2019 Temp)
 date: 2016-11-10 10:08:00 -08:00
 layout: story_full
 ---
