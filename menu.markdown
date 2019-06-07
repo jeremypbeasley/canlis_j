@@ -19,9 +19,9 @@ course_2:
 - title: 'White Asparagus '
   desc: Barely cooked side-stripe prawns, mangalitsa lardo, and a sauce of shellfish
     and vermouth
-- title: Copper River Sockeye Salmon
-  desc: "Marinated in a paste of seaweed, caperberries, and shio koji, with artichoke
-    and          \nporcini mushroom "
+- title: Copper River Salmon
+  desc: 'Marinated in a paste of seaweed, caperberries, and shio koji, with artichoke
+    and porcini mushroom '
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: Malted Barley Pancake
