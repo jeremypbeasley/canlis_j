@@ -6,7 +6,7 @@ disclaimer: A 20% service charge will be added to your final bill and is retaine
   by Canlis. No additional gratuity is expected.
 course_1:
 - title: Halibut
-  desc: Lightly cured, with green strawberries and a tea of its smoked bones and barley
+  desc: Lightly cured, with rhubarb and a tea of its smoked bones and barley
 - title: 'Asparagus '
   desc: Grilled, pickled, and raw, with hemp pudding and arugula oil
 - title: Sunchoke
