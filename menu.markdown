@@ -19,7 +19,7 @@ course_2:
 - title: 'White Asparagus '
   desc: Barely cooked side-stripe prawns, mangalitsa lardo, and a sauce of shellfish
     and vermouth
-- title: Copper River Salmon
+- title: Copper River Sockeye Salmon
   desc: 'Marinated in a paste of seaweed, caperberries, and shio koji, with artichoke
     and porcini mushroom '
 - title: Haiga Rice
