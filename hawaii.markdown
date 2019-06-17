@@ -2,6 +2,7 @@
 title: Hawaiian Nights
 date: 2018-07-28 19:17:00 -07:00
 image: "/uploads/canlis-parking-lot-series-template.JPG"
+event_date: 2019-07-12 00:00:00 -07:00
 event_time: 'Fridays: 6-11pm, Saturdays 2-11pm'
 rsvp_button:
   has_button: false
