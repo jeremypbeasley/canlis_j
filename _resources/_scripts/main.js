@@ -1,15 +1,5 @@
 $(document).ready(function() {
 
-  // DYNAMIC RESY WIDGET
-
-  $('.ResLink').click(function() {
-    resyWidget.openModal({
-      "venueId":1009,
-      "apiKey":"ID6KeKVfi4DZDk013RH9vP1nfYnQd57s",
-      "replace":true
-    });
-  });
-
   // Drone video on home page
 
   $("#bgvid").fadeTo( 600, 1 );
