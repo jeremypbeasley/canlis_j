@@ -2867,7 +2867,7 @@ img {
     margin-top: 27vw;
     margin-left: -10%;
     position: relative;
-    z-index: 99999;
+    z-index: 999;
     border: 1px solid #000;
     box-shadow: 5px 5px 0px 0px #000;
   }
@@ -3428,8 +3428,9 @@ img {
 }
 @media (min-width: 48em) {
   .EventsThumb {
-    max-width: 120%;
-    width: 120%;
+    margin-left: -2.5vw;
+    max-width: 100%;
+    width: 100%;
   }
 }
 .EventsButton a {
@@ -3917,4 +3918,59 @@ input[type=submit] {
 .FormErrors.Active {
   transform: translateY(0px);
   opacity: 1;
+}
+.Announcement {
+  display: none;
+}
+.Announcement img {
+  margin-bottom: -6px;
+  margin-top: -25px;
+}
+.Announcement .CloseButton {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+  transition: transform 100ms ease-out;
+}
+.Announcement .CloseButton div {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  border-radius: 100%;
+}
+.Announcement .CloseButton svg {
+  transform: scale(0.5);
+  position: absolute;
+  top: -9px;
+  left: -9px;
+}
+.Announcement .CloseButton svg path {
+  fill: #000;
+}
+.AnnouncementOverlay {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0,0,0,0.8);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9909;
+}
+.AnnouncementCard {
+  background-color: #e6dfcc;
+  width: 400px;
+/* height: 100vh; */
+  position: fixed;
+  top: 5%;
+  left: 50%;
+  z-index: 99999;
+  margin-left: -200px;
+}
+.AnnouncementContent {
+  padding: 50px;
 }
