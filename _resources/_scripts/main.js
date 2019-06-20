@@ -1,5 +1,7 @@
 $(document).ready(function() {
 
+  console.log("Front end script initialized")
+
   // Drone video on home page
 
   $("#bgvid").fadeTo( 600, 1 );
@@ -57,16 +59,21 @@ $(document).ready(function() {
 
   // Announcement
 
+  // Set conditional cookie so visitors don't see the  pop up once they've dismissed it
   if (Cookies.get('popup')) {
     console.log("it's off")
+    $('.Announcement').show();
+    $('.Announcement').addClass('active');
   } else {
     $('.Announcement').show();
   }
 
-  $('.Announcement .CloseButton').click(function() {
+  // Closes the popup and set the cookie
+  $(document.body).on('click', '.Announcement .CloseButton, .AnnouncementOverlay', function(){
     $('.Announcement').hide();
+    $('.Announcement').removeClass('active');
     console.log("Announcement: Off");
-    Cookies.set('popup', 'off');
+    // Cookies.set('popup', 'off');
   });
 
 });

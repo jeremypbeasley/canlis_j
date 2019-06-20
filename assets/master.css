@@ -1669,7 +1669,7 @@ html {
 }
 body,
 p {
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 @media (min-width: 62em) {
   body,
@@ -1683,7 +1683,7 @@ p {
   -ms-user-select: none;
 }
 p {
-  line-height: 200%;
+  line-height: 175%;
   text-align: left;
   cursor: default;
   padding-bottom: 1rem;
@@ -1855,7 +1855,7 @@ li {
   font-weight: bold;
 }
 .Caption {
-  font-size: 0.92rem;
+  font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
   font-family: "ApercuMono", Andale Mono, monospaced;
@@ -3921,10 +3921,16 @@ input[type=submit] {
 }
 .Announcement {
   display: none;
+  transition: all 1s 200ms ease-out;
 }
 .Announcement img {
-  margin-bottom: -6px;
-  margin-top: -25px;
+  margin-bottom: -8px;
+  margin-top: -12px;
+}
+@media (min-width: 62em) {
+  .Announcement img {
+    margin-top: -25px;
+  }
 }
 .Announcement .CloseButton {
   width: 64px;
@@ -3939,9 +3945,9 @@ input[type=submit] {
   width: 32px;
   height: 32px;
   position: absolute;
-  top: 16px;
-  right: 16px;
-  border-radius: 100%;
+  top: 24px;
+  right: 24px;
+/* background: orange; */
 }
 .Announcement .CloseButton svg {
   transform: scale(0.5);
@@ -3955,7 +3961,7 @@ input[type=submit] {
 .AnnouncementOverlay {
   width: 100vw;
   height: 100vh;
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(0,0,0,0.6);
   position: fixed;
   top: 0;
   left: 0;
@@ -3963,14 +3969,31 @@ input[type=submit] {
 }
 .AnnouncementCard {
   background-color: #e6dfcc;
-  width: 400px;
-/* height: 100vh; */
+  width: calc(100% - 32px);
+  max-width: 375px;
+  max-height: calc(100vh - 32px);
   position: fixed;
-  top: 5%;
-  left: 50%;
+  top: 0;
   z-index: 99999;
-  margin-left: -200px;
+  margin: 16px;
+  opacity: 0;
+  transition: all 1s 200ms ease-out;
+  overflow: hidden;
+}
+@media (min-width: 62em) {
+  .AnnouncementCard {
+    margin: 16px;
+  }
+}
+.Announcement.active .AnnouncementCard {
+/* transform: translateY(-10px); */
+  opacity: 1;
 }
 .AnnouncementContent {
-  padding: 50px;
+  padding: 35px;
+}
+@media (min-width: 62em) {
+  .AnnouncementContent {
+    padding: 50px;
+  }
 }

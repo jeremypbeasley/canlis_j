@@ -11,7 +11,7 @@ section1_body: The opportunity to meet and serve you is one we don’t take ligh
   Canlis.
 section2_photo: "/uploads/kitchen_1.jpg"
 section2_body: Chef Brady Williams Wins James Beard Award for Best Chef Northwest.
-section2_link: https://seattle.eater.com/2019/5/6/18534891/canlis-brady-williams-wins-james-beard-award-best-chef-northwest
+section2_link: https://www.seattlemet.com/articles/2019/5/6/just-wow-congratulations-to-canlis-and-chef-brady-williams
 section3_photo: "/uploads/Dining_room2.jpg"
 section3_label: The Space
 section3_body: This storied building was first designed by Roland Terry in 1950.  Both
