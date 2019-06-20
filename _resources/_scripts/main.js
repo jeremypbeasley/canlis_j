@@ -55,4 +55,18 @@ $(document).ready(function() {
     }
   });
 
+  // Announcement
+
+  if (Cookies.get('popup')) {
+    console.log("it's off")
+  } else {
+    $('.Announcement').show();
+  }
+
+  $('.Announcement .CloseButton').click(function() {
+    $('.Announcement').hide();
+    console.log("Announcement: Off");
+    Cookies.set('popup', 'off');
+  });
+
 });

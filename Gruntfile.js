@@ -16,6 +16,7 @@ module.exports = function(grunt) {
       dist: {
         src: [
           'node_modules/jquery/dist/jquery.js',
+          'node_modules/js-cookie/src/js.cookie.js',
           'node_modules/slick-carousel/slick/slick.js',
           'node_modules/smoothstate/jquery.smoothState.min.js',
           'node_modules/jquery-validation/dist/jquery.validate.min.js',
