@@ -9,6 +9,6 @@ rsvp_button:
   button_label: Get Tickets
 ---
 
-Fridays and Saturdays this summer, we're converting our parking lot into an island of down-to-earth delicious food and drink. No reservations required, just come ready to have a great time. Also... you may want to bring a bathing suit.  
+Fridays and Saturdays this summer, we're converting our parking lot into an island of down-to-earth delicious food and drink. There are no reservations, just come ready to have a great time. Also... you may want to bring a bathing suit.  
 
-The party begins July 12. No on-site parking available, so please use Uber or Lyft.  
+The party begins July 12. No on-site parking available, so please use rideshare.  
