@@ -61,11 +61,11 @@ $(document).ready(function() {
 
   // Set conditional cookie so visitors don't see the  pop up once they've dismissed it
   if (Cookies.get('popup')) {
-    console.log("it's off")
+    console.log("Announcement: Off");
+  } else {
+    console.log("Announcement: On");
     $('.Announcement').show();
     $('.Announcement').addClass('active');
-  } else {
-    $('.Announcement').show();
   }
 
   // todo: fade in on load, fade out too
@@ -75,7 +75,7 @@ $(document).ready(function() {
     $('.Announcement').hide();
     $('.Announcement').removeClass('active');
     console.log("Announcement: Off");
-    // Cookies.set('popup', 'off');
+    Cookies.set('popup', 'off');
   });
 
 });
