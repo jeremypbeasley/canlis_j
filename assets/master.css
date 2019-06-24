@@ -1669,7 +1669,7 @@ html {
 }
 body,
 p {
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 @media (min-width: 62em) {
   body,
@@ -1683,7 +1683,7 @@ p {
   -ms-user-select: none;
 }
 p {
-  line-height: 200%;
+  line-height: 175%;
   text-align: left;
   cursor: default;
   padding-bottom: 1rem;
@@ -1855,7 +1855,7 @@ li {
   font-weight: bold;
 }
 .Caption {
-  font-size: 0.92rem;
+  font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
   font-family: "ApercuMono", Andale Mono, monospaced;
@@ -2867,7 +2867,7 @@ img {
     margin-top: 27vw;
     margin-left: -10%;
     position: relative;
-    z-index: 99999;
+    z-index: 999;
     border: 1px solid #000;
     box-shadow: 5px 5px 0px 0px #000;
   }
@@ -3428,8 +3428,9 @@ img {
 }
 @media (min-width: 48em) {
   .EventsThumb {
-    max-width: 120%;
-    width: 120%;
+    margin-left: -2.5vw;
+    max-width: 100%;
+    width: 100%;
   }
 }
 .EventsButton a {
@@ -3917,4 +3918,89 @@ input[type=submit] {
 .FormErrors.Active {
   transform: translateY(0px);
   opacity: 1;
+}
+.Announcement {
+  display: none;
+  transition: all 1s 200ms ease-out;
+}
+.Announcement img {
+  margin-bottom: -8px;
+  margin-top: -12px;
+}
+@media (min-width: 62em) {
+  .Announcement img {
+    margin-top: -25px;
+  }
+}
+.Announcement .CloseButton {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+  transition: transform 100ms ease-out;
+}
+.Announcement .CloseButton div {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  top: 24px;
+  right: 24px;
+/* background: orange; */
+}
+.Announcement .CloseButton svg {
+  transform: scale(0.5);
+  position: absolute;
+  top: -9px;
+  left: -9px;
+}
+.Announcement .CloseButton svg path {
+  fill: #000;
+}
+.AnnouncementOverlay {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0,0,0,0.6);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9909;
+}
+.AnnouncementCard {
+  background-color: #e6dfcc;
+  width: calc(100% - 32px);
+  max-width: 375px;
+  max-height: calc(100vh - 32px);
+  position: fixed;
+  top: 0;
+  z-index: 99999;
+  margin: 16px;
+  opacity: 0;
+  transition: all 1s 200ms ease-out;
+  overflow: hidden;
+}
+@media (min-width: 48em) {
+  .AnnouncementCard {
+    left: 50%;
+    margin-left: -187px;
+  }
+}
+@media (min-width: 62em) {
+  .AnnouncementCard {
+    margin: 16px;
+    margin-left: -187px;
+  }
+}
+.Announcement.active .AnnouncementCard {
+/* transform: translateY(-10px); */
+  opacity: 1;
+}
+.AnnouncementContent {
+  padding: 35px;
+}
+@media (min-width: 62em) {
+  .AnnouncementContent {
+    padding: 50px;
+  }
 }
