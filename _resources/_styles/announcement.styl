@@ -1,0 +1,100 @@
+.Announcement {
+  display: none;
+  transition: all 1s 200ms ease-out;
+}
+
+.Announcement img {
+  margin-bottom: -8px;
+  margin-top: -12px;
+}
+
+@media laptop {
+  .Announcement img {
+    margin-top: -25px;
+  }
+}
+
+/* todo: Make image align to bottom */
+
+.Announcement .CloseButton {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+  transition: transform 100ms ease-out;
+}
+
+.Announcement .CloseButton div {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  top: 24px;
+  right: 24px;
+  /* background: orange; */
+}
+
+.Announcement .CloseButton svg  {
+  transform: scale(.5);
+  position: absolute;
+  top: -9px;
+  left: -9px;
+}
+
+.Announcement .CloseButton svg path {
+  fill: black;
+}
+
+.AnnouncementOverlay {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.6);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9909;
+}
+
+.AnnouncementCard {
+  background-color: #e6dfcc;
+  width: calc(100% - 32px);
+  max-width: 375px;
+  max-height: calc(100vh - 32px);
+  position: fixed;
+  top: 0;
+  z-index: 99999;
+  margin: 16px;
+  opacity: 0;
+  transition: all 1s 200ms ease-out;
+  overflow: hidden;
+}
+
+@media tablet {
+  .AnnouncementCard {
+    left: 50%;
+    margin-left: -187px;
+  }
+}
+
+@media laptop {
+  .AnnouncementCard {
+    margin: 16px;
+    margin-left: -187px;
+  }
+}
+
+.Announcement.active .AnnouncementCard {
+  /* transform: translateY(-10px); */
+  opacity: 1;
+}
+
+.AnnouncementContent {
+  padding: 35px;
+}
+
+@media laptop {
+  .AnnouncementContent {
+    padding: 50px;
+  }
+}

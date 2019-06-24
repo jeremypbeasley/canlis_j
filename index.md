@@ -10,8 +10,8 @@ section1_body: The opportunity to meet and serve you is one we don’t take ligh
   thing in the world is taking care of others, and few places can do it quite like
   Canlis.
 section2_photo: "/uploads/kitchen_1.jpg"
-section2_body: Winner of the 2017 James Beard Outstanding Wine Program Award.
-section2_link: http://www.seattletimes.com/life/food-drink/tenth-times-the-charm-canlis-wins-a-james-beard-award/
+section2_body: Chef Brady Williams Wins James Beard Award for Best Chef Northwest.
+section2_link: https://www.seattlemet.com/articles/2019/5/6/just-wow-congratulations-to-canlis-and-chef-brady-williams
 section3_photo: "/uploads/Dining_room2.jpg"
 section3_label: The Space
 section3_body: This storied building was first designed by Roland Terry in 1950.  Both
@@ -26,4 +26,3 @@ homephoto6: "/uploads/prepping2.jpg"
 newsletter_link: http://
 layout: home
 ---
-
