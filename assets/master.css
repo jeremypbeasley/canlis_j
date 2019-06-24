@@ -3980,9 +3980,16 @@ input[type=submit] {
   transition: all 1s 200ms ease-out;
   overflow: hidden;
 }
+@media (min-width: 48em) {
+  .AnnouncementCard {
+    left: 50%;
+    margin-left: -187px;
+  }
+}
 @media (min-width: 62em) {
   .AnnouncementCard {
     margin: 16px;
+    margin-left: -187px;
   }
 }
 .Announcement.active .AnnouncementCard {
