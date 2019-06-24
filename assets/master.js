@@ -13619,7 +13619,7 @@ $(document).ready(function() {
   // todo: fade in on load, fade out too
 
   // Closes the popup and set the cookie
-  $(document.body).on('click', '.Announcement .CloseButton, .AnnouncementOverlay', function(){
+  $(document.body).on('click', '.Announcement .CloseButton, .AnnouncementOverlay, .AnnouncementLink', function(){
     $('.Announcement').hide();
     $('.Announcement').removeClass('active');
     console.log("Announcement: Off");
