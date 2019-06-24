@@ -68,6 +68,8 @@ $(document).ready(function() {
     $('.Announcement').show();
   }
 
+  // todo: fade in on load, fade out too
+
   // Closes the popup and set the cookie
   $(document.body).on('click', '.Announcement .CloseButton, .AnnouncementOverlay', function(){
     $('.Announcement').hide();
