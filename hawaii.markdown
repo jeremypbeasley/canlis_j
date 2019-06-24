@@ -11,6 +11,8 @@ rsvp_button:
 
 Fridays and Saturdays this summer, we're converting our parking lot into an island of down-to-earth delicious food and drink. There are no reservations, just come ready to have a great time. Also... you may want to bring a bathing suit.  
 
-The party begins July 12.
+The party begins July 12. 
 
-No on-site parking available, so please use rideshare.  
+No on-site parking available, so please use rideshare.
+
+21 and over only.   
