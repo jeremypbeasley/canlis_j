@@ -42,7 +42,7 @@ person3:
   title: Executive Chef
   photo: "/uploads/portrait_brady.jpg"
   bio: |-
-    Born in Southern California, Brady spent his younger days pursuing a professional hockey career. A serious injury would change those plans, and he returned home to find the kitchen – working at his grandparent’s neighborhood diner. Is a real rad dude.
+    Born in Southern California, Brady spent his younger days pursuing a professional hockey career. A serious injury would change those plans, and he returned home to find the kitchen – working at his grandparent’s neighborhood diner.
 
     In 2012, he was selected as the Chef de Cuisine at FT33 in Dallas, opening the restaurant under chef Matt McCallister. He then moved to Brooklyn, where he worked under chef Carlo Mirarchi as the Executive Sous Chef at Roberta’s and the two-Michelin-starred Blanca. In 2015, Brady joined Canlis as its sixth-ever Executive Chef. Since then, he has garnered a number of local and national awards, including a perfect, 4-star review from the Seattle Times. He was also named a Finalist for Rising Star Chef of the Year by the James Beard Foundation for 2017, recognizing him as one of the country's top, young culinary talents. In 2018, Brady was named as one of Food & Wine's Best New Chefs.
 person5:
