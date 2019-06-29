@@ -9,10 +9,14 @@ rsvp_button:
   button_label: Get Tickets
 ---
 
-Fridays and Saturdays this summer, we're converting our parking lot into an island of down-to-earth delicious food and drink. There are no reservations, just come ready to have a great time. Also... you may want to bring a bathing suit.  
+Fridays and Saturdays this summer, we’re honoring our Hawaiian roots with a celebration in our lower parking lot. Expect lowbrow vibes and unfancy, down-to-earth, delicious food and drink. Come ready to have a great time. And yes, you may want to bring a bathing suit.
 
-The party begins July 12. 
+There are no reservations. 21 and over. Credit/debit card only.
 
-No on-site parking available, so please use rideshare.
+There is no on-site parking, so please use rideshare.
 
-21 and over only.   
+Hawaiian Nights will be open:
+
+July 12 & 13, July 19 & 20, July 26 & 27 August 2 & 3, August 9 & 10, August 16 & 17
+
+ 
