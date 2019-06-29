@@ -1,7 +1,8 @@
 ---
 title: Hawaiian Nights
-description: We're converting our parking lot into an island of down-to-earth delicious
-  food and drink. Friday and Saturday nights. No reservations. Bring a bathing suit.
+description: "We’ve converted our parking lot into an oasis of tropical drinks, pizza,
+  and casual vibes. Please join us. No reservations / No dress code / 21+ / Bathing
+  suit recommended\n "
 link: "/hawaii"
 link_text: More info
 is_pop_up: true
