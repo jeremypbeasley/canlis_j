@@ -17,8 +17,7 @@ course_1:
   desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
 course_2:
 - title: 'White Asparagus '
-  desc: Barely cooked side-stripe prawns, mangalitsa lardo, and a sauce of shellfish
-    and vermouth
+  desc: Spinach, kohlrabi, and a sauce of shellfish, sea lettuce, and chicken jus
 - title: Copper River Salmon
   desc: 'Marinated in a paste of seaweed, caperberries, and shio koji, with artichoke
     and porcini mushroom '
