@@ -16,7 +16,7 @@ course_1:
 - title: Canlis Salad
   desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
 course_2:
-- title: 'White Asparagus '
+- title: Spot Prawns
   desc: Spinach, kohlrabi, and a sauce of shellfish, sea lettuce, and chicken jus
 - title: Copper River Salmon
   desc: 'Marinated in a paste of seaweed, caperberries, and shio koji, with artichoke
