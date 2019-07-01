@@ -49,8 +49,8 @@ course_4:
   desc: Chocolate, salsify, and Meyer lemon
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: Manchego Curado
-  desc: 'Raw sheep''s milk cheese served on a quince galette with chestnut and arugula '
+- title: Mascarpone Mousse
+  desc: Warm marscapone cheese with preserved cherry cake and tarragon oil
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
