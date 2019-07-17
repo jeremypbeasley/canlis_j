@@ -40,7 +40,7 @@ person2:
 person3:
   name: Brady Williams
   title: Executive Chef
-  photo: "/uploads/portrait_brady.jpg"
+  photo: "/uploads/086A3775-2.jpg"
   bio: "Born in Southern California, Brady spent his younger days pursuing a professional
     hockey career. A serious injury would change those plans, and he returned home
     to find his first job in the kitchen – working at his grandparent’s neighborhood
@@ -92,6 +92,7 @@ person4:
     in the dining room, he became the youngest Service Director in the restaurant’s
     history. And why not? He’s succeeded in creating the warmest hospitality experience
     in fine dining—a task he hardly considers to be work at all.
+Field name: 
 layout: people
 ---
 
