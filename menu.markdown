@@ -18,7 +18,7 @@ course_1:
 course_2:
 - title: Spot Prawns
   desc: Spinach, kohlrabi, and a sauce of shellfish, sea lettuce, and chicken jus
-- title: Copper River Salmon
+- title: Salmon
   desc: 'Marinated in a paste of seaweed, caperberries, and shio koji, with artichoke
     and porcini mushroom '
 - title: Haiga Rice
@@ -42,14 +42,14 @@ course_3:
 course_4:
 - title: 'Rhubarb '
   desc: White chocolate and matcha
-- title: Chocolate
-  desc: Dark chocolate ice cream, peanut butter, and caramel
+- title: Golden Raspberry
+  desc: 'Golden raspberry frozen meringue, chocolate sponge cake, and hazelnut powder '
 - title: Chicory
   desc: Chocolate, salsify, and Meyer lemon
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Mascarpone Mousse
-  desc: Warm marscapone cheese with preserved cherry cake and tarragon oil
+  desc: Warm mascarpone cheese with preserved cherry cake and tarragon oil
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
