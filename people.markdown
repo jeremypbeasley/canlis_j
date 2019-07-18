@@ -10,7 +10,7 @@ headline: |-
 headline_mobile: "<i>Canlis</i> is our family name. This place and these people are
   home to us."
 staff:
-- name: Mark
+- name: Mark Canlis
   title: Owner
   photo: "/uploads/portrait_mark.jpg"
   bio: The second of three sons, Mark grew up in a restaurant family. He joined Canlis
@@ -22,7 +22,7 @@ staff:
     in America. He now owns and operates Canlis restaurant with his more talented
     brother, Brian (who edits this website). He and Anne Marie reside on Queen Anne
     with their three children.
-- name: Brian
+- name: Brian Canlis
   title: Owner
   photo: "/uploads/Brian_new.jpg"
   bio: After having grown up in the restaurant business, Brian Canlis spent eight
@@ -41,7 +41,7 @@ staff:
     event on hospitality, The Welcome Conference, in New York City since 2015. He
     currently lives in Magnolia with his wife [Mackenzie](http://www.mackenziecanlis.com/)
     and their two tiny adorable children.
-- name: Brady
+- name: Brady Williams
   title: Executive Chef
   photo: "/uploads/086A3775-2.jpg"
   bio: 'Born in Southern California, Brady spent his younger days pursuing a professional
@@ -57,7 +57,7 @@ staff:
     recognizing him as one of the country''s top, young culinary talents. In 2018,
     Brady was named as one of Food & Wine''s Best New Chefs, and in 2019, took home
     a James Beard Award for Best Chef: Northwest.'
-- name: 'Crystal '
+- name: Crystal Chiu
   title: Pastry Chef
   photo: "/uploads/crsytal.jpg"
   bio: "A native Texan and daughter of Taiwanese immigrant parents, Crystal grew up
