@@ -5,8 +5,8 @@ menu_cost: 135
 disclaimer: A 20% service charge will be added to your final bill and is retained
   by Canlis. No additional gratuity is expected.
 course_1:
-- title: Kanpachi Crudo
-  desc: Oyster aioli, pickled celtuce, and cherry juice
+- title: Plum Ceviche
+  desc: Raw plums dressed with coriander, serrano, and stonefruit leche de tigre
 - title: 'Asparagus '
   desc: Grilled, pickled, and raw, with hemp pudding and arugula oil
 - title: Sunchoke
