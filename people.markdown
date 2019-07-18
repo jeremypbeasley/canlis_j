@@ -1,7 +1,6 @@
 ---
 title: People
 date: 2016-11-10 10:09:00 -08:00
-layout: people
 headline: |-
   &nbsp;&nbsp;&nbsp;&nbsp;<i>Canlis</i>&nbsp;is&nbsp;our<br>
   family&nbsp;name.<br>
@@ -93,5 +92,6 @@ staff:
     in the dining room, he became the youngest Service Director in the restaurant’s
     history. And why not? He’s succeeded in creating the warmest hospitality experience
     in fine dining—a task he hardly considers to be work at all.
+layout: people
 ---
 
