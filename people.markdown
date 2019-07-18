@@ -57,6 +57,10 @@ staff:
     recognizing him as one of the country''s top, young culinary talents. In 2018,
     Brady was named as one of Food & Wine''s Best New Chefs, and in 2019, took home
     a James Beard Award for Best Chef: Northwest.'
+- name: 'Crystal '
+  title: Pastry Chef
+  photo: "/uploads/crsytal.jpg"
+  bio: 'She''s awesome. '
 - name: Nelson Daquip
   title: Director of Wine & Spirits
   photo: "/uploads/Nellie.jpg"
