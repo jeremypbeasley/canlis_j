@@ -60,24 +60,23 @@ staff:
 - name: Crystal Chiu
   title: Pastry Chef
   photo: "/uploads/crsytal.jpg"
-  bio: "A native Texan and daughter of Taiwanese immigrant parents, Crystal grew up
-    unaware of her kitchen talents and pursued communications at the University of
-    Texas at Austin. Upon graduation, she relocated to Washington, D.C., where she
-    became Press and Advance Advisor in the Office of Speaker Nancy Pelosi during
-    her first speakership in the United States House of Representatives. After the
-    political tides changed in 2011, Crystal also shifted gears and started a career
-    in pastry.\n\nFollowing her studies at the French Pastry School in Chicago, she
-    was brought on as pastry cook at Restaurant Daniel in New York City. After cementing
-    her foundation in classic technique, Crystal sought to expand her culinary education
-    and, for one year, staged across the Asia Pacific and its most notable restaurants,
-    such as Room4Dessert in Indonesia, Narisawa in Japan, and Brae in Australia. In
-    2016, she returned to Bali to become the Chef de Cuisine under Pastry Chef Will
-    Goldfarb at Room4Dessert. While in Indonesia, Crystal created a food discovery
-    enterprise named Asli Food Project, where she embedded herself in villages across
-    the archipelago to gain a deeper understanding of culinary traditions and ingredients.\n\nCrystal
-    joined Canlis as Pastry Chef in 2019, a role in which she will continue to seek
-    a greater knowledge of the food we eat, not only for herself, but for the restaurant
-    and its patrons. "
+  bio: "A native Texan and daughter of Taiwanese-immigrant parents, Crystal grew up
+    in Houston and then earned a communications degree from the University of Texas
+    at Austin. After graduation she moved to Washington, D.C. where she became Press
+    and Advance Advisor in the Office of Speaker Nancy Pelosi during her first speakership
+    in the United States House of Representatives. After the political winds shifted
+    in 2011, Crystal shifted gears and decided to pursue a career in pastry.\n\nUpon
+    graduating from the French Pastry School in Chicago Crystal started as a pastry
+    cook at Restaurant Daniel in New York City. After cementing her culinary foundation
+    in classic French technique, she sought to expand her culinary education and,
+    for one year, staged across the Asia Pacific and several of its most notable restaurants,
+    such as Room4Dessert in Bali, Indonesia, Narisawa in Japan, and Brae in Australia.
+    In 2016, she returned to Bali to become the Chef de Cuisine under pastry chef
+    Will Goldfarb at Room4Dessert. While in Indonesia, Crystal created the Asli Food
+    Project, embedding herself in villages across the archipelago to share a wider
+    understanding of regional culinary traditions and ingredients.\n\nCrystal joined
+    Canlis as Pastry Chef in 2019. She is most looking forward to exploring humankind's
+    relationship to regionality, ingredient, and in this case, dessert. "
 - name: Nelson Daquip
   title: Director of Wine & Spirits
   photo: "/uploads/Nellie.jpg"
