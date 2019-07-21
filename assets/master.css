@@ -2554,6 +2554,9 @@ img {
     display: none;
   }
 }
+.CenterText {
+  text-align: center;
+}
 @media (min-width: 62em) {
   .col-md-offset-2 {
     margin-left: 8.3333333%;
