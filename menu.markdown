@@ -23,13 +23,13 @@ course_2:
     and porcini mushroom '
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
-- title: Malted Barley Pancake
-  desc: 'Fermented cabbage and sauce "Pierre" '
+- title: 'Grilled Carrots '
+  desc: 'Glazed in reduced currant juice with chorizo and clams '
 - title: Rabbit
   desc: Yoshoku potatoes, buttermilk, and herbs from our garden
 course_3:
-- title: Chewy Carrots
-  desc: 'Applewood-smoked with onion jam, yubeshi beans, and celeriac '
+- title: Summer Stew of "Broken Beans"
+  desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
 - title: Sea Bream
   desc: Leeks caramelized in shio koji and a roasted chicken sabayon
 - title: Pork
