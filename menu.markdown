@@ -7,8 +7,6 @@ disclaimer: A 20% service charge will be added to your final bill and is retaine
 course_1:
 - title: Plum Ceviche
   desc: Raw plums dressed with coriander, serrano, and stonefruit leche de tigre
-- title: 'Asparagus '
-  desc: Grilled, pickled, and raw, with hemp pudding and arugula oil
 - title: Sunchoke
   desc: "Cured duck breast, ikura roe, maple, and hazelnuts\t "
 - title: 'Steak Tartare '
