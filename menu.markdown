@@ -7,8 +7,10 @@ disclaimer: A 20% service charge will be added to your final bill and is retaine
 course_1:
 - title: Plum Ceviche
   desc: Raw plums dressed with coriander, serrano, and stonefruit leche de tigre
-- title: Sunchoke
-  desc: "Cured duck breast, ikura roe, maple, and hazelnuts\t "
+- title: Cucumber and Geoduck
+  desc: In a chilled broth of fermented green tomato, cucumber, and celery
+- title: Kanpachi Crudo
+  desc: "Smoked oyster aioli, pickled celtuce, and cherry juice\t"
 - title: 'Steak Tartare '
   desc: "Sansyo peppercorn, pickles, and rye foccacia\t"
 - title: Canlis Salad
