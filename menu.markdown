@@ -5,8 +5,8 @@ menu_cost: 135
 disclaimer: A 20% service charge will be added to your final bill and is retained
   by Canlis. No additional gratuity is expected.
 course_1:
-- title: Plum Ceviche
-  desc: Raw plums dressed with coriander, serrano, and stonefruit leche de tigre
+- title: Nectarine Ceviche
+  desc: Raw nectarines dressed with coriander, serrano, and stonefruit leche de tigre
 - title: Cucumber and Geoduck
   desc: In a chilled broth of fermented green tomato, cucumber, and celery
 - title: Kanpachi Crudo
@@ -18,9 +18,9 @@ course_1:
 course_2:
 - title: Spot Prawns
   desc: Spinach, kohlrabi, and a sauce of shellfish, sea lettuce, and chicken jus
-- title: Salmon
-  desc: 'Marinated in a paste of seaweed, caperberries, and shio koji, with artichoke
-    and porcini mushroom '
+- title: Lightly Grilled Albacore
+  desc: Marinated in a paste of seaweed, caperberries, and shio koji, with charred
+    baby lettuce and matsutake
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: 'Grilled Carrots '
