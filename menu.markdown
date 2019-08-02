@@ -32,8 +32,8 @@ course_3:
   desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
 - title: Sea Bream
   desc: Leeks caramelized in shio koji and a roasted chicken sabayon
-- title: Lacquered Duck for two*  + $25  per person
-  desc: Green garlic and hazelnut persillade, preserved lemon, and hakurei turnip
+- title: Duck
+  desc: Glazed in malted barley syrup with fennel, chanterelles, and charred apricot
 - title: Lamb
   desc: 'Dry-aged leg and belly, with cauliflower and mustard greens cooked in pear
     vinegar '
