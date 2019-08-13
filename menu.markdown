@@ -9,10 +9,10 @@ course_1:
   desc: Raw nectarine dressed with coriander, serrano, and stonefruit leche de tigre
 - title: Cucumber and Geoduck
   desc: In a chilled broth of fermented green tomato, cucumber, and celery
+- title: Golden Beets
+  desc: Amazake yogurt and lavender
 - title: Kanpachi Crudo
   desc: "Smoked oyster aioli, pickled celtuce, and cherry juice\t"
-- title: 'Steak Tartare '
-  desc: "Sansyo peppercorn, pickles, and rye foccacia\t"
 - title: Canlis Salad
   desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
 course_2:
@@ -30,8 +30,8 @@ course_2:
 course_3:
 - title: Summer Stew of "Broken Beans"
   desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
-- title: Sea Bream
-  desc: Leeks caramelized in shio koji and a roasted chicken sabayon
+- title: Black Cod
+  desc: Walla Walla onions, sweet pepper tapenade, and corn veloute
 - title: Pork
   desc: Fennel, chanterelles, and charred apricot
 - title: Lamb
@@ -44,8 +44,8 @@ course_4:
   desc: White chocolate and matcha
 - title: Golden Raspberry
   desc: 'Golden raspberry frozen meringue, chocolate sponge cake, and hazelnut powder '
-- title: Chicory
-  desc: Chocolate, salsify, and Meyer lemon
+- title: Peach
+  desc: 'Yellow peach sorbet, fried triticale crispies, caramel gel, and lemon confit '
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: Mascarpone Mousse
