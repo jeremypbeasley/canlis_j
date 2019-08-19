@@ -42,8 +42,8 @@ course_3:
 course_4:
 - title: 'Rhubarb '
   desc: White chocolate and matcha
-- title: Golden Raspberry
-  desc: 'Golden raspberry frozen meringue, chocolate sponge cake, and hazelnut powder '
+- title: Raspberry
+  desc: 'Raspberry frozen meringue, chocolate sponge cake, and hazelnut powder '
 - title: Peach
   desc: 'Yellow peach sorbet, fried triticale crispies, caramel gel, and lemon confit '
 - title: Soufflè
