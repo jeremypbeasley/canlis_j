@@ -12,7 +12,7 @@ course_1:
 - title: Golden Beets
   desc: Amazake yogurt and lavender
 - title: Kanpachi Crudo
-  desc: "Smoked oyster aioli, pickled celtuce, and cherry juice\t"
+  desc: Akane apple, rose, and sakura
 - title: Canlis Salad
   desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
 course_2:
@@ -40,8 +40,8 @@ course_3:
 - title: Ribeye
   desc: Charred radicchio, rutabaga, and fermented garlic
 course_4:
-- title: 'Rhubarb '
-  desc: White chocolate and matcha
+- title: Blackberry and Black Sesame
+  desc: Black sesame cake, blackberry sorbet, soy cream panna cotta, and anise hyssop
 - title: Raspberry
   desc: 'Raspberry frozen meringue, chocolate sponge cake, and hazelnut powder '
 - title: Peach
