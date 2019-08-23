@@ -5,9 +5,9 @@ description: "We’ve converted our parking lot into an oasis of tropical drinks
   suit recommended\n "
 link: "/hawaii"
 link_text: More info
-is_pop_up: true
+is_pop_up: false
 pop_up_image: "/uploads/nightsbg.jpg"
-is_featured_home: true
+is_featured_home: false
 featured_image: "/uploads/nightsbg.jpg"
 slug: announcement
 layout: home
