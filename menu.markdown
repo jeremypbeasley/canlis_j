@@ -5,8 +5,8 @@ menu_cost: 135
 disclaimer: A 20% service charge will be added to your final bill and is retained
   by Canlis. No additional gratuity is expected.
 course_1:
-- title: Nectarine Ceviche
-  desc: Raw nectarine dressed with coriander, serrano, and stonefruit leche de tigre
+- title: Plum Ceviche
+  desc: Raw plum dressed with coriander, serrano, and stonefruit leche de tigre
 - title: Cucumber and Geoduck
   desc: In a chilled broth of fermented green tomato, cucumber, and celery
 - title: Golden Beets
