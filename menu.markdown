@@ -48,8 +48,8 @@ course_4:
   desc: 'Yellow peach sorbet, fried triticale crispies, caramel gel, and lemon confit '
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: Mascarpone Mousse
-  desc: Warm mascarpone cheese with preserved cherry cake and tarragon oil
+- title: Aged Cheddar and Apple
+  desc: French toast, apple chutney, yogurt ice cream, and Petit Pomerol cheddar
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
