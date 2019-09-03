@@ -32,7 +32,7 @@ course_3:
   desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
 - title: Black Cod
   desc: Walla Walla onions, sweet pepper tapenade, and corn veloute
-- title: Pork
+- title: Duck
   desc: Fennel, chanterelles, and charred apricot
 - title: Lamb
   desc: 'Dry-aged leg and belly, with cauliflower and mustard greens cooked in pear
