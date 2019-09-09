@@ -5,8 +5,8 @@ menu_cost: 135
 disclaimer: A 20% service charge will be added to your final bill and is retained
   by Canlis. No additional gratuity is expected.
 course_1:
-- title: Plum Ceviche
-  desc: Raw plum dressed with coriander, serrano, and stonefruit leche de tigre
+- title: Nectarine Ceviche
+  desc: Raw nectarine dressed with coriander, serrano, and stonefruit leche de tigre
 - title: Cucumber and Geoduck
   desc: In a chilled broth of fermented green tomato, cucumber, and celery
 - title: Golden Beets
@@ -32,7 +32,7 @@ course_3:
   desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
 - title: Black Cod
   desc: Walla Walla onions, sweet pepper tapenade, and corn veloute
-- title: Duck
+- title: Pork
   desc: Fennel, chanterelles, and charred apricot
 - title: Lamb
   desc: 'Dry-aged leg and belly, with cauliflower and mustard greens cooked in pear
