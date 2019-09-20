@@ -5,14 +5,14 @@ menu_cost: 135
 disclaimer: A 20% service charge will be added to your final bill and is retained
   by Canlis. No additional gratuity is expected.
 course_1:
-- title: Pluot Ceviche
-  desc: Raw pluot dressed with coriander, serrano, and stonefruit leche de tigre
 - title: Cucumber and Geoduck
   desc: In a chilled broth of fermented green tomato, cucumber, and celery
-- title: Golden Beets
-  desc: Amazake yogurt and lavender
+- title: Chiogga Beets
+  desc: Amazake yogurt and habiscus
 - title: Kanpachi Crudo
   desc: Akane apple, rose, and sakura
+- title: Eggplant Agedashi
+  desc: Warm tomato dashi with ginger and daikon radish
 - title: Canlis Salad
   desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
 course_2:
