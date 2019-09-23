@@ -30,7 +30,7 @@ course_2:
 course_3:
 - title: Summer Stew of "Broken Beans"
   desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
-- title: Black Cod
+- title: Halibut
   desc: Walla Walla onions, sweet pepper tapenade, and corn veloute
 - title: Pork
   desc: Fennel, chanterelles, and charred apricot
