@@ -9,8 +9,8 @@ course_1:
   desc: In a chilled broth of fermented green tomato, cucumber, and celery
 - title: Chiogga Beets
   desc: Amazake yogurt and habiscus
-- title: Kanpachi Crudo
-  desc: Akane apple, rose, and sakura
+- title: 'Veal and Kanpachi Tartare '
+  desc: Fermented cabbage, tonnato, capers, and young onions
 - title: Eggplant Agedashi
   desc: Warm tomato dashi with ginger and daikon radish
 - title: Canlis Salad
