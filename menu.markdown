@@ -7,8 +7,8 @@ disclaimer: A 20% service charge will be added to your final bill and is retaine
 course_1:
 - title: Cucumber and Geoduck
   desc: In a chilled broth of fermented green tomato, cucumber, and celery
-- title: Chiogga Beets
-  desc: Amazake yogurt and habiscus
+- title: Chioggia Beets
+  desc: Amazake yogurt and hibiscus
 - title: 'Veal and Kanpachi Tartare '
   desc: Fermented cabbage, tonnato, capers, and young onions
 - title: Eggplant Agedashi
