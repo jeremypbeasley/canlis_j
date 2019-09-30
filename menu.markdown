@@ -19,8 +19,8 @@ course_2:
 - title: Spot Prawns
   desc: Spinach, kohlrabi, and a sauce of shellfish, sea lettuce, and chicken jus
 - title: Lightly Grilled Albacore
-  desc: Marinated in a paste of seaweed, caperberries, and shio koji, with charred
-    baby lettuce and matsutake
+  desc: Marinated in coriander and seaweed, with the flavors of puttanesca and baby
+    chard
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: 'Grilled Carrots '
