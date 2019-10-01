@@ -9,8 +9,8 @@ course_1:
   desc: In a chilled broth of fermented green tomato, cucumber, and celery
 - title: Chioggia Beets
   desc: Amazake yogurt and hibiscus
-- title: 'Veal and Kanpachi Tartare '
-  desc: Fermented cabbage, tonnato, capers, and young onions
+- title: Mackerel
+  desc: Cured in kombu, with gooseberries, radish, and green juice
 - title: Eggplant Agedashi
   desc: Warm tomato dashi with ginger and daikon radish
 - title: Canlis Salad
