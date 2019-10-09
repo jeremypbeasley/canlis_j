@@ -6,7 +6,7 @@ disclaimer: A 20% service charge will be added to your final bill and is retaine
   by Canlis. No additional gratuity is expected.
 course_1:
 - title: Mackerel
-  desc: Cured in kombu, with gooseberries, radish, and green juice
+  desc: Cured in kombu, with kiwi berries, radish, and green juice
 - title: Chioggia Beets
   desc: Amazake yogurt and hibiscus
 - title: Eggplant Agedashi
