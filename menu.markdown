@@ -6,7 +6,7 @@ disclaimer: A 20% service charge will be added to your final bill and is retaine
   by Canlis. No additional gratuity is expected.
 course_1:
 - title: Mackerel
-  desc: Cured in kombu, with kiwi berries, radish, and green juice
+  desc: Cured in kombu, with husk cherries, radish, and green juice
 - title: Chioggia Beets
   desc: Amazake yogurt and hibiscus
 - title: Eggplant Agedashi
@@ -19,8 +19,7 @@ course_2:
 - title: Spot Prawns
   desc: Spinach, kohlrabi, and a sauce of shellfish, sea lettuce, and chicken jus
 - title: Lightly Grilled Albacore
-  desc: Marinated in coriander and seaweed, with the flavors of puttanesca and baby
-    chard
+  desc: Wilted tatsoi and a sauce of preserved strawberry, kiwi berry, and amazake
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: 'Grilled Carrots '
@@ -28,26 +27,28 @@ course_2:
 - title: Rabbit
   desc: Yoshoku potatoes, buttermilk, and herbs from our garden
 course_3:
-- title: Summer Stew of "Broken Beans"
+- title: Broken Bean Stew
   desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
 - title: Black Cod
   desc: Walla Walla onions, sweet pepper tapenade, and corn veloute
-- title: Duck
+- title: Roasted Duck
   desc: Fennel, chanterelles, and charred apricot
 - title: Lamb
   desc: 'Dry-aged leg and belly, with cauliflower and mustard greens cooked in pear
     vinegar '
 - title: Ribeye
-  desc: Charred radicchio, rutabaga, and fermented garlic
+  desc: Leeks seasoned with sansyo pepper and pickles, with caramelized onion jus
 course_4:
-- title: Blackberry and Black Sesame
-  desc: Black sesame cake, blackberry sorbet, soy cream panna cotta, and anise hyssop
-- title: Raspberry
-  desc: 'Raspberry frozen meringue, chocolate sponge cake, and hazelnut powder '
+- title: Sweet Potato
+  desc: Japanese sweet potato with bee pollen garam, yuzu sherbet, and cocoa butter
+    cake
 - title: Peach
   desc: 'Yellow peach sorbet, fried triticale crispies, caramel gel, and lemon confit '
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
+- title: 'Coffee And Chocolate '
+  desc: Layers of coffee-infused jaconde and chocolate ganache with crème fraîche
+    and espresso sauce
 - title: Aged Cheddar and Apple
   desc: French toast, apple chutney, yogurt ice cream, and Petit Pomerol cheddar
 plates:
