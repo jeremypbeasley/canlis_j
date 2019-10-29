@@ -32,7 +32,7 @@ course_3:
 - title: Black Cod
   desc: Walla Walla onions, sweet pepper tapenade, and corn veloute
 - title: Roasted Duck
-  desc: Fennel, chanterelles, and charred apricot
+  desc: Roasted Blue Hubbard and quince
 - title: Lamb
   desc: 'Dry-aged leg and belly, with cauliflower and mustard greens cooked in pear
     vinegar '
