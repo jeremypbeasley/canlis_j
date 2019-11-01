@@ -31,8 +31,8 @@ course_3:
   desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
 - title: Black Cod
   desc: Walla Walla onions, sweet pepper tapenade, and corn veloute
-- title: Roasted Duck
-  desc: Roasted Blue Hubbard and quince
+- title: Pork
+  desc: Roasted Blue Hubbard squash, quince jam, and pumpkin seed gomashio
 - title: Lamb
   desc: 'Dry-aged leg and belly, with cauliflower and mustard greens cooked in pear
     vinegar '
