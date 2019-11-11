@@ -30,14 +30,14 @@ course_3:
 - title: Broken Bean Stew
   desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
 - title: Black Cod
-  desc: Walla Walla onions, sweet pepper tapenade, and corn veloute
-- title: Pork
-  desc: Roasted Blue Hubbard squash, quince jam, and pumpkin seed gomashio
+  desc: Stewed onions, wasabi, and flavors of oyakodon
+- title: Duck
+  desc: Roasted Winter Luxury squash, quince jam, and pumpkin seed gomashio
 - title: Lamb
-  desc: 'Dry-aged leg and belly, with cauliflower and mustard greens cooked in pear
+  desc: 'Dry-aged leg and belly, with cauliflower and mustard greens cooked in quince
     vinegar '
 - title: Ribeye
-  desc: Leeks seasoned with sansyo pepper and pickles, with caramelized onion jus
+  desc: Gratin of potato and fermented cabbage, with sauce Pierre
 course_4:
 - title: Sweet Potato
   desc: Japanese sweet potato with bee pollen garam, yuzu sherbet, and cocoa butter
