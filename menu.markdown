@@ -23,7 +23,7 @@ course_2:
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: 'Grilled Carrots '
-  desc: 'Glazed in reduced huckleberry juice with chorizo and clams '
+  desc: 'Glazed in reduced marionberry juice with chorizo and clams '
 - title: Rabbit
   desc: Yoshoku potatoes, buttermilk, and herbs from our garden
 course_3:
