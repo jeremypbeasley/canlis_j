@@ -18,8 +18,8 @@ course_1:
 course_2:
 - title: Spot Prawns
   desc: Spinach, kohlrabi, and a sauce of shellfish, sea lettuce, and chicken jus
-- title: Lightly Grilled Albacore
-  desc: Wilted bok choy and a sauce of preserved strawberry, kiwi berry, and amazake
+- title: King Crab + $20
+  desc: 'Fermented turnips and kani miso '
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: 'Grilled Carrots '
@@ -34,8 +34,8 @@ course_3:
 - title: Duck
   desc: Roasted Winter Luxury squash, quince jam, and pumpkin seed gomashio
 - title: Lamb
-  desc: 'Dry-aged leg and belly, with cauliflower and mustard greens cooked in quince
-    vinegar '
+  desc: 'Dry-aged leg and belly, with fermented brussels sprouts, cauliflower, and
+    sweet potato '
 - title: Ribeye
   desc: Gratin of potato and fermented cabbage, with sauce Pierre
 course_4:
