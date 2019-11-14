@@ -19,7 +19,7 @@ course_2:
 - title: Spot Prawns
   desc: Spinach, kohlrabi, and a sauce of shellfish, sea lettuce, and chicken jus
 - title: Lightly Grilled Albacore
-  desc: Wilted tatsoi and a sauce of preserved strawberry, kiwi berry, and amazake
+  desc: Wilted bok choy and a sauce of preserved strawberry, kiwi berry, and amazake
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: 'Grilled Carrots '
