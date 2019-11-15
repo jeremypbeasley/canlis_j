@@ -23,11 +23,8 @@ cache:
     the Cascade Mountains. Price includes a round of savory snacks, Grand Cru Champagne,
     and our four-course dining experience. After dinner, enjoy Cognac and a behind-the-scenes
     tour of the restaurant to include our wine cellar and perhaps a secret or two
-    . Additional beverages are not included. 21+ only. Due to the specific timing
-    of these experiences, we will alter the evening as necessary in response to late
-    reservations. Guests dining at the 5:30 seating may expect dinner to transition
-    to the tour just before 8:30pm.\n\nPrepaid reservations for 2-4. \n$300 per person\n\n[Reserve
-    now](https://www.exploretock.com/canlis/experience/73868/the-office)"
+    . Additional beverages are not included. 21+ only.\n\n\nPrepaid reservations for
+    2-4. \n$300 per person\n\n\n[Reserve now](https://www.exploretock.com/canlis/experience/73868/the-office)"
   photo: "/uploads/cache.png"
   photos:
   - "/uploads/privateevents_cache.jpg"
