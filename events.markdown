@@ -16,14 +16,17 @@ intro:
     dinners and board meetings, heads of state, presidential dignitaries and grandmothers.
   photo: "/uploads/original-open-uri20130531-2-uzys54.jpg"
 cache:
-  title: The Caché
+  title: The Office
   capacity: 2 - 4 guests
-  desc: "Originally built as the owner’s office, this treetop niche quickly became
-    the most exclusive table in Seattle. The Caché is an entirely private, intimate
-    room on the 2nd floor of our restaurant with spectacular views across Lake Union
-    and the Cascade Mountains. Amenities include a telescope, sound system, and chaise
-    lounge.\nA room rental charge of $150 applies. Please call the main line 206-283-3313
-    to reserve. "
+  desc: "A heightened Canlis dining experience. Dinner begins in a private room upstairs,
+    originally built as the owner's office, with spectacular views of Lake Union &
+    the Cascade Mountains. Price includes a round of savory snacks, Grand Cru Champagne,
+    and our four-course dining experience. After dinner, enjoy Cognac and a behind-the-scenes
+    tour of the restaurant to include our wine cellar and perhaps a secret or two
+    . Additional beverages are not included. 21+ only. Due to the specific timing
+    of these experiences, we will alter the evening as necessary in response to late
+    reservations. Guests dining at the 5:30 seating may expect dinner to transition
+    to the tour just before 8:30pm.\n\nPrepaid reservations for 2-4. \n$300 per person"
   photo: "/uploads/cache.png"
   photos:
   - "/uploads/privateevents_cache.jpg"
