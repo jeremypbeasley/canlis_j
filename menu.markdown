@@ -18,8 +18,8 @@ course_1:
 course_2:
 - title: Spot Prawns
   desc: Spinach, kohlrabi, and a sauce of shellfish, sea lettuce, and chicken jus
-- title: King Crab + $20
-  desc: 'Fermented turnips and kani miso '
+- title: Pasta
+  desc: 'Strascinati, hazelnut miso, and Alba truffles  '
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: 'Grilled Carrots '
@@ -31,7 +31,7 @@ course_3:
   desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
 - title: Black Cod
   desc: Stewed onions, wasabi, and flavors of oyakodon
-- title: Duck
+- title: Pork
   desc: Roasted Winter Luxury squash, quince jam, and pumpkin seed gomashio
 - title: Lamb
   desc: 'Dry-aged leg and belly, with fermented brussels sprouts, cauliflower, and
