@@ -36,7 +36,7 @@ course_3:
 - title: Lamb
   desc: 'Dry-aged leg and belly, with fermented brussels sprouts, cauliflower, and
     sweet potato '
-- title: Ribeye
+- title: Dry Aged Ribeye
   desc: Gratin of potato and fermented cabbage, with sauce Pierre
 course_4:
 - title: Sweet Potato
