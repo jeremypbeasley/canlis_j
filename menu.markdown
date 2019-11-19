@@ -9,8 +9,8 @@ course_1:
   desc: Cured in kombu, with husk cherries, radish, and green juice
 - title: Chioggia Beets
   desc: Amazake yogurt and hibiscus
-- title: Eggplant Agedashi
-  desc: Warm tomato dashi with ginger and daikon radish
+- title: Lightly Grilled Albacore
+  desc: Wilted bok choy and a sauce of preserved strawberry, kiwi berry, and amazake
 - title: Chawanmushi
   desc: Japanese egg custard with matsutake mushroom and geoduck
 - title: Canlis Salad
