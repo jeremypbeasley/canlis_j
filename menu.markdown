@@ -18,8 +18,8 @@ course_1:
 course_2:
 - title: Spot Prawns
   desc: Spinach, kohlrabi, and a sauce of shellfish, sea lettuce, and chicken jus
-- title: Pasta
-  desc: 'Strascinati, hazelnut miso, and Alba truffles  '
+- title: 'White Truffle Fazoletti '
+  desc: Handkerchief pasta with hazelnut miso and Alba white truffle  + 85
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: 'Grilled Carrots '
