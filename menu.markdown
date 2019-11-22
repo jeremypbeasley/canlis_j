@@ -57,7 +57,7 @@ plates:
   plate3: "/uploads/plate_salad.jpg"
   plate4: "/uploads/FISH2.jpg"
   plate5: "/uploads/plate_nysteak.jpg"
-  plate6: "/uploads/plate_chocolate.jpg"
+  plate6: "/uploads/plate_cherry.jpg"
   plate7: "/uploads/plate_oyster.png"
   plate8: "/uploads/plate_lamb.png"
 layout: menu
