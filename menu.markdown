@@ -18,8 +18,8 @@ course_1:
 course_2:
 - title: Spot Prawns
   desc: Spinach, kohlrabi, and a sauce of shellfish, sea lettuce, and chicken jus
-- title: King Crab
-  desc: Fermented turnips and kani miso  + 20
+- title: 'White Truffle Fazoletti '
+  desc: Handkerchief pasta with hazelnut miso and Alba white truffle  + 85
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: 'Grilled Carrots '
@@ -31,7 +31,7 @@ course_3:
   desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
 - title: Black Cod
   desc: Stewed onions, wasabi, and flavors of oyakodon
-- title: Pork
+- title: Roasted Duck
   desc: Roasted Winter Luxury squash, quince jam, and pumpkin seed gomashio
 - title: Lamb
   desc: 'Dry-aged leg and belly, with fermented brussels sprouts, cauliflower, and
@@ -42,8 +42,8 @@ course_4:
 - title: Sweet Potato
   desc: Japanese sweet potato with bee pollen garam, yuzu sherbet, and cocoa butter
     cake
-- title: Peach
-  desc: 'Yellow peach sorbet, fried triticale crispies, caramel gel, and lemon confit '
+- title: Hazelnut and Pear
+  desc: Hazelnut strudel with black tea cream, turmeric-poached pear, and lemon verbena
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: 'Coffee And Chocolate '
