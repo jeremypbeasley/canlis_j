@@ -43,7 +43,7 @@ course_4:
   desc: Japanese sweet potato with bee pollen garam, yuzu sherbet, and cocoa butter
     cake
 - title: Hazelnut and Pear
-  desc: Hazelnut strudel with black tea cream, turmeric-poached pear, and lemon verbena
+  desc: Hazelnut strudel with black tea cream, turmeric-poached pear, and bay laurel
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
 - title: 'Coffee And Chocolate '
