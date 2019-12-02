@@ -13615,7 +13615,7 @@ $(document).ready(function() {
     $('.Announcement').show();
     $('.Announcement').addClass('active');
   }
-
+  
   // todo: fade in on load, fade out too
 
   // Closes the popup and set the cookie
