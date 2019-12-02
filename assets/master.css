@@ -3686,9 +3686,6 @@ body.Invert .PortraitCard {
 .formColumn {
   margin-top: 40vh;
 }
-hr {
-  display: none;
-}
 input:focus {
   border-color: #000;
   outline: none;
