@@ -11,7 +11,7 @@ link: "/lastdanceparty"
 link_text: More Info
 is_pop_up: true
 pop_up_title: Canlis & Germonimo Present
-pop_up_image: "/uploads/jihan.jpg"
+pop_up_image: "/uploads/jihangif.gif"
 is_featured_home: false
 featured_image: 
 slug: announcement
