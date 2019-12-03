@@ -1,5 +1,6 @@
 ---
 title: Announcement Popup
+subtitle: 'Canlis & Geronimo Present'
 event_date: 2031-12-01 00:00:00 -08:00
 event_time: 9:30PM
 rsvp_button:
