@@ -45,7 +45,7 @@
   <meta name="msapplication-TileImage" content="assets/_favicon/ms-icon-144x144.png">
   <meta name="theme-color" content="#ffffff">
 </head>
-<body>
+<body class="{{ page.layout }}">
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJCFT8T"
@@ -108,7 +108,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
       </div>
       <div class="AnnouncementContent">
-        <h1 class="pb5 Caption">{{announcement.pop_up_title}}</h1>
+        <h1 class="pb5 Caption">{{announcement.subtitle}}</h1>
         <p class="mb2 Display2">{{announcement.description}}</p>
         <p class="Caption lift">
           <a class="FancyLink AnnouncementLink" href="{{announcement.link}}">{{announcement.link_text}}</a>

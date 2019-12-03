@@ -12,7 +12,7 @@ rsvp_button:
 <div class="mb2 Display2">General Admission</div>
 <p>$345 per ticket</p>
 <div class="EventsButton d-mb5 mb5 mt3 d-mt1">
-  <a class="Caption" target="_blank" href="https://www.exploretock.com/canlis/event/81669/nye-last-dance-party-of-the-decade">
+  <a class="Caption" target="_blank" href="https://www.exploretock.com/canlis/event/81669/last-dance-party-of-the-decade">
     {{ page.rsvp_button.button_label }}
   </a>
 </div>
@@ -20,7 +20,7 @@ rsvp_button:
 <div class="mb2 Display2">Caviar & Champagne Pre-funk</div>
 <p>$695 per ticket</p>
 <div class="EventsButton d-mb5 mb5 mt3 d-mt1">
-  <a class="Caption" target="_blank" href="https://www.exploretock.com/canlis/event/81666/nye-caviar-champagne-pre-funk">
+  <a class="Caption" target="_blank" href="https://www.exploretock.com/canlis/event/81666/caviar-champagne-pre-funk-and-party">
     {{ page.rsvp_button.button_label }}
   </a>
 </div>

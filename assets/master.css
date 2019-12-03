@@ -3979,6 +3979,8 @@ input[type=submit] {
   opacity: 0;
   transition: all 1s 200ms ease-out;
   overflow: hidden;
+  border-radius: 5px;
+  box-shadow: 0 19px 38px rgba(0,0,0,0.3), 0 15px 12px rgba(0,0,0,0.22);
 }
 @media (min-width: 48em) {
   .AnnouncementCard {
@@ -3990,6 +3992,7 @@ input[type=submit] {
   .AnnouncementCard {
     margin: 16px;
     margin-left: -187px;
+    margin-top: 15vh;
   }
 }
 .Announcement.active .AnnouncementCard {
@@ -3998,9 +4001,4 @@ input[type=submit] {
 }
 .AnnouncementContent {
   padding: 35px;
-}
-@media (min-width: 62em) {
-  .AnnouncementContent {
-    padding: 50px;
-  }
 }
