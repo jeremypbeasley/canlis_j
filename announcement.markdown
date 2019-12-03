@@ -5,7 +5,7 @@ event_time: 9:30PM
 rsvp_button:
   url: https://www.exploretock.com/canlis
 subtitle: Canlis & Germonimo Present
-description: The Last Dance Party Of The Decade
+description: The Last Dance Party<br> Of The Decade
 link: "/lastdanceparty"
 link_text: More Info
 is_pop_up: true
