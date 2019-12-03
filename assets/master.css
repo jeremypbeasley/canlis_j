@@ -3940,6 +3940,7 @@ input[type=submit] {
   right: 0;
   cursor: pointer;
   transition: transform 100ms ease-out;
+  z-index: 99999;
 }
 .Announcement .CloseButton div {
   width: 32px;

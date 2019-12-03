@@ -107,16 +107,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path fill="#000"  id="a" d="M11.475 25.015H24.18V12.31h2.64v12.705h12.705v2.64H26.82V40.36h-2.64V27.655H11.475z"/></defs><use fill-rule="nonzero" transform="rotate(45 25.5 26.335)" xlink:href="#a"/></svg>
         </div>
       </div>
-      <div class="AnnouncementContent">
+      <div class="AnnouncementContent" onclick="location.href='{{announcement.link}}';">
         <h1 class="pb5 Caption">{{announcement.subtitle}}</h1>
         <p class="mb2 Display2">{{announcement.description}}</p>
         <p class="Caption lift">
-          <a class="FancyLink AnnouncementLink" href="{{announcement.link}}">{{announcement.link_text}}</a>
+          <a class="FancyLink">{{announcement.link_text}}</a>
         </p>
       </div>
-      <a href="{{announcement.link}}">
-        <img class="AnnouncementImage" src="{{announcement.pop_up_image}}"/>
-      </a>
+      <img class="AnnouncementImage" onclick="location.href='{{announcement.link}}';" src="{{announcement.pop_up_image}}"/>
     </div>
   </div>
 {% endif %}
