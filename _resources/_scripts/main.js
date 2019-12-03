@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  console.log("Front end script initialized")
+  console.log("Main.js initialized")
 
   // Drone video on home page
 
@@ -38,8 +38,6 @@ $(document).ready(function() {
 
   $('.GlobalNav.ShowMobile').hide();
 
-  console.log("closed")
-
   var navOpen = false;
   $('.NavHamburger').click(function() {
     if (!navOpen) {
@@ -57,25 +55,20 @@ $(document).ready(function() {
     }
   });
 
-  // Announcement
+  // Announcement PopUp
 
-  // Set conditional cookie so visitors don't see the  pop up once they've dismissed it
-  if (Cookies.get('popup')) {
-    console.log("Announcement: Off");
-  } else {
+  // Only show Announcement on the home page
+  if (document.body.classList.contains('home')) {
     console.log("Announcement: On");
     $('.Announcement').show();
     $('.Announcement').addClass('active');
   }
-  
-  // todo: fade in on load, fade out too
 
   // Closes the popup and set the cookie
   $(document.body).on('click', '.Announcement .CloseButton, .AnnouncementOverlay, .AnnouncementLink', function(){
     $('.Announcement').hide();
     $('.Announcement').removeClass('active');
     console.log("Announcement: Off");
-    Cookies.set('popup', 'off');
   });
 
 });
