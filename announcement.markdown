@@ -10,7 +10,7 @@ description: |
 link: "/lastdanceparty"
 link_text: More Info
 is_pop_up: true
-pop_up_image: "/uploads/jihan.jpg"
+pop_up_image: "/uploads/jihangif.gif"
 is_featured_home: yes
 featured_image: "/uploads/geronimo_home.gif"
 slug: announcement
