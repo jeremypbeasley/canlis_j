@@ -8,6 +8,7 @@ rsvp_button:
   url: https://www.exploretock.com/canlis
   button_label: Get Tickets
 ---
+
 <hr class="mb3 mt0">
 <div class="mb2 Display2">General Admission</div>
 <p>$345 per ticket</p>
