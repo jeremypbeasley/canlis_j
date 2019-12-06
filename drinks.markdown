@@ -13,7 +13,7 @@ wine_body_col1: |-
 wine_body_col2: "The wine program at Canlis is founded on a team of educated wine
   professionals, the highest quality amenities, and the warm and reputable service
   for which Canlis is famous. There is also one very juicy wine list. We look forward
-  to sharing the world of wine with you. \n\nWe invite you to [download](https://canlis.com/uploads/winelist.pdf)
+  to sharing the world of wine with you. \n\nWe invite you to [download the list](https://canlis.com/uploads/winelist.pdf)
   and enjoy a good read, or skip it all together and let us do the work of finding
   the right wine for your evening.\n\nAll our wine is available for retail sale and
   delivery."
