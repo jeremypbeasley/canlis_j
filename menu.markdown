@@ -5,8 +5,8 @@ menu_cost: 135
 disclaimer: A 20% service charge will be added to your final bill and is retained
   by Canlis. No additional gratuity is expected.
 course_1:
-- title: Mackerel
-  desc: Cured in kombu, with husk cherries, radish, and green juice
+- title: Celeriac Soup
+  desc: Smoked celeriac, seaweed, and plankton
 - title: Chioggia Beets
   desc: Amazake yogurt and hibiscus
 - title: Lightly Grilled Albacore
