@@ -16,8 +16,8 @@ course_1:
 - title: Canlis Salad
   desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
 course_2:
-- title: Spot Prawns
-  desc: Spinach, kohlrabi, and a sauce of shellfish, sea lettuce, and chicken jus
+- title: Oysters with Kohlrabi
+  desc: 'Poached Baywater Sweets, charred kohlrabi, and oyster sabayon '
 - title: 'White Truffle Fazoletti '
   desc: Whole truffles sold at our cost for $5.25 per gram, with fazoletti pasta and
     hazelnut miso
