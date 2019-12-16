@@ -12,7 +12,7 @@ course_1:
 - title: Lightly Grilled Albacore
   desc: Wilted bok choy and a sauce of preserved strawberry, kiwi berry, and amazake
 - title: Chawanmushi
-  desc: Japanese egg custard with cauliflower mushroom and geoduck
+  desc: Japanese egg custard with hedgehog mushroom and geoduck
 - title: Canlis Salad
   desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
 course_2:
