@@ -24,7 +24,7 @@ course_2:
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: 'Grilled Carrots '
-  desc: 'Glazed in reduced blackberry juice with chorizo and clams '
+  desc: 'Glazed in reduced blueberry juice with chorizo and clams '
 - title: Rabbit
   desc: Yoshoku potatoes, buttermilk, and herbs from our garden
 course_3:
@@ -32,7 +32,7 @@ course_3:
   desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
 - title: Black Cod
   desc: Stewed onions, wasabi, and flavors of oyakodon
-- title: Roasted Duck
+- title: Pork
   desc: Roasted Winter Luxury squash, quince jam, and pumpkin seed gomashio
 - title: Lamb
   desc: 'Dry-aged leg and belly, with fermented brussels sprouts, cauliflower, and
