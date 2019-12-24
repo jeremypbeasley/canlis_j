@@ -30,7 +30,7 @@ course_2:
 course_3:
 - title: Broken Bean Stew
   desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
-- title: Black Cod
+- title: Sea Bream
   desc: Stewed onions, wasabi, and flavors of oyakodon
 - title: Pork
   desc: Roasted Winter Luxury squash, quince jam, and pumpkin seed gomashio
