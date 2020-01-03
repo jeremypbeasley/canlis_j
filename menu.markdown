@@ -19,7 +19,8 @@ course_2:
 - title: Oysters with Kohlrabi
   desc: 'Poached Baywater Sweets, charred kohlrabi, and oyster sabayon '
 - title: 'White Truffle Fazzoletti '
-  desc: Handkerchief pasta with hazelnut miso and Alba white truffle  + 85
+  desc: Whole truffles sold at our cost for $4 per gram, with fazzoletti pasta and
+    chestnut miso
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: 'Grilled Carrots '
@@ -31,7 +32,7 @@ course_3:
   desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
 - title: Sea Bream
   desc: Stewed onions, wasabi, and flavors of oyakodon
-- title: Roasted Duck
+- title: Porjk
   desc: Roasted Winter Luxury squash, quince jam, and pumpkin seed gomashio
 - title: Lamb
   desc: 'Dry-aged leg and belly, with fermented brussels sprouts, cauliflower, and
