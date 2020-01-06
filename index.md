@@ -22,7 +22,7 @@ accolades_body: "“A Canlis Salad, when properly prepared, is a revelation.”"
 accolades_credit: "- Sam Sifton, NYT"
 homephoto4: "/uploads/tree.jpg"
 homephoto5: "/uploads/berries.jpg"
-homephoto6: "/uploads/prepping2.jpg"
+homephoto6: "/uploads/F6C6064A-8884-44BD-8841-AD1BB42D0925%20(1)-min.JPG"
 newsletter_link: http://
 layout: home
 ---
