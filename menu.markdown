@@ -19,9 +19,7 @@ course_2:
 - title: Oysters with Kohlrabi
   desc: 'Poached Baywater Sweets, charred kohlrabi, and oyster sabayon '
 - title: 'White Truffle Fazoletti '
-  desc: |-
-    Whole truffles sold at our cost for $6.75 per gram,
-    with fazoletti pasta and chestnut miso
+  desc: Handkerchief pasta with hazelnut miso and Alba white truffle  + 85
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: 'Grilled Carrots '
