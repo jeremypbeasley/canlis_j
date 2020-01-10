@@ -19,7 +19,7 @@ course_2:
 - title: Oysters with Kohlrabi
   desc: 'Poached Baywater Sweets, charred kohlrabi, and oyster sabayon '
 - title: 'White Truffle Fazoletti '
-  desc: Handkerchief pasta with hazelnut miso and Alba white truffle  + 85
+  desc: Handkerchief pasta with hazelnut miso and Alba white truffle  + 45
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: 'Grilled Carrots '
