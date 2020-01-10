@@ -40,3 +40,4 @@ lounge_body: |-
 layout: wine
 ---
 
+[Canlis_Wine List_01.03.20_LF (1).pdf](/uploads/Canlis_Wine%20List_01.03.20_LF%20(1).pdf)
