@@ -9,8 +9,8 @@ course_1:
   desc: Smoked celeriac, seaweed, and plankton
 - title: Chioggia Beets
   desc: Amazake yogurt and hibiscus
-- title: Lightly Grilled Albacore
-  desc: Wilted bok choy and a sauce of preserved strawberry, kiwi berry, and amazake
+- title: Caramelized Mussels
+  desc: Pine nut "green curry" with geoduck XO sauce
 - title: Chawanmushi
   desc: Japanese egg custard with hedgehog mushroom and geoduck
 - title: Canlis Salad
