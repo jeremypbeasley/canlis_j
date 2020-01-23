@@ -92,15 +92,6 @@ staff:
     Canlis one of the best wine and spirits programs in the world. Or, as Queen Lililuokalani
     stated in her last message to the people of Hawaii, “Kulia I ka Nu’u” —strive
     for the highest.\n"
-- name: Katie Coffman
-  title: Director of Operations
-  photo: "/uploads/Katie_2.jpg"
-  bio: Katie Coffman joins Canlis after planning events for the Lynnwood Convention
-    Center for nearly four years. Before this, she spent ten years in Stage Management.
-    After graduating from Centenary College of Louisiana with a BS in Theater and
-    Mathematics, she worked in London before settling in Seattle. Now she can't leave
-    the mountains and water. In her spare time, she enjoys hiking, theater, and vegetarian
-    cooking.
 - name: Kyle Johnson
   title: Director of Service
   photo: "/uploads/portrait_kyle.jpg"
