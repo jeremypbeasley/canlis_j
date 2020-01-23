@@ -56,3 +56,4 @@ outro:
 layout: privateevents
 ---
 
+[2020 Private Dining Packet.pdf](/uploads/2020%20Private%20Dining%20Packet.pdf)
