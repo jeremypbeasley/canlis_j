@@ -21,16 +21,22 @@ section2:
     want to have this. It is a requirement for employment.
 section3:
   title: Benefits
-  desc: "Medical, dental, vision, 401k, profit sharing, staff meals, dining privileges, employee educational scholarships, superb team environment, closed Sundays and major holidays...oh, and we'll never serve brunch."
+  desc: Medical, dental, vision, 401k, profit sharing, staff meals, dining privileges,
+    employee educational scholarships, superb team environment, closed Sundays and
+    major holidays...oh, and we'll never serve brunch.
 section4:
   title: Our Mission
-  desc: "The mission of our restaurant is to live out and grow the idea that it's worth putting other people first."
+  desc: The mission of our restaurant is to live out and grow the idea that it's worth
+    putting other people first.
 section5:
   title: Our Vision
-  desc: "Our vision for what it would look like if we carry out the mission perfectly: Canlis strives to be the best restaurant in America. Our people are growing emotionally, relationally, and professionally. We serve one another in a way that makes people feel valued and restored."
+  desc: 'Our vision for what it would look like if we carry out the mission perfectly:
+    Canlis strives to be the best restaurant in America. Our people are growing emotionally,
+    relationally, and professionally. We serve one another in a way that makes people
+    feel valued and restored.'
 section6:
   title: Our Values
-  desc: "We value trustworthiness, generosity, and other-centered-ness."
+  desc: We value trustworthiness, generosity, and other-centered-ness.
 photo1: "/uploads/careersphoto_01.jpg"
 photo2: "/uploads/careersphoto_02.jpg"
 photo3: "/uploads/careersphoto_03.jpg"
@@ -39,3 +45,4 @@ photo5: "/uploads/careersphoto_05.jpg"
 photo6: "/uploads/careersphoto_06.jpg"
 layout: careers
 ---
+
