@@ -5,8 +5,6 @@ menu_cost: 135
 disclaimer: A 20% service charge will be added to your final bill and is retained
   by Canlis. No additional gratuity is expected.
 course_1:
-- title: Celeriac Soup
-  desc: Smoked celeriac, seaweed, and plankton
 - title: Chioggia Beets
   desc: Amazake yogurt and hibiscus
 - title: Caramelized Mussels
@@ -16,19 +14,15 @@ course_1:
 - title: Canlis Salad
   desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
 course_2:
-- title: Oysters with Kohlrabi
-  desc: 'Poached Baywater Sweets, charred kohlrabi, and oyster sabayon '
-- title: Black Trumpet Fazzoletti
-  desc: Handkerchief pasta with black trumpet mushrooms and goat butter
-- title: Haiga Rice
-  desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: 'Grilled Carrots '
   desc: Glazed in reduced jostaberry jam with chorizo and clams
-- title: Rabbit
+- title: Haiga Rice
+  desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
+- title: Fried Rabbit
   desc: Yoshoku potatoes, buttermilk, and herbs from our garden
-course_3:
 - title: Broken Bean Stew
   desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
+course_3:
 - title: Sea Bream
   desc: Stewed onions, wasabi, and flavors of oyakodon
 - title: Pork
@@ -42,13 +36,10 @@ course_4:
 - title: Sweet Potato
   desc: Japanese sweet potato with bee pollen garam, yuzu sherbet, and cocoa butter
     cake
-- title: Hazelnut and Pear
-  desc: Hazelnut strudel with black tea cream, turmeric-poached pear, and bay laurel
 - title: Soufflè
   desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: 'Coffee And Chocolate '
-  desc: Layers of coffee-infused jaconde and chocolate ganache with crème fraîche
-    and espresso sauce
+- title: Chocolate
+  desc: Warm dark chocolate mousse, smoked white chocolate ganache, and juniper oil
 - title: Aged Cheddar and Apple
   desc: French toast, apple chutney, yogurt ice cream, and Petit Pomerol cheddar
 plates:
