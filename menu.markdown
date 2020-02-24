@@ -15,7 +15,7 @@ course_1:
   desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
 course_2:
 - title: 'Grilled Carrots '
-  desc: Glazed in reduced jostaberry jam with chorizo and clams
+  desc: Glazed in reduced persimmon jam with chorizo and clams
 - title: Haiga Rice
   desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
 - title: Fried Rabbit
