@@ -40,4 +40,4 @@ lounge_body: |-
 layout: wine
 ---
 
-[Canlis_Wine List_01.13.20_LF.pdf](/uploads/Canlis_Wine%20List_01.13.20_LF.pdf)
+[Canlis Wine List.pdf](/uploads/Canlis%20Wine%20List.pdf)
