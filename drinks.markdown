@@ -40,3 +40,4 @@ lounge_body: |-
 layout: wine
 ---
 
+[Canlis Wine List-6a3a10.pdf](/uploads/Canlis%20Wine%20List-6a3a10.pdf)
