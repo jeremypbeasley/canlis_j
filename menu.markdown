@@ -24,7 +24,7 @@ course_2:
   desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
 course_3:
 - title: Sea Bream
-  desc: Stewed onions, wasabi, and flavors of oyakodon
+  desc: Stewed onions, horseradish, and flavors of oyakodon
 - title: Duck
   desc: Roasted Winter Luxury squash, quince jam, and pumpkin seed gomashio
 - title: Lamb
