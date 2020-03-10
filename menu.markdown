@@ -25,8 +25,8 @@ course_2:
 course_3:
 - title: Sea Bream
   desc: Stewed onions, horseradish, and flavors of oyakodon
-- title: Duck
-  desc: Roasted Winter Luxury squash, quince jam, and pumpkin seed gomashio
+- title: Pork
+  desc: Green garlic, hazelnuts, and lemon
 - title: Lamb
   desc: 'Dry-aged leg and belly, with fermented brussels sprouts, cauliflower, and
     sweet potato '
