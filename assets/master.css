@@ -1659,7 +1659,7 @@ table {
 }
 
 html {
-  font-size: 13px;
+  font-size: 15px;
   font-family: typeface-body, serif;
 }
 @media (min-width: 30em) {
@@ -1683,7 +1683,7 @@ p {
   -ms-user-select: none;
 }
 p {
-  line-height: 175%;
+  line-height: 150%;
   text-align: left;
   cursor: default;
   padding-bottom: 1rem;
@@ -1717,10 +1717,10 @@ a.NavLink:after {
 a:before {
   content: '';
   position: absolute;
-  bottom: -4px;
+  bottom: -1px;
   left: 0;
   width: 100%;
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid rgba(0,0,0,0.3);
   transition: 200ms;
   padding: 5px 0;
 }
@@ -1811,7 +1811,7 @@ li {
 }
 .Display1 {
   font-size: 12vw;
-  line-height: 125%;
+  line-height: 110%;
   font-family: "GTSectraDisplayLight", Times, Georgia, serif;
 }
 @media (min-width: 62em) {
@@ -1828,8 +1828,8 @@ li {
   border-bottom: 1px solid #4b5320;
 }
 .Display2 {
-  font-size: 18px;
-  line-height: 160%;
+  font-size: 23px;
+  line-height: 140%;
   font-family: "GTSectraBook", Arial, sans-serif;
   letter-spacing: 0.04em;
 }
@@ -1840,7 +1840,7 @@ li {
 }
 @media (min-width: 75em) {
   .Display2 {
-    font-size: 20px;
+    font-size: 1.4vw;
   }
 }
 @media (min-width: 100em) {
@@ -1857,12 +1857,12 @@ li {
 .Caption {
   font-size: 0.8rem;
   text-transform: uppercase;
-  letter-spacing: 0.2rem;
-  font-family: "ApercuMono", Andale Mono, monospaced;
+  letter-spacing: 0.05rem;
+  font-family: HelveticaNeue-Medium, "ApercuMono", Andale Mono, monospaced;
 }
 @media (min-width: 62em) {
   .Caption {
-    font-size: 0.75rem;
+    font-size: 1rem;
   }
 }
 html {
@@ -1918,6 +1918,16 @@ img {
   .Logo {
     width: 8rem;
     height: 1.5rem;
+  }
+}
+.LogoWhite {
+  background-image: url("_img/canlis_logo_new_white.svg");
+}
+@media (min-width: 62em) {
+  .LogoCenter {
+    left: 50%;
+    position: relative;
+    margin-left: -3.5rem;
   }
 }
 .GlobalNav {
@@ -2557,10 +2567,11 @@ img {
 .CenterText {
   text-align: center;
 }
-@media (min-width: 62em) {
-  .col-md-offset-2 {
-    margin-left: 8.3333333%;
-  }
+.op50 {
+  opacity: 0.5;
+}
+.op30 {
+  opacity: 0.3;
 }
 .col-md-1,
 .col-md-2,
@@ -2653,14 +2664,17 @@ img {
   padding-left: 2.5vw;
 }
 .row {
-  padding: 2vw 4vw;
+  padding: 2vw 2vw;
   overflow: visible;
   margin-left: 0px;
   margin-right: 0px;
   position: relative;
 }
 .row.tall {
-  padding: 6vw 4vw;
+  padding: 6vw 2vw;
+}
+.row.taller {
+  padding: 10vw 2vw;
 }
 .row .row.nested {
   padding: 0 !important;
@@ -2686,7 +2700,7 @@ img {
 }
 @media (min-width: 62em) {
   .Intro {
-    min-height: 100vh;
+    min-height: 90vh;
     margin: 0;
     padding: 0;
 /* margin-bottom: -8vw; */
@@ -2804,7 +2818,7 @@ img {
 @media (min-width: 62em) {
   .HomePhoto1 {
     position: relative;
-    width: 63vw;
+    width: 66vw;
     margin-left: 0;
   }
 }
@@ -3462,7 +3476,7 @@ img {
   font-size: 0.92rem;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  font-family: "ApercuMono", Andale Mono, monospaced;
+  font-family: HelveticaNeue-Medium, "ApercuMono", Andale Mono, monospaced;
   opacity: 1;
   margin: 2em 0;
 }
@@ -3472,6 +3486,51 @@ img {
   .EventsIntro h4 {
     font-size: 0.75rem;
   }
+}
+.DriveThruIntro {
+  margin-bottom: -14vw;
+}
+@media (min-width: 62em) {
+  .DriveThruIntro {
+    width: 100vw;
+    padding: 4vw 12.5vw;
+    height: 100vh;
+    min-height: 100vh;
+    margin-bottom: 0;
+  }
+  .DriveThruIntro .Text {
+    width: 30vw;
+  }
+}
+.DriveThruPhoto {
+  background-image: url("/uploads/nelson4.jpg");
+  background-size: cover;
+  background-position: center bottom;
+  height: 100vh;
+}
+@media (min-width: 62em) {
+  .DriveThruPhoto {
+    height: 110vh;
+  }
+}
+.FamSignature {
+  max-width: 190px;
+}
+@media (min-width: 62em) {
+  .FamSignature {
+    max-width: 200px;
+  }
+}
+@media (min-width: 62em) {
+  .DarkerBg {
+    background: #f3f2f1;
+  }
+  .DarkerBg .Display2 {
+    width: 70%;
+  }
+}
+.FamilyMealButton a {
+  background: #c2f4e9;
 }
 @-moz-keyframes sk8r_starting {
   0% {
