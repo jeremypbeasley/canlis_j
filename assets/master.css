@@ -1683,7 +1683,7 @@ p {
   -ms-user-select: none;
 }
 p {
-  line-height: 175%;
+  line-height: 150%;
   text-align: left;
   cursor: default;
   padding-bottom: 1rem;
@@ -1717,10 +1717,10 @@ a.NavLink:after {
 a:before {
   content: '';
   position: absolute;
-  bottom: -4px;
+  bottom: -1px;
   left: 0;
   width: 100%;
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid rgba(0,0,0,0.3);
   transition: 200ms;
   padding: 5px 0;
 }
@@ -1828,8 +1828,8 @@ li {
   border-bottom: 1px solid #4b5320;
 }
 .Display2 {
-  font-size: 18px;
-  line-height: 160%;
+  font-size: 23px;
+  line-height: 140%;
   font-family: "GTSectraBook", Arial, sans-serif;
   letter-spacing: 0.04em;
 }
@@ -1855,7 +1855,7 @@ li {
   font-weight: bold;
 }
 .Caption {
-  font-size: 1rem;
+  font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.05rem;
   font-family: HelveticaNeue-Medium, "ApercuMono", Andale Mono, monospaced;
@@ -1922,6 +1922,13 @@ img {
 }
 .LogoWhite {
   background-image: url("_img/canlis_logo_new_white.svg");
+}
+@media (min-width: 62em) {
+  .LogoCenter {
+    left: 50%;
+    position: relative;
+    margin-left: -3.5rem;
+  }
 }
 .GlobalNav {
   position: absolute;
@@ -2566,11 +2573,6 @@ img {
 .op30 {
   opacity: 0.3;
 }
-@media (min-width: 62em) {
-  .col-md-offset-2 {
-    margin-left: 8.3333333%;
-  }
-}
 .col-md-1,
 .col-md-2,
 .col-md-3,
@@ -2662,14 +2664,17 @@ img {
   padding-left: 2.5vw;
 }
 .row {
-  padding: 2vw 4vw;
+  padding: 2vw 2vw;
   overflow: visible;
   margin-left: 0px;
   margin-right: 0px;
   position: relative;
 }
 .row.tall {
-  padding: 6vw 4vw;
+  padding: 6vw 2vw;
+}
+.row.taller {
+  padding: 10vw 2vw;
 }
 .row .row.nested {
   padding: 0 !important;
@@ -3483,14 +3488,49 @@ img {
   }
 }
 .DriveThruIntro {
-  background-image: url("/uploads/nelson2.jpg");
+  margin-bottom: -14vw;
 }
-.DriveThruIntro h1 {
-  color: #fff;
-  margin-left: 0px;
-  position: absolute;
-  left: 4vw;
-  width: 40%;
+@media (min-width: 62em) {
+  .DriveThruIntro {
+    width: 100vw;
+    padding: 4vw 12.5vw;
+    height: 100vh;
+    min-height: 100vh;
+    margin-bottom: 0;
+  }
+  .DriveThruIntro .Text {
+    width: 30vw;
+  }
+}
+.DriveThruPhoto {
+  background-image: url("/uploads/nelson.jpg");
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+}
+@media (min-width: 62em) {
+  .DriveThruPhoto {
+    height: 90vh;
+  }
+}
+.FamSignature {
+  max-width: 190px;
+}
+@media (min-width: 62em) {
+  .FamSignature {
+    max-width: 200px;
+  }
+}
+@media (min-width: 62em) {
+  .DarkerBg {
+    background: #f3f2f1;
+  }
+  .DarkerBg .Display2 {
+    width: 70%;
+  }
+}
+.FamilyMealButton a {
+  background: #c2f4e9;
 }
 @-moz-keyframes sk8r_starting {
   0% {
