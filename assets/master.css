@@ -1659,7 +1659,7 @@ table {
 }
 
 html {
-  font-size: 13px;
+  font-size: 15px;
   font-family: typeface-body, serif;
 }
 @media (min-width: 30em) {
@@ -1811,7 +1811,7 @@ li {
 }
 .Display1 {
   font-size: 12vw;
-  line-height: 125%;
+  line-height: 110%;
   font-family: "GTSectraDisplayLight", Times, Georgia, serif;
 }
 @media (min-width: 62em) {
@@ -1840,7 +1840,7 @@ li {
 }
 @media (min-width: 75em) {
   .Display2 {
-    font-size: 20px;
+    font-size: 1.4vw;
   }
 }
 @media (min-width: 100em) {
@@ -1855,14 +1855,14 @@ li {
   font-weight: bold;
 }
 .Caption {
-  font-size: 0.8rem;
+  font-size: 1rem;
   text-transform: uppercase;
-  letter-spacing: 0.2rem;
-  font-family: "ApercuMono", Andale Mono, monospaced;
+  letter-spacing: 0.05rem;
+  font-family: HelveticaNeue-Medium, "ApercuMono", Andale Mono, monospaced;
 }
 @media (min-width: 62em) {
   .Caption {
-    font-size: 0.75rem;
+    font-size: 1rem;
   }
 }
 html {
@@ -1919,6 +1919,9 @@ img {
     width: 8rem;
     height: 1.5rem;
   }
+}
+.LogoWhite {
+  background-image: url("_img/canlis_logo_new_white.svg");
 }
 .GlobalNav {
   position: absolute;
@@ -2557,6 +2560,12 @@ img {
 .CenterText {
   text-align: center;
 }
+.op50 {
+  opacity: 0.5;
+}
+.op30 {
+  opacity: 0.3;
+}
 @media (min-width: 62em) {
   .col-md-offset-2 {
     margin-left: 8.3333333%;
@@ -2686,7 +2695,7 @@ img {
 }
 @media (min-width: 62em) {
   .Intro {
-    min-height: 100vh;
+    min-height: 90vh;
     margin: 0;
     padding: 0;
 /* margin-bottom: -8vw; */
@@ -3462,7 +3471,7 @@ img {
   font-size: 0.92rem;
   text-transform: uppercase;
   letter-spacing: 0.2rem;
-  font-family: "ApercuMono", Andale Mono, monospaced;
+  font-family: HelveticaNeue-Medium, "ApercuMono", Andale Mono, monospaced;
   opacity: 1;
   margin: 2em 0;
 }
@@ -3472,6 +3481,16 @@ img {
   .EventsIntro h4 {
     font-size: 0.75rem;
   }
+}
+.DriveThruIntro {
+  background-image: url("/uploads/nelson2.jpg");
+}
+.DriveThruIntro h1 {
+  color: #fff;
+  margin-left: 0px;
+  position: absolute;
+  left: 4vw;
+  width: 40%;
 }
 @-moz-keyframes sk8r_starting {
   0% {
