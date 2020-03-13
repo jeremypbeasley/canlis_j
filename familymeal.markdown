@@ -9,11 +9,11 @@ rsvp_button:
 layout: events
 ---
 
-<h2 class="Display2">You pick a time.</h2>
+<h2 class="Display2 mb4">You pick a time.</h2>
 
-<h2 class="Display2">We deliver in an hour window.</h2>
-<h2 class="Display2">We require an ID check for any wine delivered.</h2>
-<h2 class="Display2">Sorry, no modifications or substitutions allowed.</h2>
+<h2 class="Display2 mb4">We deliver in an hour window.</h2>
+<h2 class="Display2 mb4">We require an ID check for any wine delivered.</h2>
+<h2 class="Display2 mb4">Sorry, no modifications or substitutions allowed.</h2>
 
 <div class="Divider mb8 mt8"></div>
 
