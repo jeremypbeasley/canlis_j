@@ -1,0 +1,23 @@
+{% include head.html %}
+
+<div class="Intro IntroShort">
+  <h1 class="Display1 mb10">{{ page.title }}</h1>
+</div>
+
+<div class="row tall">
+  {% for item in page.items %}
+  <div class="column col-xs-12 col-md-4">
+    <a class="NoLine" href="{{ item.link }}">
+        <img class="mb3" src="{{ item.thumbnail }}"/>
+    </a>
+    <p class="mb10">
+      <a class="NoLine" href="{{ item.link}}">
+        {{ item.title }}
+      </a>
+    </p>
+  </div>
+  {% endfor %}
+</div>
+
+
+{% include footer.html %}

@@ -2712,6 +2712,9 @@ img {
     margin-left: 2vw;
   }
 }
+.IntroShort {
+  margin-bottom: -20vw;
+}
 .HomeIntro {
   margin-bottom: -6vw;
   background-image: url("/uploads/exterior2.jpg");
