@@ -8,13 +8,11 @@ rsvp_button:
 layout: events
 ---
 
-<h2>Choose a time.</h2>
-
-<h2></h2>
-
 <h2>1. Choose a time.</h2>
 
 <h2>2. Choose a time.</h2>
+
+<div class="Divider mb8 mt8"></div>
 
 <h2>24 hour cancellation policy</h2>
 <p>If you order Family Meal and cancel within 24 hours of your delivery window, we will not be able to offer any refund on your purchase amount.</p>
