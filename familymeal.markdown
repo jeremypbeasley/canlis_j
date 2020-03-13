@@ -9,9 +9,11 @@ rsvp_button:
 layout: events
 ---
 
-<h2>1. Choose a time.</h2>
+<h2>1. You pick a time.</h2>
 
-<h2>2. Choose a time.</h2>
+<h2>2. We deliver in an hour window.</h2>
+<h2>3. We require an ID check for any wine delivered.</h2>
+<h2>4. No modifications or substitutions on food.</h2>
 
 <div class="Divider mb8 mt8"></div>
 
