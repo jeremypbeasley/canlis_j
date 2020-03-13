@@ -25,7 +25,7 @@ layout: events
 
 <div class="Divider mb8 mt8"></div>
 
-<h2 class="Caption mb8">24 hour cancellation policy</h2>
+<h2 class="Caption mb2">24 hour cancellation policy</h2>
 <p>If you order Family Meal and cancel within 24 hours of your delivery window, we will not be able to offer any refund on your purchase amount.</p>
 
 
