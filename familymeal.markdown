@@ -1,6 +1,7 @@
 ---
 title: Family Meal
 date: 2020-03-13 16:19:00 -07:00
+layout: default
 ---
 
 <h2>Choose a time.</h2>
