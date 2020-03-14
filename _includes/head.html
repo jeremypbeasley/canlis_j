@@ -26,7 +26,7 @@
   })(window,document,'script','dataLayer','GTM-PJCFT8T');</script>
   <!-- End Google Tag Manager -->
 
-  <link href="/assets/master.css?version=jun2019" rel="stylesheet">
+  <link href="/assets/master.css?version={{ 'now' | date: "%m%d%Y%H%M%S" }}" rel="stylesheet">
   <link rel="apple-touch-icon" sizes="57x57" href="assets/_favicon/apple-icon-57x57.png">
   <link rel="apple-touch-icon" sizes="60x60" href="assets/_favicon/apple-icon-60x60.png">
   <link rel="apple-touch-icon" sizes="72x72" href="assets/_favicon/apple-icon-72x72.png">
@@ -53,12 +53,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <div id="main" class="">
-<a href="/about" class="Logo mb10 Caption NoLine">Logo</a>
+<a href="/" class="Logo mb10 Caption NoLine">Logo</a>
 <div class="GlobalNav Unselectable ShowDesktop">
   <ul class="Open">
     <li class="Caption"><a class="NavLink" href="{{ site.reservations_link }}" target="_blank">Reservations</a></li>
     <li class="Caption"><a class="NavLink" href="https://giftcards.canlis.com/">Gift Cards</a></li>
     <li class="Caption">—</li>
+    <li class="Caption"><a class="NavLink" href="/home">About</a></li>
     <li class="Caption"><a class="NavLink" href="/menu">Menu</a></li>
     <li class="Caption"><a class="NavLink" href="/drinks">Wine & Spirits</a></li>
     <li class="Caption"><a class="NavLink" href="/events">Private Events</a></li>
@@ -83,6 +84,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <ul class="Open">
       <li class="Caption"><a class="NavLink" href="{{ site.reservations_link }}" target="_blank">Reservations</a></li>
       <li class="Caption"><a class="NavLink" href="https://giftcards.canlis.com/">Gift Cards</a></li>
+      <li class="Caption"><a class="NavLink" href="/home">About</a></li>
       <li class="Caption"><a class="NavLink" href="/menu">Menu</a></li>
       <li class="Caption"><a class="NavLink" href="/drinks">Wine & Spirits</a></li>
       <li class="Caption"><a class="NavLink" href="/events">Private Events</a></li>

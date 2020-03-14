@@ -1,5 +1,5 @@
 ---
-title: Family Meal
+title: Family Meal, Delivered.
 date: 2020-03-13 16:19:00 -07:00
 image: "/uploads/canlis_concept_03.jpg"
 rsvp_button:
@@ -9,23 +9,40 @@ rsvp_button:
 layout: events
 ---
 
-<h2 class="Display2 mb4">You pick a time.</h2>
+<h2 class="Display2 mb4">Home-cooked dinner and a bottle of wine on your doorstep. Menu changes daily.</h2>
 
-<h2 class="Display2 mb4">We deliver in an hour window.</h2>
-<h2 class="Display2 mb4">We require an ID check for any wine delivered.</h2>
-<h2 class="Display2 mb4">Sorry, no modifications or substitutions allowed.</h2>
+Begins Wednesday. We start taking orders this Tuesday afternoon. Check back for link to order.
 
-<div class="Divider mb8 mt8"></div>
+<div class="Divider mb4 op30"></div>
 
+<h2 class="Caption mb4">Order Window</h2>
+
+We'll deliver within a one hour window you choose. Sorry, we can't guarantee an exact delivery time. We'll send you a text when we're en route!
+
+<h2 class="Caption mb4">Wine</h2>
+
+You may choose one of 5 bottles of wine that our sommeliers have paired with each dinner. Deliveries with wine will require valid ID check upon delivery.
+
+<h2 class="Caption mb4">Modifications</h2>
+
+Unfortunately we cannot accommodate any food modifications for our Family Meal orders.
+
+<h2 class="Caption mb4">Cancellation Policy</h2>
+
+If you need to cancel your order, you must do so within 24 hours of the delivery window. If canceled within the 24 hour window there is a non-refundable delivery fee of half the cost of your order.
+
+<div class="Divider mb4 op30"></div>
+<!--
 <div class="EventsButton mb8 mt4">
-          <a class="Caption" href="https://exploretock.com/cannlis">
-            Order on Tock
-          </a>
-        </div>
+  <a class="Caption" href="https://exploretock.com/canlis">
+    Order on Tock
+  </a>
+</div> -->
 
-<div class="Divider mb8 mt8"></div>
+Begins Wednesday. We start taking orders this Tuesday afternoon. Check back for link to order.
 
-<h2 class="Caption mb2">24 hour cancellation policy</h2>
-<p>If you order Family Meal and cancel within 24 hours of your delivery window, we will not be able to offer any refund on your purchase amount.</p>
+
+
+
 
 
