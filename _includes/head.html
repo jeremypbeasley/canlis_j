@@ -16,7 +16,7 @@
     <meta property="og:description" content="{{ site.description }}" />
   {% endif %}
   {% if page.og_photo %}
-    <meta property="og:image" content="{{ page.og_photo }}" />
+    <meta property="og:image" content="{{ site.url }}{{ page.og_photo }}" />
     {% else %}
     <meta property="og:image" content="http://canlis.com/uploads/fbshare_thumbnail.jpg" />
   {% endif %}
@@ -30,7 +30,7 @@
     <meta name="twitter:description" content="{{ site.description }}" />
   {% endif %}
   {% if page.og_photo %}
-    <meta name="twitter:image" content="{{ page.og_photo }}" />
+    <meta name="twitter:image" content="{{ site.url }}{{ page.og_photo }}" />
     {% else %}
     <meta name="twitter:image" content="http://canlis.com/uploads/fbshare_thumbnail.jpg" />
   {% endif %}
