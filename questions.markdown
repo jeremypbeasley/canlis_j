@@ -9,13 +9,13 @@ layout: default
 
 As the spread of COVID-19 grew, we asked ourselves “How can we create safer jobs for our staff and build a business model that might withstand this new environment?” Starting from scratch, we listed our strengths: a capable kitchen, a willing team, a restaurant on a freeway. It didn’t take much to realize that a drive thru would serve so many more in this city than a dining room with white table clothes. Servers could deliver to homes the same way they delivered to tables. If in doing so, could we could find a way to feed our neighbors and encourage our city...well wouldn’t you do the same thing?
 
-In the middle of the night we re-launched our website that said “We've got this, Seattle.” Our words have become the cry of a city that just needed a reminder of just what they are capable of.
+In the middle of the night we coined the phrase “We’ve got this, Seattle.” Our words became the rallying cry of a city that needed a reminder of just what they are capable of.
 
 #WeGotThisSeattle
 
 <h2 class="Display2 mb4">How long have we been planning this?</h2>
 
-This idea came to us listening to King County Executive, Dow Constantine’s, first big press conference. It just dawned on us that what we had to offer this city, a fine dining restaurant, was no longer the right thing. It also occurred to us that if we wanted to stay employed, we’d need to create jobs that could withstand the new pressures of an uncertain time. That was Wednesday, March 5th. We started planning in earnest Monday, March 9th. We mention those dates because if we can close down a 70 year-old restaurant and open three new concepts in one week, just think of what you could do for a city that has never needed your creativity more than right now.
+This idea came to us listening to King County Executive Dow Constantine’s first big press conference. It just dawned on us that what we had to offer this city, a fine dining restaurant, was no longer the right thing. It also occurred to us that if we wanted to stay employed, we’d need to create jobs that could withstand the new pressures of an uncertain time. That was Wednesday, March 5th. We started planning in earnest Monday, March 9th. We mention those dates because if we can close down a 70 year-old restaurant and open three new concepts in one week, just think of what you could do for a city that has never needed your creativity more than right now.
 
 <h2 class="Display2 mb4">When will fine dining at Canlis re-open?</h2>
 
