@@ -1,6 +1,7 @@
 ---
 title: Family Meal, Delivered.
 date: 2020-03-13 16:19:00 -07:00
+og_desc: Home-cooked dinner & a bottle of wine on your doorstep. Menu changes daily.
 image: "/uploads/canlis_concept_03.jpg"
 rsvp_button:
   has_button: false
