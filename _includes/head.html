@@ -15,7 +15,11 @@
     {% else %}
     <meta property="og:description" content="{{ site.description }}" />
   {% endif %}
-  <meta property="og:image" content="http://canlis.com/uploads/fbshare_thumbnail.jpg" />
+  {% if page.og_photo %}
+    <meta property="og:image" content="{{ page.og_photo }}" />
+    {% else %}
+    <meta property="og:image" content="http://canlis.com/uploads/fbshare_thumbnail.jpg" />
+  {% endif %}
   <!-- Twitter Sharing Tags -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@canlis">
@@ -25,7 +29,11 @@
     {% else %}
     <meta name="twitter:description" content="{{ site.description }}" />
   {% endif %}
-  <meta name="twitter:image" content="http://canlis.com/uploads/fbshare_thumbnail.jpg">
+  {% if page.og_photo %}
+    <meta name="twitter:image" content="{{ page.og_photo }}" />
+    {% else %}
+    <meta name="twitter:image" content="http://canlis.com/uploads/fbshare_thumbnail.jpg" />
+  {% endif %}
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
