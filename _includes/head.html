@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>{{ site.title }}</title>
+  <title>Canlis — {{ page.title }}</title>
   <meta charset="UTF-8">
   <meta name="description" content="{{ site.description }}">
   <meta name="author" content="Jeremy P. Beasley / @jeremypbeasley">
@@ -9,14 +9,14 @@
   <!-- Facebook Open Graph Tags -->
   <meta property="og:URL" content="http://canlis.com" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="{{ site.og_title }}" />
-  <meta property="og:description" content="{{ site.description }}" />
+  <meta property="og:title" content="Canlis — {{ page.title }}" />
+  <meta property="og:description" content="{% if page.og_desc %}{{ page.og_desc }}{% else %}{{ site.description }}{% endif}" />
   <meta property="og:image" content="http://canlis.com/uploads/fbshare_thumbnail.jpg" />
   <!-- Twitter Sharing Tags -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@canlis">
-  <meta name="twitter:title" content="{{ site.og_title }}">
-  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:title" content="Canlis — {{ page.title }}">
+  <meta name="twitter:description" content="{% if page.og_desc %}{{ page.og_desc }}{% else %}{{ site.description }}{% endif}">
   <meta name="twitter:image" content="http://canlis.com/uploads/fbshare_thumbnail.jpg">
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':

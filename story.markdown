@@ -1,6 +1,7 @@
 ---
 title: Story (2019)
 date: 2016-11-10 10:08:00 -08:00
+og_desc: "There are many stories. This one's ours."
 layout: story_full
 ---
 
