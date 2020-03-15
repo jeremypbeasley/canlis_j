@@ -9,7 +9,7 @@ layout: default
 
 As the spread of COVID-19 grew, we asked ourselves “How can we create safer jobs for our staff and build a business model that might withstand this new environment?” Starting from scratch, we listed our strengths: a capable kitchen, a willing team, a restaurant on a freeway. It didn’t take much to realize that a drive thru would serve so many more in this city than a dining room with white table cloths. Servers could deliver to homes the same way they delivered to tables. If in doing so, could we could find a way to feed our neighbors and encourage our city...well wouldn’t you do the same thing?
 
-In the middle of the night we coined the phrase “We’ve got this, Seattle.” Those words became the rallying cry for a city that just needed a reminder of what they are capable of.
+In the middle of the night we coined the phrase “We’ve got this, Seattle.” Those words became the rallying cry for the residents of a city that just needed a reminder of what they are capable of.
 
 #WeGotThisSeattle
 
