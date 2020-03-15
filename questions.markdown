@@ -9,7 +9,7 @@ layout: default
 
 As the spread of COVID-19 grew, we asked ourselves “How can we create safer jobs for our staff and build a business model that might withstand this new environment?” Starting from scratch, we listed our strengths: a capable kitchen, a willing team, a restaurant on a freeway. It didn’t take much to realize that a drive thru would serve so many more in this city than a dining room with white table clothes. Servers could deliver to homes the same way they delivered to tables. If in doing so, could we could find a way to feed our neighbors and encourage our city...well wouldn’t you do the same thing?
 
-In the middle of the night we coined the phrase “We’ve got this, Seattle.” Our words became the rallying cry of a city that needed a reminder of just what they are capable of.
+In the middle of the night we coined the phrase “We’ve got this, Seattle.” Those words became the rallying cry for a city that just needed a reminder of what they are capable of.
 
 #WeGotThisSeattle
 
@@ -19,15 +19,13 @@ This idea came to us listening to King County Executive Dow Constantine’s firs
 
 <h2 class="Display2 mb4">When will fine dining at Canlis re-open?</h2>
 
-This is our favorite question.
-
 We’ll reopen when the schools re-open, when on-site work resumes, when and the people of our city start asking for their restaurant back. We’ll re-open when we as a nation have made it through this together, when we're ready to raise a glass to humanity and the way we re-learned just how alike we all are.
 
 <h2 class="Display2 mb4">What if I currently have a reservation?</h2>
 
 We’ve sent an email to all our guests with reservations in the next two weeks. If you’re reading this, then perhaps you have a reservation further out than that. Each week, as we monitor the impact on our city, we will make the call to close fine dining and cancel reservations. When we do, we’ll likely send you an email and call you personally to apologize and arrange a re-booking.
 
-<h2 class="Display2 mb4">Can you access the Canlis by foot?</h2>
+<h2 class="Display2 mb4">Can you access the Drive On Thru by foot?</h2>
 
 Sure! Just don’t be put off if we keep you a few feet away. It’s for the greater good.
 
@@ -37,7 +35,7 @@ To minimize the spread of COVID-19, we have designed this experience strictly as
 
 <h2 class="Display2 mb4">Has Canlis ever closed before? </h2>
 
-Our grandfather closed the restaurant upon hearing the news of president John F. Kennedy’s assassination. As brothers, we decided to close the restaurant in 2015 after a tragic accident on the Aurora Bridge, just outside our restaurant. In this case, though we do not offer fine dining, we do not consider ourselves as having necessarily "closed" Canlis. It just looks different than what you, or we, are used to. But inside this building, the employees, the family, and the spirit of Canlis is as alive as it has ever been.
+Our grandfather closed the restaurant upon hearing the news of president John F. Kennedy’s assassination. As brothers, we decided to close the restaurant in 2015 after a tragic accident on the Aurora Bridge, just outside our restaurant. In this case, though we do not offer fine dining, we do not consider ourselves as having "closed" Canlis. It just looks different than what you, or we, are used to. But inside this building, the employees, the family, and the spirit of Canlis is as alive as it has ever been.
 
 <h2 class="Display2 mb4">Are we hiring?</h2>
 
