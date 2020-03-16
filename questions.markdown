@@ -45,3 +45,5 @@ Our goal is to create enough jobs in this uncertain season to continue to employ
 
 Email Jessica at [jessica@canlis.com](mailto:jessica@canlis.com).
 
+For all other inquiries, please email [amy@Canlis.com](Amy@Canlis.com).
+
