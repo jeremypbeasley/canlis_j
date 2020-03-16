@@ -1,13 +1,13 @@
 ---
 title: Family Meal, Delivered.
 date: 2020-03-13 16:19:00 -07:00
-og_desc: Home-cooked dinner & a bottle of wine on your doorstep. Menu changes daily.
-og_photo: "/uploads/familymeal_share.jpg"
 image: "/uploads/canlis_concept_03.jpg"
 rsvp_button:
   has_button: false
   url: https://exploretock.com/canlis
   button_label: Order on Tock
+og_desc: Home-cooked dinner & a bottle of wine on your doorstep. Menu changes daily.
+og_photo: "/uploads/familymeal_share.jpg"
 layout: events
 ---
 
@@ -16,6 +16,8 @@ layout: events
 Begins Wednesday. We start taking orders this Tuesday afternoon. Check back for link to order.
 
 <div class="Divider mb4 op30"></div>
+
+<h2 class="Caption mb4">Order Window</h2>
 
 <h2 class="Caption mb4">Order Window</h2>
 
