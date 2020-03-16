@@ -7,9 +7,9 @@ layout: default
 
 <h2 class="Display2 mb4">Why are we doing this? </h2>
 
-As the spread of COVID-19 grew, we asked ourselves “How can we create safer jobs for our staff and build a business model that might withstand this new environment?” Starting from scratch, we listed our strengths: a capable kitchen, a willing team, a restaurant on a freeway. It didn’t take much to realize that a drive thru would serve so many more in this city than a dining room with white table clothes. Servers could deliver to homes the same way they delivered to tables. If in doing so, could we could find a way to feed our neighbors and encourage our city...well wouldn’t you do the same thing?
+As the spread of COVID-19 grew, we asked ourselves “How can we create safer jobs for our staff and build a business model that might withstand this new environment?” Starting from scratch, we listed our strengths: a capable kitchen, a willing team, a restaurant on a freeway. It didn’t take much to realize that a drive thru would serve so many more in this city than a dining room with white table cloths. Servers could deliver to homes the same way they delivered to tables. If in doing so, could we could find a way to feed our neighbors and encourage our city...well wouldn’t you do the same thing?
 
-In the middle of the night we coined the phrase “We’ve got this, Seattle.” Those words became the rallying cry for a city that just needed a reminder of what they are capable of.
+In the middle of the night we coined the phrase “We’ve got this, Seattle.” Those words became the rallying cry for the residents of a city that just needed a reminder of what they are capable of.
 
 #WeGotThisSeattle
 
@@ -41,7 +41,8 @@ Our grandfather closed the restaurant upon hearing the news of president John F.
 
 Our goal is to create enough jobs in this uncertain season to continue to employ 100% of our staff. We look forward to bringing on a larger team if demand exceeds our ability to serve the city. We recognize the need right now for job creation and are eagerly trying to build a business model that can employ as many in this city as possible. For more information on working at Canlis, visit our [careers page](/careers).
 
-<h2 class="Display2 mb4">More questions?</h2>
+<h2 class="Display2 mb4">Other questions?</h2>
 
-Email Jessica at [jessica@canlis.com](mailto:jessica@canlis.com).
+Please email [amy@canlis.com](amy@canlis.com).
 
+For media inquiries, please contact [jessica@canlis.com](mailto:jessica@canlis.com).
