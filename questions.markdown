@@ -43,7 +43,7 @@ Our goal is to create enough jobs in this uncertain season to continue to employ
 
 <h2 class="Display2 mb4">Media inquiries?</h2>
 
-Email Jessica at [jessica@canlis.com](mailto:jessica@canlis.com).
+Email [jessica@canlis.com](mailto:jessica@canlis.com).
 
-For all other inquiries, please email [amy@Canlis.com](Amy@Canlis.com).
+For all other inquiries, please email [amy@canlis.com](amy@canlis.com).
 
