@@ -3513,12 +3513,19 @@ img {
   .DarkerBg {
     background: #f3f2f1;
   }
-  .DarkerBg .Display2 {
-    width: 70%;
-  }
 }
 .FamilyMealButton a {
   background: #c2f4e9;
+}
+.SafetyList {
+  line-height: 150%;
+}
+.SafetyList li {
+  list-style-type: circle;
+}
+.SafetyList li ::before {
+  content: "•";
+  color: #ffa500;
 }
 @-moz-keyframes sk8r_starting {
   0% {
