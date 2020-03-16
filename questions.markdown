@@ -41,9 +41,8 @@ Our grandfather closed the restaurant upon hearing the news of president John F.
 
 Our goal is to create enough jobs in this uncertain season to continue to employ 100% of our staff. We look forward to bringing on a larger team if demand exceeds our ability to serve the city. We recognize the need right now for job creation and are eagerly trying to build a business model that can employ as many in this city as possible. For more information on working at Canlis, visit our [careers page](/careers).
 
-<h2 class="Display2 mb4">Media inquiries?</h2>
+<h2 class="Display2 mb4">Other questions?</h2>
 
-Email [jessica@canlis.com](mailto:jessica@canlis.com).
+Please email [amy@canlis.com](amy@canlis.com).
 
-For all other inquiries, please email [amy@canlis.com](amy@canlis.com).
-
+For media inquiries, please contact [jessica@canlis.com](mailto:jessica@canlis.com).
