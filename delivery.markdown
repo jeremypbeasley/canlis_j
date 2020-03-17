@@ -48,7 +48,7 @@ wine@canlis.com</a>. Our sommeliers will be in touch with you shortly. Download 
 
 Unfortunately we cannot accommodate any food modifications for our Family Meal orders.
 
-<h2 class="Caption mt2 mb3”>Cancellation Policy</h2>
+<h2 class="Caption mt2 mb3">Cancellation Policy</h2>
 
 If you need to cancel your order, you must do so within 24 hours of the delivery window. If canceled within the 24 hour window there is a non-refundable delivery fee of half the cost of your order.
 
