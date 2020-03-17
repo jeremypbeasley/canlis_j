@@ -13,8 +13,6 @@ layout: events
 
 <h2 class="Display2 mb4">Home-cooked dinner and a bottle of wine on your doorstep.</h2>
 
-We begin taking orders this Tuesday at 11am for Wednesday evening dinner.
-
 <div class="Divider mb4 mt5 op30"></div>
 
 <h2 class="Caption mb4">Menu</h2>
@@ -38,8 +36,6 @@ For the time being, delivery is only available to any address inside Seattle cit
     Order on Tock
   </a>
 </div>
-
-We begin taking orders this Tuesday at 11am for Wednesday evening dinner.
 
 <div class="Divider mb8 op30"></div>
 
