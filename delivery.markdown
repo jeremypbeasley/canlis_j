@@ -11,21 +11,30 @@ og_photo: "/uploads/familymeal_share.jpg"
 layout: events
 ---
 
-<h2 class="Display2 mb4">Home-cooked dinner and a bottle of wine on your doorstep. Menu changes daily.</h2>
+<h2 class="Display2 mb4">Home-cooked dinner and a bottle of wine on your doorstep.</h2>
 
-Begins Wednesday. We start taking orders this Tuesday afternoon. Check back for link to order.
+We begin taking orders this Tuesday for Wednesday evening dinner.
 
 <div class="Divider mb4 op30"></div>
 
-<h2 class="Caption mb4">Order Window</h2>
+<h2 class="Caption mb4">Menu</h2>
 
-<h2 class="Caption mb4">Order Window</h2>
+Changes daily. Please click the order button below for each day's menu.
 
-We'll deliver within a one hour window you choose. Sorry, we can't guarantee an exact delivery time. We'll send you a text when we're en route!
+<h2 class="Caption mb4">Delivery Window</h2>
+
+All orders must be placed by 8PM the day before your delivery.
+
+Canlis servers aim to arrive within a 20 minute window of the time you have chosen. We’ll send you a text as soon as we are en route and one when we arrive at your doorstep.
+
+<h2 class="Caption mb4">Delivery Zone</h2>
+
+For the time being, delivery is only available to any address inside Seattle city limits. If your address falls outside Seattle, we reserve the right to cancel your order.
 
 <h2 class="Caption mb4">Wine</h2>
 
-You may choose one of 5 bottles of wine that our sommeliers have paired with each dinner. Deliveries with wine will require valid ID check upon delivery.
+Our sommeliers have paired several bottles with each meal. If you prefer to order directly from the Canlis wine cellar, email your name and phone number to <a href="mailto:wine@canlis.com?subject=Wine%20Delivery&body=Name:%20%3A%0D%0APhone Number:%20%3A">
+wine@canlis.com</a>. Our sommeliers will be in touch with you shortly. Download our wine list <a target="_blank" href="/uploads/winelist.pdf">here</a>.
 
 <h2 class="Caption mb4">Modifications</h2>
 
@@ -35,15 +44,15 @@ Unfortunately we cannot accommodate any food modifications for our Family Meal o
 
 If you need to cancel your order, you must do so within 24 hours of the delivery window. If canceled within the 24 hour window there is a non-refundable delivery fee of half the cost of your order.
 
-<div class="Divider mb4 op30"></div>
-<!--
+<div class="Divider mb8 op30"></div>
+
 <div class="EventsButton mb8 mt4">
   <a class="Caption" href="https://exploretock.com/canlis">
     Order on Tock
   </a>
-</div> -->
+</div>
 
-Begins Wednesday. We start taking orders this Tuesday afternoon. Check back for link to order.
+We begin taking orders this Tuesday at 11am for Wednesday evening dinner.
 
 
 
