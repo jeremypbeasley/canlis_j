@@ -15,7 +15,7 @@ layout: events
 
 We begin taking orders this Tuesday at 11am for Wednesday evening dinner.
 
-<div class="Divider mb4 op30"></div>
+<div class="Divider mb4 mt5 op30"></div>
 
 <h2 class="Caption mb4">Menu</h2>
 
@@ -54,7 +54,8 @@ Unfortunately we cannot accommodate any food modifications for our Family Meal o
 
 <h2 class="Caption mb4">Cancellation Policy</h2>
 
-If you need to cancel your order, you must do so within 24 hours of the delivery window. Cancellations under 24 hours will forfeit the full cost of the meal. Please note that all delivered goods are final sale.
+If you need to cancel your order, you must do so within 24 hours of the delivery window. If canceled within the 24 hour window there is a non-refundable delivery fee of half the cost of your order.
+
 
 
 
