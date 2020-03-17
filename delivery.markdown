@@ -31,6 +31,18 @@ Canlis servers aim to arrive within a 20 minute window of the time you have chos
 
 For the time being, delivery is only available to any address inside Seattle city limits. If your address falls outside Seattle, we reserve the right to cancel your order.
 
+<div class="Divider mb8 op30"></div>
+
+<div class="EventsButton mb8 mt4">
+  <a class="Caption" href="https://exploretock.com/canlis">
+    Order on Tock
+  </a>
+</div>
+
+We begin taking orders this Tuesday at 11am for Wednesday evening dinner.
+
+<div class="Divider mb8 op30"></div>
+
 <h2 class="Caption mb4">Wine</h2>
 
 Our sommeliers have paired several bottles with each meal. If you prefer to order directly from the Canlis wine cellar, email your name and phone number to <a href="mailto:wine@canlis.com?subject=Wine%20Delivery&body=Name:%20%3A%0D%0APhone Number:%20%3A">
@@ -43,17 +55,6 @@ Unfortunately we cannot accommodate any food modifications for our Family Meal o
 <h2 class="Caption mb4">Cancellation Policy</h2>
 
 If you need to cancel your order, you must do so within 24 hours of the delivery window. If canceled within the 24 hour window there is a non-refundable delivery fee of half the cost of your order.
-
-<div class="Divider mb8 op30"></div>
-
-<div class="EventsButton mb8 mt4">
-  <a class="Caption" href="https://exploretock.com/canlis">
-    Order on Tock
-  </a>
-</div>
-
-We begin taking orders this Tuesday at 11am for Wednesday evening dinner.
-
 
 
 
