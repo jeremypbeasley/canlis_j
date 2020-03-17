@@ -13,7 +13,7 @@ layout: events
 
 <h2 class="Display2 mb4">Home-cooked dinner and a bottle of wine on your doorstep.</h2>
 
-We begin taking orders this Tuesday for Wednesday evening dinner.
+We begin taking orders this Tuesday at 11am for Wednesday evening dinner.
 
 <div class="Divider mb4 op30"></div>
 
@@ -25,7 +25,7 @@ Changes daily. Please click the order button below for each day's menu.
 
 All orders must be placed by 8PM the day before your delivery.
 
-Canlis servers aim to arrive within a 20 minute window of the time you have chosen. We’ll send you a text as soon as we are en route and one when we arrive at your doorstep.
+Canlis servers aim to arrive within a 20 minute window of the time you have chosen. We’ll send you a text as soon as we are en route and again when we arrive at your address.
 
 <h2 class="Caption mb4">Delivery Zone</h2>
 
