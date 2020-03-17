@@ -29,7 +29,7 @@ Canlis servers aim to arrive within a 20 minute window of the time you have chos
 
 For the time being, delivery is only available to any address inside Seattle city limits. If your address falls outside Seattle, we reserve the right to cancel your order.
 
-<div class="Divider mb8 op30"></div>
+<div class="Divider mb8 mt3 op30"></div>
 
 <div class="EventsButton mb8 mt4">
   <a class="Caption" href="https://exploretock.com/canlis">
