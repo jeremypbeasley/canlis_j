@@ -21,13 +21,13 @@ Changes daily. Please click the order button below for each day's menu.
 
 <h2 class="Caption mt2 mb3">No Contact Delivery</h2>
 
-Our team will drop off your order at your door and send a text once it has arrived. Please note that if you have ordered wine, we will need to see ID.
+Our team will drop off your order at your door and send a text once it has arrived.
 
 <h2 class="Caption mt2 mb3">Delivery Window</h2>
 
 All orders must be placed by 8PM the day before your delivery.
 
-Canlis servers aim to arrive within a 20 minute window of the time you have chosen. We’ll send you a text as soon as we are en route and again when we arrive at your address.
+Canlis servers aim to arrive within a 20 minute window of the time you have chosen. We’ll send you a text as soon as we are en route.
 
 <h2 class="Caption mt2 mb3">Delivery Zone</h2>
 
