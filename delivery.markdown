@@ -15,7 +15,7 @@ layout: events
 
 <div class="Divider mb4 mt5 op30"></div>
 
-<h2 class="Caption mt2 mb3”>Menu</h2>
+<h2 class="Caption mt2 mb3">Menu</h2>
 
 Changes daily. Please click the order button below for each day's menu.
 
