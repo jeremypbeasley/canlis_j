@@ -54,7 +54,7 @@ Unfortunately we cannot accommodate any food modifications for our Family Meal o
 
 <h2 class="Caption mt2 mb3">Cancellation Policy</h2>
 
-If you need to cancel your order, you must do so within 24 hours of the delivery window. Cancellations under 24 hours will forfeit the full cost of the meal. Please note that all delivered goods are final sale.
+If you need to cancel your order, you must do so 24 hours before your delivery time for a full refund. Cancellations under 24 hours will forfeit the full cost of the meal. Please note that all delivered goods are final sale.
 
 
 
