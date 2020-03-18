@@ -57,11 +57,16 @@ img {
 .LogoWhite {
   background-image: url("_img/canlis_logo_new_white.svg");
 }
+.LogoCenter {
+  top: 30vw;
+  position: relative;
+}
 @media laptop {
   .LogoCenter {
     left: 50%;
     position: relative;
     margin-left: -3.5rem;
+    top: 5vw;
   }
 }
 .GlobalNav {
@@ -288,7 +293,7 @@ img {
 // }
 .PageContent {
   transition: all 300ms ease-out
-  opacity: 1
+  opacity: 1;
 }
 .PageContent.is-exiting {
   opacity: 0;
