@@ -3,7 +3,7 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 135
 disclaimer: A 20% service charge will be added to your final bill and is retained
-  by Canlis. No additional gratuity is expected.
+  by Canlis Restaurant. No additional gratuity is expected.
 course_1:
 - title: Chioggia Beets
   desc: Amazake yogurt and hibiscus
