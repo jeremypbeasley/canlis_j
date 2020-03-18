@@ -1922,11 +1922,16 @@ img {
 .LogoWhite {
   background-image: url("_img/canlis_logo_new_white.svg");
 }
+.LogoCenter {
+  top: 30vw;
+  position: relative;
+}
 @media (min-width: 62em) {
   .LogoCenter {
     left: 50%;
     position: relative;
     margin-left: -3.5rem;
+    top: 5vw;
   }
 }
 .GlobalNav {
@@ -3526,6 +3531,16 @@ img {
 .SafetyList li ::before {
   content: "•";
   color: #ffa500;
+}
+.AlertBar {
+  background: #ffc0cb;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 13px 10px 10px 10px;
+  width: 100%;
+  text-align: center;
+  z-index: 9999999;
 }
 @-moz-keyframes sk8r_starting {
   0% {
