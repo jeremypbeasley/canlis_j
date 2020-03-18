@@ -47,9 +47,11 @@
 </head>
 <body class="{{ page.layout }}">
 
-<div class="AlertBar Caption">
-  We are sold out of bagels as of 9:24AM. <br class="ShowMobile"/>Thank you for your business.
-</div>
+{% if page.is_alert_shown == true %}
+  <div class="AlertBar Caption">
+    {{ page.alert_text}}
+  </div>
+{% endif %}
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJCFT8T"
