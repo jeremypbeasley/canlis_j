@@ -47,13 +47,19 @@
 </head>
 <body class="{{ page.layout }}">
 
+{% if page.is_alert_shown == true %}
+  <div class="AlertBar Caption">
+    {{ page.alert_text}}
+  </div>
+{% endif %}
+
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJCFT8T"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <div id="main" class="">
-<a href="/" class="Logo LogoCenter  mb10 Caption NoLine">Logo</a>
+    <a href="/" class="Logo LogoCenter mb10 Caption NoLine">Logo</a>
 
 <div class="PageContent">
 
