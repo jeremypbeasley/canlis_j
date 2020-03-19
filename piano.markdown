@@ -5,7 +5,7 @@ layout: media
 ---
 
 <div class="EventsButton mt1 mb10">
-        <a class="Caption" href="https://www.youtube.com/embed/live_stream?channel=UCNPJxTmyx96ARvEO3Trh0Ig">
+        <a class="Caption" href="https://www.youtube.com/watch?v=vRNCZUu407M">
           Watch on Youtube
         </a>
       </div>
