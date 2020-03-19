@@ -5,5 +5,6 @@ layout: default
 ---
 
 <script type="text/javascript">
-    window.location.href = "https://www.youtube.com/watch?v=8o-T3G2bTRU";
+    window.location.href = "https://www.youtube.com/embed/live_stream?channel=UCNPJxTmyx96ARvEO3Trh0Ig";
 </script>
+
