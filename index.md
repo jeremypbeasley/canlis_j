@@ -1,7 +1,7 @@
 ---
 title: Times are changing, and so are we. For now.
 is_alert_shown: true
-alert_text: We are closed for the weekend. Service resumes Monday at 8AM.
+alert_text: Serving hot bagels now.
 layout: drivethru
 ---
 
