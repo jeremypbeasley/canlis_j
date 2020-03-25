@@ -31,7 +31,7 @@ Canlis servers aim to arrive within a 20 minute window of the time you have chos
 
 <h2 class="Caption mt2 mb3">Delivery Zone</h2>
 
-For the time being, delivery is only available to any address inside Seattle city limits. If your address falls outside Seattle, we reserve the right to cancel your order.
+For the time being, delivery is only available to any address inside Seattle city limits. If your address falls outside of that zone, you are welcome to pick up your order at the restaurant. Please note that information in the delivery notes. 
 
 <div class="Divider mb8 mt3 op30"></div>
 
