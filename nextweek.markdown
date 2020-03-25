@@ -79,7 +79,7 @@ $48 per person
 
 Dungeness Crab Boil
 
-One whole crab per person, simmered with Olsen Farms new potatoes, housemade Portuguese sausage and spring onions.Served with Canlis Salad, Drawn butter, Spicy aioli, our sourdough bread, and Hazelnut black-sesame crumble with whipped mascarpone and preserved berries
+One whole crab per person, simmered with Olsen Farms new potatoes, housemade Portuguese sausage and spring onions. Served with Canlis Salad, Drawn butter, Spicy aioli, our sourdough bread, and Hazelnut black-sesame crumble with whipped mascarpone and preserved berries
 
 (Includes one crab cracker per two people.)
 
