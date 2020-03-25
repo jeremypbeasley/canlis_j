@@ -1,0 +1,44 @@
+{% include head.html %}
+
+<div class="EventsIntro">
+  <div class="row">
+    <div class="column col-xs-12 col-sm-6">
+      <img src="{{ page.image }}" class="EventsThumb"/>
+    </div>
+    <div class="column col-xs-12 col-sm-6">
+      <h1 class="Display1 EventsTitle mb1 mt4 d-mt0">{{ page.title }}</h1>
+      <p class="Caption d-mb0">
+        {{ page.event_date | date: '%B %d, %Y' }}
+        <br>
+        {{ page.event_time }}
+      </p>
+      <div class="mb2 contents">
+        {{ content }}
+      </div>
+      <div class="mb2 contents">
+        <h2 class="Display2 mb4 mt4">The Short List</h2>
+        <p class="">Download the full wine list <a target="_blank" href="https://canlis.com/uploads/winelist.pdf">here</a>.</p>
+        <ul>
+          {% for wine in page.wines %}
+            <li>
+              <p class="Caption mb2 mt6">{{ wine.wine-category }}</p>
+              {% if wine.wines %}
+              <ul>
+                {% for nestedproduct in wine.wines %}
+                  <li class="mb4">
+                      <div class="p0 mt0 mb0">{{ nestedproduct.title }}</div>
+                      <div class="p0 mt0 mb0 italic">{{ nestedproduct.desc }}</div>
+                      <div class="p0 mt0 mb0">{{ nestedproduct.price }}</div>
+                  </li>
+                {% endfor %}
+              </ul>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% include footer.html %}
