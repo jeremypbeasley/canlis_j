@@ -13,6 +13,8 @@ layout: events
 
 <h2 class="Display2 mb4">Home-cooked dinner and a bottle of wine on your doorstep.</h2>
 
+Next week opens, Wednesday 3/25 at 1PM.
+
 <div class="Divider mb4 mt5 op30"></div>
 
 <h2 class="Caption mt2 mb3">Menu</h2>
@@ -31,7 +33,7 @@ Canlis servers aim to arrive within a 20 minute window of the time you have chos
 
 <h2 class="Caption mt2 mb3">Delivery Zone</h2>
 
-For the time being, delivery is only available to any address inside Seattle city limits. If your address falls outside of that zone, you are welcome to pick up your order at the restaurant. Please note that information in the delivery notes. 
+For the time being, delivery is only available to any address inside Seattle city limits. If your address falls outside of that zone, you are welcome to pick up your order at the restaurant. Please note that information in the delivery notes.
 
 <div class="Divider mb8 mt3 op30"></div>
 

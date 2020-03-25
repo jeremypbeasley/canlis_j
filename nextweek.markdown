@@ -13,6 +13,10 @@ layout: events
 
 <!-- <h2 class="Display2 mb4">Home-cooked dinner and a bottle of wine on your doorstep.</h2> -->
 
+Next week opens, Wednesday 3/25 at 1PM.
+
+More info on delivery <a href="/delivery">here</a>.
+
 <h2 class="Caption mt2 mb3">Monday, March 30</h2>
 
 Vegetarian Pot Pie
