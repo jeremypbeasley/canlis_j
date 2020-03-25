@@ -13,8 +13,6 @@ layout: events
 
 <h2 class="Display2 mb4">Home-cooked dinner and a bottle of wine on your doorstep.</h2>
 
-Next week opens, Wednesday 3/25 at 1PM.
-
 <div class="Divider mb4 mt5 op30"></div>
 
 <h2 class="Caption mt2 mb3">Menu</h2>
