@@ -9,15 +9,31 @@
   <!-- Facebook Open Graph Tags -->
   <meta property="og:URL" content="http://canlis.com" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Times are changing, and so are we. For now. " />
-  <meta property="og:description" content="We’re shutting down our dining room and bringing the food out to you." />
-  <meta property="og:image" content="http://canlis.com/uploads/nelson_share.jpg" />
+  <meta property="og:title" content="Canlis — {{ page.title }}" />
+  {% if page.og_desc %}
+    <meta property="og:description" content="{{ page.og_desc }}" />
+    {% else %}
+    <meta property="og:description" content="{{ site.description }}" />
+  {% endif %}
+  {% if page.og_photo %}
+    <meta property="og:image" content="{{ site.url }}{{ page.og_photo }}" />
+    {% else %}
+    <meta property="og:image" content="{{ site.url }}{{ site.og_photo}}" />
+  {% endif %}
   <!-- Twitter Sharing Tags -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@canlis">
-  <meta name="twitter:title" content="Times are changing, and so are we. For now. ">
-  <meta name="twitter:description" content="We’re shutting down our dining room and bringing the food out to you.">
-  <meta name="twitter:image" content="http://canlis.com/uploads/nelson_share.jpg">
+  <meta name="twitter:title" content="Canlis — {{ page.title }}">
+  {% if page.og_desc %}
+    <meta name="twitter:description" content="{{ page.og_desc }}"/>
+    {% else %}
+    <meta name="twitter:description" content="{{ site.description }}" />
+  {% endif %}
+  {% if page.og_photo %}
+    <meta name="twitter:image" content="{{ site.url }}{{ page.og_photo }}" />
+    {% else %}
+    <meta name="twitter:image" content="{{ site.url }}{{ site.og_photo}}" />
+  {% endif %}
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
