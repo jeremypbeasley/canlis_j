@@ -33,7 +33,7 @@ Canlis servers aim to arrive within a 20 minute window of the time you have chos
 
 <h2 class="Caption mt2 mb3">Delivery Zone</h2>
 
-For the time being, delivery is only available to any address inside Seattle city limits. If your address falls outside of that zone, you are welcome to pick up your order at the restaurant. Please note that information in the delivery notes.
+For the time being, delivery is only available to any address inside Seattle city limits. Unfortunately, we cannot deliver to West Seattle, due to the bridge closure. If your address falls outside of this zone, you are welcome to pick up your order at the restaurant. Please note that information in the delivery notes.
 
 <div class="Divider mb8 mt3 op30"></div>
 
@@ -56,8 +56,9 @@ Unfortunately we cannot accommodate any food modifications for our Family Meal o
 
 <h2 class="Caption mt2 mb3">Cancellation Policy</h2>
 
-If you need to cancel your order, you must do so 24 hours before your delivery time for a full refund. Cancellations under 24 hours will forfeit the full cost of the meal. Please note that all delivered goods are final sale.
+If you need to cancel your order, you must do so 48 hours before your delivery time for a full refund. Cancellations under 48 hours will forfeit the full cost of the meal. Please note that all delivered goods are final sale.
 
+<h2 class="Caption mt2 mb3">Questions?</h2>
 
-
+Email <a href="mailto:amy@canlis.com">amy@canlis.com</a>.
 
