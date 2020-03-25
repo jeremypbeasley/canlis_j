@@ -29,7 +29,7 @@ Our team will drop off your order at your door and send a text once it has arriv
 
 All orders must be placed by 8PM the day before your delivery.
 
-Canlis servers aim to arrive within a 20 minute window of the time you have chosen. We’ll send you a text as soon as we are en route.
+Canlis servers aim to arrive within a 1 hour window of the time you have chosen. We’ll send you a text as soon as we are en route.
 
 <h2 class="Caption mt2 mb3">Delivery Zone</h2>
 
