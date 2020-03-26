@@ -31,7 +31,7 @@ Canlis servers aim to arrive within a 1 hour window of the time you have chosen.
 
 <h2 class="Caption mt2 mb3">Delivery Zone</h2>
 
-For the time being, delivery is only available to any address inside Seattle city limits. Unfortunately, we cannot deliver to West Seattle, due to the bridge closure. If your address falls outside of this zone, you are welcome to pick up your order at the restaurant. Please note that information in the delivery notes.
+Available to any address inside Seattle city limits, Mercer Island, Bellevue (West of 405). Unfortunately, we cannot deliver to West Seattle, due to the bridge closure. If your address falls outside of this zone, you are welcome to pick up your order at the restaurant. Please note that information in the delivery notes.
 
 <div class="Divider mb8 mt3 op30"></div>
 
