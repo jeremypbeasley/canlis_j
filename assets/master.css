@@ -1695,7 +1695,8 @@ p {
     margin: -0.5em 0 1em 0;
   }
 }
-i {
+i,
+.italic {
   font-family: "GTSectraBookItalic", Arial, sans-serif;
   font-style: normal;
 }
