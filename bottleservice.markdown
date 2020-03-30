@@ -2,8 +2,7 @@
 title: Canlis Bottle Service
 date: 2020-03-13 16:19:00 -07:00
 image: "/uploads/canlis_concept_bottleservice.jpg"
-og_desc: Lockdown got you down? We're opening up our cellar for bottle pick up at
-  the restaurant or as an add-on to Family Meal delivery.
+og_desc: We're opening up our cellar for pick up at the restaurant or as an add-on to Family Meal delivery.
 og_photo: "/uploads/canlis_concept_bottleservice.jpg"
 wines:
 - wine-category: Sparkling
@@ -136,7 +135,7 @@ wines:
 layout: bottleservice
 ---
 
-<h2 class="Display2 mb4">Lockdown getting to you? We're opening our cellar for pick up at the restaurant or as an add-on to Family Meal delivery.</h2>
+<h2 class="Display2 mb4">We're opening up our cellar for pick up at the restaurant or as an add-on to Family Meal delivery.</h2>
 
 <p class="mb1 Caption">TEXT A SOMM @ <a href="tel:2062227253">(206) 222-7253</a></p>
 
