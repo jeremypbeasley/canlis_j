@@ -5,7 +5,7 @@ layout: media
 ---
 
 <div class="EventsButton mt1 mb10">
-        <a class="Caption" href="https://youtu.be/03y1Plby1_g">
+        <a class="Caption" href="https://youtu.be/9RDRmMyuVq0">
           Watch on Youtube
         </a>
       </div>
