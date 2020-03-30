@@ -30,7 +30,7 @@ layout: cocktails
 
 <!-- <h2 class="Display2 mb4">We're opening up our cellar for pick up at the restaurant or as an add-on to Family Meal delivery.</h2> -->
 
-<p class="mb1 Caption">TEXT A SOMM @ <a href="sms:+12062227253&body=Hi%2520there.">(206) 222-7253</a></p>
+<p class="mb1 Caption">TEXT A SOMM @ <a href="sms:+12062227253">(206) 222-7253</a></p>
 
 <div class="Divider mt2 op30 mb3"></div>
 
