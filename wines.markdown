@@ -1,5 +1,5 @@
 ---
-title: Canlis Bottle Service
+title: "Canlis Bottle Service: <br>Wine List"
 date: 2020-03-13 16:19:00 -07:00
 image: "/uploads/canlis_concept_bottleservice.jpg"
 og_desc: We're opening up our cellar for pick up at the restaurant or as an add-on to Family Meal delivery.
@@ -132,12 +132,12 @@ wines:
   - title: Bedrock Old Vine Zinfandel, Sonoma Valley, CA
     desc: Brambly black fruits with peppery spice and vanilla.
     price: "$28"
-layout: bottleservice
+layout: wines
 ---
 
-<h2 class="Display2 mb4">We're opening up our cellar for pick up at the restaurant or as an add-on to Family Meal delivery.</h2>
+<!-- <h2 class="Display2 mb4">We're opening up our cellar for pick up at the restaurant or as an add-on to Family Meal delivery.</h2> -->
 
-<p class="mb1 Caption">TEXT A SOMM @ <a href="tel:2062227253">(206) 222-7253</a></p>
+<p class="mb1 Caption">TEXT A SOMM @ <a href="sms:+12062227253&body=Hi%2520there.">(206) 222-7253</a></p>
 
 <div class="Divider mt2 op30"></div>
 
