@@ -1,8 +1,9 @@
 ---
-title: "Canlis Bottle Service: <br>Wine List"
+title: "Bottle Service: <br>Wine List"
 date: 2020-03-13 16:19:00 -07:00
 image: "/uploads/canlis_concept_bottleservice.jpg"
-og_desc: We're opening up our cellar for pick up at the restaurant or as an add-on to Family Meal delivery.
+og_desc: We're opening up our cellar for pick up at the restaurant or as an add-on
+  to Family Meal delivery.
 og_photo: "/uploads/canlis_concept_bottleservice.jpg"
 wines:
 - wine-category: Sparkling
