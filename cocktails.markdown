@@ -28,11 +28,9 @@ wines:
 layout: cocktails
 ---
 
-<!-- <h2 class="Display2 mb4">We're opening up our cellar for pick up at the restaurant or as an add-on to Family Meal delivery.</h2> -->
+All cocktail kits make 12 drinks.
 
 <p class="mb1 Caption">TEXT A SOMM @ <a href="sms:+12062227253">(206) 222-7253</a></p>
-
-All cocktail kits make 12 drinks.
 
 <div class="Divider mt2 op30 mb3"></div>
 
