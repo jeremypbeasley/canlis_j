@@ -33,7 +33,7 @@ wines:
       with a flinty finish.
     price: "$31"
   - title: Fabien Duveau Saumur Blanc, Loire Valley, FRA
-    desc: Dry and mineraldriven with bruised apple and honeysuckle.
+    desc: Dry and mineral driven with bruised apple and honeysuckle.
     price: "$33"
   - title: Peter Lauer Barrel X, Riesling, Mosel, DEU
     desc: Just offdry. pure, and fresh with candied lime, nectarine, flint, and slate.
@@ -82,10 +82,10 @@ wines:
     desc: Blackberry, black cherry, cocoa powder, cola, and vanilla oak tones.
     price: "$33"
   - title: Lopez de Heredia, Viña Bosconia, Rioja, ESP
-    desc: Oldschool and traditional Tempranillo blend with dried red fruit, eathy
+    desc: Oldschool and traditional Tempranillo blend with dried red fruit, earthy
       and dusty notes
     price: "$42"
-  - title: Soter, Pinot Noir, North Valley Reserve,Willamette, OR
+  - title: Soter, Pinot Noir, North Valley Reserve, Willamette, OR
     desc: Juicy cherry and cola nut on the nose lead into a black tea leaf finish.
     price: "$45"
   - title: Domaine Drouhin, Pinot Noir, Willamette Valley, OR
@@ -104,7 +104,7 @@ wines:
     desc: Rustic, black and red fruits, white pepper
     price: "$53"
   - title: Domaine Ruet, Chiroubles, Beaujolais, FRA
-    desc: Tart, fresh cherries and pomegranite with a juicy, lively texture.
+    desc: Tart, fresh cherries and pomegranate with a juicy, lively texture.
     price: "$33"
   - title: Owen Roe, Rosa Mystica, Cabernet Franc, Yakima, WA
     desc: Black and red berries, slightly herbaceous with earthy notes.
@@ -113,13 +113,13 @@ wines:
     desc: Rich and structured Bordeaux blend from a Washington icon.
     price: "$69"
   - title: Cavallotto, Bricco Boschis, Barolo, Piedmont, ITA
-    desc: Dried cherries, potpourri, black tea, and trufffle.
+    desc: Dried cherries, potpourri, black tea, and truffle.
     price: "$108"
   - title: áMaurice Malbec, Gamache Vineyard, Walla Walla, WA
     desc: Deep, brooding black and blue fruit, baking spices and violets.
     price: "$44"
   - title: WT Vintners, Boushey Red Blend, Yakima Valley, WA
-    desc: Deep plum flavors with roasted meat aromas and peppered salame.
+    desc: Deep plum flavors with roasted meat aromas and peppered salami.
     price: "$42"
   - title: Gramercy Lower East, Cabernet Sauvignon, WA
     desc: Rich and full with ripe black fruits and spices.
@@ -138,9 +138,28 @@ layout: wines
 
 <!-- <h2 class="Display2 mb4">We're opening up our cellar for pick up at the restaurant or as an add-on to Family Meal delivery.</h2> -->
 
-<p class="mb1 Caption">TEXT A SOMM @ <a href="sms:+12062227253">(206) 222-7253</a></p>
+Our sommeliers are standing by, ready to help you find the perfect wine pairing. Available for delivery or pick up.
 
-<div class="Divider mt2 op30"></div>
+<p class="mb1 Caption ShowDesktop">TEXT A SOMM @ (206) 222-7253</p>
+
+<div class="mt2">
+  <div class="EventsButton mb10 ShowMobile">
+    <a class="Caption" href="sms:+12062227253">
+      TEXT A SOMM @ (206) 222-7253
+    </a>
+  </div>
+</div>
+<!-- <p class="mb1 Caption ShowMobile">TEXT A SOMM @ <a href="sms:+12062227253">(206) 222-7253</a></p> -->
+
+<div class="Divider mt6 op30"></div>
+<h2 class="Display2 mb0 mt4 d-mt6">The Full List</h2>
+<p class="mt2">Many wines offered at retail price. Download our full wine list <a target="_blank" href="https://canlis.com/uploads/winelist.pdf">here</a>.</p>
+
+<div class="Divider mt2 op30 d-mt3"></div>
+
+<h2 class="Display2 mb3 mt4 d-mt5">The Short List </h2>
+<p class="mb1">Our Director of Wine & Spirits, Nelson Daquip, has shared his go-to bottles right here all in one place. </p>
+
 
 
 
