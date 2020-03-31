@@ -32,6 +32,8 @@ layout: cocktails
 
 <p class="mb1 Caption">TEXT A SOMM @ <a href="sms:+12062227253">(206) 222-7253</a></p>
 
+All cocktail kits make 12 drinks.
+
 <div class="Divider mt2 op30 mb3"></div>
 
 
