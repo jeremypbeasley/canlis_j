@@ -25,6 +25,17 @@ wines:
     desc: Includes full bottles of Plantation Dark Rum, Pierre Ferrand Curacao. Also
       comes with orgeat, mint, fresh lemon and lime juice, and orchid flower garnish.
     price: "$132 ($11 per drink)"
+  - title: Long Island Iced Tea
+    desc: 'Think of this as an incredible way to stock your bar. Includes full bottles
+      of Monopolowa Vodka, Campo Bravo Plata Tequila, Sipsmith Gin, Plantation Rum,
+      and Pierre Ferrand Curacao. All comes with fresh lemon juice, simple syrup,
+      lemon wedges, and two bottles of Mexican Coke. '
+    price: "$204 ($17 per drink)"
+  - title: Margarita
+    desc: Includes full bottles of Campo Bravo Plata Tequila and Pierre Ferrand Curacao.
+      Also comes with fresh lime juice, simple syrup, Jacobsen sea salt, and lime
+      garnish.
+    price: "$132 ($11 per drink)"
 layout: cocktails
 ---
 
