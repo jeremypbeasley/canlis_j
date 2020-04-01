@@ -38,21 +38,21 @@ All cocktail kits make at least 12 drinks. Expect to have leftovers.
   </div>
 </div> -->
 
-<p class="mb4 d-mb3 mt3 Caption">Delivery begins tomorrow</p>
+<p class="mb0 mt3 Caption">Delivery</p>
+<p class="mb2 d-mb3">Sales go live for the following week, every Wednesday at 1PM.</p>
 
+<p class="mb2 d-mb0 mt2 Caption">Pick up</p>
+<p class="mb4 ShowDesktop">Text us @ (206) 222-7253</p>
 
-<p class="mb1">Want to pick up at the restaurant?</p>
-<p class="mb4 Caption ShowDesktop">TEXT US @ (206) 222-7253</p>
-
-<div class="mt2 mb8">
-  <div class="EventsButton mb10 ShowMobile">
+<div class="mt2 mb4 ShowMobile">
+  <div class="EventsButton mb8">
     <a class="Caption" href="sms:+12062227253">
       TEXT US @ (206) 222-7253
     </a>
   </div>
 </div>
 
-<div class="Divider mt2 d-mt5 op30 mb3"></div>
+<div class="Divider mt4 d-mt5 op30 mb3"></div>
 
 
 
