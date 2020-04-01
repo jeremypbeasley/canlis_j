@@ -21,17 +21,17 @@ Changes daily. Please click the order button below for each day's menu.
 
 <h2 class="Caption mt2 mb3">No Contact Delivery</h2>
 
-Our team will drop off your order at your door and send a text once it has arrived.
+Our team will drop off your order at your door and send a text once it has arrived. Please note that we do need to see ID if you have purchased alcohol.
 
 <h2 class="Caption mt2 mb3">Delivery Window</h2>
 
 All orders must be placed by 8PM the day before your delivery.
 
-Canlis servers aim to arrive within a 1 hour window of the time you have chosen. We’ll send you a text as soon as we are en route.
+Canlis servers aim to arrive within a 1 hour window of the time you have chosen. If you select 4pm, we will deliver your dinner between 4pm and 5pm. If you select 5pm, we will deliver between 5pm and 6pm. If you select 6pm, we will deliver between 6pm and 7pm. If you select 7pm, we will deliver between 7pm and 8pm. We’ll send you a text as soon as we are en route.
 
 <h2 class="Caption mt2 mb3">Delivery Zone</h2>
 
-Available to any address inside Seattle city limits. Unfortunately, we cannot deliver to West Seattle, due to the bridge closure. If your address falls outside of this zone, you are welcome to pick up your order at the restaurant. Please note that information in the delivery notes.
+Available to any address inside Seattle city limits. Unfortunately, we cannot deliver to West Seattle, due to the bridge closure. If your address falls outside of this zone, you are welcome to pick up your order at the restaurant. Please note that information in the delivery notes. 
 
 <div class="Divider mb8 mt3 op30"></div>
 
@@ -50,11 +50,11 @@ wine@canlis.com</a>. Our sommeliers will be in touch with you shortly. Download 
 
 <h2 class="Caption mt3 mb3">Modifications</h2>
 
-Unfortunately we cannot accommodate any food modifications for our Family Meal orders.
+Unfortunately we cannot accommodate any food modifications for our Family Meal orders. This also includes splitting orders. 
 
 <h2 class="Caption mt2 mb3">Cancellation Policy</h2>
 
-If you need to cancel your order, you must do so 48 hours before your delivery time for a full refund. Cancellations under 48 hours will forfeit the full cost of the meal. Please note that all delivered goods are final sale.
+If you need to cancel your order, you must do so 48 hours before your delivery time for a full refund. Cancellations under 48 hours will forfeit the full cost of the meal. Orders placed outside of city limits are still subject to the cancellation policy. Please note that all delivered goods are final sale.
 
 <h2 class="Caption mt2 mb3">Questions?</h2>
 
