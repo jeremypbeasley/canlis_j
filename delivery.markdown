@@ -45,7 +45,7 @@ Available to any address inside Seattle city limits. Unfortunately, we cannot de
 
 <h2 class="Caption mt2 mb3">Wine</h2>
 
-Our sommeliers have paired several bottles with each meal. If you prefer to order directly from the Canlis wine cellar, email your name and phone number to <a href="mailto:wine@canlis.com?subject=Wine%20Delivery&body=Name:%20%3A%0D%0APhone Number:%20%3A">
+Our sommeliers have paired several bottles for purchase with each meal. If you prefer to order directly from the Canlis wine cellar, email your name and phone number to <a href="mailto:wine@canlis.com?subject=Wine%20Delivery&body=Name:%20%3A%0D%0APhone Number:%20%3A">
 wine@canlis.com</a>. Our sommeliers will be in touch with you shortly. Download our wine list <a target="_blank" href="/uploads/winelist.pdf">here</a>.
 
 <h2 class="Caption mt3 mb3">Modifications</h2>
