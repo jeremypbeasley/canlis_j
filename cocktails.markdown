@@ -30,15 +30,15 @@ layout: cocktails
 
 All cocktail kits make at least 12 drinks. Expect to have leftovers.
 
-<div class="mt3">
+<!-- <div class="mt3">
   <div class="EventsButton mb7">
     <a class="Caption" target="_blank" href="http://exploretock.com/canlis">
       Order Delivery
     </a>
   </div>
-</div>
+</div> -->
 
-<!-- <p class="mb4 d-mb3 mt3 Caption">Delivery begins tomorrow</p> -->
+<p class="mb4 d-mb3 mt3 Caption">Delivery begins tomorrow</p>
 
 
 <p class="mb1">Want to pick up at the restaurant?</p>
