@@ -19,7 +19,7 @@ wines:
   - title: Almost Perfect (Our Signature Cocktail)
     desc: Includes full bottles of Stiggin's Fancy Rum, Cochi Americano, Amaro, and
       Maraschino. Also comes with grenadine, bitters, lemon peel, fresh flower garnish,
-      and 12 large ice squares.
+      and 12 large ice squares. Pictured above.
     price: "$192 ($16 per drink)"
   - title: Mai Tai
     desc: Includes full bottles of Plantation Dark Rum, Pierre Ferrand Curacao. Also
