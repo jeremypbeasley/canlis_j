@@ -8,6 +8,11 @@ og_photo: "/uploads/canlis_concept_bottleservice.jpg"
 wines:
 - wine-category: Kits
   wines:
+  - title: Almost Perfect
+    desc: Our signature cocktail, pictured above. Includes full bottles of Stiggin's
+      Fancy Rum, Cochi Americano, Amaro, and Maraschino. Also comes with grenadine,
+      bitters, lemon peel, fresh flower garnish, and 12 large ice squares.
+    price: "$192 ($16 per drink)"
   - title: Negroni
     desc: Includes full bottles of Sipsmith gin, Carpano Antica and Campari with 12
       large ice squares, and orange peel garnish.
@@ -16,11 +21,6 @@ wines:
     desc: 'Includes full bottles of Knob Creek Bourbon and Carpano Antica, James''
       house-made spiced cherries, bitters, and two copper garnish picks. '
     price: "$132 ($11 per drink)"
-  - title: Almost Perfect (Our Signature Cocktail)
-    desc: Includes full bottles of Stiggin's Fancy Rum, Cochi Americano, Amaro, and
-      Maraschino. Also comes with grenadine, bitters, lemon peel, fresh flower garnish,
-      and 12 large ice squares. Pictured above.
-    price: "$192 ($16 per drink)"
   - title: Mai Tai
     desc: Includes full bottles of Plantation Dark Rum, Pierre Ferrand Curacao. Also
       comes with orgeat, mint, fresh lemon and lime juice, and orchid flower garnish.
