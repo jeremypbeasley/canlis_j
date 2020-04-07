@@ -17,7 +17,7 @@ layout: events
 
 <h2 class="Caption mt2 mb3">Menu</h2>
 
-Changes daily. Please click the order button below for each day's menu.
+Changes daily. See the menu <a href="/nextweek">here</a>.
 
 <h2 class="Caption mt2 mb3">No Contact Delivery</h2>
 
