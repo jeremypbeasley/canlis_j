@@ -13,7 +13,7 @@ layout: events
 
 <h2 class="Caption mt2 mb3">For the week of Monday, April 13th.</h2>
 
-<div class="EventsButton mb8 mt10">
+<div class="EventsButton mb8 mt6">
   <a class="Caption" href="https://exploretock.com/canlis">
     Order on Tock
   </a>
