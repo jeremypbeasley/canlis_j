@@ -9,7 +9,7 @@ layout: events
 ---
 
 <div class="EventsButton mt1 mb10">
-  <a class="Caption" href="https://youtu.be/a9JTRyvFl0I">
+  <a class="Caption" href="https://youtu.be/lIUFCd75PVI">
     Watch on Youtube
   </a>
 </div>
