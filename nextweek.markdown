@@ -1,5 +1,5 @@
 ---
-title: Next Week's Menu
+title: Family Meal Menu
 date: 2020-03-13 16:19:00 -07:00
 image: "/uploads/canlis_concept_03.jpg"
 rsvp_button:
@@ -11,81 +11,34 @@ og_photo: "/uploads/familymeal_share.jpg"
 layout: events
 ---
 
-<!-- <h2 class="Display2 mb4">Home-cooked dinner and a bottle of wine on your doorstep.</h2> -->
+<h2 class="Caption mt2 mb3">For the week of Monday April 13th.</h2>
 
-Next week opens, Wednesday 3/25 at 1PM.
-
-More info on delivery <a href="/delivery">here</a>.
-
-<h2 class="Caption mt2 mb3">Monday, March 30</h2>
-
-Vegetarian Pot Pie
-
-Packed with vegetables from our favorite farms, Salt-baked Beets, Canlis Salad (bacon on the side)
-
-Sourdough focaccia
-
-Spiced carrot cake with whipped cream cheese frosting.
-
-$42 per person
-
-<div class="Divider mb8 mt3 op30"></div>
-
-<h2 class="Caption mt2 mb3">Tuesday, March 31</h2>
-
-Dry-aged meatballs in roasted tomato sauce baked under a layer of melted fresh mozzarella and parmesan
-
-Roasted brassicas with bagna cauda, Canlis Salad
-
-Our sourdough bread
-
-Homemade tiramisu
-
-$46 per person
-
-<div class="Divider mb8 mt3 op30"></div>
-
-<h2 class="Caption mt2 mb3">Wednesday, April 1</h2>
-
-Dry-aged Duck Cassoulet
-
-Sea Breeze Farm dry-aged duck confit + Olsen Farms pork sausage and cannellini beans
-
-Maple-glazed carrots
-
-Canlis Salad
-
-Sourdough Bread
-
-Chocolate mille-feuille
-
-$54 per person
-
-<div class="Divider mb8 mt3 op30"></div>
-
-<h2 class="Caption mt2 mb3">Thursday, April 2</h2>
-
-Pork Posole Verde
-
-Roasted Olsen Farms pork and hominy posole, Crema, Cilantro, Tortilla strips
-
-Canlis Salad
-
-Radish, carrot and cabbage "Escabeche"
-
-Creme caramel
-
+Monday April 13
+Kale and Cannellini Bean Stew (Vegetarian)
+Finished with Fiore Sardo Cheese and Pianogrillo Olive Oil  // Canlis sautéed Forest Mushroom // Canlis Salad (bacon on the side) // Herb and Asiago Parker House Rolls // Citrus Posset
 $48 per person
+Allergies: Legumes, Alliums, Dairy, Gluten, Alcohol, Pork (Bacon on Salad)
 
-<div class="Divider mb8 mt3 op30"></div>
+Tuesday April 14
+Chicken Coq Au Vin
+Chicken thighs and root vegetables from our favorite farms, all braised in red Burgundy wine // “Robuchon” Mashed Potatoes // Canlis Salad // Herb and Asiago Parker House Rolls // Hazelnut Tart with Chocolate Chantilly Cream
+$54 per person
+(Allergies: Chicken, Alliums, Dairy, Gluten, Pork, Alcohol, Nightshades)
 
-<h2 class="Caption mt2 mb3">Friday, April 3</h2>
+Wednesday April 15
+Lasagna Bolognese
+With home-made pasta, dry-aged beef and roasted tomato sauce // Sautéed Sprouting Brassicas in Grenache Vinegar // Canlis Salad // Herb and Asiago Parker House Rolls // Strawberry Trifle
+$56 per person
+(Allergies: Beef, Alliums, Dairy, Gluten, Alcohol, Nightshades, Pork)
 
-Dungeness Crab Boil
+Thursday April 16
+Braised Pork Shoulder Ragu
+Creamy Polenta // Valley Farms Maple-Glazed Carrots // Canlis Salad // Herb and Asiago Parker House Rolls // Angel Food Cake with Whipped Cream and Berries
+$58 per person
+(Allergies: Pork, Alliums, Dairy, Gluten, Alcohol, Nightshades, Pork)
 
-One whole crab per person, simmered with Olsen Farms new potatoes, housemade Portuguese sausage and spring onions. Served with Canlis Salad, Drawn butter, Spicy aioli, our sourdough bread, and Hazelnut black-sesame crumble with whipped mascarpone and preserved berries
-
-(Includes one crab cracker per two people.)
-
-$95 per person
-
+Friday April 17
+Canlis Charcoal Broiler Lobster Newburg
+1 whole (approx 1.5lb) Lobster per person in a sauce of shellfish, butter, cream, cognac, and sherry // Grilled Asparagus // Twice Baked Potato // Canlis 1950 "Picket" Salad // Herb and Asiago Parker House Rolls // Chocolate Pot de Crème
+$96 per person
+(Allergies: Beef, Shellfish, Pork, Alliums, Dairy, Gluten, Alcohol, Nightshades)
