@@ -1,5 +1,5 @@
 ---
-title: Family Meal Menu
+title: Next Week's Menu
 date: 2020-03-13 16:19:00 -07:00
 image: "/uploads/canlis_concept_familymeal.jpg"
 rsvp_button:
