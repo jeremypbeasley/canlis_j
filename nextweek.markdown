@@ -11,7 +11,7 @@ og_photo: "/uploads/canlis_concept_familymeal.jpg"
 layout: events
 ---
 
-<h2 class="Caption mt2 mb3">For the week of Monday April 13th.</h2>
+<h2 class="Caption mt2 mb3">For the week of Monday, April 13th.</h2>
 
 Order on Tock <a href="http://exploretock.com/canlis">here.</a>
 
