@@ -43,7 +43,7 @@ wines:
 layout: cocktails
 ---
 
-All cocktail kits make at least 12 drinks. Expect to have leftovers.
+Cocktail kits make from 12 - 24 drinks each! Even still, expect to have leftover ingredients.
 
 <p class="mb0 mt3 Caption">Delivery</p>
 <div class="mt3">
