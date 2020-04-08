@@ -25,7 +25,7 @@ Monday, April 13th
 
 Kale and Cannellini Bean Stew (Vegetarian)
 
-Finished with Fiore Sardo Cheese and Pianogrillo Olive Oil  // Canlis sautéed Forest Mushroom // Canlis Salad (bacon on the side) // Herb and Asiago Parker House Rolls // Citrus Posset
+Finished with Fiore Sardo Cheese and Pianogrillo Olive Oil  // Canlis sautéed Forest Mushroom // Canlis Salad (bacon on the side) // Herb and Asiago Parker House Rolls // Citrus Posset with Shortbread Cookie
 
 $48 per person
 
@@ -73,7 +73,7 @@ Friday, April 17th
 
 Canlis Charcoal Broiler Lobster Newburg
 
-1 whole (approx 1.5lb) Lobster per person in a sauce of shellfish, butter, cream, cognac, and sherry // Grilled Asparagus // Twice Baked Potato // Canlis 1950 "Picket" Salad // Herb and Asiago Parker House Rolls // Chocolate Pot de Crème
+1 whole (approx 1.5lb) Lobster per person in a sauce of shellfish, butter, cream, cognac, and sherry // Grilled Asparagus // Twice Baked Potato // Canlis 1950 "Picket" Salad // Herb and Asiago Parker House Rolls // Molten Lava Cake
 
 $96 per person
 
