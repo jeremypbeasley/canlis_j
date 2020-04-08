@@ -8,34 +8,38 @@ og_photo: "/uploads/00E00A73-B9F7-4B93-9513-9CE5DCA03E30.jpeg"
 wines:
 - wine-category: Kits
   wines:
-  - title: Almost Perfect
-    desc: Our signature cocktail, pictured above. Includes full bottles of Stiggin's
-      Fancy Rum, Cochi Americano, Amaro, and Maraschino. Also comes with grenadine,
-      bitters, lemon peel, fresh flower garnish, and 12 large ice squares.
-    price: "$192 ($16 per drink)"
-  - title: Negroni
-    desc: Includes full bottles of Sipsmith gin, Carpano Antica and Campari with 12
+  - title: Almost Perfect (makes 16 cocktails)
+    desc: Our signature cocktail, pictured above. Includes 750ml bottles of Stiggin's
+      Fancy Rum, Cochi Americano, Meletti Amaro, and 375ml of Luxardo Maraschino.
+      Also comes with grenadine, bitters, lemon peel, fresh flower garnish, and 16
+      large ice squares.
+    price: "$208 ($13 per drink)"
+  - title: Negroni (makes 16 cocktails)
+    desc: Includes full bottles of Sipsmith gin, Carpano Antica and Campari with 16
       large ice squares, and orange peel garnish.
-    price: "$132 ($11 per drink)"
-  - title: Manhattan
-    desc: 'Includes full bottles of Knob Creek Bourbon and Carpano Antica, James''
-      house-made spiced cherries, bitters, and two copper garnish picks. '
-    price: "$132 ($11 per drink)"
-  - title: Mai Tai
-    desc: Includes full bottles of Plantation Dark Rum, Pierre Ferrand Curacao. Also
-      comes with orgeat, mint, fresh lemon and lime juice, and orchid flower garnish.
-    price: "$132 ($11 per drink)"
-  - title: Long Island Iced Tea
-    desc: 'Think of this as an incredible way to stock your bar. Includes full bottles
-      of Monopolowa Vodka, Campo Bravo Plata Tequila, Sipsmith Gin, Plantation Rum,
-      and Pierre Ferrand Curacao. All comes with fresh lemon juice, simple syrup,
-      lemon wedges, and two bottles of Mexican Coke. '
-    price: "$204 ($17 per drink)"
-  - title: Margarita
-    desc: Includes full bottles of Campo Bravo Plata Tequila and Pierre Ferrand Curacao.
-      Also comes with fresh lime juice, simple syrup, Jacobsen sea salt, and lime
+    price: "$176 ($11 per drink)"
+  - title: Manhattan (makes 12 cocktails)
+    desc: Includes 750ml bottle of Knob Creek Bourbon and 375ml of Carpano Antica,
+      James' house-made spiced cherries, orange bitters, and two copper garnish picks.
+    price: "$120 ($10 per drink)"
+  - title: Mai Tai (makes 16 cocktails)
+    desc: Includes 750ml bottles of Plantation Dark Rum and Pierre Ferrand Curacao.
+      Also comes with orgeat, mint, fresh lemon and lime juice, and orchid flower
       garnish.
-    price: "$132 ($11 per drink)"
+    price: "$144 ($12 per drink)"
+  - title: Long Island Iced Tea (makes 24 cocktails) (seriously...space these out
+      people)
+    desc: 'Think of this as an incredible way to stock your bar. Includes 1 liter
+      bottle of Monopolowa Vodka, 1 liter bottle of Campo Bravo Plata Tequila, 1 liter
+      bottle of Plantation 3 Star Rum, 750ml bottles each of Sipsmith Gin and Pierre
+      Ferrand Curacao. Also included: fresh lemon juice, simple syrup, lemon wedges,
+      and two bottles of Mexican Coke.'
+    price: "$216 ($9 per drink)"
+  - title: Margarita (makes 16 cocktails)
+    desc: Includes 1 liter bottle of Campo Bravo Plata Tequila and 750ml bottle of
+      Pierre Ferrand Curacao. Also comes with fresh lime juice, simple syrup, Jacobsen
+      sea salt, and lime garnish.
+    price: "$160 ($10 per drink)"
 layout: cocktails
 ---
 
