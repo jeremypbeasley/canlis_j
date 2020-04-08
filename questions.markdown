@@ -31,7 +31,7 @@ Our goal is to create enough jobs in this uncertain season to continue to employ
 
 <h2 class="Display2 mb4">Other questions?</h2>
 
-Please email Amy Wong at [amy@canlis.com](amy@canlis.com).
+Please email [amy@canlis.com](amy@canlis.com).
 
-For media inquiries, please contact Jessica Powers at [jessica@canlis.com](mailto:jessica@canlis.com).
+For media inquiries, please contact [jessica@canlis.com](mailto:jessica@canlis.com).
 
