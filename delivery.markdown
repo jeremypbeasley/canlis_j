@@ -21,7 +21,7 @@ Changes daily. See the menu <a href="/nextweek">here</a>.
 
 <h2 class="Caption mt2 mb3">No Contact Delivery</h2>
 
-Our team will drop off your order at your door and send a text once it has arrived. Please note that we do need to see ID if you have purchased alcohol.
+Our team will drop off your order at your door and send a text once it has arrived. Please note that we do need to see ID if you have purchased alcohol. If you live in an apartment building, we ask that you come outside to pick up your order. For everyone's safety, drivers will not enter buildings.
 
 <h2 class="Caption mt2 mb3">Delivery Window</h2>
 
