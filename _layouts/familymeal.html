@@ -1,0 +1,43 @@
+{% include head.html %}
+
+<style>
+  .GlobalNav,
+  .NavHamburger {
+    display: none;
+  }
+</style>
+
+<!-- Alert Bar -->
+{% if page.is_alert_shown == true %}
+  <div class="AlertBar Caption">
+    {{ page.alert_text}}
+  </div>
+{% endif %}
+
+<ul class="mt8">
+  <div class="Divider op20"></div>
+  {% for item in page.menu %}
+      <li class="m3">
+        <h2 class="p0 mt0 mb1 Display2">{{ item.title }}</h2>
+        <div class="p0 mt0 mb2 op60">{{ item.desc }}</div>
+        <div class="p0 mt0 mb2 op60">${{ item.price }} per person</div>
+        {% if item.is_soldout == true %}
+        <div class="EventsButton mb5 mt4 op50">
+          <a class="Caption" href="">
+            Sold Out
+          </a>
+        </div>
+        <a class="Caption NoLine" href="{{ item.waitlist_link }}">Join Waitlist</a>
+        {% else %}
+        <div class="EventsButton mb5 mt4">
+          <a class="Caption" href="{{ item.order_link }}">
+            Order on Tock
+          </a>
+        </div>
+        {% endif %}
+      </li>
+      <div class="Divider op20"></div>
+  {% endfor %}
+</ul>
+
+{% include minifooter.html %}

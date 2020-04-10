@@ -1855,7 +1855,7 @@ li {
   font-weight: bold;
 }
 .Caption {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.05rem;
   font-family: HelveticaNeue-Medium, "ApercuMono", Andale Mono, monospaced;
@@ -2314,6 +2314,54 @@ img {
     left: 1000000px;
   }
 }
+.m0 {
+  margin: 4px;
+}
+.m1 {
+  margin: 8px;
+}
+.m2 {
+  margin: 16px;
+}
+.m3 {
+  margin: 24px;
+}
+.m4 {
+  margin: 32px;
+}
+.m5 {
+  margin: 40px;
+}
+.m6 {
+  margin: 48px;
+}
+.m7 {
+  margin: 56px;
+}
+.m8 {
+  margin: 64px;
+}
+.m9 {
+  margin: 72px;
+}
+.m10 {
+  margin: 80px;
+}
+.m11 {
+  margin: 88px;
+}
+.m12 {
+  margin: 96px;
+}
+.m13 {
+  margin: 104px;
+}
+.m14 {
+  margin: 112px;
+}
+.m15 {
+  margin: 120px;
+}
 .mb0 {
   margin-bottom: 4px;
 }
@@ -2573,11 +2621,20 @@ img {
 .CenterText {
   text-align: center;
 }
-.op50 {
-  opacity: 0.5;
+.op20 {
+  opacity: 0.2;
 }
 .op30 {
   opacity: 0.3;
+}
+.op50 {
+  opacity: 0.5;
+}
+.op60 {
+  opacity: 0.6;
+}
+.rounded10 {
+  border-radius: 10px;
 }
 .col-md-1,
 .col-md-2,
