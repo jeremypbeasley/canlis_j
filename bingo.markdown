@@ -1,7 +1,7 @@
 ---
 title: Friday Night Bingo
 date: 2020-04-14 12:45:00 -07:00
-og_desc: "This Friday night, it's Bingo night at Canlis. Tune in at 8:30PM."
+og_desc: This Friday night, it's Bingo night at Canlis. Tune in at 8:30PM.
 og_photo: "/uploads/canlis_bingo.jpg"
 image: "/uploads/canlis_bingo.jpg"
 layout: events
