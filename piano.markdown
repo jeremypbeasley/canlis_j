@@ -17,5 +17,7 @@ layout: events
 <p class="Caption">Featuring</p>
 
 Jason Lux (Wednesdays, Fridays)
+
 Lennon Aldort (Tuesdays, Thursdays)
+
 Jonas Myers (Mondays)
