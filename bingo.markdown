@@ -1,7 +1,7 @@
 ---
 title: Bingo Night
 date: 2020-04-14 12:45:00 -07:00
-layout: default
+layout: events
 ---
 
 <p class="Captionm mb2">How to play</p>
