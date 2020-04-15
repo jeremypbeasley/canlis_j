@@ -3843,7 +3843,7 @@ img {
 .EventsButton a {
   border: 1px solid #000;
   box-shadow: 5px 5px 0px 0px #000;
-  padding: 15px;
+  padding: 10px 15px;
   text-align: center;
   transition: all 200ms ease-out;
 }
@@ -4389,6 +4389,91 @@ input[type=submit] {
 }
 .AnnouncementContent {
   padding: 35px;
+}
+.Popup {
+  display: none;
+  transition: all 1s 200ms ease-out;
+}
+.Popup img {
+  margin-bottom: -8px;
+  margin-top: -12px;
+}
+@media (min-width: 62em) {
+  .Popup img {
+    margin-top: -25px;
+  }
+}
+.Popup .CloseButton {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+  transition: transform 100ms ease-out;
+  z-index: 99999;
+}
+.Popup .CloseButton div {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  top: 12px;
+  right: 12px;
+/* background: orange; */
+}
+.Popup .CloseButton svg {
+  transform: scale(0.5);
+  position: absolute;
+  top: -9px;
+  left: -9px;
+}
+.Popup .CloseButton svg path {
+  fill: #000;
+}
+.PopupOverlay {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0,0,0,0.6);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9909;
+}
+.PopupCard {
+  background-color: #fcfbfa;
+  width: calc(100% - 32px);
+  max-width: 375px;
+  max-height: calc(100vh - 32px);
+  position: fixed;
+  top: 0;
+  z-index: 99999;
+  margin: 16px;
+  opacity: 0;
+  transition: all 1s 200ms ease-out;
+  overflow: hidden;
+  border-radius: 10px;
+  border: 1px solid #000;
+  box-shadow: 5px 5px 0px 0px #000;
+}
+@media (min-width: 48em) {
+  .PopupCard {
+    left: 50%;
+    margin-left: -187px;
+  }
+}
+@media (min-width: 62em) {
+  .PopupCard {
+    margin: 16px;
+    margin-left: -187px;
+    margin-top: 15vh;
+  }
+}
+.Popup.active .PopupCard {
+/* transform: translateY(-10px); */
+  opacity: 1;
+}
+.PopupContent {
+  padding: 80px 32px;
 }
 .CovidLogo {
   max-width: 100px;
