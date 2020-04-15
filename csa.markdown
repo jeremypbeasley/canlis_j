@@ -18,7 +18,7 @@ menu:
   desc: "An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea Breeze Farms Dry-Age Whole Duck (approx 4lbs), 2 lb Olsen Farms grass-fed ground beef, 1 dzn farm-fresh eggs."
   price: $110
   order_link:
-  is_soldout: true
+  is_soldout: false
   waitlist_link: ""
 - title:
   date: 2020-04-22 12:00:00
