@@ -13,7 +13,7 @@ concepts:
     link: "/familymeal"
 - title: Community Supported Agriculture Boxes
   image: "/uploads/canlis_concept_csa.jpg"
-  desc: "Get a box of the best ingredients, direct from our favorite farmers."
+  desc: "Support a farm! Get a curated box of the best ingredients, delivered to your door."
   block_link: "/csa"
   buttons:
   - label: "See the boxes"
