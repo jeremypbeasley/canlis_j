@@ -55,7 +55,7 @@ $(document).ready(function() {
     }
   });
 
-  // Announcement PopUp
+  // Announcement
 
   // Only show Announcement on the home page
   if (document.body.classList.contains('home')) {
@@ -69,6 +69,30 @@ $(document).ready(function() {
     $('.Announcement').hide();
     $('.Announcement').removeClass('active');
     console.log("Announcement: Off");
+  });
+
+  // Popup
+
+  $(document.body).on('click', '.OrderLink', function(){
+    var order_link = $(this).attr('data-link');
+    console.log(order_link);
+    $('.Popup').show();
+    $('.Popup').addClass('active');
+    $('#PopupButtonLink').attr('href', order_link);
+  });
+
+  // function deliveryPopup(url) {
+  //   console.log(url);
+  //   $('.Popup').show();
+  //   $('.Popup').addClass('active');
+  //   $('.Popup .EventsButton a').attr(url);
+  // };
+
+  // Closes the popup and set the cookie
+  $(document.body).on('click', '.Popup .CloseButton, .PopupOverlay', function(){
+    $('.Popup').hide();
+    $('.Popup').removeClass('active');
+    console.log("Popup: Off");
   });
 
 });

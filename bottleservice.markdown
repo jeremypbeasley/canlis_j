@@ -1,13 +1,71 @@
 ---
-title: 'Bottle Service: Wine List'
+title: 'Bottle Service'
 date: 2020-03-13 16:19:00 -07:00
 image: "/uploads/canlis_concept_bottleservice.jpg"
-og_desc: We're opening up our cellar for pick up at the restaurant or as an add-on
-  to Family Meal delivery.
+desc: "Quarantined preprohibitionists, bartenders, and delivery drivers of the world unite! We’ll get through this, and raise a glass to the loved ones willing to live with us 24/7."
+og_desc: "Quarantined preprohibitionists, bartenders, and delivery drivers of the world unite! We’ll get through this, and raise a glass to the loved ones willing to live with us 24/7."
 og_photo: "/uploads/canlis_concept_bottleservice.jpg"
-wines:
-- wine-category: Sparkling
-  wines:
+drinks:
+- drink-category: Cocktail Kits
+  drinks:
+  - title: Almost Perfect
+    volume: (makes 16 cocktails)
+    desc: Our signature cocktail. Includes 750ml bottles of Stiggin's
+      Fancy Rum, Cochi Americano, Meletti Amaro, and 375ml of Luxardo Maraschino.
+      Also comes with grenadine, bitters, lemon peel, fresh flower garnish, and 16
+      large ice squares.
+    price: "$208 ($13 per drink)"
+    order_link: https://www.exploretock.com/canlis/
+    is_soldout: false
+    waitlist_link: ""
+  - title: Negroni
+    volume: (makes 16 cocktails)
+    desc: Includes full bottles of Sipsmith gin, Carpano Antica and Campari with 16
+      large ice squares, and orange peel garnish.
+    price: "$176 ($11 per drink)"
+    order_link: https://www.exploretock.com/canlis/
+    is_soldout: false
+    waitlist_link: ""
+  - title: Manhattan
+    volume: (makes 12 cocktails)
+    desc: Includes 750ml bottle of Knob Creek Bourbon and 375ml of Carpano Antica,
+      James' house-made spiced cherries, orange bitters, and two copper garnish picks.
+    price: "$120 ($10 per drink)"
+    order_link: https://www.exploretock.com/canlis/
+    is_soldout: false
+    waitlist_link: ""
+  - title: Mai Tai
+    volume: (makes 16 cocktails)
+    desc: Includes 750ml bottles of Plantation Dark Rum and Pierre Ferrand Curacao.
+      Also comes with orgeat, mint, fresh lemon and lime juice, and orchid flower
+      garnish.
+    price: "$144 ($12 per drink)"
+    order_link: https://www.exploretock.com/canlis/
+    is_soldout: false
+    waitlist_link: ""
+  - title: Long Island Iced Tea
+    volume: (makes 24 cocktails) (seriously...space these out
+        people)
+    desc: 'Think of this as an incredible way to stock your bar. Includes 1 liter
+      bottle of Monopolowa Vodka, 1 liter bottle of Campo Bravo Plata Tequila, 1 liter
+      bottle of Plantation 3 Star Rum, 750ml bottles each of Sipsmith Gin and Pierre
+      Ferrand Curacao. Also included: fresh lemon juice, simple syrup, lemon wedges,
+      and two bottles of Mexican Coke.'
+    price: "$216 ($9 per drink)"
+    order_link: https://www.exploretock.com/canlis/
+    is_soldout: false
+    waitlist_link: ""
+  - title: Margarita
+    volume: (makes 16 cocktails)
+    desc: Includes 1 liter bottle of Campo Bravo Plata Tequila and 750ml bottle of
+      Pierre Ferrand Curacao. Also comes with fresh lime juice, simple syrup, Jacobsen
+      sea salt, and lime garnish.
+    price: "$160 ($10 per drink)"
+    order_link: https://www.exploretock.com/canlis/
+    is_soldout: false
+    waitlist_link: ""
+- drink-category: Sparkling Wine
+  drinks:
   - title: NV Sorelle Bronca, Prosecco, ITA
     desc: Fresh and lively bubbles. Orange blossoms ripe pear.
     price: "$28"
@@ -23,8 +81,8 @@ wines:
   - title: Analema Brut, Columbia Gorge, OR
     desc: Red apple, fresh citrus with lean finish.
     price: "$68"
-- wine-category: White
-  wines:
+- drink-category: White Wine
+  drinks:
   - title: Scarpetta Pinot Grigio, Friuli, ITA
     desc: Crisp and clean. Fresh lemons coupled by a mineral finish.
     price: "$22"
@@ -59,8 +117,8 @@ wines:
   - title: Little Boat Chardonnay, Russian River Valley, CA
     desc: Creamy and rich with lemon curd, papaya, mango and buttered pie crust.
     price: "$40"
-- wine-category: Rosé
-  wines:
+- drink-category: Rosé
+  drinks:
   - title: Commanderie de Peyrassol, Provence, FRA
     desc: Crunchy Cosmic Crisp apple flavors with a light coastal herbaceous nose.
     price: "$36"
@@ -70,8 +128,8 @@ wines:
   - title: Château Routas, Provence, FRA
     desc: Minerally and bright with underripe berry flavors and lilacs aromas.
     price: "$17"
-- wine-category: Red
-  wines:
+- drink-category: Red Wine
+  drinks:
   - title: Boniperti, Vespolina, Piedmont, ITA
     desc: Candied Rainier cherries and rosewater with a touch of balsamic reduction.
     price: "$31"
@@ -133,14 +191,12 @@ wines:
   - title: Bedrock Old Vine Zinfandel, Sonoma Valley, CA
     desc: Brambly black fruits with peppery spice and vanilla.
     price: "$28"
-layout: wines
+layout: covid-drinks
 ---
 
-<!-- <h2 class="Display2 mb4">We're opening up our cellar for pick up at the restaurant or as an add-on to Family Meal delivery.</h2> -->
+Our Director of Wine & Spirits, Nelson Daquip, has shared his go-to bottle list below. Many wines offered at retail price. Download our full wine list <a target="_blank" href="https://canlis.com/uploads/winelist.pdf">here</a>.
 
-Our sommeliers are standing by, ready to help you find the perfect wine pairing. Available for delivery or pick up.
-
-<p class="mb1 Caption ShowDesktop">TEXT A SOMM @ (206) 222-7253</p>
+<p class="mb1 Caption ShowDesktop">For wine, TEXT A SOMM @ (206) 222-7253</p>
 
 <div class="mt2">
   <div class="EventsButton mb10 ShowMobile">
@@ -149,17 +205,3 @@ Our sommeliers are standing by, ready to help you find the perfect wine pairing.
     </a>
   </div>
 </div>
-<!-- <p class="mb1 Caption ShowMobile">TEXT A SOMM @ <a href="sms:+12062227253">(206) 222-7253</a></p> -->
-
-<div class="Divider mt6 op30"></div>
-<h2 class="Display2 mb0 mt4 d-mt6">The Full List</h2>
-<p class="mt2">Many wines offered at retail price. Download our full wine list <a target="_blank" href="https://canlis.com/uploads/winelist.pdf">here</a>.</p>
-
-<div class="Divider mt2 op30 d-mt3"></div>
-
-<h2 class="Display2 mb3 mt4 d-mt5">The Short List </h2>
-<p class="mb1">Our Director of Wine & Spirits, Nelson Daquip, has shared his go-to bottles right here all in one place. </p>
-
-
-
-
