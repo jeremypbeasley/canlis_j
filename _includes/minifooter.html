@@ -1,0 +1,39 @@
+</div>
+<div class="Divider ShowMobile op20"></div>
+<footer class="m3 flex flex-center">
+  <ul class="Caption flex">
+    <li class="col m2 d-m1">
+    <a href="/media" class="NoLine">Media</a>
+    </li>
+    <li class="col m2 d-m1">
+      <a href="/questions" class="NoLine">Questions?</a>
+    </li>
+  </ul>
+  <!-- <a href="tel:2062833313" class="NoLine Caption">(206) 283-3313</a><Br><Br> -->
+  <br class="ShowDesktop"/>
+  <div class="d-m1 col-fullwidth CenterText d-mb10">&copy {{ 'now' | date: "%Y" }} Canlis</div>
+</footer>
+</div>
+<script type="text/javascript" src="https://js.stripe.com/v2/"></script>
+<script src="/assets/master.js"></script>
+
+<!-- Ensure the logo, navigation, and address are inverted (white) only on the home page due to dark background video -->
+{% if page.layout == 'home' %}
+  <script>
+    $(".GlobalNav.ShowDesktop").addClass("Inverted");
+    $(".AddressSidebar").addClass("Inverted");
+    $(".NavHamburger").addClass("Inverted");
+    $('.Logo').hide();
+  </script>
+{% endif %}
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-48402864-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</body>
+</html>

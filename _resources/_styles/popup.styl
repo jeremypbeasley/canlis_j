@@ -1,0 +1,95 @@
+.Popup {
+  display: none;
+  transition: all 1s 200ms ease-out;
+}
+
+.Popup img {
+  margin-bottom: -8px;
+  margin-top: -12px;
+}
+
+@media laptop {
+  .Popup img {
+    margin-top: -25px;
+  }
+}
+
+/* todo: Make image align to bottom */
+
+.Popup .CloseButton {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  cursor: pointer;
+  transition: transform 100ms ease-out;
+  z-index: 99999;
+}
+
+.Popup .CloseButton div {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  /* background: orange; */
+}
+
+.Popup .CloseButton svg  {
+  transform: scale(.5);
+  position: absolute;
+  top: -9px;
+  left: -9px;
+}
+
+.Popup .CloseButton svg path {
+  fill: black;
+}
+
+.PopupOverlay {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.6);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9909;
+}
+
+.PopupCard {
+  background-color: #FCFBFA;
+  width: calc(100% - 32px);
+  max-width: 327px;
+  max-height: calc(100vh - 32px);
+  position: fixed;
+  top: 0;
+  z-index: 99999;
+  margin: unit2;
+  opacity: 0;
+  transition: all 1s 200ms ease-out;
+  overflow: hidden;
+  border-radius: 10px;
+  border: 1px solid black;
+  box-shadow: 5px 5px 0px 0px black;
+  left: 50%;
+  margin-left: -164px;
+
+}
+
+@media laptop {
+  .PopupCard {
+    margin: 16px;
+    margin-left: -187px;
+    margin-top: 15vh;
+  }
+}
+
+.Popup.active .PopupCard {
+  /* transform: translateY(-10px); */
+  opacity: 1;
+}
+
+.PopupContent {
+  padding: unit4 unit4 unit5 unit4;
+}
