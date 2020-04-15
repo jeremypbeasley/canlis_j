@@ -15,7 +15,7 @@
 </footer>
 </div>
 <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
-<script src="/assets/master.js"></script>
+<script src="/assets/master.js?version={{ 'now' | date: "%m%d%Y%H%M%S" }}"></script>
 
 <!-- Ensure the logo, navigation, and address are inverted (white) only on the home page due to dark background video -->
 {% if page.layout == 'home' %}
