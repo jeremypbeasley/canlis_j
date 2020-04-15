@@ -28,7 +28,7 @@ menu:
   waitlist_link: ''
 - title: Nana's Italian Sausage with Onions & Peppers
   date: 2020-04-22 05:00:00 -07:00
-  desc: Pork and Duck Sausage with Caramelized Spring Onions and Roasted Peppers //
+  desc: Pork and Duck Sausage with Caramelized Spring Onions and Roasted Peppers, 
     Creamy Stone-ground Polenta, Cannellini Bean & Root Vegetable Ragu, Canlis Salad,
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Raspberry, Rose, and
     Pistachio Pavlova
