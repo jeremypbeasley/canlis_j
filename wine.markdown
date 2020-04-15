@@ -136,10 +136,6 @@ drinks:
 layout: covid-drinks
 ---
 
-<!-- <h2 class="Display2 mb4">We're opening up our cellar for pick up at the restaurant or as an add-on to Family Meal delivery.</h2> -->
-
-Our sommeliers are standing by, ready to help you find the perfect wine pairing. Available for delivery or pick up.
-
 <p class="mb1 Caption ShowDesktop">TEXT A SOMM @ (206) 222-7253</p>
 
 <div class="mt2">
@@ -149,16 +145,7 @@ Our sommeliers are standing by, ready to help you find the perfect wine pairing.
     </a>
   </div>
 </div>
-<!-- <p class="mb1 Caption ShowMobile">TEXT A SOMM @ <a href="sms:+12062227253">(206) 222-7253</a></p> -->
 
-<div class="Divider mt6 op30"></div>
-<h2 class="Display2 mb0 mt4 d-mt6">The Full List</h2>
-<p class="mt2">Many drinks offered at retail price. Download our full wine list <a target="_blank" href="https://canlis.com/uploads/winelist.pdf">here</a>.</p>
-
-<div class="Divider mt2 op30 d-mt3"></div>
-
-<h2 class="Display2 mb3 mt4 d-mt5">The Short List </h2>
-<p class="mb1">Our Director of Wine & Spirits, Nelson Daquip, has shared his go-to bottles right here all in one place. </p>
 
 
 

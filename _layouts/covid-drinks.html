@@ -1,10 +1,11 @@
 {% include minihead.html %}
 
 <div class="mt3 d-mt8 flex">
-  <div class="col mt3 ml3 mr3 d-mt15 d-mr15 d-ml15 col-onethird">
+  <div class="col mt3 ml3 mr3 d-mt15 d-mr5 d-ml15 col-onethird">
     <a class="CenterText" href="/">Back to all options</a>
     <h1 class="Display1 mb2 mt3">{{ page.title }}</h1>
-    <p class="mb5">{{ page.desc }}</p>
+    <p class="">{{ page.desc }}</p>
+    {{ content }}
     <div class="Divider ShowMobile op20 mt1"></div>
   </div>
   <div class="col mt3 ml3 mr3 d-mt15 d-mr15 d-ml15 col-twothirds">
@@ -14,7 +15,7 @@
             <p class="DrinkCategory Caption mb2 d-mb5 mt1 d-mt8">{{ drink.drink-category }}</p>
             {% if drink.drinks %}
               {% for nestedproduct in drink.drinks %}
-                <div class="mb3">
+                <div class="mb2 d-mb3">
                     <h2 class="p0 mt0 mb1 Display2">{{ nestedproduct.title }}</h2>
                     <div class="p0 mt0 mb1 italic op60">
                       {{ nestedproduct.desc }}
@@ -26,29 +27,30 @@
                     {% if nestedproduct.order_link %}
                       <div class="p0 mt0 mb1">{{ nestedproduct.price }}</div>
                       {% if nestedproduct.is_soldout == true %}
-                        <div class="flex mt3 mb4">
+                        <div class="flex mt3 mb4 SoldOut">
                           <div class="col">
-                            <div class="TockButton TockButtonSoldOut op50">
-                              <a href="">
+                            <a class="TockButton TockButtonSoldOut op20">
                                 Sold Out
-                              </a>
-                            </div>
+                            </a>
                           </div>
-                          <div class="col">
-                            <a class="Caption NoLine color-tock-blue m2" href="{{ item.waitlist_link }}">Join Waitlist</a>
+                          <div class="col col-twothirds">
+                            <a class="Caption NoLine color-tock-blue m2" target="_blank" href="{{ nestedproduct.waitlist_link }}">Join Waitlist</a>
                           </div>
                         </div>
                         {% else %}
-                        <div class="TockButton mt3 mb4">
-                          <a class="" href="{{ item.order_link }}">
+                        <div class="mb4 mt3">
+                          <a
+                          class="TockButton mt3 mb4 OrderLink"
+                          data-link="{{ nestedproduct.order_link }}"
+                          >
                             Order on Tock
                           </a>
                         </div>
                       {% endif %}
                       {% else %}
-                      <div class="p0 mt0 mb3">{{ nestedproduct.price }}</div>
+                      <div class="p0 mt0 mb2 d-mb3">{{ nestedproduct.price }}</div>
                     {% endif %}
-                    <div class="Divider op20 mb3 d-mb0"></div>
+                    <div class="Divider op20 mb2 d-mb0"></div>
                 </div>
               {% endfor %}
             {% endif %}
