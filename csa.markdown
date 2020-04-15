@@ -1,10 +1,10 @@
 ---
-title: Family Meal
-desc: "Dinner from our kitchen and a bottle of wine on your doorstep with zero contact. "
+title: Community Support Agriculture Boxes
+desc: "Support a farm! Get a curated box of the best ingredients, delivered to your door. It's dinner around the table, direct from our favorite farmers. "
 date: 2020-03-13 16:19:00 -07:00
-image: "/uploads/canlis_concept_familymeal.jpg"
-og_desc: Home-cooked dinner & a bottle of wine on your doorstep. Menu changes daily.
-og_photo: "/uploads/canlis_concept_familymeal.jpg"
+image: "/uploads/canlis_concept_csa.jpg"
+og_desc: "Support a farm! Get a curated box of the best ingredients, delivered to your door. It's dinner around the table, direct from our favorite farmers."
+og_photo: "/uploads/canlis_concept_csa.jpg"
 menu:
 - title: "Beets Wellington (Vegetarian) "
   date: 2020-04-20 12:00:00

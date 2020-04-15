@@ -5,7 +5,7 @@ alert_text: 'That''s all folks!  We have closed our bagel and burger drive throu
   but are still doing dinner deliveries. '
 layout: drivethru
 concepts:
-- title: Family Meal
+- title: Family Meal Dinner
   image: "/uploads/canlis_concept_familymeal.jpg"
   desc: "Dinner from our kitchen and a bottle of wine on your doorstep with zero contact. "
   button_label: "See the menu"
@@ -20,11 +20,12 @@ concepts:
   desc: "Feeling cooped up? A Canlis cocktail kit or a bottle of wine from our cellar might help."
   button_label: "See the list"
   button_link: "/bottleservice"
-- title: Piano
+
+---
+
+
+- title: Piano, Live from Dining Room
   image: "/uploads/canlis_concept_piano.jpg"
   desc: "“Live-streaming the smooth sounds of the city’s finest dining room…”  - Seattle Met"
   button_label: "Watch on youtube"
   button_link: "/piano"
-
----
-
