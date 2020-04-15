@@ -15,7 +15,7 @@ menu:
   price: "$48 per person"
   order_link: https://www.exploretock.com/canlis
   is_soldout: false
-  waitlist_link:
+  waitlist_link: 
 - title: 'Braised Rabbit White Lasagna '
   date: 2020-04-21 05:00:00 -07:00
   desc: Valley Farms Rabbit braised in white wine with Vegetables, Fiore Sardo Cheese
@@ -25,7 +25,7 @@ menu:
   price: "$58 per person"
   order_link: https://www.exploretock.com/canlis
   is_soldout: false
-  waitlist_link:
+  waitlist_link: 
 - title: Nana's Italian Sausage with Onions & Peppers
   date: 2020-04-22 05:00:00 -07:00
   desc: Pork and Duck Sausage with Caramelized Spring Onions and Roasted Peppers,
@@ -35,7 +35,7 @@ menu:
   price: "$52 per person"
   order_link: https://www.exploretock.com/canlis
   is_soldout: false
-  waitlist_link:
+  waitlist_link: 
 - title: Pork Shoulder Bo Ssam
   date: 2020-04-23 05:00:00 -07:00
   desc: 'With All The Fixings: Slow-roasted Olson Farms Pork Shoulder, Bibb Lettuce,
@@ -45,7 +45,7 @@ menu:
   price: "$65 per person"
   order_link: https://www.exploretock.com/canlis
   is_soldout: false
-  waitlist_link:
+  waitlist_link: 
 - title: 'Dry-Aged Cote de Boeuf for Two '
   date: 2020-04-24 05:00:00 -07:00
   desc: Creamy Horseradish, Au jus, Creamed Spinach, Canlis Salad, Classic Canlis
@@ -54,7 +54,7 @@ menu:
   price: "$92 per person"
   order_link: https://www.exploretock.com/canlis
   is_soldout: false
-  waitlist_link:
+  waitlist_link: 
 layout: covid-menu
 ---
 
