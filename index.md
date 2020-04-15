@@ -21,12 +21,10 @@ concepts:
 - title: Bottle Service
   image: "/uploads/canlis_concept_bottleservice.jpg"
   desc: "Feeling cooped up? A Canlis cocktail kit or a bottle of wine from our cellar might help."
-  block_link: "/cocktails"
+  block_link: "/bottleservice"
   buttons:
-  - label: "Cocktail Kits"
-    link: "/cocktails"
-  - label: "Wine List"
-    link: "/wine"
+  - label: "Cocktail Kits & Wine"
+    link: "/bottleservice"
 ---
 
 - title: Piano, Live from Dining Room
