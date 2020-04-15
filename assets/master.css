@@ -4442,7 +4442,7 @@ input[type=submit] {
 .PopupCard {
   background-color: #fcfbfa;
   width: calc(100% - 32px);
-  max-width: 375px;
+  max-width: 327px;
   max-height: calc(100vh - 32px);
   position: fixed;
   top: 0;
@@ -4454,12 +4454,8 @@ input[type=submit] {
   border-radius: 10px;
   border: 1px solid #000;
   box-shadow: 5px 5px 0px 0px #000;
-}
-@media (min-width: 48em) {
-  .PopupCard {
-    left: 50%;
-    margin-left: -187px;
-  }
+  left: 50%;
+  margin-left: -164px;
 }
 @media (min-width: 62em) {
   .PopupCard {
