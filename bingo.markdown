@@ -13,13 +13,13 @@ layout: events
 
 2.) Random numbers are drawn. Whoever completes a bingo pattern first, wins the prize. A winning bingo pattern is a line with five numbers in a diagonal, horizontal, or vertical row. Numbers must be X'd out with a pen.
 
-3.) Text us a photo of your winning bingo card (and the Canlis Family Meal stamp on the back) as fast as you can. <span class="ShowDesktop">(408) 702-1978</span>.
+3.) Text us a photo of your winning bingo card (and the Canlis Family Meal stamp on the back) as fast as you can 
+
+(408) 702-1978
 
 <p class="op60">No purchase necessary. If you’d like to play, send us a postcard with your address. We'll mail you a bingo card that can be used any Friday night.</p>
 
 2576 Aurora Ave N. Seattle, WA 98109
-
-<div class="ShowMobile mt4"><a class="Caption" href="sms:4087021978">(408) 702-1978</a><Br><br><br></div>
 
 <p class="Caption mb2">The Prize</p>
 
