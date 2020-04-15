@@ -68,7 +68,7 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
-{% assign popup = site.pages | where: "slug", "welcome" | first %}
+{% assign popup = site.pages | where: "slug", "popup-delivery" | first %}
 {% if popup.is_pop_up == true %}
   <div class="Popup">
     <div class="PopupOverlay"></div>
@@ -78,11 +78,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <svg width="50" height="50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path fill="#000"  id="a" d="M11.475 25.015H24.18V12.31h2.64v12.705h12.705v2.64H26.82V40.36h-2.64V27.655H11.475z"/></defs><use fill-rule="nonzero" transform="rotate(45 25.5 26.335)" xlink:href="#a"/></svg>
         </div>
       </div>
-      <div class="PopupContent" onclick="location.href='{{popup.link}}';">
-        <p class="mb2">{{popup.body}}</p>
-        <img style="width: 200px; transform: rotate(-5deg)" src="/assets/_img/canlis_fam_signature.png"/>
-        <div class="EventsButton mt2 Continue">
-          <a class="Caption">
+      <img src="/uploads/delivery_popup.jpg"/>
+      <div class="PopupContent">
+        <p class="mb2">{{popup.body }}</p>
+          <a
+            target="_blank"
+            class="TockButton Caption mt2 Continue"
+            id="PopupButtonLink"
+            href=""
+          >
             {{ popup.link_text }}
           </a>
         </div>
@@ -94,10 +98,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="OrderFlow d-mb8">
 
-<div class="flex d-flex-center">
+<div class="flex flex-center">
   <div class="col CenterText">
     <a class="NoLine" href="/">
-      <img class="CovidLogo ml3 mt3 d-mb0 d-ml0 d-mt10" src="assets/_img/canlis_logo_new.svg">
+      <img class="CovidLogo mt3 d-mb0 d-ml0 d-mt10" src="assets/_img/canlis_logo_new.svg">
     </a>
     <!-- <a href="/" class="Logo ml3 mt3 d-mb10 d-ml0 d-mt0 NoLine">Logo</a> -->
   </div>

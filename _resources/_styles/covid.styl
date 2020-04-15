@@ -23,7 +23,7 @@
   z-index: 9999999;
 }
 
-.TockButton a {
+.TockButton {
   border: 1px solid color-tock-blue;
   background-color: color-tock-blue;
   padding: 12px 15px;
@@ -32,10 +32,9 @@
   color: white;
   transition: all 200ms ease-out;
   font-family: typeface-tertiary;
-
 }
 
-.TockButton a::before {
+.TockButton::before {
   display: none;
 }
 
@@ -43,10 +42,13 @@
   opacity: .5
 }
 
+.SoldOut {
+  max-width: 400px;
+}
+
 .flex {
   display: flex;
   flex-wrap: wrap;
-  max-width: 100%;
   justify-content: flex-start;
 }
 
@@ -113,4 +115,23 @@
 .ConceptBlock:last-child .Divider,
 .MenuItem:last-child .Divider {
   display: none;
+}
+
+.WelcomeMessage {
+  max-width: 400px;
+  line-height: 140%;
+}
+
+.BigButton {
+  border: 1px solid black;
+  box-shadow: 5px 5px 0px 0px black;
+  padding: 10px 15px;
+  text-align: center;
+  transition: all 200ms ease-out;
+}
+
+.BigButton a:hover {
+  background: black
+  color: white;
+  box-shadow: 0px 0px 0px 0px black;
 }
