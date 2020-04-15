@@ -15,16 +15,12 @@ layout: events
 
 3.) Text us a photo of your winning bingo card (and the Canlis Family Meal stamp on the back) as fast as you can. <span class="ShowDesktop">(408) 702-1978</span>.
 
+<p class="op60">No purchase necessary. If you’d like to play, send us a postcard with your address. We'll mail you a bingo card that can be used any Friday night.</p>
+
+2576 Aurora Ave N. Seattle, WA 98109
+
 <div class="ShowMobile mt4"><a class="Caption" href="sms:4087021978">(408) 702-1978</a><Br><br><br></div>
 
 <p class="Caption mb2">The Prize</p>
 
 The first person to text their winning card will receive a Canlis CSA box, a $100 Canlis Gift Card, and 2 rolls of double-ply premium Canlis toilet paper, delivered to your door.
-
-<p class="Caption mb2 mt1">No purchase necessary</p>
-
-If you’d like to play, send us a postcard with your address. We'll mail you a bingo card that can be used any Friday night.
-
-Canlis
-2576 Aurora Ave N
-Seattle, WA 98109
