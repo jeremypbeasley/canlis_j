@@ -55,7 +55,7 @@ $(document).ready(function() {
     }
   });
 
-  // Announcement PopUp
+  // Announcement
 
   // Only show Announcement on the home page
   if (document.body.classList.contains('home')) {
@@ -69,6 +69,22 @@ $(document).ready(function() {
     $('.Announcement').hide();
     $('.Announcement').removeClass('active');
     console.log("Announcement: Off");
+  });
+
+  // Popup
+
+  // Only show Announcement on the home page
+  if (document.body.classList.contains('covid-home')) {
+    console.log("Popup: On");
+    $('.Popup').show();
+    $('.Popup').addClass('active');
+  }
+
+  // Closes the popup and set the cookie
+  $(document.body).on('click', '.Popup .CloseButton, .Popup .Continue, .PopupOverlay, .PopupLink', function(){
+    $('.Popup').hide();
+    $('.Popup').removeClass('active');
+    console.log("Popup: Off");
   });
 
 });
