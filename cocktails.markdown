@@ -15,7 +15,7 @@ drinks:
       Also comes with grenadine, bitters, lemon peel, fresh flower garnish, and 16
       large ice squares.
     price: "$208 ($13 per drink)"
-    order_link: ""
+    order_link: https://www.exploretock.com/canlis/experience/115439/canlis-cocktail-kits
     is_soldout: false
     waitlist_link: ""
   - title: Negroni
@@ -23,7 +23,7 @@ drinks:
     desc: Includes full bottles of Sipsmith gin, Carpano Antica and Campari with 16
       large ice squares, and orange peel garnish.
     price: "$176 ($11 per drink)"
-    order_link: ""
+    order_link: https://www.exploretock.com/canlis/experience/115439/canlis-cocktail-kits
     is_soldout: false
     waitlist_link: ""
   - title: Manhattan
@@ -31,7 +31,7 @@ drinks:
     desc: Includes 750ml bottle of Knob Creek Bourbon and 375ml of Carpano Antica,
       James' house-made spiced cherries, orange bitters, and two copper garnish picks.
     price: "$120 ($10 per drink)"
-    order_link: ""
+    order_link: https://www.exploretock.com/canlis/experience/115439/canlis-cocktail-kits
     is_soldout: false
     waitlist_link: ""
   - title: Mai Tai
@@ -40,8 +40,8 @@ drinks:
       Also comes with orgeat, mint, fresh lemon and lime juice, and orchid flower
       garnish.
     price: "$144 ($12 per drink)"
-    order_link: ""
-    is_soldout: true
+    order_link: https://www.exploretock.com/canlis/experience/115439/canlis-cocktail-kits
+    is_soldout: false
     waitlist_link: ""
   - title: Long Island Iced Tea
     volume: (makes 24 cocktails) (seriously...space these out
@@ -52,7 +52,7 @@ drinks:
       Ferrand Curacao. Also included: fresh lemon juice, simple syrup, lemon wedges,
       and two bottles of Mexican Coke.'
     price: "$216 ($9 per drink)"
-    order_link: ""
+    order_link: https://www.exploretock.com/canlis/experience/115439/canlis-cocktail-kits
     is_soldout: false
     waitlist_link: ""
   - title: Margarita
@@ -61,7 +61,7 @@ drinks:
       Pierre Ferrand Curacao. Also comes with fresh lime juice, simple syrup, Jacobsen
       sea salt, and lime garnish.
     price: "$160 ($10 per drink)"
-    order_link: ""
+    order_link: https://www.exploretock.com/canlis/experience/115439/canlis-cocktail-kits
     is_soldout: false
     waitlist_link: ""
 layout: covid-drinks

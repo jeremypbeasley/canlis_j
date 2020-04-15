@@ -9,38 +9,44 @@
   </div>
   <div class="col mt3 ml3 mr3 d-mt15 d-mr15 d-ml15 col-twothirds">
     {% for item in page.menu %}
-        <div class="d-mt0 d-mb3 d-mr0 d-ml0 MenuItem">
-          {% if item.title %}
-            <div class="p0 mt0 mb1"><i>{{ item.date | date: "%A, %B %d" }}</i></div>
-            <h2 class="p0 mt0 mb1 Display2">{{ item.title }}</h2>
-          {% else %}
-            <h2 class="p0 mt0 mb1 Display2">{{ item.date | date: "%A, %B %d" }}</h2>
-          {% endif %}
-          <div class="p0 mt0 mb2">{{ item.price }}</div>
-          <div class="p0 mt0 mb2 op60">{{ item.desc }}</div>
-          {% if item.is_soldout == true %}
-          <div class="flex mt3 mb4 SoldOut">
-            <div class="col">
-              <a class="TockButton TockButtonSoldOut op20">
-                  Sold Out
+        {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+        {% capture date %}{{item.date | date: '%s'}}{% endcapture %}
+        {% if date > now %}
+          <div class="d-mt0 d-mb3 d-mr0 d-ml0 MenuItem">
+            {% if item.title %}
+              <div class="p0 mt0 mb1"><i>{{ item.date | date: "%A, %B %d" }}</i></div>
+              <h2 class="p0 mt0 mb1 Display2">{{ item.title }}</h2>
+            {% else %}
+              <h2 class="p0 mt0 mb1 Display2">{{ item.date | date: "%A, %B %d" }}</h2>
+            {% endif %}
+            <div class="p0 mt0 mb2">{{ item.price }}</div>
+            <div class="p0 mt0 mb2 op60">{{ item.desc }}</div>
+            {% if item.is_soldout == true %}
+            <div class="flex mt3 mb4 SoldOut">
+              <div class="col">
+                <a class="TockButton TockButtonSoldOut op20">
+                    Sold Out
+                </a>
+              </div>
+              <div class="col col-twothirds">
+                <a class="Caption NoLine color-tock-blue m2" target="_blank" href="{{ item.waitlist_link }}">Join Waitlist</a>
+              </div>
+            </div>
+            {% else %}
+            <div class="mb4 mt3">
+              <a
+              class="TockButton mt3 mb4 OrderLink"
+              data-link="{{ item.order_link }}"
+              >
+                Order on Tock
               </a>
             </div>
-            <div class="col col-twothirds">
-              <a class="Caption NoLine color-tock-blue m2" href="{{ item.waitlist_link }}">Join Waitlist</a>
-            </div>
+            {% endif %}
+            <div class="Divider op20 mb3 d-mb0"></div>
           </div>
-          {% else %}
-          <div class="mb4 mt3">
-            <a
-            class="TockButton mt3 mb4 OrderLink"
-            data-link="{{ item.order_link }}"
-            >
-              Order on Tock
-            </a>
-          </div>
-          {% endif %}
-          <div class="Divider op20 mb3 d-mb0"></div>
-        </div>
+        {% else %}
+        PPPPP
+        {% endif %}
     {% endfor %}
   </div>
 </div>
