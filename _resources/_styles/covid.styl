@@ -1,62 +1,15 @@
 /* COVID19 */
 
-.DriveThruIntro {
-  margin-bottom: -14vw;
-}
-@media laptop {
-  .DriveThruIntro {
-    width: 100vw;
-    padding: 4vw 12.5vw;
-    height: 100vh;
-    min-height: 100vh;
-    margin-bottom: 0;
-  }
-  .DriveThruIntro .Text {
-    width: 30vw;
-  }
-}
-.DriveThruPhoto {
-  background-image: url(/uploads/nelson4.jpg);
-  background-size: cover;
-  background-position: center bottom;
-  height: 100vh;
-}
-@media laptop {
-  .DriveThruPhoto {
-    height: 110vh;
-  }
-}
-.FamSignature {
-  max-width: 190px;
-}
-@media laptop {
-  .FamSignature {
-    max-width: 200px;
-  }
-}
-@media laptop {
-  .DarkerBg {
-    background: #F3F2F1
-  }
-  /* .DarkerBg .Display2 {
-    width: 70%;
-  } */
-}
-.FamilyMealButton a {
-  background: #C2F4E9
+.CovidLogo {
+  max-width: 100px;
+  width: 100px;
 }
 
-.SafetyList {
-  line-height: 150%;
-}
-
-.SafetyList li {
-  list-style-type: circle;
-}
-
-.SafetyList li ::before {
-  content: "•"
-  color: orange;
+@media laptop {
+  .CovidLogo {
+    width: 150px;
+    max-width: 150px;
+  }
 }
 
 .AlertBar {
@@ -94,27 +47,55 @@
   display: flex;
   flex-wrap: wrap;
   max-width: 100%;
+  justify-content: flex-start;
+}
+
+.flex-center {
   justify-content: center;
+}
+
+@media laptop {
+  .d-flex-center {
+    justify-content: center;
+  }
 }
 
 .flex-row {
   flex-direction: row
 }
 
-.col {
-  flex: 1;
+@media laptop {
+  .col {
+    flex: 1;
+  }
 }
 
 .col-fullwidth {
   width: 100%;
 }
 
-.max50p {
-  max-width: 50%;
+.col-onethird {
+  flex-grow: 1;
+}
+
+.col-twothirds {
+  flex-grow: 3;
+}
+
+@media laptop {
+  .max50p {
+    max-width: 50%;
+  }
+}
+
+.ConceptBlock {
+  width: 100%;
+  flex-grow: 10;
 }
 
 @media laptop {
   .ConceptBlock {
+   flex-grow: 1;
    max-width: 30vw;
    min-width: 30vw;
    transition: all 300ms ease;
@@ -122,5 +103,14 @@
 }
 
 .ConceptBlock:hover {
-  transform: translateY(-5px) scale(1.01);
+  transform: translateY(-3px);
+}
+
+.DrinkCategory:first-child {
+  margin-top: 0;
+}
+
+.ConceptBlock:last-child .Divider,
+.MenuItem:last-child .Divider {
+  display: none;
 }

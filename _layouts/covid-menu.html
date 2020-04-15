@@ -1,44 +1,44 @@
 {% include minihead.html %}
 
-<div class="mt8 flex">
-  <div class="m3 col-fullwidth">
-    <div class="CenterText mt3">
-      <a class="CenterText" href="/">Back to all options</a>
-    </div>
-    <div class="max50p">
-      <h1 class="Display1 mt7 mb2 CenterText">{{ page.title }}</h1>
-      <p class="CenterText">{{ page.desc }}</p>
-    </div>
+<div class="mt3 d-mt8 flex">
+  <div class="col mt3 ml3 mr3 d-mt15 d-mr15 d-ml15 col-onethird">
+    <a class="CenterText" href="/">Back to all options</a>
+    <h1 class="Display1 mb2 mt3">{{ page.title }}</h1>
+    <p class="mb5">{{ page.desc }}</p>
+    <div class="Divider ShowMobile op20 mt1"></div>
   </div>
-  <div class="Divider op20"></div>
-  <div class="max50p">
+  <div class="col mt3 ml3 mr3 d-mt15 d-mr15 d-ml15 col-twothirds">
     {% for item in page.menu %}
-        <div class="m3 d-m6">
-          <div class="p0 mt0 mb1"><i>{{ item.date | date: "%A, %B %d" }}</i></div>
-          <h2 class="p0 mt0 mb1 Display2">{{ item.title }}</h2>
-          <div class="p0 mt0 mb2">${{ item.price }} per person</div>
+        <div class="d-mt0 d-mb3 d-mr0 d-ml0 MenuItem">
+          {% if item.title %}
+            <div class="p0 mt0 mb1"><i>{{ item.date | date: "%A, %B %d" }}</i></div>
+            <h2 class="p0 mt0 mb1 Display2">{{ item.title }}</h2>
+          {% else %}
+            <h2 class="p0 mt0 mb1 Display2">{{ item.date | date: "%A, %B %d" }}</h2>
+          {% endif %}
+          <div class="p0 mt0 mb2">{{ item.price }}</div>
           <div class="p0 mt0 mb2 op60">{{ item.desc }}</div>
           {% if item.is_soldout == true %}
-          <div class="flex max50p mt5 mb5">
+          <div class="flex mt3 mb4">
             <div class="col">
               <div class="TockButton TockButtonSoldOut op50">
-                <a class="Caption" href="">
+                <a href="">
                   Sold Out
                 </a>
               </div>
             </div>
             <div class="col">
-              <a class="Caption NoLine color-tock-blue mt2" href="{{ item.waitlist_link }}">Join Waitlist</a>
+              <a class="Caption NoLine color-tock-blue m2" href="{{ item.waitlist_link }}">Join Waitlist</a>
             </div>
           </div>
           {% else %}
-          <div class="TockButton mb5 mt4">
+          <div class="TockButton mt3 mb4">
             <a class="" href="{{ item.order_link }}">
               Order on Tock
             </a>
           </div>
           {% endif %}
-          <div class="Divider op20"></div>
+          <div class="Divider op20 mb3 d-mb0"></div>
         </div>
     {% endfor %}
   </div>
