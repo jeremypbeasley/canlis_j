@@ -194,7 +194,14 @@ drinks:
 layout: covid-drinks
 ---
 
-Our Director of Wine & Spirits, Nelson Daquip, has shared his go-to bottle list below.
+Our Director of Wine & Spirits, Nelson Daquip, has shared his go-to bottle list below. Many wines offered at retail price. Download our full wine list <a target="_blank" href="https://canlis.com/uploads/winelist.pdf">here</a>.
 
-Many wines offered at retail price. Download our full wine list <a target="_blank" href="https://canlis.com/uploads/winelist.pdf">here</a>.
+<p class="mb1 Caption ShowDesktop">For wine, TEXT A SOMM @ (206) 222-7253</p>
 
+<div class="mt2">
+  <div class="EventsButton mb10 ShowMobile">
+    <a class="Caption" href="sms:+12062227253">
+      TEXT A SOMM @ (206) 222-7253
+    </a>
+  </div>
+</div>
