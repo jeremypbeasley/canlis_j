@@ -1,0 +1,90 @@
+{% include minihead.html %}
+
+<div class="mt8 flex">
+  <div class="m3 col-fullwidth">
+    <div class="CenterText mt3">
+      <a class="CenterText" href="/">Back to all options</a>
+    </div>
+    <div class="max50p">
+      <h1 class="Display1 mt7 mb2 CenterText">{{ page.title }}</h1>
+      <p class="CenterText">{{ page.desc }}</p>
+    </div>
+  </div>
+  <div class="Divider op20"></div>
+  <div class="max50p">
+    <!-- COCKTAIL KITS -->
+    <div class="mb2 contents">
+      <ul>
+        {% for cocktail in page.cocktails %}
+          <li class="mb8 d-mb4">
+            <p class="Caption mb2 mt1 d-mt0">{{ cocktail.cocktail-category }}</p>
+            {% if cocktail.cocktails %}
+            <ul>
+              {% for nestedproduct in cocktail.cocktails %}
+                <li class="mb4">
+                    <div class="p0 mt0 mb0">{{ nestedproduct.title }}</div>
+                    <div class="p0 mt0 mb0 italic">{{ nestedproduct.desc }}</div>
+                    <div class="p0 mt0 mb0">{{ nestedproduct.price }}</div>
+                </li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="Divider op20"></div>
+    <!-- WINE LIST -->
+    <div class="mb2 contents">
+      <ul>
+        {% for wine in page.wines %}
+          <li class="mb8 d-mb4">
+            <p class="Caption mb2 mt1 d-mt0">{{ wine.wine-category }}</p>
+            {% if wine.wines %}
+            <ul>
+              {% for nestedproduct in wine.wines %}
+                <li class="mb4">
+                    <div class="p0 mt0 mb0">{{ nestedproduct.title }}</div>
+                    <div class="p0 mt0 mb0 italic">{{ nestedproduct.desc }}</div>
+                    <div class="p0 mt0 mb0">{{ nestedproduct.price }}</div>
+                </li>
+              {% endfor %}
+            </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% for item in page.menu %}
+        <div class="m3 d-m6">
+          <div class="p0 mt0 mb1"><i>{{ item.date | date: "%A, %B %d" }}</i></div>
+          <h2 class="p0 mt0 mb1 Display2">{{ item.title }}</h2>
+          <div class="p0 mt0 mb2">${{ item.price }} per person</div>
+          <div class="p0 mt0 mb2 op60">{{ item.desc }}</div>
+          {% if item.is_soldout == true %}
+          <div class="flex max50p mt5 mb5">
+            <div class="col">
+              <div class="TockButton TockButtonSoldOut op50">
+                <a class="Caption" href="">
+                  Sold Out
+                </a>
+              </div>
+            </div>
+            <div class="col">
+              <a class="Caption NoLine color-tock-blue mt2" href="{{ item.waitlist_link }}">Join Waitlist</a>
+            </div>
+          </div>
+          {% else %}
+          <div class="TockButton mb5 mt4">
+            <a class="" href="{{ item.order_link }}">
+              Order on Tock
+            </a>
+          </div>
+          {% endif %}
+          <div class="Divider op20"></div>
+        </div>
+    {% endfor %}
+  </div>
+</div>
+
+{% include minifooter.html %}

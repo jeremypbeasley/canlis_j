@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Canlis — {{ page.title }}</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="author" content="Jeremy P. Beasley / @jeremypbeasley">
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <!-- Facebook Open Graph Tags -->
+  <meta property="og:URL" content="http://canlis.com" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Canlis — {{ page.title }}" />
+  {% if page.og_desc %}
+    <meta property="og:description" content="{{ page.og_desc }}" />
+    {% else %}
+    <meta property="og:description" content="{{ site.description }}" />
+  {% endif %}
+  {% if page.og_photo %}
+    <meta property="og:image" content="{{ site.url }}{{ page.og_photo }}" />
+    {% else %}
+    <meta property="og:image" content="{{ site.url }}{{ site.og_photo}}" />
+  {% endif %}
+  <!-- Twitter Sharing Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@canlis">
+  <meta name="twitter:title" content="Canlis — {{ page.title }}">
+  {% if page.og_desc %}
+    <meta name="twitter:description" content="{{ page.og_desc }}"/>
+    {% else %}
+    <meta name="twitter:description" content="{{ site.description }}" />
+  {% endif %}
+  {% if page.og_photo %}
+    <meta name="twitter:image" content="{{ site.url }}{{ page.og_photo }}" />
+    {% else %}
+    <meta name="twitter:image" content="{{ site.url }}{{ site.og_photo}}" />
+  {% endif %}
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PJCFT8T');</script>
+  <!-- End Google Tag Manager -->
+
+  <link href="/assets/master.css?version={{ 'now' | date: "%m%d%Y%H%M%S" }}" rel="stylesheet">
+  <link rel="apple-touch-icon" sizes="57x57" href="assets/_favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="assets/_favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="assets/_favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="assets/_favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="assets/_favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="assets/_favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="assets/_favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="assets/_favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/_favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="assets/_favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/_favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="assets/_favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/_favicon/favicon-16x16.png">
+  <link rel="manifest" href="assets/_favicon/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="assets/_favicon/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+</head>
+<body class="{{ page.layout }}">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJCFT8T"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="OrderFlow">
+
+  <a href="/" class="LogoCenter Logo mb10 NoLine">Logo</a>

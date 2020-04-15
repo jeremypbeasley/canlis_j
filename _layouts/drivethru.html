@@ -1,11 +1,4 @@
-{% include head.html %}
-
-<style>
-  .GlobalNav,
-  .NavHamburger {
-    display: none;
-  }
-</style>
+{% include minihead.html %}
 
 <!-- Alert Bar -->
 {% if page.is_alert_shown == true %}
@@ -14,19 +7,27 @@
   </div>
 {% endif %}
 
-<ul class="mt8">
-  <div class="Divider op20"></div>
+<!-- <div class="Divider op20 mt10"></div> -->
+<div class="flex d-mt5"></div>
+<h1 class="Display1 mt10 mb2 CenterText">Delivery & Pickup</h1>
+<div class="flex flex-row d-mt5"></div>
+<div class="flex flex-row m10 d-m5">
+<!-- <div class="mt8"> -->
+  <!-- <div class="Divider op20"></div> -->
   {% for concept in page.concepts %}
-    <a class="NoLine" href="{{ concept.button_link }}">
-      <li class="m3">
-        <img class="rounded10 mb1" src="{{ concept.image }}"/>
-        <h2 class="p0 mt0 mb1 Display2">{{ concept.title }}</h2>
-        <div class="p0 mt0 mb2 op60">{{ concept.desc }}</div>
-        <div class="p0 mt0 mb3 Caption "> {{ concept.button_label }}</div>
-      </li>
-      <div class="Divider op20"></div>
-    </a>
+    <div class="col ConceptBlock">
+      <a class="NoLine" href="{{ concept.button_link }}">
+        <div class="m3 d-m0 d-p3">
+          <img class="rounded10 mb2" src="{{ concept.image }}"/>
+          <!-- <div class="mb1"><i>Delivery or Pickup</i></div> -->
+          <h2 class="p0 mt0 mb1 Display2">{{ concept.title }}</h2>
+          <div class="p0 mt0 mb1 op60">{{ concept.desc }}</div>
+          <div class="p0 mt0 mb3 Caption"> {{ concept.button_label }}</div>
+        </div>
+        <div class="Divider ShowMobile op20"></div>
+      </a>
+    </div>
   {% endfor %}
-</ul>
+</div>
 
 {% include minifooter.html %}
