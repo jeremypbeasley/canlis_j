@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ site.title }}</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="{{ site.description }}">
+  <meta name="author" content="Jeremy P. Beasley / @jeremypbeasley">
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <!-- Facebook Open Graph Tags -->
+  <meta property="og:URL" content="http://canlis.com" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Canlis — {{ page.title }}" />
+  {% if page.og_desc %}
+    <meta property="og:description" content="{{ page.og_desc }}" />
+    {% else %}
+    <meta property="og:description" content="{{ site.description }}" />
+  {% endif %}
+  {% if page.og_photo %}
+    <meta property="og:image" content="{{ site.url }}{{ page.og_photo }}" />
+    {% else %}
+    <meta property="og:image" content="{{ site.url }}{{ site.og_photo}}" />
+  {% endif %}
+  <!-- Twitter Sharing Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@canlis">
+  <meta name="twitter:title" content="Canlis — {{ page.title }}">
+  {% if page.og_desc %}
+    <meta name="twitter:description" content="{{ page.og_desc }}"/>
+    {% else %}
+    <meta name="twitter:description" content="{{ site.description }}" />
+  {% endif %}
+  {% if page.og_photo %}
+    <meta name="twitter:image" content="{{ site.url }}{{ page.og_photo }}" />
+    {% else %}
+    <meta name="twitter:image" content="{{ site.url }}{{ site.og_photo}}" />
+  {% endif %}
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PJCFT8T');</script>
+  <!-- End Google Tag Manager -->
+
+  <link href="/assets/master.css?version={{ 'now' | date: "%m%d%Y%H%M%S" }}" rel="stylesheet">
+  <link rel="apple-touch-icon" sizes="57x57" href="assets/_favicon/apple-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="assets/_favicon/apple-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="assets/_favicon/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="assets/_favicon/apple-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="assets/_favicon/apple-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="assets/_favicon/apple-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="assets/_favicon/apple-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="assets/_favicon/apple-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/_favicon/apple-icon-180x180.png">
+  <link rel="icon" type="image/png" sizes="192x192"  href="assets/_favicon/android-icon-192x192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/_favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="assets/_favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/_favicon/favicon-16x16.png">
+  <link rel="manifest" href="assets/_favicon/manifest.json">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="assets/_favicon/ms-icon-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+</head>
+<body class="{{ page.layout }}">
+
+<!-- Alert Bar -->
+{% if page.is_alert_shown == true %}
+  <div class="AlertBar Caption">
+    {{ page.alert_text}}
+  </div>
+{% endif %}
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PJCFT8T"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div id="main" class="">
+    <a href="/" class="Logo LogoCenter mb10 Caption NoLine">Logo</a>
+
+<div class="PageContent">
+
+<div class="row tall">
+  <div class="column col-xs-12 col-md-5 col-md-offset-1 d-mt6 ShowDesktop ">
+    <h1 class="Display1 mb0 d-mb6 mt10 d-mt10">Times are changing </br>and so are we.</h1>
+  </div>
+  <div class="column col-xs-12 col-md-5 d-mt6">
+    <div class="Divider ShowDesktop mb6 mt10 op30"></div>
+    <h1 class="Display1 mb0 d-mb6 mt10 d-mt10 ShowMobile mb3">Times are changing </br>and so are we.</h1>
+    <h2 class="Display2 mb5">Four weeks ago, we shut down our dining room.</h2>
+    <p class="mb1">Fine dining is not what Seattle needs right now. Instead, we're bringing dinner to you, safely creating jobs for our employees while serving as much of our city as we can.</p>
+    <p class="mb0 pb1">We've got this, Seattle.</p>
+    <p class="mb0 mt0 d-mt0"><img class="FamSignature" src="/assets/_img/canlis_fam_signature.png"></p>
+  </div>
+</div>
+<!-- <div class="DriveThruPhoto d-mt5"></div> -->
+<div class="DarkerBg pt1">
+  <div class="row">
+    <div class="column col-xs-12 col-md-5 col-md-offset-1 d-mt10">
+      <img src="/uploads/canlis_concept_familymeal.jpg">
+    </div>
+    <div class="column col-xs-12 col-md-5 d-mt10">
+      <div class="Divider ShowDesktop mb6 op30"></div>
+      <h1 class="Display1 mb2">Family Meal,<Br>Delivered.</h1>
+      <h2 class="Display2 mb3">Home-cooked dinner and a bottle of wine on your doorstep with zero contact. Menu changes daily.</h2>
+      <p class="mb1">Sales go live for the following week, every Wednesday at 1PM.</p>
+<!-- <p class="mb1 Caption">SOLD OUT</p> -->
+      <!-- <p class="mb1">Next week opens, Wednesday 3/25 at 1PM.</p> -->
+      <!-- <p class="mb1">See the menu <a href="/nextweek">here</a>.</p> -->
+      <div class="EventsButton mt2 mb10">
+        <a class="Caption" href="/delivery">
+          More info
+        </a>
+      </div>
+      <div class="Divider ShowMobile op30"></div>
+    </div>
+    <div class="column col-xs-12 col-md-5 col-md-offset-1 d-mt10">
+      <img src="/uploads/canlis_concept_csa.jpg">
+    </div>
+    <div class="column col-xs-12 col-md-5 d-mt10">
+      <div class="Divider ShowDesktop mb6 op30"></div>
+      <h1 class="Display1 mb2">Community Supported Agriculture</h1>
+      <h2 class="Display2 mb3">Support a farm! Get a curated box of the best ingredients, delivered to your door. It's dinner around the table, direct from our favorite farmers.</h2>
+      <p class="mb1">Sales go live for the following week, every Wednesday at 1PM.</p>
+      <div class="EventsButton mt2 mb10">
+        <a class="Caption" target="_blank" href="https://www.exploretock.com/canlis/">
+          Order now
+        </a>
+      </div>
+      <div class="Divider ShowMobile op30"></div>
+    </div>
+    <div class="column col-xs-12 col-md-5 col-md-offset-1 d-mt10">
+      <img src="/uploads/canlis_concept_bottleservice.jpg">
+    </div>
+    <div class="column col-xs-12 col-md-5 d-mt10">
+      <div class="Divider ShowDesktop mb6 op30"></div>
+      <h1 class="Display1 mb2">Bottle Service</h1>
+      <h2 class="Display2 mb3">Feeling cooped up? A Canlis cocktail or a bottle of wine from our cellar might help. </h2>
+      <p class="mb1">Available for delivery or pick up.</p>
+      <div class="EventsButton mt2 mb4">
+        <a class="Caption" href="/wine">
+          Wine
+        </a>
+      </div>
+      <div class="EventsButton mt2 mb10">
+        <a class="Caption" href="/cocktails">
+          Cocktail Kits
+        </a>
+      </div>
+      <div class="Divider ShowMobile op30"></div>
+    </div>
+    <div class="column col-xs-12 col-md-5 col-md-offset-1 d-mt10">
+      <img src="/uploads/canlis_concept_piano.jpg">
+    </div>
+    <div class="column col-xs-12 col-md-5 d-mt10">
+      <div class="Divider ShowDesktop mb6 op30"></div>
+      <h1 class="Display1 mb2">Live, from the Dining Room</h1>
+      <h2 class="Display2 mb3">“Live-streaming the smooth sounds of the city’s finest dining room…”  - Seattle Met </h2>
+      <p class="mb1 Caption">Monday - Friday, 6 - 9PM PST</p>
+      <div class="EventsButton mt2 mb10">
+        <a class="Caption" href="/piano">
+          Watch Now
+        </a>
+      </div>
+      <div class="Divider ShowMobile op30"></div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="ShowDesktop column col-xs-12 col-md-10 col-md-offset-1">
+      <div class="Divider op30"></div>
+    </div>
+  </div>
+  <!-- <div class="row skinny">
+    <div class="column col-xs-12 col-md-4 col-md-offset-4 AlignCenter">
+       <h2 class="Display2 mt10 CenterText">Get to know our family and the team wild enough to try this.</h2>
+        <a class="Caption mt3" href="/home">Continue to Canlis.com</a>
+    </div>
+  </div> -->
+  <!-- THREE COLUMN, WAITING ON APPROVAL -->
+  <div class="row skinny">
+    <div class="column col-xs-12 col-md-6 col-md-offset-3">
+       <h2 class="Display2 mt2 mb5 CenterText">Doing our part to be safe and sanitary.</h2>
+        <ul class="SafetyList">
+          <li class="mb3">There is no physical contact between our staff and delivery patrons.</li>
+          <li class="mb3">We have dedicated a staff member to sanitizing contacted surfaces of the restaurant every 30 minutes.</li>
+          <li class="mb3">Staff members are required to wash their hands every 15 minutes.</li>
+          <li class="mb3">Every person contacting food is required to wear single-use gloves. Gloves are changed with each food exchange.</li>
+          <li class="mb3">Staff members experiencing any relevant symptoms are required to stay home.</li>
+          <li class="mb3">We offer sick leave and financial assistance to all our employees.</li>
+        </ul>
+    </div>
+  </div>
+  <div class="row">
+    <div class="column col-xs-12 col-md-10 col-md-offset-1">
+      <div class="Divider op30"></div>
+    </div>
+  </div>
+  <div class="row skinny">
+    <div class="column col-xs-12 col-md-4 AlignCenter col-md-offset-2">
+       <h2 class="Display2 mt10 CenterText">Where's the old website?</h2>
+        <a class="Caption mt3" href="/home">Continue to Canlis.com</a>
+    </div>
+    <div class="column col-xs-12 col-md-4 AlignCenter">
+       <h2 class="Display2 mt10 CenterText">Other questions?</h2>
+        <a class="Caption mt3 mb10" href="/questions">Get answers</a>
+    </div>
+  </div>
+  <div class="row skinny">
+    <div class="column col-xs-12">
+      <p class="Caption mt10 CenterText"><a href="tel:2062833313">(206) 283-3313</a> — &copy; 2020 Canlis Restaurant</p>
+    </div>
+  </div>
+
+</div>
+
+
+
