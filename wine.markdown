@@ -2,12 +2,12 @@
 title: 'Bottle Service: Wine List'
 date: 2020-03-13 16:19:00 -07:00
 image: "/uploads/canlis_concept_bottleservice.jpg"
-og_desc: We're opening up our cellar for pick up at the restaurant or as an add-on
-  to Family Meal delivery.
+desc: "Our sommeliers are standing by, ready to help you find the perfect wine pairing. Available for delivery or pick up."
+og_desc: "Our sommeliers are standing by, ready to help you find the perfect wine pairing. Available for delivery or pick up."
 og_photo: "/uploads/canlis_concept_bottleservice.jpg"
-wines:
-- wine-category: Sparkling
-  wines:
+drinks:
+- drink-category: Sparkling
+  drinks:
   - title: NV Sorelle Bronca, Prosecco, ITA
     desc: Fresh and lively bubbles. Orange blossoms ripe pear.
     price: "$28"
@@ -23,8 +23,8 @@ wines:
   - title: Analema Brut, Columbia Gorge, OR
     desc: Red apple, fresh citrus with lean finish.
     price: "$68"
-- wine-category: White
-  wines:
+- drink-category: White
+  drinks:
   - title: Scarpetta Pinot Grigio, Friuli, ITA
     desc: Crisp and clean. Fresh lemons coupled by a mineral finish.
     price: "$22"
@@ -59,8 +59,8 @@ wines:
   - title: Little Boat Chardonnay, Russian River Valley, CA
     desc: Creamy and rich with lemon curd, papaya, mango and buttered pie crust.
     price: "$40"
-- wine-category: Rosé
-  wines:
+- drink-category: Rosé
+  drinks:
   - title: Commanderie de Peyrassol, Provence, FRA
     desc: Crunchy Cosmic Crisp apple flavors with a light coastal herbaceous nose.
     price: "$36"
@@ -70,8 +70,8 @@ wines:
   - title: Château Routas, Provence, FRA
     desc: Minerally and bright with underripe berry flavors and lilacs aromas.
     price: "$17"
-- wine-category: Red
-  wines:
+- drink-category: Red
+  drinks:
   - title: Boniperti, Vespolina, Piedmont, ITA
     desc: Candied Rainier cherries and rosewater with a touch of balsamic reduction.
     price: "$31"
@@ -133,7 +133,7 @@ wines:
   - title: Bedrock Old Vine Zinfandel, Sonoma Valley, CA
     desc: Brambly black fruits with peppery spice and vanilla.
     price: "$28"
-layout: wines
+layout: covid-drinks
 ---
 
 <!-- <h2 class="Display2 mb4">We're opening up our cellar for pick up at the restaurant or as an add-on to Family Meal delivery.</h2> -->
@@ -153,7 +153,7 @@ Our sommeliers are standing by, ready to help you find the perfect wine pairing.
 
 <div class="Divider mt6 op30"></div>
 <h2 class="Display2 mb0 mt4 d-mt6">The Full List</h2>
-<p class="mt2">Many wines offered at retail price. Download our full wine list <a target="_blank" href="https://canlis.com/uploads/winelist.pdf">here</a>.</p>
+<p class="mt2">Many drinks offered at retail price. Download our full wine list <a target="_blank" href="https://canlis.com/uploads/winelist.pdf">here</a>.</p>
 
 <div class="Divider mt2 op30 d-mt3"></div>
 

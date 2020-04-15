@@ -6,38 +6,38 @@ image: "/uploads/canlis_concept_csa.jpg"
 og_desc: "Support a farm! Get a curated box of the best ingredients, delivered to your door. It's dinner around the table, direct from our favorite farmers."
 og_photo: "/uploads/canlis_concept_csa.jpg"
 menu:
-- title: "Beets Wellington (Vegetarian) "
+- title:
   date: 2020-04-20 12:00:00
-  desc: "Roasted Beets and Mushroom Duxelles wrapped in puff pastry with Mushroom-Peppercorn Sauce, Cauliflower and Aged Pecorino Gratin, Canlis Salad (Bacon on the side), Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Strawberry and Rhubarb Crisp"
-  price: 48
-  order_link: https://www.exploretock.com/canlis/experience/115422/family-meal-on-april-16th-braised-pork-shoulder-ragu?date=2020-04-16&size=4&time=19%3A00
+  desc: 'An abundance of just-picked vegetables from half a dozen of our favorite farms. Plus: 1 Dozen Fresh Eggs, 1 Jar of Samish Bay yogurt, 1 piece of Tieton Farm & Creamery "Bianca" sheep and goat milk cheese.'
+  price: $80
+  order_link: ""
   is_soldout: false
   waitlist_link: ""
-- title: "Braised Rabbit White Lasagna "
+- title:
   date: 2020-04-21 12:00:00
-  desc: "Valley Farms Rabbit braised in white wine with Vegetables, Fiore Sardo Cheese and a White Bechamel Sauce, Woodfired Radishes and Arugula with Salsa Verde, Canlis Salad, Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Layered Chocolate Fudge Cake"
-  price: 58
+  desc: "An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea Breeze Farms Dry-Age Whole Duck (approx 4lbs), 2 lb Olsen Farms grass-fed ground beef, 1 dzn farm-fresh eggs."
+  price: $110
   order_link:
   is_soldout: true
   waitlist_link: ""
-- title: "Nana's Italian Sausage with Onions & Peppers"
+- title:
   date: 2020-04-22 12:00:00
-  desc: "Pork and Duck Sausage with Caramelized Spring Onions and Roasted Peppers // Creamy Stone-ground Polenta, Cannellini Bean & Root Vegetable Ragu, Canlis Salad, Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Raspberry, Rose, and Pistachio Pavlova"
-  price: 52
+  desc: "An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea Spring Rain Farm Fresh Roaster Chicken (Approx 3.5 lbs), 2 ea Olsen Farms Pork Loin Chops (Approx 1.5lbs), 1 dzn farm-fresh eggs."
+  price: $95
   order_link:
   is_soldout: false
   waitlist_link: ""
-- title: "Pork Shoulder Bo Ssam"
+- title:
   date: 2020-04-23 12:00:00
-  desc: "With All The Fixings: Slow-roasted Olson Farms Pork Shoulder, Bibb Lettuce, White Rice, Chive Pancakes, House-made Daikon Kimchi, Chilled Ginger Scallion Noodles, Hoisin Sauce, Vinegar-Braised Tatsoi and Mushrooms, Mochi Cake with Coconut Cream Sauce"
-  price: 65
+  desc: "An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea Painted Hills Ribeye Steaks, 1lb The Shambles Fresh Breakfast Sausage, 1 dzn farm-fresh eggs, 1 jar of Samish Bay plain Greek yogurt."
+  price: $105
   order_link:
   is_soldout: false
   waitlist_link: ""
-- title: "Dry-Aged Cote de Boeuf for Two "
+- title:
   date: 2020-04-24 12:00:00
-  desc: "Creamy Horseradish, Au jus, Creamed Spinach, Canlis Salad, Classic Canlis Forest Mushrooms, Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Upside Down Pineapple Cake with Coconut Macaroons"
-  price: 92
+  desc: "An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea Spring Rain Farm Fresh Roaster Chicken (Approx 3.5 lbs), 1 lb Olsen Farms grass-fed Ground Beef, 1 dozen farm-fresh eggs."
+  price: $95
   order_link:
   is_soldout: false
   waitlist_link: ""
