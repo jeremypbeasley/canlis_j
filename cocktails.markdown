@@ -10,7 +10,7 @@ drinks:
   drinks:
   - title: Almost Perfect
     volume: (makes 16 cocktails)
-    desc: Our signature cocktail, pictured above. Includes 750ml bottles of Stiggin's
+    desc: Our signature cocktail. Includes 750ml bottles of Stiggin's
       Fancy Rum, Cochi Americano, Meletti Amaro, and 375ml of Luxardo Maraschino.
       Also comes with grenadine, bitters, lemon peel, fresh flower garnish, and 16
       large ice squares.
