@@ -1,8 +1,7 @@
 ---
-title: Times are changing, and so are we. For now.
+title: Home
 is_alert_shown: false
-alert_text: ''
-layout: covid-home
+alert_text: 
 food_concepts:
 - title: Family Meal
   image: "/uploads/canlis_concept_familymeal.jpg"
@@ -44,10 +43,6 @@ fun_concepts:
   buttons:
   - label: How to Play
     link: "/bingo"
+layout: covid-home
 ---
 
-- title: Piano, Live from Dining Room
-  image: "/uploads/canlis_concept_piano.jpg"
-  desc: "“Live-streaming the smooth sounds of the city’s finest dining room…”  - Seattle Met"
-  button_label: "Watch on youtube"
-  button_link: "/piano"
