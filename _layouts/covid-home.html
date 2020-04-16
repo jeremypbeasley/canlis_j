@@ -7,9 +7,9 @@
   </div>
 {% endif %}
 
-<!-- <div class="Divider op20 mt10"></div> -->
+
 <div class="flex d-mt5"></div>
-<!-- <h1 class="Display1 mt4 d-mt10 mb2 CenterText">Delivery & Pickup</h1> -->
+
 <div class="flex flex-center">
   <div class="WelcomeMessage ml3 mr3 mt3 CenterText">
     <div class="mb2">In early March, we shut down our dining room. Fine dining is not what Seattle needs right now. Instead, we’re bringing the food to you. We’ve got this, Seattle.</div>
@@ -17,11 +17,13 @@
   </div>
 </div>
 
-<!-- <div class="flex flex-row d-mt5"></div> -->
+<div class="flex flex-center">
+  <div class="Divider op20 mt1 d-mt4 mb3 d-mb0"></div>
+  <h2 class="p0 mt1 d-mt8 mb1 Caption CenterText">Food & Drink</h2>
+</div>
+
 <div class="flex flex-row m3 d-m5 flex-center">
-<!-- <div class="mt8"> -->
-  <!-- <div class="Divider op20"></div> -->
-  {% for concept in page.concepts %}
+  {% for concept in page.food_concepts %}
     <div class="col ConceptBlock">
       <a class="NoLine" href="{{ concept.block_link }}">
         <div class="d-m0 d-p3">
@@ -42,5 +44,34 @@
     </div>
   {% endfor %}
 </div>
+
+<div class="flex flex-center">
+  <div class="Divider op20 mt1 d-mt4 mb3 d-mb0"></div>
+  <h2 class="p0 mt1 d-mt8 mb1 Caption CenterText">Old Fashioned Fun</h2>
+</div>
+
+<div class="flex flex-row m3 d-m5 flex-center">
+  {% for concept in page.fun_concepts %}
+    <div class="col ConceptBlock">
+      <a class="NoLine" href="{{ concept.block_link }}">
+        <div class="d-m0 d-p3">
+          <img class="rounded10 mb2" src="{{ concept.image }}"/>
+          <!-- <div class="mb1"><i>Delivery or Pickup</i></div> -->
+          <h2 class="p0 mt0 mb1 Display2">{{ concept.title }}</h2>
+          <div class="p0 mt0 mb1 op60">{{ concept.desc }}</div>
+          <div class="flex">
+            {% for button in concept.buttons %}
+              <div class="col p0 mt0 mb3 mr3">
+                <a class="NoLine Caption" href="{{ button.link }}">{{ button.label }}</a>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+        <div class="Divider ShowMobile op20 mb3 d-mb0"></div>
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
 
 {% include minifooter.html %}
