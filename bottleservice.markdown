@@ -20,7 +20,7 @@ drinks:
     price: "$208 ($13 per drink)"
     order_link: https://www.exploretock.com/canlis/experience/118017/canlis-cocktail-kits
     is_soldout: false
-    waitlist_link: ''
+    waitlist_link: 
   - title: Negroni
     volume: "(makes 16 cocktails)"
     desc: Includes full bottles of Sipsmith gin, Carpano Antica and Campari with 16
@@ -28,7 +28,7 @@ drinks:
     price: "$176 ($11 per drink)"
     order_link: https://www.exploretock.com/canlis/experience/118017/canlis-cocktail-kits
     is_soldout: false
-    waitlist_link: ''
+    waitlist_link: 
   - title: Manhattan
     volume: "(makes 12 cocktails)"
     desc: Includes 750ml bottle of Knob Creek Bourbon and 375ml of Carpano Antica,
@@ -36,7 +36,7 @@ drinks:
     price: "$120 ($10 per drink)"
     order_link: https://www.exploretock.com/canlis/experience/118017/canlis-cocktail-kits
     is_soldout: false
-    waitlist_link: ''
+    waitlist_link: 
   - title: Mai Tai
     volume: "(makes 16 cocktails)"
     desc: Includes 750ml bottles of Plantation Dark Rum and Pierre Ferrand Curacao.
@@ -45,7 +45,7 @@ drinks:
     price: "$144 ($12 per drink)"
     order_link: https://www.exploretock.com/canlis/experience/118017/canlis-cocktail-kits
     is_soldout: false
-    waitlist_link: ''
+    waitlist_link: 
   - title: Long Island Iced Tea
     volume: "(makes 24 cocktails) (seriously...space these out people)"
     desc: 'Think of this as an incredible way to stock your bar. Includes 1 liter
@@ -56,7 +56,7 @@ drinks:
     price: "$216 ($9 per drink)"
     order_link: https://www.exploretock.com/canlis/experience/118017/canlis-cocktail-kits
     is_soldout: false
-    waitlist_link: ''
+    waitlist_link: 
   - title: Margarita
     volume: "(makes 16 cocktails)"
     desc: Includes 1 liter bottle of Campo Bravo Plata Tequila and 750ml bottle of
@@ -65,15 +65,12 @@ drinks:
     price: "$160 ($10 per drink)"
     order_link: https://www.exploretock.com/canlis/experience/118017/canlis-cocktail-kits
     is_soldout: false
-    waitlist_link: ''
+    waitlist_link: 
 - drink-category: Sparkling Wine
   drinks:
   - title: NV Sorelle Bronca, Prosecco, ITA
     desc: Fresh and lively bubbles. Orange blossoms ripe pear.
     price: "$28"
-  - title: Schramsberg Brut, Napa Valley, CA
-    desc: Ripe apple and pear. Richly textured with a toasty finish.
-    price: "$42"
   - title: NV Robert Moncuit, Blanc de Blancs, Champagne, FRA
     desc: Pristine apples with lime zest evolve into clean minerality.
     price: "$53"
@@ -92,9 +89,6 @@ drinks:
     desc: Local chenin blanc from the talented Erica Orr. Medium bodied, stone fruit
       with a flinty finish.
     price: "$31"
-  - title: Fabien Duveau Saumur Blanc, Loire Valley, FRA
-    desc: Dry and mineral driven with bruised apple and honeysuckle.
-    price: "$33"
   - title: Peter Lauer Barrel X, Riesling, Mosel, DEU
     desc: Just offdry. pure, and fresh with candied lime, nectarine, flint, and slate.
     price: "$33"
@@ -107,18 +101,15 @@ drinks:
   - title: áMaurice Chardonnay, Conner Lee Vineyard, WA
     desc: Creamy textured, baked yellow apple with Myer lemon.
     price: "$47"
-  - title: Jean Marc Pillot Bourgogne Blanc, Burgundy, FRA
-    desc: Lean and clean. Granny smith apple flavors are backed by wet stone minerality.
-    price: "$42"
   - title: Walter Scott, Chardonnay, La Combe Verte, OR
     desc: Concentrated flavors of lemon and yellow apple with a crisp, lean finish.
     price: "$33"
   - title: Knoll Grüner Veltliner, Wachau, AUT
     desc: Complex with a fruity start leading into minerality and vegetative tones.
     price: "$42"
-  - title: Little Boat Chardonnay, Russian River Valley, CA
-    desc: Creamy and rich with lemon curd, papaya, mango and buttered pie crust.
-    price: "$40"
+  - title: Two Vintners, Grenache Blanc, Yakima, WA
+    desc: Light lemon oil with full ocean spray texture
+    price: "$31"
 - drink-category: Rosé
   drinks:
   - title: Commanderie de Peyrassol, Provence, FRA
@@ -126,15 +117,12 @@ drinks:
     price: "$36"
   - title: Kerloo Cellars, Lonesome Ranch, Yakima Valley, WA
     desc: Fresh and fun with tart flavors of strawberries and spring blossoms.
-    price: "$39"
+    price: "$29"
   - title: Château Routas, Provence, FRA
     desc: Minerally and bright with underripe berry flavors and lilacs aromas.
-    price: "$17"
+    price: "$21"
 - drink-category: Red Wine
   drinks:
-  - title: Boniperti, Vespolina, Piedmont, ITA
-    desc: Candied Rainier cherries and rosewater with a touch of balsamic reduction.
-    price: "$31"
   - title: Raconteur Cabernet Sauvignon, Columbia Valley, WA
     desc: Blackberry, plum, baking spices and fresh herbs.
     price: "$25"
@@ -148,9 +136,6 @@ drinks:
   - title: Soter, Pinot Noir, North Valley Reserve, Willamette, OR
     desc: Juicy cherry and cola nut on the nose lead into a black tea leaf finish.
     price: "$45"
-  - title: Domaine Drouhin, Pinot Noir, Willamette Valley, OR
-    desc: Red cherry, strawberry, delicate flowers with silky texture.
-    price: "$53"
   - title: Cristom Mt Jefferson Cuvée, Pinot Noir, OR
     desc: Red and black cherries, tea leaves and toasty finish.
     price: "$33"
@@ -171,16 +156,13 @@ drinks:
     price: "$38"
   - title: Quilceda Creek CVR, Red Blend, Columbia Valley, WA
     desc: Rich and structured Bordeaux blend from a Washington icon.
-    price: "$69"
+    price: "$60"
   - title: Cavallotto, Bricco Boschis, Barolo, Piedmont, ITA
     desc: Dried cherries, potpourri, black tea, and truffle.
     price: "$108"
   - title: áMaurice Malbec, Gamache Vineyard, Walla Walla, WA
     desc: Deep, brooding black and blue fruit, baking spices and violets.
     price: "$44"
-  - title: WT Vintners, Boushey Red Blend, Yakima Valley, WA
-    desc: Deep plum flavors with roasted meat aromas and peppered salami.
-    price: "$42"
   - title: Gramercy Lower East, Cabernet Sauvignon, WA
     desc: Rich and full with ripe black fruits and spices.
     price: "$42"
@@ -193,6 +175,9 @@ drinks:
   - title: Bedrock Old Vine Zinfandel, Sonoma Valley, CA
     desc: Brambly black fruits with peppery spice and vanilla.
     price: "$28"
+  - title: Kerloo Syrah, Black Rock, WA
+    desc: Meaty, smoky, savory. Black berries and olive tapenade.
+    price: "$35"
 layout: covid-drinks
 ---
 
