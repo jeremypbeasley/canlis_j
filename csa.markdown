@@ -16,7 +16,7 @@ menu:
   price: "$80"
   order_link: https://www.exploretock.com/canlis/experience/117975/420-monday-csa-box-just-veggies-dairy?date=2020-04-20&size=1&time=19%3A00
   is_soldout: false
-  waitlist_link: ''
+  waitlist_link: 
 - title: 
   date: 2020-04-21 05:00:00 -07:00
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea
@@ -25,7 +25,7 @@ menu:
   price: "$110"
   order_link: https://www.exploretock.com/canlis/experience/117981/421-tuesday-csa-box?date=2020-04-21&size=1&time=19%3A00
   is_soldout: false
-  waitlist_link: ''
+  waitlist_link: 
 - title: 
   date: 2020-04-22 05:00:00 -07:00
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -34,7 +34,7 @@ menu:
   price: "$95"
   order_link: https://www.exploretock.com/canlis/experience/117986/422-wednesday-csa-box?date=2020-04-22&size=1&time=19%3A00
   is_soldout: false
-  waitlist_link: ''
+  waitlist_link: 
 - title: 
   date: 2020-04-23 05:00:00 -07:00
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -42,8 +42,8 @@ menu:
     eggs, 1 jar of Samish Bay plain Greek yogurt.'
   price: "$105"
   order_link: https://www.exploretock.com/canlis/experience/117988/423-thursday-csa-box?date=2020-04-23&size=1&time=19%3A00
-  is_soldout: false
-  waitlist_link: ''
+  is_soldout: true
+  waitlist_link: https://www.exploretock.com/canlis/waitlist?date=2020-04-23&experienceId=117988&fromPage=experience&size=1
 - title: 
   date: 2020-04-24 05:00:00 -07:00
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -52,7 +52,7 @@ menu:
   price: "$95"
   order_link: https://www.exploretock.com/canlis/experience/117991/424-friday-csa-box?date=2020-04-24&size=1&time=19%3A00
   is_soldout: false
-  waitlist_link: ''
+  waitlist_link: 
 layout: covid-menu
 ---
 
