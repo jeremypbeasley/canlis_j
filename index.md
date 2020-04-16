@@ -30,14 +30,16 @@ food_concepts:
 fun_concepts:
 - title: Piano
   image: "/uploads/canlis_concept_piano.jpg"
-  desc: "“Livestreaming the smooth sounds of the city’s finest dining room…”  - Seattle Met"
+  desc: "“Livestreaming the smooth sounds of the city’s finest dining room…”  - Seattle
+    Met"
   block_link: "/piano"
   buttons:
   - label: Watch Now
     link: "/piano"
 - title: Bingo
   image: "/uploads/canlis_concept_bingo.jpg"
-  desc: "Every Friday night, we livestream the hottest family fun in town, right to your living room."
+  desc: Every Friday night, we livestream the hottest family fun in town, right to
+    your living room.
   block_link: "/bingo"
   buttons:
   - label: How to Play
