@@ -15,7 +15,7 @@ layout: events
 
 3.) Text us a photo of your winning bingo card (and the Canlis Family Meal stamp on the back) as fast as you can 
 
-(408) 702-1978
+(480) 702-1978
 
 <p class="op60" style="font-size: .7rem">No purchase necessary. If you’d like to play, send us a postcard with your address. We'll mail you a bingo card that can be used any Friday night. 2576 Aurora Ave N. Seattle, WA 98109</p>
 
