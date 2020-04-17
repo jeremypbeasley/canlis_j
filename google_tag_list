@@ -1,0 +1,26 @@
+Categories:
+
+- Home
+- Family Meal
+- CSA
+- Bottle Service
+
+Actions:
+
+- Click
+
+Label:
+
+- Clicked [Meal Date]
+- Clicked Continue to Tock
+- Clicked [Page Title]
+
+onclick=”ga(‘send’, ‘event’, ‘Category’, ‘Action’, ‘Label’, ‘Value’);”
+
+
+-----------
+
+
+Home Page:
+
+onclick=”ga(‘send’, ‘event’, ‘Family Meal’, ‘Click’, ‘Clicked{{NAME}}’, ‘XXXXX’);”
