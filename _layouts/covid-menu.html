@@ -35,6 +35,11 @@
             {% else %}
             <div class="mb4 mt3">
               <a
+              onclick="gtag("event", "Click", {
+                "event_category": "Family Meal",
+                "event_label": "Clicked Meal - {{ item.title }}",
+                "value": "XXXXX"
+              })"
               class="TockButton mt3 mb4 OrderLink"
               data-link="{{ item.order_link }}"
               >
