@@ -7,6 +7,12 @@ image: "/uploads/canlis_bingo.jpg"
 layout: events
 ---
 
+<div class="EventsButton mt1 mb10">
+  <a class="https://youtu.be/NX5b_KJxk14">
+    Watch on Youtube
+  </a>
+</div>
+
 <p class="Caption mb2">How to play</p>
 
 1.) Watch the livestream. Video will appear on this link on April 17th at 8:30PM.
