@@ -1,9 +1,9 @@
 ---
 title: Family Meal
 date: 2020-03-13 16:19:00 -07:00
-desc: 'Dinner from our kitchen and a bottle of wine on your doorstep with zero contact. '
+desc: "Dinner from the Canlis kitchen to your doorstep, all with zero contact. \n"
 image: "/uploads/canlis_concept_familymeal.jpg"
-og_desc: Home-cooked dinner & a bottle of wine on your doorstep. Menu changes daily.
+og_desc: 'Dinner from the Canlis kitchen to your doorstep, all with zero contact. '
 og_photo: "/uploads/canlis_concept_familymeal.jpg"
 menu:
 - title: 'Beets Wellington (Vegetarian) '
