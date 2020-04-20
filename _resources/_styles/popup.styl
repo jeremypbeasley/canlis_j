@@ -1,4 +1,4 @@
-.Popup {
+b.Popup {
   display: none;
   transition: all 1s 200ms ease-out;
 }
@@ -74,7 +74,6 @@
   box-shadow: 5px 5px 0px 0px black;
   left: 50%;
   margin-left: -164px;
-
 }
 
 @media laptop {
@@ -82,6 +81,7 @@
     margin: 16px;
     margin-left: -187px;
     margin-top: 15vh;
+    max-width: 500px;
   }
 }
 
@@ -92,4 +92,10 @@
 
 .PopupContent {
   padding: unit4 unit4 unit5 unit4;
+}
+
+@media laptop {
+  .PopupContent {
+    padding: unit8 unit8 unit10 unit10;
+  }
 }

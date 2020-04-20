@@ -4390,7 +4390,7 @@ input[type=submit] {
 .AnnouncementContent {
   padding: 35px;
 }
-.Popup {
+b.Popup {
   display: none;
   transition: all 1s 200ms ease-out;
 }
@@ -4462,6 +4462,7 @@ input[type=submit] {
     margin: 16px;
     margin-left: -187px;
     margin-top: 15vh;
+    max-width: 500px;
   }
 }
 .Popup.active .PopupCard {
@@ -4470,6 +4471,11 @@ input[type=submit] {
 }
 .PopupContent {
   padding: 32px 32px 40px 32px;
+}
+@media (min-width: 62em) {
+  .PopupContent {
+    padding: 64px 64px 80px 80px;
+  }
 }
 .CovidLogo {
   max-width: 100px;
@@ -4506,6 +4512,9 @@ input[type=submit] {
 }
 .TockButtonSoldOut a {
   opacity: 0.5;
+}
+.TockButtonLocal {
+  background: #000;
 }
 .SoldOut {
   max-width: 400px;
