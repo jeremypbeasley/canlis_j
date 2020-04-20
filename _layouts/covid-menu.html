@@ -37,13 +37,26 @@
               <a
               onclick="gtag("event", "Click", {
                 "event_category": "Family Meal",
-                "event_label": "Clicked Meal - {{ item.title }}",
+                "event_label": "Clicked Meal for 2 - {{ item.title }}",
                 "value": "XXXXX"
               })"
-              class="TockButton mt3 mb4 OrderLink"
+              class="TockButton TockButtonLocal mt3 mb4 OrderLink"
               data-link="{{ item.order_link }}"
               >
-                Order on Tock
+                Party of 2
+              </a>
+            </div>
+            <div class="mb4 mt3">
+              <a
+              onclick="gtag("event", "Click", {
+                "event_category": "Family Meal",
+                "event_label": "Clicked Meal for 4 - {{ item.title }}",
+                "value": "XXXXX"
+              })"
+              class="TockButton TockButtonLocal mt3 mb4 OrderLink"
+              data-link="{{ item.order_link }}"
+              >
+                Party of 4
               </a>
             </div>
             {% endif %}
