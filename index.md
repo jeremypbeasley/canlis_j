@@ -1,11 +1,11 @@
 ---
 title: Home
 is_alert_shown: false
-alert_text: 
+alert_text:
 food_concepts:
 - title: Family Meal
   image: "/uploads/canlis_concept_familymeal.jpg"
-  desc: 'Dinner from our kitchen and a bottle of wine on your doorstep with zero contact. '
+  desc: 'Dinner from our kitchen to your doorstep. Add a bottle or wine or cocktail kit. Zero contact.'
   block_link: "/familymeal"
   buttons:
   - label: Explore the menu
