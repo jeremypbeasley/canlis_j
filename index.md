@@ -1,12 +1,13 @@
 ---
 title: Home
 is_alert_shown: false
-alert_text:
-food_concepts_title: "Food & Drink"
+alert_text: 
+food_concepts_title: Food & Drink
 food_concepts:
 - title: Family Meal
   image: "/uploads/canlis_concept_familymeal.jpg"
-  desc: 'Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost.'
+  desc: Dinner from our kitchen to your doorstep with zero contact. Add wine from
+    our storied cellar at an additional cost.
   block_link: "/familymeal"
   buttons:
   - label: Explore the menu
@@ -27,7 +28,7 @@ food_concepts:
   buttons:
   - label: Cocktail Kits & Wine
     link: "/bottleservice"
-fun_concepts_title: "Old-fashioned Fun"
+fun_concepts_title: Old-fashioned Fun
 fun_concepts:
 - title: Piano
   image: "/uploads/canlis_concept_piano.jpg"
