@@ -24,3 +24,9 @@ onclick=”ga(‘send’, ‘event’, ‘Category’, ‘Action’, ‘Label’
 Home Page:
 
 onclick=”ga(‘send’, ‘event’, ‘Family Meal’, ‘Click’, ‘Clicked{{NAME}}’, ‘XXXXX’);”
+
+onclick="gtag('event', Click, {
+  'event_category': Family Meal,
+  'event_label': Clicked{{NAME}},
+  'value': 'XXXXX'
+})"
