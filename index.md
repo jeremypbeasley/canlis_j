@@ -6,8 +6,7 @@ food_concepts_title: Food & Drink
 food_concepts:
 - title: Family Meal
   image: "/uploads/canlis_concept_familymeal.jpg"
-  desc: Dinner from our kitchen to your doorstep with zero contact. Add wine from
-    our storied cellar at an additional cost.
+  desc: 'Dinner from the Canlis kitchen to your doorstep, all with zero contact. '
   block_link: "/familymeal"
   buttons:
   - label: Explore the menu
