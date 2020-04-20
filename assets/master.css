@@ -4390,7 +4390,7 @@ input[type=submit] {
 .AnnouncementContent {
   padding: 35px;
 }
-b.Popup {
+.Popup {
   display: none;
   transition: all 1s 200ms ease-out;
 }
@@ -4449,7 +4449,6 @@ b.Popup {
   z-index: 99999;
   margin: 16px;
   opacity: 0;
-  transition: all 1s 200ms ease-out;
   overflow: hidden;
   border-radius: 10px;
   border: 1px solid #000;
@@ -4512,9 +4511,6 @@ b.Popup {
 }
 .TockButtonSoldOut a {
   opacity: 0.5;
-}
-.TockButtonLocal {
-  background: #000;
 }
 .SoldOut {
   max-width: 400px;
