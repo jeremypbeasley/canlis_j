@@ -38,8 +38,8 @@ menu:
 - title: 
   date: 2020-04-23 05:00:00 -07:00
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
-    Painted Hills Ribeye Steaks, 1lb The Shambles Fresh Breakfast Sausage, 1 dzn farm-fresh
-    eggs, 1 jar of Samish Bay plain Greek yogurt.'
+    Painted Hills Ribeye Steaks, 1lb Scott’s Breakfast Sausage, 1 dzn farm-fresh eggs,
+    1 jar of Samish Bay plain Greek yogurt.'
   price: "$105"
   order_link: https://www.exploretock.com/canlis/experience/117988/423-thursday-csa-box?date=2020-04-23&size=1&time=19%3A00
   is_soldout: true
