@@ -1,9 +1,11 @@
 ---
 title: Family Meal
 date: 2020-03-13 16:19:00 -07:00
-desc: "Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost."
+desc: Dinner from our kitchen to your doorstep with zero contact. Add wine from our
+  storied cellar at an additional cost.
 image: "/uploads/canlis_concept_familymeal.jpg"
-og_desc: "Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost."
+og_desc: Dinner from our kitchen to your doorstep with zero contact. Add wine from
+  our storied cellar at an additional cost.
 og_photo: "/uploads/canlis_concept_familymeal.jpg"
 menu:
 - title: 'Beets Wellington (Vegetarian) '
@@ -15,7 +17,7 @@ menu:
   price: "$48 per person"
   order_link: https://www.exploretock.com/canlis/experience/117947/family-meal-on-april-20th-beets-wellington-vegetarian
   is_soldout: false
-  waitlist_link:
+  waitlist_link: 
 - title: 'Braised Rabbit White Lasagna '
   date: 2020-04-21 05:00:00 -07:00
   desc: Valley Farms Rabbit braised in white wine with Vegetables, Fiore Sardo Cheese
@@ -35,7 +37,7 @@ menu:
   price: "$52 per person"
   order_link: https://www.exploretock.com/canlis/experience/117963/family-meal-on-april-22nd-nanas-italian-sausage-with-onions-peppers
   is_soldout: false
-  waitlist_link:
+  waitlist_link: 
 - title: Pork Shoulder Bo Ssam
   date: 2020-04-23 05:00:00 -07:00
   desc: 'With All The Fixings: Slow-roasted Olson Farms Pork Shoulder, Bibb Lettuce,
@@ -54,7 +56,7 @@ menu:
   price: "$92 per person"
   order_link: https://www.exploretock.com/canlis/experience/117967/family-meal-on-april-24th-dry-aged-cote-de-boeuf-for-two
   is_soldout: false
-  waitlist_link:
+  waitlist_link: 
 layout: covid-menu
 ---
 
