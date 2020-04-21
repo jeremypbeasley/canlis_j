@@ -15,7 +15,7 @@ layout: events
   </a>
 </div>
 
-If you're looking for Bingo Night, head on over <a href="/bingo">here</a> for how to play or just click the link above and join the livestream at 8:30 PST.
+If you're looking for Bingo Night, head on over <a href="/bingo">here</a> for how to play or just click the link above and join the livestream at 8:30 PST on Fridays.
 
 <p class="Caption">Featuring</p>
 
