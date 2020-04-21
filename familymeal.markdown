@@ -1,9 +1,9 @@
 ---
 title: Family Meal
 date: 2020-03-13 16:19:00 -07:00
-desc: 'Dinner from our kitchen and a bottle of wine on your doorstep with zero contact. '
+desc: "Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost."
 image: "/uploads/canlis_concept_familymeal.jpg"
-og_desc: Home-cooked dinner & a bottle of wine on your doorstep. Menu changes daily.
+og_desc: "Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost."
 og_photo: "/uploads/canlis_concept_familymeal.jpg"
 menu:
 - title: 'Beets Wellington (Vegetarian) '
@@ -44,8 +44,8 @@ menu:
     Cream Sauce'
   price: "$65 per person"
   order_link: https://www.exploretock.com/canlis/experience/117965/family-meal-on-april-23rd-pork-shoulder-bo-ssam
-  is_soldout: false
-  waitlist_link:
+  is_soldout: true
+  waitlist_link: https://www.exploretock.com/canlis/waitlist?date=2020-04-23&experienceId=117965&fromPage=experience&size=2
 - title: 'Dry-Aged Cote de Boeuf for Two '
   date: 2020-04-24 05:00:00 -07:00
   desc: Creamy Horseradish, Au jus, Creamed Spinach, Canlis Salad, Classic Canlis
@@ -57,4 +57,6 @@ menu:
   waitlist_link:
 layout: covid-menu
 ---
+Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost.
 
+Sales go live here every Wednesday at 1PM for the following week.
