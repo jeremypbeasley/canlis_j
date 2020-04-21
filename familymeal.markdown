@@ -44,8 +44,13 @@ menu:
     Cream Sauce'
   price: "$65 per person"
   order_link: https://www.exploretock.com/canlis/experience/117965/family-meal-on-april-23rd-pork-shoulder-bo-ssam
+<<<<<<< HEAD
   is_soldout: true
   waitlist_link: https://www.exploretock.com/canlis/waitlist?date=2020-04-23&experienceId=117965&fromPage=experience&size=2
+=======
+  is_soldout: false
+  waitlist_link:
+>>>>>>> 4be166fc0110fbb1cf71319aef5c4e023aff16a6
 - title: 'Dry-Aged Cote de Boeuf for Two '
   date: 2020-04-24 05:00:00 -07:00
   desc: Creamy Horseradish, Au jus, Creamed Spinach, Canlis Salad, Classic Canlis
