@@ -42,7 +42,7 @@ menu:
     1 jar of Samish Bay plain Greek yogurt.'
   price: "$105"
   order_link: https://www.exploretock.com/canlis/experience/117988/423-thursday-csa-box?date=2020-04-23&size=1&time=19%3A00
-  is_soldout: true
+  is_soldout: false
   waitlist_link: https://www.exploretock.com/canlis/waitlist?date=2020-04-23&experienceId=117988&fromPage=experience&size=1
 - title: 
   date: 2020-04-24 05:00:00 -07:00
