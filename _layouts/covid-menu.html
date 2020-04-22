@@ -21,38 +21,42 @@
             {% endif %}
             <div class="p0 mt0 mb2">{{ item.price }}</div>
             <div class="p0 mt0 mb2 op60">{{ item.desc }}</div>
-            {% if item.is_soldout == true %}
-            <div class="flex mt3 mb4 SoldOut">
-              <div class="col">
-                <a class="TockButton TockButtonSoldOut op20">
-                    Sold Out
-                </a>
+            {% if item.is_live == true %}
+              {% if item.is_soldout == true %}
+              <div class="flex mt3 mb4 SoldOut">
+                <div class="col">
+                  <a class="TockButton TockButtonSoldOut op20">
+                      Sold Out
+                  </a>
+                </div>
+                <div class="col col-twothirds">
+                  <a
+                    class="Caption NoLine color-tock-blue m2"
+                    target="_blank"
+                    href="https://www.exploretock.com/canlis/waitlist?experienceId={{ item.experience_id }}"
+                  >
+                    Join Waitlist
+                  </a>
+                </div>
               </div>
-              <div class="col col-twothirds">
+              {% else %}
+              <div class="mb4 mt3">
                 <a
-                  class="Caption NoLine color-tock-blue m2"
-                  target="_blank"
-                  href="https://www.exploretock.com/canlis/waitlist?experienceId={{ item.experience_id }}"
+                onclick="gtag("event", "Click", {
+                  "event_category": "Family Meal",
+                  "event_label": "Clicked Meal for 2 - {{ item.title }}",
+                  "value": "XXXXX"
+                })"
+                class="TockButton TockButtonLocal mt3 mb4 OrderLink"
+                data-link="https://exploretock.com/canlis/experience/{{ item.experience_id }}/"
                 >
-                  Join Waitlist
+                  Order on Tock
                 </a>
               </div>
-            </div>
-            {% else %}
-            <div class="mb4 mt3">
-              <a
-              onclick="gtag("event", "Click", {
-                "event_category": "Family Meal",
-                "event_label": "Clicked Meal for 2 - {{ item.title }}",
-                "value": "XXXXX"
-              })"
-              class="TockButton TockButtonLocal mt3 mb4 OrderLink"
-              data-link="https://exploretock.com/canlis/experience/{{ item.experience_id }}/"
-              >
-                Order on Tock
-              </a>
-            </div>
-            {% endif %}
+              {% endif %} <!-- end is_soldout -->
+              {% else %}
+              <p class="color-tock-blue mt1 mb2 p0">This experience will go live today, at 1:00PM PST</p>
+            {% endif %} <!-- end is_live -->
             <div class="Divider op20 mb3 d-mb0"></div>
           </div>
         {% endif %}
