@@ -25,7 +25,7 @@ drinks:
     desc: Includes full bottles of Sipsmith gin, Carpano Antica and Campari with 16
       large ice squares, and orange peel garnish.
     price: "$176 ($11 per drink)"
-    experience_id: 118017    
+    experience_id: 118017
     is_soldout: false
   - title: Manhattan
     volume: "(makes 12 cocktails)"
