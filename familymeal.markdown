@@ -7,6 +7,7 @@ image: "/uploads/canlis_concept_familymeal.jpg"
 og_desc: Dinner from our kitchen to your doorstep with zero contact. Add wine from
   our storied cellar at an additional cost.
 og_photo: "/uploads/canlis_concept_familymeal.jpg"
+layout: covid-menu
 menu:
 - title: 'Beets Wellington (Vegetarian) '
   date: 2020-04-20 05:00:00 -07:00
@@ -17,7 +18,7 @@ menu:
   price: "$48 per person"
   order_link: https://www.exploretock.com/canlis/experience/117947/family-meal-on-april-20th-beets-wellington-vegetarian
   is_soldout: false
-  waitlist_link: 
+  waitlist_link:
 - title: 'Braised Rabbit White Lasagna '
   date: 2020-04-21 05:00:00 -07:00
   desc: Valley Farms Rabbit braised in white wine with Vegetables, Fiore Sardo Cheese
@@ -37,7 +38,7 @@ menu:
   price: "$52 per person"
   order_link: https://www.exploretock.com/canlis/experience/117963/family-meal-on-april-22nd-nanas-italian-sausage-with-onions-peppers
   is_soldout: false
-  waitlist_link: 
+  waitlist_link:
 - title: Pork Shoulder Bo Ssam
   date: 2020-04-23 05:00:00 -07:00
   desc: 'With All The Fixings: Slow-roasted Olson Farms Pork Shoulder, Bibb Lettuce,
@@ -56,8 +57,43 @@ menu:
   price: "$92 per person"
   order_link: https://www.exploretock.com/canlis/experience/117967/family-meal-on-april-24th-dry-aged-cote-de-boeuf-for-two
   is_soldout: false
-  waitlist_link: 
-layout: covid-menu
+  waitlist_link:
+- title: 'Wild Mushroom and Roasted Tomato Lasagna (Vegetarian)'
+  date: 2020-04-27 00:00:00 -07:00
+  desc: 'Mozzarella, Ricotta, and Basil // Roasted Asparagus // Canlis Salad (bacon on the side) // Brioche Rolls and Cherry Valley Butter // Chocolate Peanut Butter Sandwich Cookies'
+  price: "$44 per person"
+  order_link: https://www.exploretock.com/canlis
+  is_soldout: false
+  waitlist_link:
+- title: 'Herb-Crusted Roast Leg of Lamb'
+  date: 2020-04-28 00:00:00 -07:00
+  desc: 'Naturally Leavened Laffa Bread // Skagit Valley Barley and Herb Tabbouleh // Canlis Salad, Tehina Hummus // Olives and Feta // Homemade Baklava'
+  price: "$54 per person"
+  order_link: https://www.exploretock.com/canlis
+  is_soldout: false
+  waitlist_link:
+- title: 'Olsen Farms Pork Shoulder in Green Coconut Curry '
+  date: 2020-04-29 00:00:00 -07:00
+  desc: 'White rice // Blistered and Chilled Green Beans with Cherry Tomato and Lime // Roasted Broccoli Raab with Fermented Black Bean Sauce // Young Lettuce and Herb Salad with Peanuts in Fish Sauce-Citronette // Black Sticky Rice Pudding'
+  price: "$52 per person"
+  order_link: https://www.exploretock.com/canlis
+  is_soldout: false
+  waitlist_link:
+- title: 'Braised Wagyu Short Rib'
+  date: 2020-04-30 00:00:00 -07:00
+  desc: 'Roasted Fingerling Potato Salad // Spring Onions and Fennel roasted in Pernod butter // Canlis Salad // Brioche Rolls and Cherry Valley Butter  // Lemon Meringue Tart'
+  price: "$64 per person"
+  order_link: https://www.exploretock.com/canlis
+  is_soldout: false
+  waitlist_link:
+- title: 'Dry-Aged Duck Cassoulet'
+  date: 2020-05-01 00:00:00 -07:00
+  desc: 'Sea Breeze Farm Dry-Aged Duck Confit + Olsen Farms Pork Sausage and Cannellini Beans // Canlis Forest Mushrooms // Canlis Salad // Brioche Rolls and Cherry Valley Butter  // Chocolate Pot de Creme'
+  price: "$58 per person"
+  order_link: https://www.exploretock.com/canlis
+  is_soldout: false
+  waitlist_link:
+
 ---
 
 Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost.
