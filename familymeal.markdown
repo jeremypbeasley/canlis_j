@@ -11,7 +11,7 @@ layout: covid-menu
 menu:
 - title: 'Beets Wellington (Vegetarian) '
   date: 2020-04-20 05:00:00 -07:00
-  experience_id:
+  experience_id: 
   desc: Roasted Beets and Mushroom Duxelles wrapped in puff pastry with Mushroom-Peppercorn
     Sauce, Cauliflower and Aged Pecorino Gratin, Canlis Salad (Bacon on the side),
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Strawberry and Rhubarb
@@ -21,7 +21,7 @@ menu:
   is_live: true
 - title: 'Braised Rabbit White Lasagna '
   date: 2020-04-21 05:00:00 -07:00
-  experience_id:
+  experience_id: 
   desc: Valley Farms Rabbit braised in white wine with Vegetables, Fiore Sardo Cheese
     and a White Bechamel Sauce, Woodfired Radishes and Arugula with Salsa Verde, Canlis
     Salad, Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Layered Chocolate
@@ -31,7 +31,7 @@ menu:
   is_live: true
 - title: Nana's Italian Sausage with Onions & Peppers
   date: 2020-04-22 05:00:00 -07:00
-  experience_id:
+  experience_id: 
   desc: Pork and Duck Sausage with Caramelized Spring Onions and Roasted Peppers,
     Creamy Stone-ground Polenta, Cannellini Bean & Root Vegetable Ragu, Canlis Salad,
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Raspberry, Rose, and
@@ -49,7 +49,7 @@ menu:
   price: "$65 per person"
   is_soldout: true
   is_live: true
-- title: 'Dry-Aged Cote de Boeuf'
+- title: Dry-Aged Cote de Boeuf
   date: 2020-04-24 05:00:00 -07:00
   experience_id: 117967
   desc: Creamy Horseradish, Au jus, Creamed Spinach, Canlis Salad, Classic Canlis
@@ -58,38 +58,47 @@ menu:
   price: "$92 per person"
   is_soldout: false
   is_live: true
-- title: 'Wild Mushroom and Roasted Tomato Lasagna (Vegetarian)'
+- title: Wild Mushroom and Roasted Tomato Lasagna (Vegetarian)
   date: 2020-04-27 00:00:00 -07:00
   experience_id: 117947
-  desc: 'Mozzarella, Ricotta, and Basil // Roasted Asparagus // Canlis Salad (bacon on the side) // Brioche Rolls and Cherry Valley Butter // Chocolate Peanut Butter Sandwich Cookies'
+  desc: Mozzarella, Ricotta, and Basil // Roasted Asparagus // Canlis Salad (bacon
+    on the side) // Brioche Rolls and Cherry Valley Butter // Chocolate Peanut Butter
+    Sandwich Cookies
   price: "$44 per person"
   is_soldout: false
   is_live: false
-- title: 'Herb-Crusted Roast Leg of Lamb'
+- title: Herb-Crusted Roast Leg of Lamb
   date: 2020-04-28 00:00:00 -07:00
   experience_id: 120950
-  desc: 'Naturally Leavened Laffa Bread // Skagit Valley Barley and Herb Tabbouleh // Canlis Salad, Tehina Hummus // Olives and Feta // Homemade Baklava'
+  desc: Naturally Leavened Laffa Bread // Skagit Valley Barley and Herb Tabbouleh
+    // Canlis Salad, Tehina Hummus // Olives and Feta // Homemade Baklava
   price: "$54 per person"
   is_soldout: false
   is_live: false
 - title: 'Olsen Farms Pork Shoulder in Green Coconut Curry '
   date: 2020-04-29 00:00:00 -07:00
   experience_id: 120957
-  desc: 'White rice // Blistered and Chilled Green Beans with Cherry Tomato and Lime // Roasted Broccoli Raab with Fermented Black Bean Sauce // Young Lettuce and Herb Salad with Peanuts in Fish Sauce-Citronette // Black Sticky Rice Pudding'
+  desc: White rice // Blistered and Chilled Green Beans with Cherry Tomato and Lime
+    // Roasted Broccoli Raab with Fermented Black Bean Sauce // Young Lettuce and
+    Herb Salad with Peanuts in Fish Sauce-Citronette // Black Sticky Rice Pudding
   price: "$52 per person"
   is_soldout: false
   is_live: false
-- title: 'Braised Wagyu Short Rib'
+- title: Braised Wagyu Short Rib
   date: 2020-04-30 00:00:00 -07:00
   experience_id: 120959
-  desc: 'Roasted Fingerling Potato Salad // Spring Onions and Fennel roasted in Pernod butter // Canlis Salad // Brioche Rolls and Cherry Valley Butter  // Lemon Meringue Tart'
+  desc: Roasted Fingerling Potato Salad // Spring Onions and Fennel roasted in Pernod
+    butter // Canlis Salad // Brioche Rolls and Cherry Valley Butter  // Lemon Meringue
+    Tart
   price: "$64 per person"
   is_soldout: false
   is_live: false
-- title: 'Dry-Aged Duck Cassoulet'
+- title: Dry-Aged Duck Cassoulet
   date: 2020-05-01 00:00:00 -07:00
   experience_id: 120964
-  desc: 'Sea Breeze Farm Dry-Aged Duck Confit + Olsen Farms Pork Sausage and Cannellini Beans // Canlis Forest Mushrooms // Canlis Salad // Brioche Rolls and Cherry Valley Butter  // Chocolate Pot de Creme'
+  desc: Sea Breeze Farm Dry-Aged Duck Confit + Olsen Farms Pork Sausage and Cannellini
+    Beans // Canlis Forest Mushrooms // Canlis Salad // Brioche Rolls and Cherry Valley
+    Butter  // Chocolate Pot de Creme
   price: "$58 per person"
   is_soldout: false
   is_live: false
