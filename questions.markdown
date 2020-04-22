@@ -15,7 +15,7 @@ In the middle of the night we coined the phrase “We’ve got this, Seattle.”
 
 <h2 class="Display2 mb4">When will fine dining at Canlis re-open?</h2>
 
-We’ll reopen when the schools re-open, when on-site work resumes, when and the people of our city start asking for their restaurant back. We’ll re-open when we as a nation have made it through this together, when we're ready to raise a glass to humanity and the way we re-learned just how alike we all are.
+We’ll reopen when the schools re-open, when on-site work resumes, when the people of our city start asking for their restaurant back. We’ll re-open when we as a nation have made it through this together, when we're ready to raise a glass to humanity and the way we re-learned just how alike we all are.
 
 <h2 class="Display2 mb4">What if I currently have a reservation?</h2>
 
