@@ -9,7 +9,7 @@ og_desc: Support a farm! Get a curated box of the best ingredients, delivered to
 og_photo: "/uploads/canlis_concept_csa.jpg"
 layout: covid-menu
 menu:
-- title: 
+- title:
   date: 2020-04-20 05:00:00 -07:00
   experience_id: ''
   desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
@@ -18,7 +18,7 @@ menu:
   price: "$80"
   is_soldout: false
   is_live: true
-- title: 
+- title:
   date: 2020-04-21 05:00:00 -07:00
   experience_id: ''
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea
@@ -27,7 +27,7 @@ menu:
   price: "$110"
   is_soldout: false
   is_live: true
-- title: 
+- title:
   date: 2020-04-22 05:00:00 -07:00
   experience_id: ''
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -36,7 +36,7 @@ menu:
   price: "$95"
   is_soldout: false
   is_live: true
-- title: 
+- title:
   date: 2020-04-23 05:00:00 -07:00
   experience_id: ''
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -45,7 +45,7 @@ menu:
   price: "$105"
   is_soldout: true
   is_live: true
-- title: 
+- title:
   date: 2020-04-24 05:00:00 -07:00
   experience_id: ''
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -54,7 +54,7 @@ menu:
   price: "$95"
   is_soldout: true
   is_live: true
-- title: 
+- title:
   date: 2020-04-27 00:00:00 -07:00
   experience_id: 120972
   desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
@@ -62,8 +62,8 @@ menu:
     Farm & Creamery "Bianca" sheep and goat milk cheese.'
   price: "$75"
   is_soldout: false
-  is_live: false
-- title: 
+  is_live: true
+- title:
   date: 2020-04-28 00:00:00 -07:00
   experience_id: 120974
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -71,8 +71,8 @@ menu:
     beef, 1 dzn farm-fresh eggs and 1 jar of Samish Bay plain Greek yogurt'
   price: "$105"
   is_soldout: false
-  is_live: false
-- title: 
+  is_live: true
+- title:
   date: 2020-04-29 00:00:00 -07:00
   experience_id: 120978
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -81,8 +81,8 @@ menu:
     Mill Club Cara flour'
   price: "$95"
   is_soldout: false
-  is_live: false
-- title: 
+  is_live: true
+- title:
   date: 2020-04-30 00:00:00 -07:00
   experience_id: 120982
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -90,8 +90,8 @@ menu:
     eggs, 1 jar of Samish Bay plain Greek yogurt'
   price: "$105"
   is_soldout: false
-  is_live: false
-- title: 
+  is_live: true
+- title:
   date: 2020-05-01 00:00:00 -07:00
   experience_id: 120985
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -100,7 +100,7 @@ menu:
     Club Cara flour'
   price: "$95"
   is_soldout: false
-  is_live: false
+  is_live: true
 ---
 
 Support a farm! Get a curated box of the best ingredients, delivered to your door. It's dinner around the table, direct from our favorite farmers.

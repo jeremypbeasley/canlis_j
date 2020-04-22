@@ -11,7 +11,7 @@ layout: covid-menu
 menu:
 - title: 'Beets Wellington (Vegetarian) '
   date: 2020-04-20 05:00:00 -07:00
-  experience_id: 
+  experience_id:
   desc: Roasted Beets and Mushroom Duxelles wrapped in puff pastry with Mushroom-Peppercorn
     Sauce, Cauliflower and Aged Pecorino Gratin, Canlis Salad (Bacon on the side),
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Strawberry and Rhubarb
@@ -21,7 +21,7 @@ menu:
   is_live: true
 - title: 'Braised Rabbit White Lasagna '
   date: 2020-04-21 05:00:00 -07:00
-  experience_id: 
+  experience_id:
   desc: Valley Farms Rabbit braised in white wine with Vegetables, Fiore Sardo Cheese
     and a White Bechamel Sauce, Woodfired Radishes and Arugula with Salsa Verde, Canlis
     Salad, Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Layered Chocolate
@@ -31,7 +31,7 @@ menu:
   is_live: true
 - title: Nana's Italian Sausage with Onions & Peppers
   date: 2020-04-22 05:00:00 -07:00
-  experience_id: 
+  experience_id:
   desc: Pork and Duck Sausage with Caramelized Spring Onions and Roasted Peppers,
     Creamy Stone-ground Polenta, Cannellini Bean & Root Vegetable Ragu, Canlis Salad,
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Raspberry, Rose, and
@@ -66,7 +66,7 @@ menu:
     Sandwich Cookies
   price: "$44 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Herb-Crusted Roast Leg of Lamb
   date: 2020-04-28 00:00:00 -07:00
   experience_id: 120950
@@ -74,7 +74,7 @@ menu:
     // Canlis Salad, Tehina Hummus // Olives and Feta // Homemade Baklava
   price: "$54 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: 'Olsen Farms Pork Shoulder in Green Coconut Curry '
   date: 2020-04-29 00:00:00 -07:00
   experience_id: 120957
@@ -83,7 +83,7 @@ menu:
     Herb Salad with Peanuts in Fish Sauce-Citronette // Black Sticky Rice Pudding
   price: "$52 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Braised Wagyu Short Rib
   date: 2020-04-30 00:00:00 -07:00
   experience_id: 120959
@@ -92,7 +92,7 @@ menu:
     Tart
   price: "$64 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Dry-Aged Duck Cassoulet
   date: 2020-05-01 00:00:00 -07:00
   experience_id: 120964
@@ -101,7 +101,7 @@ menu:
     Butter  // Chocolate Pot de Creme
   price: "$58 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 ---
 
 Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost.
