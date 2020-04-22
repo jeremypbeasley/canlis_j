@@ -29,7 +29,13 @@
                 </a>
               </div>
               <div class="col col-twothirds">
-                <a class="Caption NoLine color-tock-blue m2" target="_blank" href="{{ item.waitlist_link }}">Join Waitlist</a>
+                <a
+                  class="Caption NoLine color-tock-blue m2"
+                  target="_blank"
+                  href="https://www.exploretock.com/canlis/waitlist?experienceId={{ item.experience_id }}"
+                >
+                  Join Waitlist
+                </a>
               </div>
             </div>
             {% else %}
@@ -41,7 +47,7 @@
                 "value": "XXXXX"
               })"
               class="TockButton TockButtonLocal mt3 mb4 OrderLink"
-              data-link="{{ item.order_link }}"
+              data-link="https://exploretock.com/canlis/experience/{{ item.experience_id }}/"
               >
                 Order on Tock
               </a>

@@ -24,7 +24,7 @@
                       {% endif %}
                     </div>
 
-                    {% if nestedproduct.order_link %}
+                    {% if nestedproduct.experience_id %}
                       <div class="p0 mt0 mb1">{{ nestedproduct.price }}</div>
                       {% if nestedproduct.is_soldout == true %}
                         <div class="flex mt3 mb4 SoldOut">
@@ -34,14 +34,20 @@
                             </a>
                           </div>
                           <div class="col col-twothirds">
-                            <a class="Caption NoLine color-tock-blue m2" target="_blank" href="{{ nestedproduct.waitlist_link }}">Join Waitlist</a>
+                            <a
+                              class="Caption NoLine color-tock-blue m2"
+                              target="_blank"
+                              href="https://www.exploretock.com/canlis/waitlist?experienceId={{ nestedproduct.experience_id }}"
+                            >
+                              Join Waitlist
+                            </a>
                           </div>
                         </div>
                         {% else %}
                         <div class="mb4 mt3">
                           <a
                           class="TockButton mt3 mb4 OrderLink"
-                          data-link="{{ nestedproduct.order_link }}"
+                          data-link="https://exploretock.com/canlis/experience/{{ nestedproduct.experience_id }}/"
                           >
                             Order on Tock
                           </a>
