@@ -19,8 +19,8 @@ If you're looking for Bingo Night, head on over <a href="/bingo">here</a> for ho
 
 <p class="Caption">Featuring</p>
 
-Jason Lux (Wednesdays, Fridays)
+Jason Lux (Thursdays, Fridays)
 
-Lennon Aldort (Tuesdays, Thursdays)
+Lennon Aldort (Tuesdays, Wednesdays)
 
 Jonas Myers (Mondays)
