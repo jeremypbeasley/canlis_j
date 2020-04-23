@@ -14,10 +14,54 @@
         {% if date > now %}
           <div class="d-mt0 d-mb3 d-mr0 d-ml0 MenuItem">
             {% if item.title %}
-              <div class="p0 mt0 mb1"><i>{{ item.date | date: "%A, %B %d" }}</i></div>
+              <!-- This block exists for Family Meal which do have titles -->
+              <!-- Get the date -->
+              {% capture day %}{{ item.date | date: "%-d" }}{% endcapture %}
+              {% capture dayLastTwoDigits %}{{ day | modulo: 100 }}{% endcapture %}
+              <!-- Determine the suffix -->
+              {% if dayLastTwoDigits >= "11" and dayLastTwoDigits <= "13" %}
+                  {% assign ordinal = "th" %}
+              {% else %}
+                  {% capture dayLastDigit %}{{ day | modulo: 10 }}{% endcapture %}
+                  {% case dayLastDigit %}
+                      {% when "1" %}
+                          {% assign ordinal = "st" %}
+                      {% when "2" %}
+                          {% assign ordinal = "nd" %}
+                      {% when "3" %}
+                          {% assign ordinal = "rd" %}
+                      {% else %}
+                          {% assign ordinal = "th" %}
+                  {% endcase %}
+              {% endif %}
+              {% capture ordinalDay %}{{ day | append: ordinal }}{% endcapture %}
+              <!-- Display the date -->
+              <div class="p0 mt0 mb1"><i>{{ item.date | date: "%A, %B" }} {{ ordinalDay }} </i></div>
               <h2 class="p0 mt0 mb1 Display2">{{ item.title }}</h2>
             {% else %}
-              <h2 class="p0 mt0 mb1 Display2">{{ item.date | date: "%A, %B %d" }}</h2>
+              <!-- This block exists for CSA, which don't have titles -->
+              <!-- Get the date -->
+              {% capture day %}{{ item.date | date: "%-d" }}{% endcapture %}
+              {% capture dayLastTwoDigits %}{{ day | modulo: 100 }}{% endcapture %}
+              <!-- Determine the suffix -->
+              {% if dayLastTwoDigits >= "11" and dayLastTwoDigits <= "13" %}
+                  {% assign ordinal = "th" %}
+              {% else %}
+                  {% capture dayLastDigit %}{{ day | modulo: 10 }}{% endcapture %}
+                  {% case dayLastDigit %}
+                      {% when "1" %}
+                          {% assign ordinal = "st" %}
+                      {% when "2" %}
+                          {% assign ordinal = "nd" %}
+                      {% when "3" %}
+                          {% assign ordinal = "rd" %}
+                      {% else %}
+                          {% assign ordinal = "th" %}
+                  {% endcase %}
+              {% endif %}
+              {% capture ordinalDay %}{{ day | append: ordinal }}{% endcapture %}
+              <!-- Display the date -->
+              <h2 class="p0 mt0 mb1 Display2">{{ item.date | date: "%A, %B" }} {{ ordinalDay }}</h2>
             {% endif %}
             <div class="p0 mt0 mb2">{{ item.price }}</div>
             <div class="p0 mt0 mb2 op60">{{ item.desc }}</div>
@@ -68,3 +112,6 @@
 </div>
 
 {% include minifooter.html %}
+
+
+}
