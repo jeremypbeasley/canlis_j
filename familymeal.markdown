@@ -7,7 +7,6 @@ image: "/uploads/canlis_concept_familymeal.jpg"
 og_desc: Dinner from our kitchen to your doorstep with zero contact. Add wine from
   our storied cellar at an additional cost.
 og_photo: "/uploads/canlis_concept_familymeal.jpg"
-layout: covid-menu
 menu:
 - title: 'Beets Wellington (Vegetarian) '
   date: 2020-04-20 05:00:00 -07:00
@@ -91,7 +90,7 @@ menu:
     butter // Canlis Salad // Brioche Rolls and Cherry Valley Butter  // Lemon Meringue
     Tart
   price: "$64 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Dry-Aged Duck Cassoulet
   date: 2020-05-01 00:00:00 -07:00
@@ -102,6 +101,7 @@ menu:
   price: "$58 per person"
   is_soldout: false
   is_live: true
+layout: covid-menu
 ---
 
 Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost.
