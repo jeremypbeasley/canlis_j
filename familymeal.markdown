@@ -72,7 +72,7 @@ menu:
   desc: Naturally Leavened Laffa Bread // Skagit Valley Barley and Herb Tabbouleh
     // Canlis Salad, Tehina Hummus // Olives and Feta // Homemade Baklava
   price: "$54 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: 'Olsen Farms Pork Shoulder in Green Coconut Curry '
   date: 2020-04-29 00:00:00 -07:00
@@ -99,7 +99,7 @@ menu:
     Beans // Canlis Forest Mushrooms // Canlis Salad // Brioche Rolls and Cherry Valley
     Butter  // Chocolate Pot de Creme
   price: "$58 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 layout: covid-menu
 ---
