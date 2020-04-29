@@ -150,6 +150,23 @@ menu:
   price: "$95 per person"
   is_soldout: false
   is_live: false
+- title: "Mother's Day"
+  date: 2020-05-10 00:00:00 -07:00
+  experience_id: 124556
+  desc: "For those looking to show mom the appreciation she deserves. (Easily feeds four or will last two people well into the week)
+
+// Mimosa fixings: full bottle of Sparkling Wine & Fresh Squeezed OJ
+// Blueberry Scone Kit (easy to make, ready to bake) with Cherry Valley butter & jam from Springrain Farm
+// Canlis Frittata Kit: One dozen farm fresh eggs, Tonnemaker Farms Asparagus, Tieton Farm “Bianca” Goat cheese and simple-to-follow instructions.
+// Chef Brady’s Famous Cheesy Hashbrown Casserole (honoring his mom on this day with her recipe) all ready to bake & pull hot from the oven.
+// 1lb of “Bagel Shed” Breakfast Sausage
+// Fresh Strawberries with Canlis Devonshire cream  
+// 1 bunch of fresh peonies from Eric & Clarita Santos of Pike Place Market
+
+"
+  price: "$185, complete box"
+  is_soldout: false
+  is_live: false
 ---
 
 Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost.
