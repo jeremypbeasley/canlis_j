@@ -10,7 +10,7 @@ og_photo: "/uploads/canlis_concept_familymeal.jpg"
 menu:
 - title: 'Beets Wellington (Vegetarian) '
   date: 2020-04-20 05:00:00 -07:00
-  experience_id:
+  experience_id: 
   desc: Roasted Beets and Mushroom Duxelles wrapped in puff pastry with Mushroom-Peppercorn
     Sauce, Cauliflower and Aged Pecorino Gratin, Canlis Salad (Bacon on the side),
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Strawberry and Rhubarb
@@ -20,7 +20,7 @@ menu:
   is_live: true
 - title: 'Braised Rabbit White Lasagna '
   date: 2020-04-21 05:00:00 -07:00
-  experience_id:
+  experience_id: 
   desc: Valley Farms Rabbit braised in white wine with Vegetables, Fiore Sardo Cheese
     and a White Bechamel Sauce, Woodfired Radishes and Arugula with Salsa Verde, Canlis
     Salad, Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Layered Chocolate
@@ -30,7 +30,7 @@ menu:
   is_live: true
 - title: Nana's Italian Sausage with Onions & Peppers
   date: 2020-04-22 05:00:00 -07:00
-  experience_id:
+  experience_id: 
   desc: Pork and Duck Sausage with Caramelized Spring Onions and Roasted Peppers,
     Creamy Stone-ground Polenta, Cannellini Bean & Root Vegetable Ragu, Canlis Salad,
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Raspberry, Rose, and
@@ -149,20 +149,12 @@ menu:
   price: "$95 per person"
   is_soldout: false
   is_live: false
-- title: "Mother's Day"
+- title: Mother's Day
   date: 2020-05-10 00:00:00 -07:00
   experience_id: 124556
-  desc: "For those looking to show mom the appreciation she deserves. (Easily feeds four or will last two people well into the week)
-
-// Mimosa fixings: full bottle of Sparkling Wine & Fresh Squeezed OJ
-// Blueberry Scone Kit (easy to make, ready to bake) with Cherry Valley butter & jam from Springrain Farm
-// Canlis Frittata Kit: One dozen farm fresh eggs, Tonnemaker Farms Asparagus, Tieton Farm “Bianca” Goat cheese and simple-to-follow instructions.
-// Chef Brady’s Famous Cheesy Hashbrown Casserole (honoring his mom on this day with her recipe) all ready to bake & pull hot from the oven.
-// 1lb of “Bagel Shed” Breakfast Sausage
-// Fresh Strawberries with Canlis Devonshire cream  
-// 1 bunch of fresh peonies from Eric & Clarita Santos of Pike Place Market
-
-"
+  desc: |
+    For those looking to show mom the appreciation she deserves. (Easily feeds four or will last two people well into the week)
+    // Mimosa fixings: full bottle of Sparkling Wine & Fresh Squeezed OJ // Blueberry Scone Kit (easy to make, ready to bake) with Cherry Valley butter & jam from Springrain Farm // Canlis Frittata Kit: One dozen farm fresh eggs, Tonnemaker Farms Asparagus, Tieton Farm “Bianca” Goat cheese and simple-to-follow instructions. // Chef Brady’s Famous Cheesy Hashbrown Casserole (honoring his mom on this day with her recipe) all ready to bake & pull hot from the oven. // 1lb of “Bagel Shed” Breakfast Sausage // Fresh Strawberries with Canlis Devonshire cream // 1 bunch of fresh peonies from Eric & Clarita Santos of Pike Place Market
   price: "$185, complete box"
   is_soldout: false
   is_live: true
