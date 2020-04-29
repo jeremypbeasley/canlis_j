@@ -7,10 +7,11 @@ image: "/uploads/canlis_concept_familymeal.jpg"
 og_desc: Dinner from our kitchen to your doorstep with zero contact. Add wine from
   our storied cellar at an additional cost.
 og_photo: "/uploads/canlis_concept_familymeal.jpg"
+layout: covid-menu
 menu:
 - title: 'Beets Wellington (Vegetarian) '
   date: 2020-04-20 05:00:00 -07:00
-  experience_id: 
+  experience_id:
   desc: Roasted Beets and Mushroom Duxelles wrapped in puff pastry with Mushroom-Peppercorn
     Sauce, Cauliflower and Aged Pecorino Gratin, Canlis Salad (Bacon on the side),
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Strawberry and Rhubarb
@@ -20,7 +21,7 @@ menu:
   is_live: true
 - title: 'Braised Rabbit White Lasagna '
   date: 2020-04-21 05:00:00 -07:00
-  experience_id: 
+  experience_id:
   desc: Valley Farms Rabbit braised in white wine with Vegetables, Fiore Sardo Cheese
     and a White Bechamel Sauce, Woodfired Radishes and Arugula with Salsa Verde, Canlis
     Salad, Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Layered Chocolate
@@ -30,7 +31,7 @@ menu:
   is_live: true
 - title: Nana's Italian Sausage with Onions & Peppers
   date: 2020-04-22 05:00:00 -07:00
-  experience_id: 
+  experience_id:
   desc: Pork and Duck Sausage with Caramelized Spring Onions and Roasted Peppers,
     Creamy Stone-ground Polenta, Cannellini Bean & Root Vegetable Ragu, Canlis Salad,
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Raspberry, Rose, and
@@ -101,7 +102,42 @@ menu:
   price: "$58 per person"
   is_soldout: true
   is_live: true
-layout: covid-menu
+- title: Vegetarian Enchiladas
+  date: 2020-05-04 00:00:00 -07:00
+  experience_id: 124507
+  desc: Roasted Yellow Squash and Zucchini with Bread Lab Beans in a Smoked Red Chile Sauce // Pickled Onions and Cotija // Green Chile and Hominy Posole // Little Gem Lettuces with Avocado-Pistachio “Green Goddess” Dressing // Tres Leches Cake
+  price: "$52 per person"
+  is_soldout: false
+  is_live: false
+- title: Homemade Lasagna with Dry-Aged Beef Bolognese
+  date: 2020-05-05 00:00:00 -07:00
+  experience_id: 124511
+  desc: "Finished with Mozzarella, Basil, and Fiore Sardo // Roasted Radishes and Kale in Boquerone Bagna Cauda // Canlis Salad // Garlic and Herb Sourdough Rolls // Cheesecake with Homemade Strawberry Jam"
+  price: "$58 per person"
+  is_soldout: false
+  is_live: false
+- title: "General Tso Confit Duck Legs"
+  date: 2020-05-06 00:00:00 -07:00
+  experience_id: 124532
+  desc: "Glazed Dry-aged Sea Breeze Farm Duck Legs with White Rice // Ginger Scallion Noodles // Daikon and Baby Lettuce Salad with Mint and Fish Sauce Citronette // Fermented Cabbage and Ground Pork Egg Rolls  // Silken Tofu Pudding with Brown Sugar and Ginger Syrup"
+  price: "$68 per person"
+  is_soldout: false
+  is_live: false
+- title: "Rabbit Pot Pie"
+  date: 2020-05-07 00:00:00 -07:00
+  experience_id: 124542
+  desc: "Braised Valley Farms rabbit and spring vegetables from our favorite farm under layers of puff pastry  // Haricots Verts “Amandine” with House-cured Coppa // Canlis Salad // Garlic and Herb Sourdough Rolls // Frangipane and Marionberry Tart"
+  price: "$58 per person"
+  is_soldout: false
+  is_live: false
+- title: "Dungeness Crab Boil"
+  date: 2020-05-08 00:00:00 -07:00
+  experience_id: 124547
+  desc: "One whole Samish Bay Dungeness Crab per person, Simmered with Olsen Farms new Potatoes, Housemade Portuguese Sausage, Fennel and Spring Onions // Asparagus Roasted in Seaweed Vinegar // Canlis Salad // Drawn butter // Spicy Aioli // Garlic and Herb Sourdough Rolls // Key Lime Pie (Includes one crab cracker per two people.)"
+  price: "$95 per person"
+  is_soldout: false
+  is_live: false
+
 ---
 
 Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost.
