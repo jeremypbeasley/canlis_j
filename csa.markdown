@@ -132,8 +132,8 @@ menu:
   date: 2020-05-07 00:00:00 -07:00
   experience_id: 124570
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
-    Sea Breeze Farm Fresh Roaster Chicken (Approx 3.5 lbs), 1 lbs Olsen Farms grass-fed
-    ground beef, 1 dzn farm-fresh eggs, 1 jar of Samish Bay plain Greek yogurt.'
+    farm fresh Roaster Chicken (Approx 3.5 lbs), 1 lbs Olsen Farms grass-fed ground
+    beef, 1 dzn farm-fresh eggs, 1 jar of Samish Bay plain Greek yogurt.'
   price: "$100"
   is_soldout: false
   is_live: true
