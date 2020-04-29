@@ -7,7 +7,6 @@ image: "/uploads/canlis_concept_familymeal.jpg"
 og_desc: Dinner from our kitchen to your doorstep with zero contact. Add wine from
   our storied cellar at an additional cost.
 og_photo: "/uploads/canlis_concept_familymeal.jpg"
-layout: covid-menu
 menu:
 - title: 'Beets Wellington (Vegetarian) '
   date: 2020-04-20 05:00:00 -07:00
@@ -110,7 +109,7 @@ menu:
     Gem Lettuces with Avocado-Pistachio “Green Goddess” Dressing // Tres Leches Cake
   price: "$52 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Homemade Lasagna with Dry-Aged Beef Bolognese
   date: 2020-05-05 00:00:00 -07:00
   experience_id: 124511
@@ -119,7 +118,7 @@ menu:
     Cheesecake with Homemade Strawberry Jam
   price: "$58 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: General Tso Confit Duck Legs
   date: 2020-05-06 00:00:00 -07:00
   experience_id: 124532
@@ -129,7 +128,7 @@ menu:
     Sugar and Ginger Syrup
   price: "$68 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Rabbit Pot Pie
   date: 2020-05-07 00:00:00 -07:00
   experience_id: 124542
@@ -139,7 +138,7 @@ menu:
     Tart
   price: "$58 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Dungeness Crab Boil
   date: 2020-05-08 00:00:00 -07:00
   experience_id: 124547
@@ -166,12 +165,13 @@ menu:
 "
   price: "$185, complete box"
   is_soldout: false
-  is_live: false
+  is_live: true
+layout: covid-menu
 ---
 
 Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost.
 
-Delivery is available to any address in Seattle, Shoreline, Mercer Island, and West Bellevue, with the exception of West Seattle, due to the bridge closure. You map pick up your order if you live outside of this area. See our <a href="/deliverymap" target="_blank"> delivery map</a>.
+Delivery is available to any address in Seattle, Shoreline, Mercer Island, and West Bellevue, with the exception of West Seattle, due to the bridge closure. You may pick up your order if you live outside of this area. See our <a href="/deliverymap" target="_blank"> delivery map</a>.
 
 Sales go live here every Wednesday at 1PM for the following week.
 
