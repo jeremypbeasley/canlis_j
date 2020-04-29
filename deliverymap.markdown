@@ -4,6 +4,7 @@ date: 2020-03-13 16:19:00 -07:00
 og_desc: 'It''s an interesting time at Canlis. We''re happy to answer your questions. '
 layout: default
 ---
+
 <h2 class="Display2 mb4">Delivery Map</h2>
 <img src="/uploads/deliverymap.jpg">
 
