@@ -148,7 +148,7 @@ menu:
     and Herb Sourdough Rolls // Key Lime Pie (Includes one crab cracker per two people.)
   price: "$95 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Mother's Day
   date: 2020-05-09 00:00:00 -07:00
   experience_id: 124556
