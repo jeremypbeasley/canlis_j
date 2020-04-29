@@ -150,7 +150,7 @@ menu:
   is_soldout: false
   is_live: false
 - title: Mother's Day
-  date: 2020-05-10 00:00:00 -07:00
+  date: 2020-05-09 00:00:00 -07:00
   experience_id: 124556
   desc: |
     For those looking to show mom the appreciation she deserves. (Easily feeds four or will last two people well into the week)
