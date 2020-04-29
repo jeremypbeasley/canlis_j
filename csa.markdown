@@ -9,7 +9,7 @@ og_desc: Support a farm! Get a curated box of the best ingredients, delivered to
 og_photo: "/uploads/canlis_concept_csa.jpg"
 layout: covid-menu
 menu:
-- title:
+- title: 
   date: 2020-04-20 05:00:00 -07:00
   experience_id: ''
   desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
@@ -18,7 +18,7 @@ menu:
   price: "$80"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-04-21 05:00:00 -07:00
   experience_id: ''
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea
@@ -27,7 +27,7 @@ menu:
   price: "$110"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-04-22 05:00:00 -07:00
   experience_id: ''
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -36,7 +36,7 @@ menu:
   price: "$95"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-04-23 05:00:00 -07:00
   experience_id: ''
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -45,7 +45,7 @@ menu:
   price: "$105"
   is_soldout: true
   is_live: true
-- title:
+- title: 
   date: 2020-04-24 05:00:00 -07:00
   experience_id: ''
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -54,7 +54,7 @@ menu:
   price: "$95"
   is_soldout: true
   is_live: true
-- title:
+- title: 
   date: 2020-04-27 00:00:00 -07:00
   experience_id: 120972
   desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
@@ -63,7 +63,7 @@ menu:
   price: "$75"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-04-28 00:00:00 -07:00
   experience_id: 120974
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -72,7 +72,7 @@ menu:
   price: "$105"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-04-29 00:00:00 -07:00
   experience_id: 120978
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -82,7 +82,7 @@ menu:
   price: "$95"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-04-30 00:00:00 -07:00
   experience_id: 120982
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -91,7 +91,7 @@ menu:
   price: "$105"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-05-01 00:00:00 -07:00
   experience_id: 120985
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -101,44 +101,53 @@ menu:
   price: "$95"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-05-04 00:00:00 -07:00
   experience_id: 120972
-  desc: 'An abundance of just-picked vegetables from half a dozen of our favorite farms. Plus: 1 Dozen Fresh Eggs, 1 Jar of Samish Bay yogurt, 1 piece of Tieton Farm & Creamery "Bianca" sheep and goat milk cheese.'
-  price: '$80'
+  desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
+    farms. Plus: 1 Dozen Fresh Eggs, 1 Jar of Samish Bay yogurt, 1 piece of Tieton
+    Farm & Creamery "Bianca" sheep and goat milk cheese.'
+  price: "$80"
   is_soldout: false
   is_live: false
-- title:
+- title: 
   date: 2020-05-05 00:00:00 -07:00
   experience_id: 124566
-  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea Painted Hills ribeye steaks, 2 ea Olsen Farms Pork Loin Chops (Approx 1.5lbs), and 1 dzn farm-fresh eggs.'
-  price: '$105'
+  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
+    Painted Hills ribeye steaks, 2 ea Olsen Farms Pork Loin Chops (Approx 1.5lbs),
+    and 1 dzn farm-fresh eggs.'
+  price: "$105"
   is_soldout: false
   is_live: false
-- title:
+- title: 
   date: 2020-05-06 00:00:00 -07:00
   experience_id: 124569
-  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea Olsen Farms Pork Loin Chops (Approx 1.5lbs), 2 lbs Olsen Farms grass-fed ground beef, 1 Jar of Samish Bay yogurt, 1 dzn farm-fresh eggs and 2lbs of freshly milled Cairnsprings Mill Club Cara flour.'
-  price: '$90'
+  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
+    Olsen Farms Pork Loin Chops (Approx 1.5lbs), 2 lbs Olsen Farms grass-fed ground
+    beef, 1 Jar of Samish Bay yogurt, 1 dzn farm-fresh eggs and 2lbs of freshly milled
+    Cairnsprings Mill Club Cara flour.'
+  price: "$90"
   is_soldout: false
   is_live: false
-- title:
+- title: 
   date: 2020-05-07 00:00:00 -07:00
   experience_id: 124570
-  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea Sea Breeze Farm Fresh Roaster Chicken (Approx 3.5 lbs), 1 lbs Olsen Farms grass-fed ground beef, 1 dzn farm-fresh eggs, 1 jar of Samish Bay plain Greek yogurt.'
-  price: '$100'
+  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
+    Sea Breeze Farm Fresh Roaster Chicken (Approx 3.5 lbs), 1 lbs Olsen Farms grass-fed
+    ground beef, 1 dzn farm-fresh eggs, 1 jar of Samish Bay plain Greek yogurt.'
+  price: "$100"
   is_soldout: false
   is_live: false
-- title:
+- title: 
   date: 2020-05-08 00:00:00 -07:00
   experience_id: 124572
-  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea Painted Hills ribeye steaks, 1 jar of Drifters Fish Smoked Sockeye Salmon, 1 dozen farm-fresh eggs, 1 jar of Samish Bay plain Greek yogurt and 2# of freshly milled Cairnsprings Mill Club Cara flour.'
-  price: '$105'
+  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
+    Painted Hills ribeye steaks, 1 jar of Drifters Fish Smoked Sockeye Salmon, 1 dozen
+    farm-fresh eggs, 1 jar of Samish Bay plain Greek yogurt and 2# of freshly milled
+    Cairnsprings Mill Club Cara flour.'
+  price: "$105"
   is_soldout: false
   is_live: false
-
-
-
 ---
 
 Support a farm! Get a curated box of the best ingredients, delivered to your door. It's dinner around the table, direct from our favorite farmers.
