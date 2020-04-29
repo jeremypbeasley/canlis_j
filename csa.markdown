@@ -108,7 +108,7 @@ menu:
     Farm & Creamery "Bianca" sheep and goat milk cheese.'
   price: "$80"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: 
   date: 2020-05-05 00:00:00 -07:00
   experience_id: 124566
@@ -117,7 +117,7 @@ menu:
     and 1 dzn farm-fresh eggs.'
   price: "$105"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: 
   date: 2020-05-06 00:00:00 -07:00
   experience_id: 124569
@@ -127,7 +127,7 @@ menu:
     Cairnsprings Mill Club Cara flour.'
   price: "$90"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: 
   date: 2020-05-07 00:00:00 -07:00
   experience_id: 124570
@@ -136,7 +136,7 @@ menu:
     ground beef, 1 dzn farm-fresh eggs, 1 jar of Samish Bay plain Greek yogurt.'
   price: "$100"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: 
   date: 2020-05-08 00:00:00 -07:00
   experience_id: 124572
@@ -146,7 +146,7 @@ menu:
     Cairnsprings Mill Club Cara flour.'
   price: "$105"
   is_soldout: false
-  is_live: false
+  is_live: true
 layout: covid-menu
 ---
 
