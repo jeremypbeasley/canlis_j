@@ -7,7 +7,6 @@ image: "/uploads/canlis_concept_familymeal.jpg"
 og_desc: Dinner from our kitchen to your doorstep with zero contact. Add wine from
   our storied cellar at an additional cost.
 og_photo: "/uploads/canlis_concept_familymeal.jpg"
-layout: covid-menu
 menu:
 - title: 'Beets Wellington (Vegetarian) '
   date: 2020-04-20 05:00:00 -07:00
@@ -150,11 +149,12 @@ menu:
   price: "$95 per person"
   is_soldout: false
   is_live: false
+layout: covid-menu
 ---
 
 Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost.
 
-Delivery is available to any address in Seattle, Shoreline, Mercer Island, and West Bellevue, with the exception of West Seattle, due to the bridge closure. You map pick up your order if you live outside of this area. See our <a href="/deliverymap" target="_blank"> delivery map</a>.
+Delivery is available to any address in Seattle, Shoreline, Mercer Island, and West Bellevue, with the exception of West Seattle, due to the bridge closure. You may pick up your order if you live outside of this area. See our <a href="/deliverymap" target="_blank"> delivery map</a>.
 
 Sales go live here every Wednesday at 1PM for the following week.
 
