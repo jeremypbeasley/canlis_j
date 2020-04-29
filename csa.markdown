@@ -7,11 +7,10 @@ image: "/uploads/canlis_concept_csa.jpg"
 og_desc: Support a farm! Get a curated box of the best ingredients, delivered to your
   door. It's dinner around the table, direct from our favorite farmers.
 og_photo: "/uploads/canlis_concept_csa.jpg"
-layout: covid-menu
 menu:
 - title: 
   date: 2020-04-20 05:00:00 -07:00
-  experience_id: ''
+  experience_id: 
   desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
     farms. Plus: 1 Dozen Fresh Eggs, 1 Jar of Samish Bay yogurt, 1 piece of Tieton
     Farm & Creamery "Bianca" sheep and goat milk cheese.'
@@ -20,7 +19,7 @@ menu:
   is_live: true
 - title: 
   date: 2020-04-21 05:00:00 -07:00
-  experience_id: ''
+  experience_id: 
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea
     Breeze Farms Dry-Age Whole Duck (approx 4lbs), 2 lb Olsen Farms grass-fed ground
     beef, 1 dzn farm-fresh eggs.'
@@ -29,7 +28,7 @@ menu:
   is_live: true
 - title: 
   date: 2020-04-22 05:00:00 -07:00
-  experience_id: ''
+  experience_id: 
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
     Spring Rain Farm Fresh Roaster Chicken (Approx 3.5 lbs), 2 ea Olsen Farms Pork
     Loin Chops (Approx 1.5lbs), 1 dzn farm-fresh eggs.'
@@ -38,7 +37,7 @@ menu:
   is_live: true
 - title: 
   date: 2020-04-23 05:00:00 -07:00
-  experience_id: ''
+  experience_id: 
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
     Painted Hills Ribeye Steaks, 1lb Scott’s Breakfast Sausage, 1 dzn farm-fresh eggs,
     1 jar of Samish Bay plain Greek yogurt.'
@@ -47,7 +46,7 @@ menu:
   is_live: true
 - title: 
   date: 2020-04-24 05:00:00 -07:00
-  experience_id: ''
+  experience_id: 
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
     Spring Rain Farm Fresh Roaster Chicken (Approx 3.5 lbs), 1 lb Olsen Farms grass-fed
     Ground Beef, 1 dozen farm-fresh eggs.'
@@ -148,10 +147,11 @@ menu:
   price: "$105"
   is_soldout: false
   is_live: false
+layout: covid-menu
 ---
 
 Support a farm! Get a curated box of the best ingredients, delivered to your door. It's dinner around the table, direct from our favorite farmers.
 
-Delivery is available to any address in Seattle, Shoreline, Mercer Island, and West Bellevue, with the exception of West Seattle, due to the bridge closure. You map pick up your order if you live outside of this area. See our <a href="/deliverymap" target="_blank"> delivery map</a>.
+Delivery is available to any address in Seattle, Shoreline, Mercer Island, and West Bellevue, with the exception of West Seattle, due to the bridge closure. You may pick up your order if you live outside of this area. See our <a href="/deliverymap" target="_blank"> delivery map</a>.
 
 Sales go live here every Wednesday at 1PM for the following week.
