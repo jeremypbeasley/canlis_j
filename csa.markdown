@@ -9,7 +9,7 @@ og_desc: Support a farm! Get a curated box of the best ingredients, delivered to
 og_photo: "/uploads/canlis_concept_csa.jpg"
 layout: covid-menu
 menu:
-- title: 
+- title:
   date: 2020-04-20 05:00:00 -07:00
   experience_id: ''
   desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
@@ -18,7 +18,7 @@ menu:
   price: "$80"
   is_soldout: false
   is_live: true
-- title: 
+- title:
   date: 2020-04-21 05:00:00 -07:00
   experience_id: ''
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea
@@ -27,7 +27,7 @@ menu:
   price: "$110"
   is_soldout: false
   is_live: true
-- title: 
+- title:
   date: 2020-04-22 05:00:00 -07:00
   experience_id: ''
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -36,7 +36,7 @@ menu:
   price: "$95"
   is_soldout: false
   is_live: true
-- title: 
+- title:
   date: 2020-04-23 05:00:00 -07:00
   experience_id: ''
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -45,7 +45,7 @@ menu:
   price: "$105"
   is_soldout: true
   is_live: true
-- title: 
+- title:
   date: 2020-04-24 05:00:00 -07:00
   experience_id: ''
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -54,7 +54,7 @@ menu:
   price: "$95"
   is_soldout: true
   is_live: true
-- title: 
+- title:
   date: 2020-04-27 00:00:00 -07:00
   experience_id: 120972
   desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
@@ -63,7 +63,7 @@ menu:
   price: "$75"
   is_soldout: false
   is_live: true
-- title: 
+- title:
   date: 2020-04-28 00:00:00 -07:00
   experience_id: 120974
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -72,7 +72,7 @@ menu:
   price: "$105"
   is_soldout: false
   is_live: true
-- title: 
+- title:
   date: 2020-04-29 00:00:00 -07:00
   experience_id: 120978
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -82,7 +82,7 @@ menu:
   price: "$95"
   is_soldout: false
   is_live: true
-- title: 
+- title:
   date: 2020-04-30 00:00:00 -07:00
   experience_id: 120982
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -91,7 +91,7 @@ menu:
   price: "$105"
   is_soldout: false
   is_live: true
-- title: 
+- title:
   date: 2020-05-01 00:00:00 -07:00
   experience_id: 120985
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -101,7 +101,7 @@ menu:
   price: "$95"
   is_soldout: false
   is_live: true
-- title: 
+- title:
   date: 2020-05-04 00:00:00 -07:00
   experience_id: 120972
   desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
@@ -110,7 +110,7 @@ menu:
   price: "$80"
   is_soldout: false
   is_live: false
-- title: 
+- title:
   date: 2020-05-05 00:00:00 -07:00
   experience_id: 124566
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -119,7 +119,7 @@ menu:
   price: "$105"
   is_soldout: false
   is_live: false
-- title: 
+- title:
   date: 2020-05-06 00:00:00 -07:00
   experience_id: 124569
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -129,7 +129,7 @@ menu:
   price: "$90"
   is_soldout: false
   is_live: false
-- title: 
+- title:
   date: 2020-05-07 00:00:00 -07:00
   experience_id: 124570
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -138,7 +138,7 @@ menu:
   price: "$100"
   is_soldout: false
   is_live: false
-- title: 
+- title:
   date: 2020-05-08 00:00:00 -07:00
   experience_id: 124572
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -151,5 +151,7 @@ menu:
 ---
 
 Support a farm! Get a curated box of the best ingredients, delivered to your door. It's dinner around the table, direct from our favorite farmers.
+
+Delivery is available to any address in Seattle, Shoreline, Mercer Island, and West Bellevue, with the exception of West Seattle, due to the bridge closure. You map pick up your order if you live outside of this area. See our <a href="/deliverymap" target="_blank"> delivery map</a>.
 
 Sales go live here every Wednesday at 1PM for the following week.
