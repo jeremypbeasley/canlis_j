@@ -109,7 +109,7 @@ menu:
     Gem Lettuces with Avocado-Pistachio “Green Goddess” Dressing // Tres Leches Cake
   price: "$52 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Homemade Lasagna with Dry-Aged Beef Bolognese
   date: 2020-05-05 00:00:00 -07:00
   experience_id: 124511
@@ -118,7 +118,7 @@ menu:
     Cheesecake with Homemade Strawberry Jam
   price: "$58 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: General Tso Confit Duck Legs
   date: 2020-05-06 00:00:00 -07:00
   experience_id: 124532
@@ -128,7 +128,7 @@ menu:
     Sugar and Ginger Syrup
   price: "$68 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Rabbit Pot Pie
   date: 2020-05-07 00:00:00 -07:00
   experience_id: 124542
@@ -138,7 +138,7 @@ menu:
     Tart
   price: "$58 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Dungeness Crab Boil
   date: 2020-05-08 00:00:00 -07:00
   experience_id: 124547
@@ -148,7 +148,7 @@ menu:
     and Herb Sourdough Rolls // Key Lime Pie (Includes one crab cracker per two people.)
   price: "$95 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 layout: covid-menu
 ---
 
