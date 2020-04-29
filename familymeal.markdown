@@ -11,7 +11,7 @@ layout: covid-menu
 menu:
 - title: 'Beets Wellington (Vegetarian) '
   date: 2020-04-20 05:00:00 -07:00
-  experience_id: 
+  experience_id:
   desc: Roasted Beets and Mushroom Duxelles wrapped in puff pastry with Mushroom-Peppercorn
     Sauce, Cauliflower and Aged Pecorino Gratin, Canlis Salad (Bacon on the side),
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Strawberry and Rhubarb
@@ -21,7 +21,7 @@ menu:
   is_live: true
 - title: 'Braised Rabbit White Lasagna '
   date: 2020-04-21 05:00:00 -07:00
-  experience_id: 
+  experience_id:
   desc: Valley Farms Rabbit braised in white wine with Vegetables, Fiore Sardo Cheese
     and a White Bechamel Sauce, Woodfired Radishes and Arugula with Salsa Verde, Canlis
     Salad, Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Layered Chocolate
@@ -31,7 +31,7 @@ menu:
   is_live: true
 - title: Nana's Italian Sausage with Onions & Peppers
   date: 2020-04-22 05:00:00 -07:00
-  experience_id: 
+  experience_id:
   desc: Pork and Duck Sausage with Caramelized Spring Onions and Roasted Peppers,
     Creamy Stone-ground Polenta, Cannellini Bean & Root Vegetable Ragu, Canlis Salad,
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Raspberry, Rose, and
@@ -154,4 +154,7 @@ menu:
 
 Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost.
 
+Delivery is available to any address in Seattle, Shoreline, Mercer Island, and West Bellevue, with the exception of West Seattle, due to the bridge closure. You map pick up your order if you live outside of this area. See our <a href="/deliverymap" target="_blank"> delivery map</a>.
+
 Sales go live here every Wednesday at 1PM for the following week.
+
