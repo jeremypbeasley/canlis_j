@@ -8,14 +8,14 @@ layout: events
 ---
 
 <div class="EventsButton mt1 mb10">
-  <a class="Caption" href="https://youtu.be/4v5r2VqhYV0">
+  <a class="Caption" href="https://www.youtube.com/watch?v=7qvh9RWyhDM">
     Watch on Youtube
   </a>
 </div>
 
 <p class="Caption mb2">How to play</p>
 
-1.) Watch the livestream. Video will appear on this link on April 17th at 8:30PM.
+1.) Watch the livestream. Video will appear on this link on May 1st at 8:30PM.
 
 2.) Random numbers are drawn. Whoever completes a bingo pattern first, wins the prize. A winning bingo pattern is a line with five numbers in a diagonal, horizontal, or vertical row. Numbers must be X'd out with a pen.
 

@@ -117,7 +117,7 @@ menu:
     in Boquerone Bagna Cauda // Canlis Salad // Garlic and Herb Sourdough Rolls //
     Cheesecake with Homemade Strawberry Jam
   price: "$58 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: General Tso Confit Duck Legs
   date: 2020-05-06 00:00:00 -07:00
