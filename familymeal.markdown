@@ -156,7 +156,7 @@ menu:
     For those looking to show mom the appreciation she deserves. (Easily feeds four or will last two people well into the week)
     // Mimosa fixings: full bottle of Sparkling Wine & Fresh Squeezed OJ // Blueberry Scone Kit (easy to make, ready to bake) with Cherry Valley butter & jam from Springrain Farm // Canlis Frittata Kit: One dozen farm fresh eggs, Tonnemaker Farms Asparagus, Tieton Farm “Bianca” Goat cheese and simple-to-follow instructions. // Chef Brady’s Famous Cheesy Hashbrown Casserole (honoring his mom on this day with her recipe) all ready to bake & pull hot from the oven. // 1lb of “Bagel Shed” Breakfast Sausage // Fresh Strawberries with Canlis Devonshire cream // 1 bunch of fresh peonies from Eric & Clarita Santos of Pike Place Market
   price: "$185, complete box"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 layout: covid-menu
 ---
