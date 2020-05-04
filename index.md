@@ -1,7 +1,7 @@
 ---
 title: Home
 is_alert_shown: false
-alert_text: 
+alert_text:
 food_concepts_title: Food & Drink
 food_concepts:
 - title: Family Meal
@@ -45,6 +45,13 @@ fun_concepts:
   buttons:
   - label: How to Play
     link: "/bingo"
+- title: General Store
+  image: "/uploads/canlis_concept_store.jpg"
+  desc: We’re selling merch to benefit Big Table.
+  block_link: "https://canlisgeneralstore.squarespace.com/"
+  buttons:
+  - label: Buy Merch
+    link: "https://canlisgeneralstore.squarespace.com/"
 layout: covid-home
 ---
 
