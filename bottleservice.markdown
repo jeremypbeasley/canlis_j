@@ -34,12 +34,10 @@ drinks:
     price: "$120 ($10 per drink)"
     experience_id: 118017
     is_soldout: false
-  - title: Mai Tai
-    volume: "(makes 16 cocktails)"
-    desc: Includes 750ml bottles of Plantation Dark Rum and Pierre Ferrand Curacao.
-      Also comes with orgeat, mint, fresh lemon and lime juice, and orchid flower
-      garnish.
-    price: "$144 ($12 per drink)"
+  - title: Piña Colada
+    volume: "(makes 12 cocktails)"
+    desc: "A known remedy for cabin fever, this tropical salve will stave off the quarantine blues. Kit includes 1 liter of Plantation Original Dark Rum, 2 liters of Canlis Pina Colada mix, pineapple and mint for garnish. Pineapple glasses, straws and umbrellas included, naturally."
+    price: "$168 ($14 per drink)"
     experience_id: 118017
     is_soldout: false
   - title: Long Island Iced Tea
@@ -58,6 +56,12 @@ drinks:
       Pierre Ferrand Curacao. Also comes with fresh lime juice, simple syrup, Jacobsen
       sea salt, and lime garnish.
     price: "$160 ($10 per drink)"
+    experience_id: 118017
+    is_soldout: false
+  - title: Bloody Mary
+    volume: "(makes 9 cocktails)"
+    desc: "Includes 1 liter Monopolowa Vodka, 1 liter Bloody Mary Mix and plenty of fixings to make this proper: Prawn skewers, Pickled Onions & Olives, Pickled asparagus spears, Celery and Lemon wedges and Jacobson’s sea salt."
+    price: "$144 ($10 per drink)"
     experience_id: 118017
     is_soldout: false
 - drink-category: Sparkling Wine
