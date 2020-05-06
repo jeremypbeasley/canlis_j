@@ -10,7 +10,7 @@ og_photo: "/uploads/canlis_concept_familymeal.jpg"
 menu:
 - title: 'Beets Wellington (Vegetarian) '
   date: 2020-04-20 05:00:00 -07:00
-  experience_id: 
+  experience_id:
   desc: Roasted Beets and Mushroom Duxelles wrapped in puff pastry with Mushroom-Peppercorn
     Sauce, Cauliflower and Aged Pecorino Gratin, Canlis Salad (Bacon on the side),
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Strawberry and Rhubarb
@@ -20,7 +20,7 @@ menu:
   is_live: true
 - title: 'Braised Rabbit White Lasagna '
   date: 2020-04-21 05:00:00 -07:00
-  experience_id: 
+  experience_id:
   desc: Valley Farms Rabbit braised in white wine with Vegetables, Fiore Sardo Cheese
     and a White Bechamel Sauce, Woodfired Radishes and Arugula with Salsa Verde, Canlis
     Salad, Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Layered Chocolate
@@ -30,7 +30,7 @@ menu:
   is_live: true
 - title: Nana's Italian Sausage with Onions & Peppers
   date: 2020-04-22 05:00:00 -07:00
-  experience_id: 
+  experience_id:
   desc: Pork and Duck Sausage with Caramelized Spring Onions and Roasted Peppers,
     Creamy Stone-ground Polenta, Cannellini Bean & Root Vegetable Ragu, Canlis Salad,
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Raspberry, Rose, and
@@ -158,6 +158,41 @@ menu:
   price: "$185, complete box"
   is_soldout: true
   is_live: true
+- title:
+  date: 2020-05-11 00:00:00 -07:00
+  experience_id:
+  desc: ""
+  price: "$185 per person"
+  is_soldout: false
+  is_live: false
+- title:
+  date: 2020-05-12 00:00:00 -07:00
+  experience_id:
+  desc: ""
+  price: "$185 per person"
+  is_soldout: false
+  is_live: false
+- title:
+  date: 2020-05-13 00:00:00 -07:00
+  experience_id:
+  desc: ""
+  price: "$185 per person"
+  is_soldout: false
+  is_live: false
+- title:
+  date: 2020-05-14 00:00:00 -07:00
+  experience_id:
+  desc: ""
+  price: "$185 per person"
+  is_soldout: false
+  is_live: false
+- title:
+  date: 2020-05-15 00:00:00 -07:00
+  experience_id:
+  desc: ""
+  price: "$185 per person"
+  is_soldout: false
+  is_live: false
 layout: covid-menu
 ---
 
