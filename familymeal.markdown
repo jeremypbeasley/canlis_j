@@ -10,7 +10,7 @@ og_photo: "/uploads/canlis_concept_familymeal.jpg"
 menu:
 - title: 'Beets Wellington (Vegetarian) '
   date: 2020-04-20 05:00:00 -07:00
-  experience_id:
+  experience_id: 
   desc: Roasted Beets and Mushroom Duxelles wrapped in puff pastry with Mushroom-Peppercorn
     Sauce, Cauliflower and Aged Pecorino Gratin, Canlis Salad (Bacon on the side),
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Strawberry and Rhubarb
@@ -20,7 +20,7 @@ menu:
   is_live: true
 - title: 'Braised Rabbit White Lasagna '
   date: 2020-04-21 05:00:00 -07:00
-  experience_id:
+  experience_id: 
   desc: Valley Farms Rabbit braised in white wine with Vegetables, Fiore Sardo Cheese
     and a White Bechamel Sauce, Woodfired Radishes and Arugula with Salsa Verde, Canlis
     Salad, Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Layered Chocolate
@@ -30,7 +30,7 @@ menu:
   is_live: true
 - title: Nana's Italian Sausage with Onions & Peppers
   date: 2020-04-22 05:00:00 -07:00
-  experience_id:
+  experience_id: 
   desc: Pork and Duck Sausage with Caramelized Spring Onions and Roasted Peppers,
     Creamy Stone-ground Polenta, Cannellini Bean & Root Vegetable Ragu, Canlis Salad,
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Raspberry, Rose, and
@@ -158,38 +158,51 @@ menu:
   price: "$185, complete box"
   is_soldout: true
   is_live: true
-- title: 'Vegetarian Falafel and Cauliflower Shawarma'
+- title: Vegetarian Falafel and Cauliflower Shawarma
   date: 2020-05-11 00:00:00 -07:00
   experience_id: 128873
-  desc: "Spiced Cauliflower Roasted Whole with Red Onion and Coriander // Fried Chickpea and Herb Falafel // Tehina Hummus topped with Hearth-Roasted Eggplant in Harissa & Naturally Leavened Laffa Bread // Skagit Valley Grains and Herb Tabbouleh // Canlis Salad (without bacon) // Traditional Greek Cake with Filo and Citrus"
+  desc: Spiced Cauliflower Roasted Whole with Red Onion and Coriander // Fried Chickpea
+    and Herb Falafel // Tehina Hummus topped with Hearth-Roasted Eggplant in Harissa
+    & Naturally Leavened Laffa Bread // Skagit Valley Grains and Herb Tabbouleh //
+    Canlis Salad (without bacon) // Traditional Greek Cake with Filo and Citrus
   price: "$52 per person"
   is_soldout: false
   is_live: false
-- title: 'Buttermilk Fried Chicken (½ Chicken per person)'
+- title: Buttermilk Fried Chicken (½ Chicken per person)
   date: 2020-05-12 00:00:00 -07:00
   experience_id: 128943
-  desc: "Rigatoni Mac and Cheese // Baked Bread Lab Beans // Rainbow Chard and Collard Greens Braised with Bacon in Grenache Vinegar // Canlis Salad // Herb and Garlic Sourdough Rolls with Cherry Valley Butter // Caramelized Chocolate Brownies with Blackberry Swirl"
+  desc: Rigatoni Mac and Cheese // Baked Bread Lab Beans // Rainbow Chard and Collard
+    Greens Braised with Bacon in Grenache Vinegar // Canlis Salad // Herb and Garlic
+    Sourdough Rolls with Cherry Valley Butter // Caramelized Chocolate Brownies with
+    Blackberry Swirl
   price: "$54 per person"
   is_soldout: false
   is_live: false
-- title: 'Wagyu Short Rib Stroganoff'
+- title: Wagyu Short Rib Stroganoff
   date: 2020-05-13 00:00:00 -07:00
   experience_id: 128947
-  desc: "Homemade Egg Noodles and Sno-Valley Mushrooms // Canlis Salad // Herb and Garlic Sourdough Rolls with Cherry Valley Butter // Chocolate Chip Cookie Cake"
+  desc: Homemade Egg Noodles and Sno-Valley Mushrooms // Canlis Salad // Herb and
+    Garlic Sourdough Rolls with Cherry Valley Butter // Chocolate Chip Cookie Cake
   price: "$44 per person"
   is_soldout: false
   is_live: false
-- title: 'Herb-Rubbed Olsen Farms Slow Roasted Pork Loin'
+- title: Herb-Rubbed Olsen Farms Slow Roasted Pork Loin
   date: 2020-05-14 00:00:00 -07:00
   experience_id: 128953
-  desc: "Wild Rice and Foraged Mushroom Pilaf // Baby Cauliflower and Brassicas in Boquerone Bagna Cauda // Canlis Salad // Herb and Garlic Sourdough Rolls with Cherry Valley Butter // Rhubarb Semolina Upside Down Cake"
+  desc: Wild Rice and Foraged Mushroom Pilaf // Baby Cauliflower and Brassicas in
+    Boquerone Bagna Cauda // Canlis Salad // Herb and Garlic Sourdough Rolls with
+    Cherry Valley Butter // Rhubarb Semolina Upside Down Cake
   price: "$56 per person"
   is_soldout: false
   is_live: false
-- title: 'Canlis Broiler Surf & Turf'
+- title: Canlis Broiler Surf & Turf
   date: 2020-05-15 00:00:00 -07:00
   experience_id: 128958
-  desc: "Wood-grilled Wagyu Beef Tenderloin with Au Jus // Steamed Dungeness Crab Legs with Drawn Butter //  Iceberg Wedge Salad with Roquefort Dressing and Bacon // Baked Potato with all of the Fixings (Butter, Chives, Bacon, Cheese) // Herb and Garlic Sourdough Rolls with Cherry Valley Butter // Black Forest Trifle Cake with Luxardo Cherries"
+  desc: Wood-grilled Wagyu Beef Tenderloin with Au Jus // Steamed Dungeness Crab Legs
+    with Drawn Butter //  Iceberg Wedge Salad with Roquefort Dressing and Bacon //
+    Baked Potato with all of the Fixings (Butter, Chives, Bacon, Cheese) // Herb and
+    Garlic Sourdough Rolls with Cherry Valley Butter // Black Forest Trifle Cake with
+    Luxardo Cherries
   price: "$96 per person"
   is_soldout: false
   is_live: false
