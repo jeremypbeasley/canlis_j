@@ -147,7 +147,7 @@ menu:
     Roasted in Seaweed Vinegar // Canlis Salad // Drawn butter // Spicy Aioli // Garlic
     and Herb Sourdough Rolls // Key Lime Pie (Includes one crab cracker per two people.)
   price: "$95 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Mother's Day
   date: 2020-05-09 00:00:00 -07:00
@@ -167,7 +167,7 @@ menu:
     Canlis Salad (without bacon) // Traditional Greek Cake with Filo and Citrus
   price: "$52 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Buttermilk Fried Chicken (½ Chicken per person)
   date: 2020-05-12 00:00:00 -07:00
   experience_id: 128943
@@ -177,7 +177,7 @@ menu:
     Blackberry Swirl
   price: "$54 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Wagyu Short Rib Stroganoff
   date: 2020-05-13 00:00:00 -07:00
   experience_id: 128947
@@ -185,7 +185,7 @@ menu:
     Garlic Sourdough Rolls with Cherry Valley Butter // Chocolate Chip Cookie Cake
   price: "$44 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Herb-Rubbed Olsen Farms Slow Roasted Pork Loin
   date: 2020-05-14 00:00:00 -07:00
   experience_id: 128953
@@ -194,7 +194,7 @@ menu:
     Cherry Valley Butter // Rhubarb Semolina Upside Down Cake
   price: "$56 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Canlis Broiler Surf & Turf
   date: 2020-05-15 00:00:00 -07:00
   experience_id: 128958
@@ -205,7 +205,7 @@ menu:
     Luxardo Cherries
   price: "$96 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 layout: covid-menu
 ---
 
