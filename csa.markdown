@@ -45,7 +45,7 @@ menu:
     of Fantello Farmstead Creamery Filomena Tomme Cheese.'
   price: "$75"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: 
   date: 2020-05-12 00:00:00 -07:00
   experience_id: 128840
@@ -54,7 +54,7 @@ menu:
     and 1 dozen farm-fresh eggs  '
   price: "$95"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: 
   date: 2020-05-13 00:00:00 -07:00
   experience_id: 128846
@@ -64,7 +64,7 @@ menu:
     Club Cara flour'
   price: "$90"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: 
   date: 2020-05-14 00:00:00 -07:00
   experience_id: 128849
@@ -73,7 +73,7 @@ menu:
     beef, and 1 dozen farm-fresh eggs'
   price: "$105"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: 
   date: 2020-05-15 00:00:00 -07:00
   experience_id: 128851
@@ -83,7 +83,7 @@ menu:
     1 pc of Tieton Farm and Creamery Sheep''s Milk ''Bianca'' Cheese'
   price: "$105"
   is_soldout: false
-  is_live: false
+  is_live: true
 layout: covid-menu
 ---
 
