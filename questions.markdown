@@ -33,5 +33,7 @@ Our goal is to create enough jobs in this uncertain season to continue to employ
 
 Please email [amy@canlis.com](amy@canlis.com).
 
+For questions about our delivery services please see: [https://www.exploretock.com/canlis/faq ](https://www.exploretock.com/canlis/faq)
+
 For media inquiries, please contact [jessica@canlis.com](mailto:jessica@canlis.com).
 
