@@ -176,7 +176,7 @@ menu:
     Sourdough Rolls with Cherry Valley Butter // Caramelized Chocolate Brownies with
     Blackberry Swirl
   price: "$54 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Wagyu Short Rib Stroganoff
   date: 2020-05-13 00:00:00 -07:00
@@ -184,7 +184,7 @@ menu:
   desc: Homemade Egg Noodles and Sno-Valley Mushrooms // Canlis Salad // Herb and
     Garlic Sourdough Rolls with Cherry Valley Butter // Chocolate Chip Cookie Cake
   price: "$44 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Herb-Rubbed Olsen Farms Slow Roasted Pork Loin
   date: 2020-05-14 00:00:00 -07:00
