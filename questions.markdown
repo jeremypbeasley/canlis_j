@@ -31,7 +31,7 @@ Our goal is to create enough jobs in this uncertain season to continue to employ
 
 <h2 class="Display2 mb4">Other questions?</h2>
 
-Please email [amy@canlis.com](amy@canlis.com).
+Please email [amy@canlis.com](mail to:amy@canlis.com).
 
 For questions about our delivery services please see: [https://www.exploretock.com/canlis/faq ](https://www.exploretock.com/canlis/faq)
 
