@@ -53,7 +53,7 @@ menu:
     Olsen Farms Pork Loin Chops (Approx 1.5lbs), 2 ea Painted Hills ribeye steaks,
     and 1 dozen farm-fresh eggs  '
   price: "$95"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: 
   date: 2020-05-13 00:00:00 -07:00
@@ -82,7 +82,7 @@ menu:
     farm-fresh eggs and 2# of freshly milled Cairnsprings Mill Club Cara flour, and
     1 pc of Tieton Farm and Creamery Sheep''s Milk ''Bianca'' Cheese'
   price: "$105"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 layout: covid-menu
 ---
