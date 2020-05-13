@@ -61,14 +61,6 @@ drinks:
     price: "$160 ($10 per drink)"
     experience_id: 128868
     is_soldout: false
-  - title: Bloody Mary
-    volume: "(makes 9 cocktails)"
-    desc: 'Includes 1 liter Monopolowa Vodka, 1 liter Bloody Mary Mix and plenty of
-      fixings to make this proper: Prawn skewers, Pickled Onions & Olives, Pickled
-      asparagus spears, Celery and Lemon wedges and Jacobson’s sea salt.'
-    price: "$144 ($10 per drink)"
-    experience_id: 128868
-    is_soldout: false
 - drink-category: Sparkling Wine
   drinks:
   - title: NV Sorelle Bronca, Prosecco, ITA

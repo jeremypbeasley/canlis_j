@@ -30,3 +30,8 @@ layout: events
 <p class="Caption mb2">The Prize</p>
 
 The first person to text their winning card will receive a Canlis CSA box, a $100 Canlis Gift Card, and 2 rolls of double-ply premium Canlis toilet paper, delivered to your door.
+
+<p class="Caption mb2">Support a nonprofit</p>
+
+Donate to a featured nonprofit each week and Mark will give your business a shout out on the show. For sponsorship details email <a href="mailto:jessica@canlis.com">jessica@canlis.com</a>.
+
