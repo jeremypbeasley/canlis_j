@@ -66,50 +66,50 @@ drinks:
   - title: NV Sorelle Bronca, Prosecco, ITA
     desc: Fresh and lively bubbles. Orange blossoms ripe pear.
     price: "$28"
-  - title: NV Robert Moncuit, Blanc de Blancs, Champagne, FRA
-    desc: Pristine apples with lime zest evolve into clean minerality.
+  - title: NV Bruno Paillard, Champagne, FRA
+    desc: Caramelized quince, rhubarb, toasted brioche, and delicate mousse.
     price: "$53"
   - title: NV Ruinart, Brut Rosé, Champagne, FRA
     desc: Lemon zest, chalk, red berries, roses. Soft and delicate texture.
     price: "$95"
-  - title: Analema Brut, Columbia Gorge, OR
-    desc: Red apple, fresh citrus with lean finish.
-    price: "$68"
 - drink-category: White Wine
   drinks:
   - title: Scarpetta Pinot Grigio, Friuli, ITA
     desc: Crisp and clean. Fresh lemons coupled by a mineral finish.
     price: "$22"
+  - title: Bailly-Reverdy Sancerre, Loire Valley, FRA
+    desc: Crisp, bright, and refreshing Sauvignon Blanc with grassy undertones.
+    price: "$36"
   - title: Orr, Old Vines, Chenin Blanc, Columbia Valley, WA
     desc: Local chenin blanc from the talented Erica Orr. Medium bodied, stone fruit
       with a flinty finish.
     price: "$31"
   - title: Peter Lauer Barrel X, Riesling, Mosel, DEU
-    desc: Just offdry. pure, and fresh with candied lime, nectarine, flint, and slate.
+    desc: Just off-dry. pure, and fresh with candied lime, nectarine, flint, and slate.
     price: "$33"
   - title: Buty Sauvignon Blanc/Sémillon, Columbia Valley, WA
     desc: Meyer lemons and apple blossoms are wrapped enveloping textures.
     price: "$29"
-  - title: Bailly Reverdy Sancerre, Loire Valley, FRA
-    desc: Crisp, bright, and refreshing with grassy undertones.
-    price: "$36"
   - title: áMaurice Chardonnay, Conner Lee Vineyard, WA
     desc: Creamy textured, baked yellow apple with Myer lemon.
-    price: "$47"
+    price: "$42"
   - title: Walter Scott, Chardonnay, La Combe Verte, OR
     desc: Concentrated flavors of lemon and yellow apple with a crisp, lean finish.
     price: "$33"
-  - title: Knoll Grüner Veltliner, Wachau, AUT
-    desc: Complex with a fruity start leading into minerality and vegetative tones.
-    price: "$42"
   - title: Two Vintners, Grenache Blanc, Yakima, WA
     desc: Light lemon oil with full ocean spray texture
     price: "$31"
+  - title: WT Vintners, Gruner Veltliner, Columbia Valley, WA
+    desc: Just ripe nectarine with notes of sweet pea and white flower.
+    price: "$33"
+  - title: Moreau et Fils Chablis, Burgundy, FRA
+    desc: Clean and balanced with white peach, yellow apple, and a minerally core.
+    price: "$38"
 - drink-category: Rosé
   drinks:
-  - title: Commanderie de Peyrassol, Provence, FRA
-    desc: Crunchy Cosmic Crisp apple flavors with a light coastal herbaceous nose.
-    price: "$36"
+  - title: Two Vintners, Rosé, Yakima Valley, WA
+    desc: Crushed red berries, rhubarb, and watermelon.  Absolutely delicious!
+    price: "$31"
   - title: Kerloo Cellars, Lonesome Ranch, Yakima Valley, WA
     desc: Fresh and fun with tart flavors of strawberries and spring blossoms.
     price: "$29"
@@ -121,28 +121,24 @@ drinks:
   - title: Raconteur Cabernet Sauvignon, Columbia Valley, WA
     desc: Blackberry, plum, baking spices and fresh herbs.
     price: "$25"
-  - title: Walla Walla Vintners, Merlot, Walla Walla Valley, WA
-    desc: Blackberry, black cherry, cocoa powder, cola, and vanilla oak tones.
-    price: "$33"
-  - title: Lopez de Heredia, Viña Bosconia, Rioja, ESP
-    desc: Oldschool and traditional Tempranillo blend with dried red fruit, earthy
-      and dusty notes
+  - title: Cavallotto Barbera d'Alba, Piedmont, ITA
+    desc: Candied Rainier cherries and rosewater, with a touch of balsamic reduction.
+    price: "$48"
+  - title: Bodegas Ontañón, Reserva, Rioja, ESP
+    desc: 'Dried red fruit, dusty earth, and leather. '
     price: "$42"
   - title: Soter, Pinot Noir, North Valley Reserve, Willamette, OR
     desc: Juicy cherry and cola nut on the nose lead into a black tea leaf finish.
     price: "$45"
-  - title: Cristom Mt Jefferson Cuvée, Pinot Noir, OR
-    desc: Red and black cherries, tea leaves and toasty finish.
+  - title: Pollard Merlot, Yakima Valley, WA
+    desc: Blackberry, black cherry, cocoa powder, cola, and vanilla undertones.
     price: "$33"
   - title: Newton, Cabernet Sauvignon, Unfiltered, Napa Valley, CA
-    desc: Blackberry, cassis, black plum, baking spice, leather, tobacco, cocoa.
+    desc: Blackberry, cassis, black plum, baking spice, leather, tobacco, and cocoa.
     price: "$53"
-  - title: Ch. de PulignyMontrachet, Monthelie, Burgundy, FRA
-    desc: Bright and fresh red fruit with earthy, minerally, undertones.
-    price: "$48"
-  - title: Brun Avril ChâteauneufduPape, Rhône Valley, FRA
-    desc: Rustic, black and red fruits, white pepper
-    price: "$53"
+  - title: Remoissenet, Givry Rouge, Burgundy, FRA
+    desc: Red fruits, violets, and sweet spice. Polished and complex.
+    price: "$52"
   - title: Domaine Ruet, Chiroubles, Beaujolais, FRA
     desc: Tart, fresh cherries and pomegranate with a juicy, lively texture.
     price: "$33"
@@ -158,21 +154,28 @@ drinks:
   - title: áMaurice Malbec, Gamache Vineyard, Walla Walla, WA
     desc: Deep, brooding black and blue fruit, baking spices and violets.
     price: "$44"
-  - title: Gramercy Lower East, Cabernet Sauvignon, WA
-    desc: Rich and full with ripe black fruits and spices.
-    price: "$42"
-  - title: Two Vintners, Legit, Cabernet Sauvignon, WA
-    desc: Refined and balanced. Blackberries and tobacco
-    price: "$33"
+  - title: Kerloo Syrah, Black Rock, WA
+    desc: Meaty, smoky, and savory. Black berries and olive tapenade.
+    price: "$35"
+  - title: Kerloo Red Willow, Cabernet Sauvignon, Yakima Valley, WA
+    desc: Bold, classic cabernet with a core of juicy blackberry, dried cherry, and
+      sweet tobacco.
+    price: "$45"
   - title: Salicutti Rosso di Montalcino, Tuscany, ITA
     desc: Tart bing cherries flow into leathery aromas backed by button mushrooms.
     price: "$55"
   - title: Bedrock Old Vine Zinfandel, Sonoma Valley, CA
     desc: Brambly black fruits with peppery spice and vanilla.
     price: "$28"
-  - title: Kerloo Syrah, Black Rock, WA
-    desc: Meaty, smoky, savory. Black berries and olive tapenade.
-    price: "$35"
+  - title: Wind Gap Grenache, CA
+    desc: Ripe wild strawberry with purple flower and cinnamon.
+    price: "$38"
+  - title: Château Simian, Châteauneuf-du-Pape, Rhone Valley, FRA
+    desc: Mixed berry compote brightened with fresh herbal tones.
+    price: "$53"
+  - title: Somm's Choice
+    desc: A seasonal mix of 5 wines.
+    price: "$150"
 layout: covid-drinks
 ---
 
