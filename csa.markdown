@@ -130,6 +130,6 @@ layout: covid-menu
 
 Support a farm! Get a curated box of the best ingredients, delivered to your door. It's dinner around the table, direct from our favorite farmers.
 
-Delivery is available to any address in Seattle, Shoreline, Mercer Island, and West Bellevue, with the exception of West Seattle, due to the bridge closure. You may pick up your order if you live outside of this area. See our <a href="/deliverymap" target="_blank"> delivery map</a>.
+Delivery is available to any address in Seattle, Shoreline, Mercer Island, and West Bellevue, and West Seattle. You may pick up your order if you live outside of this area. Simply add "for pick up" in your delivery notes when ordering. 
 
 Sales go live here every Wednesday at 1PM for the following week.
