@@ -84,6 +84,47 @@ menu:
   price: "$105"
   is_soldout: true
   is_live: true
+- title: 
+  date: 2020-05-18 00:00:00 -07:00
+  experience_id: 132612
+  desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
+    farms. Plus: 1 Dozen farm-fresh eggs, 1 Jar of Samish Bay yogurt, and 1 piece
+    (7oz) of Fantello Farmstead Creamery Filomena Tomme Cheese.'
+  price: "$75 "
+  is_soldout: false
+  is_live: true
+- title: 
+  date: 2020-05-19 00:00:00 -07:00
+  experience_id: 132614
+  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
+    Painted Hills NY Strip Steaks, 1 Jar of Samish Bay yogurt, 1 piece of Tieton Farm
+    and Creamery "Bianca" Goat Cheese, 1 dozen farm-fresh eggs, and 2 lbs of freshly
+    milled Cairnsprings Mill Club Cara flour'
+  price: "$90"
+  is_soldout: false
+  is_live: true
+- title: 
+  date: 2020-05-20 00:00:00 -07:00
+  experience_id: 132615
+  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea-Breeze
+    Farms fresh roaster chicken 1lbs of Olsen Farms grass-fed ground beef , 1 dozen
+    farm-fresh eggs and 2 lbs of freshly milled Cairnsprings Mill Club Cara flour'
+  price: "$95"
+  is_soldout: false
+  is_live: true
+- title: The Ultimate Weekend Kit
+  date: 2020-05-22 00:00:00 -07:00
+  experience_id: 132619
+  desc: "<strong> For the Grill: </strong> \nPainted Hills Ribeye, 2 ea., Wild Sockeye
+    Salmon, 4 filets, scaled and de-boned, Wobbly-Cart Farms Asparagus, and Alvarez
+    Farms Spring Onions, Celeste's Roasted-and-smashed Summer Potato Salad, Canlis
+    Chocolate Chip Cookie Dough, ready-to-bake, and 6-pack Special Beer.\n\n<strong>
+    For Brunch: </strong> \nMelissa's Now-famed Bagel Shed Everything Bagels (3 ea.)
+    with plain cream cheese, 1lb. Bagel Shed Breakfast Sausage, and 1 Dozen Farm Fresh
+    Eggs."
+  price: "$215"
+  is_soldout: false
+  is_live: true
 layout: covid-menu
 ---
 

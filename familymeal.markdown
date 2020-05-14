@@ -208,53 +208,53 @@ menu:
   is_live: true
 - title: Homemade Lasagna with Dry-Aged Beef Bolognese
   date: 2020-05-18 00:00:00 -07:00
-  experience_id: 
+  experience_id: 132562
   desc: Finished with Mozzarella, Basil, and Fiore Sardo // Fried Mozzarella Sticks
     and Marinara // Grilled Squash and Zucchini Alla Scapece // Canlis Salad // Garlic
     and Herb Sourdough Rolls // Italian Orange Cake with Icing Sugar Frosting
   price: "$58 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Homemade Vegetarian Lasagna
   date: 2020-05-18 00:00:00 -07:00
-  experience_id: 
+  experience_id: 132563
   desc: Finished with Mozzarella, Basil, and Fiore Sardo // Fried Mozzarella Sticks
     and Marinara // Grilled Squash and Zucchini Alla Scapece // Canlis Salad // Garlic
     and Herb Sourdough Rolls // Italian Orange Cake with Icing Sugar Frosting
   price: "$58 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Applewood-Grilled Hanger Steak
   date: 2020-05-19 00:00:00 -07:00
-  experience_id: 
+  experience_id: 132566
   desc: Chimichurri Sauce // Skagit Valley Barley with Green Garlic Sauce Verge //
     Grilled Spring Onions // Roasted Potato Salad // Canlis Salad // Herb and Garlic
     Sourdough Rolls with Cherry Valley Butter // Granny Smith Apple and Blackberry
     Crumble
   price: "$62 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Dungeness Crab Cakes
   date: 2020-05-20 00:00:00 -07:00
-  experience_id: 
+  experience_id: 132569
   desc: With Spicy Remoulade // Roast Eggplant Caponata // Grilled Asparagus in Seaweed
     Vinegar // Canlis Salad // Herb and Garlic Sourdough Rolls with Cherry Valley
     Butter // Dark Chocolate Layer Cake
   price: "$64 per person"
   is_soldout: false
-  is_live: false
-- title: Buttermilk Fried Chicken (1/2 Chicken Per Pereson)
+  is_live: true
+- title: Buttermilk Fried Chicken (1/2 Chicken Per Person)
   date: 2020-05-21 00:00:00 -07:00
-  experience_id: 
+  experience_id: 132571
   desc: Rigatoni Mac and Cheese // Baked Bread Lab Beans // Rainbow Chard and Collard
     Greens Braised with Bacon in Grenache Vinegar // Canlis Salad // Herb and Garlic
     Sourdough Rolls with Cherry Valley Butter // Chocolate Chip Cookie Cake
   price: "$54 per person"
-  is_soldout: false
-  is_live: false
+  is_soldout: true
+  is_live: true
 - title: 'Canlis Hawaiian Nights: A Throwback Menu From Last Summer'
   date: 2020-05-22 00:00:00 -07:00
-  experience_id: 
+  experience_id: 132574
   desc: 'Kalua Pork Nacho Kit (ready to go but you build yourself): Roasted Pork with
     Brady''s Queso and all the Fixings (sour cream, hot sauce, radish, black olives,
     pickled onions, cilantro) // Marinated and Grilled Kalbi Short Ribs with Macaroni
@@ -262,13 +262,25 @@ menu:
     two Mango White Claws'
   price: "$60 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
+- title: The Ultimate Weekend Kit
+  date: 2020-05-22 00:00:00 -07:00
+  experience_id: 132619
+  desc: "For the Grill: \nPainted Hills Ribeye, 2 ea., Wild Sockeye Salmon, 4 filets,
+    scaled and de-boned, Wobbly-Cart Farms Asparagus, and Alvarez Farms Spring Onions,
+    Celeste's Roasted-and-smashed Summer Potato Salad, Canlis Chocolate Chip Cookie
+    Dough, ready-to-bake, and a 6-pack Special Beer.\n\nFor Brunch:\nMelissa's Now-famed
+    Bagel Shed Everything Bagels (3 ea.) with plain cream cheese, 1lb. Bagel Shed
+    Breakfast Sausage, and 1 Dozen Farm Fresh Eggs."
+  price: "$215"
+  is_soldout: false
+  is_live: true
 layout: covid-menu
 ---
 
 Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost.
 
-Delivery is available to any address in Seattle, Shoreline, Mercer Island, and West Bellevue, with the exception of West Seattle, due to the bridge closure. See our <a href="/deliverymap" target="_blank"> delivery map</a>. You may pick up your order if you live outside of this area. Simply add "for pick up" in your delivery notes when ordering. 
+Delivery is available to any address in Seattle, Shoreline, Mercer Island, and West Bellevue, and West Seattle. You may pick up your order if you live outside of this area. Simply add "for pick up" in your delivery notes when ordering. 
 
 Sales go live here every Wednesday at 1PM for the following week.
 
