@@ -280,7 +280,7 @@ layout: covid-menu
 
 Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost.
 
-Delivery is available to any address in Seattle, Shoreline, Mercer Island, and West Bellevue, and West Seattle. You may pick up your order if you live outside of this area. Simply add "for pick up" in your delivery notes when ordering. 
+Delivery is available to any address in Seattle, Shoreline, Mercer Island, West Bellevue, and West Seattle. See <a href=“/deliverymap”>delivery map</a>. You may pick up your order if you live outside of this area. Simply add "for pick up" in your delivery notes when ordering. 
 
 Sales go live here every Wednesday at 1PM for the following week.
 
