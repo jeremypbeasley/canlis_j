@@ -9,7 +9,7 @@ layout: default
 <img src="/uploads/29C2C2EC-D386-40FA-B3C1-3055C403A2D9.jpeg">
 
 <h2 class="Display2 mb4">Pick up your order</h2>
-Delivery is available to any address in Seattle, Shoreline, Mercer Island, and West Bellevue, with the exception of West Seattle, due to the bridge closure. You may pick up your order if you live outside of this area.
+Delivery is available to any address in Seattle, Shoreline, Mercer Island, West Bellevue, and West Seattle. You may pick up your order if you live outside of this area. Simply add "for pick up" in your delivery notes when ordering.
 
 <div class="EventsButton mt1 mb3">
   <a class="Caption" href="/familymeal">
