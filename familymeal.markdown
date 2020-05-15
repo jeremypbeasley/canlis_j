@@ -204,7 +204,7 @@ menu:
     Garlic Sourdough Rolls with Cherry Valley Butter // Black Forest Trifle Cake with
     Luxardo Cherries
   price: "$96 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Homemade Lasagna with Dry-Aged Beef Bolognese
   date: 2020-05-18 00:00:00 -07:00
@@ -222,7 +222,7 @@ menu:
     and Marinara // Grilled Squash and Zucchini Alla Scapece // Canlis Salad // Garlic
     and Herb Sourdough Rolls // Italian Orange Cake with Icing Sugar Frosting
   price: "$58 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Applewood-Grilled Hanger Steak
   date: 2020-05-19 00:00:00 -07:00
@@ -261,7 +261,7 @@ menu:
     Salad and a Scoop of White Rice // Canlis Salad // Toasted Coconut Cake and yes,
     two Mango White Claws'
   price: "$60 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: The Ultimate Weekend Kit
   date: 2020-05-22 00:00:00 -07:00
