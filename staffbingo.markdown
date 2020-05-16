@@ -4,6 +4,8 @@ date: 2020-05-14 22:18:00 -07:00
 layout: media
 ---
 
-Hold your horses, we're not ready just yet. 
-
-(https://youtu.be/DaCB06EACbM)
+<div class="EventsButton mt1 mb10">
+  <a class="Caption" href="https://youtu.be/DaCB06EACbM">
+    Watch on Youtube
+  </a>
+</div>
