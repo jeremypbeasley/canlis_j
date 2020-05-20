@@ -133,7 +133,7 @@ menu:
     of Tieton Farm and Creamery "Bianca" Goat Cheese'
   price: "$75"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: 
   date: 2020-05-27 00:00:00 -07:00
   experience_id: 136755
@@ -143,7 +143,7 @@ menu:
     Mill Club Cara flour'
   price: "$95"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: The Ultimate Weekend Kit
   date: 2020-05-29 00:00:00 -07:00
   experience_id: 136850
@@ -152,13 +152,13 @@ menu:
     Fancy Sauce, and Sesame Buns;  4 of our house-made Bratwursts with a side of fermented
     cabbage; Wobbly-Cart Farms Asparagus; Rigatoni Pasta Salad, ready-to-bake Chocolate
     Chip Cookie Dough, 2 cans of Holy Mountain White Lodge Ale, and 2 cans of E9 Tac
-    City Lager\n\nFor Brunch:\nMelissa's now-famous Bagel Shed Everything Bagels (3
-    ea.) with House-smoked Copper River Sockeye Salmon Cream Cheese, 1 jar of Samish
+    City Lager.\n\nFor Brunch:\nMelissa's now-famous Bagel Shed Everything Bagels
+    (3 ea.) with House-smoked Copper River Sockeye Salmon Cream Cheese, 1 jar of Samish
     Bay Plain Greek Yogurt, 1 Dozen Farm Fresh Eggs, and a Housemade Tomato Shakshuka
     Kit with Feta and Cilantro"
   price: "$185"
   is_soldout: false
-  is_live: false
+  is_live: true
 layout: covid-menu
 ---
 
