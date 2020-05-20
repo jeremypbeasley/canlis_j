@@ -283,7 +283,7 @@ menu:
     // Cinnamon Sugar Coffee Cake
   price: "$58 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: 'Dry-Aged Duck Carnitas Enchiladas '
   date: 2020-05-27 00:00:00 -07:00
   experience_id: 136805
@@ -294,7 +294,7 @@ menu:
     Mexican Hot Chocolate Cookies
   price: "$54 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Vegetarian Enchiladas
   date: 2020-05-27 00:00:00 -07:00
   experience_id: 136808
@@ -304,8 +304,8 @@ menu:
     Seed, and Little Gem Lettuce Salad // Aqua Fresca (Rhubarb-Hibiscus Syrup and
     Topo Chico) and Mexican Hot Chocolate Cookies
   price: "$48 per person"
-  is_soldout: false
-  is_live: false
+  is_soldout: true
+  is_live: true
 - title: Buttermilk Fried Chicken (1/2 Chicken per person)
   date: 2020-05-28 00:00:00 -07:00
   experience_id: 136810
@@ -313,8 +313,8 @@ menu:
     and Carrot Coleslaw // Canlis Salad // Herb and Garlic Sourdough Rolls with Cherry
     Valley Butter // Strawberry Shortcake
   price: "$54 per person"
-  is_soldout: false
-  is_live: false
+  is_soldout: true
+  is_live: true
 - title: Dry-Aged Cote de Bouef for Two
   date: 2020-05-29 00:00:00 -07:00
   experience_id: 136815
@@ -324,7 +324,7 @@ menu:
     Chomeur (Vanilla-Maple Pudding Cake)
   price: "$88 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: The Ultimate Weekend Kit
   date: 2020-05-29 00:00:00 -07:00
   experience_id: 136850
@@ -333,13 +333,13 @@ menu:
     Fancy Sauce, and Sesame Buns;  4 of our house-made Bratwursts with a side of fermented
     cabbage; Wobbly-Cart Farms Asparagus; Rigatoni Pasta Salad, ready-to-bake Chocolate
     Chip Cookie Dough, 2 cans of Holy Mountain White Lodge Ale, and 2 cans of E9 Tac
-    City Lager\n\nFor Brunch:\nMelissa's now-famous Bagel Shed Everything Bagels (3
-    ea.) with House-smoked Copper River Sockeye Salmon Cream Cheese, 1 jar of Samish
+    City Lager.\n\nFor Brunch:\nMelissa's now-famous Bagel Shed Everything Bagels
+    (3 ea.) with House-smoked Copper River Sockeye Salmon Cream Cheese, 1 jar of Samish
     Bay Plain Greek Yogurt, 1 Dozen Farm Fresh Eggs, and a Housemade Tomato Shakshuka
     Kit with Feta and Cilantro"
   price: "$185"
   is_soldout: false
-  is_live: false
+  is_live: true
 layout: covid-menu
 ---
 
