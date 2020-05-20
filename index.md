@@ -1,7 +1,7 @@
 ---
 title: Home
 is_alert_shown: false
-alert_text: 
+alert_text:
 food_concepts_title: Food & Drink
 food_concepts:
 - title: Family Meal
@@ -52,6 +52,11 @@ fun_concepts:
   buttons:
   - label: Buy Merch
     link: https://canlisgeneralstore.squarespace.com/
+weekly_spam:
+  title: "The Weekly SPAM"
+  desc: "Order dinner ahead of everyone else when you sign up for our weekly email list. Also, get a peek behind the scenes, and other exclusive extras."
+  image: "/uploads/canlis_concept_spam.jpg"
+  link: http://eepurl.com/g1Yw4L
 layout: covid-home
 ---
 
