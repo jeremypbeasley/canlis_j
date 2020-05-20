@@ -325,10 +325,25 @@ menu:
   price: "$88 per person"
   is_soldout: false
   is_live: false
+- title: The Ultimate Weekend Kit
+  date: 2020-05-29 00:00:00 -07:00
+  experience_id: 136850
+  desc: "For the Grill: \nThe Canlis Drive-on-Thru Burger Kit complete with 4 Dry-Aged
+    Beef Patties, Romaine, Caramelized Yubeshi Onions, Pickles, American Cheese, Canlis
+    Fancy Sauce, and Sesame Buns;  4 of our house-made Bratwursts with a side of fermented
+    cabbage; Wobbly-Cart Farms Asparagus; Rigatoni Pasta Salad, ready-to-bake Chocolate
+    Chip Cookie Dough, 2 cans of Holy Mountain White Lodge Ale, and 2 cans of E9 Tac
+    City Lager\n\nFor Brunch:\nMelissa's now-famous Bagel Shed Everything Bagels (3
+    ea.) with House-smoked Copper River Sockeye Salmon Cream Cheese, 1 jar of Samish
+    Bay Plain Greek Yogurt, 1 Dozen Farm Fresh Eggs, and a Housemade Tomato Shakshuka
+    Kit with Feta and Cilantro"
+  price: "$185"
+  is_soldout: false
+  is_live: false
 layout: covid-menu
 ---
 
-Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar or ready-to-drink cocktails at an additional cost.
+Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar or ready-made cocktails at an additional cost.
 
 Delivery is available to any address in Seattle, Shoreline, Mercer Island, West Bellevue, and West Seattle. See [delivery map](/deliverymap). You may pick up your order if you live outside of this area. Simply add "for pick up" in your delivery notes when ordering.
 
