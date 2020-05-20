@@ -101,7 +101,7 @@ menu:
     and Creamery "Bianca" Goat Cheese, 1 dozen farm-fresh eggs, and 2 lbs of freshly
     milled Cairnsprings Mill Club Cara flour'
   price: "$90"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: 
   date: 2020-05-20 00:00:00 -07:00
@@ -115,16 +115,50 @@ menu:
 - title: The Ultimate Weekend Kit
   date: 2020-05-22 00:00:00 -07:00
   experience_id: 132619
-  desc: "<strong> For the Grill: </strong> \nPainted Hills Ribeye, 2 ea., Wild Sockeye
-    Salmon, 4 filets, scaled and de-boned, Wobbly-Cart Farms Asparagus, and Alvarez
+  desc: "<strong> For the Grill: </strong> \nPainted Hills Ribeye, 2 ea., Wild Alaskan
+    King Salmon, 4 filets, scaled and de-boned, Wobbly-Cart Farms Asparagus, and Alvarez
     Farms Spring Onions, Celeste's Roasted-and-smashed Summer Potato Salad, Canlis
     Chocolate Chip Cookie Dough, ready-to-bake, and 6-pack Special Beer.\n\n<strong>
     For Brunch: </strong> \nMelissa's Now-famed Bagel Shed Everything Bagels (3 ea.)
     with plain cream cheese, 1lb. Bagel Shed Breakfast Sausage, and 1 Dozen Farm Fresh
     Eggs."
   price: "$215"
-  is_soldout: false
+  is_soldout: true
   is_live: true
+- title: 
+  date: 2020-05-26 00:00:00 -07:00
+  experience_id: 136743
+  desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
+    farms. Plus: 1 Dozen farm-fresh eggs, 1 Jar of Samish Bay yogurt, and 1 piece
+    of Tieton Farm and Creamery "Bianca" Goat Cheese'
+  price: "$75"
+  is_soldout: false
+  is_live: false
+- title: 
+  date: 2020-05-27 00:00:00 -07:00
+  experience_id: 136755
+  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea-Breeze
+    Farms fresh roaster chicken, 1lb of Olsen Farms grass-fed ground beef, 1 Jar of
+    Samish Bay yogurt, 1 dozen farm-fresh eggs, and 2 lbs of freshly milled Cairnsprings
+    Mill Club Cara flour'
+  price: "$95"
+  is_soldout: false
+  is_live: false
+- title: The Ultimate Weekend Kit
+  date: 2020-05-29 00:00:00 -07:00
+  experience_id: 136850
+  desc: "For the Grill: \nThe Canlis Drive-on-Thru Burger Kit complete with 4 Dry-Aged
+    Beef Patties, Romaine, Caramelized Yubeshi Onions, Pickles, American Cheese, Canlis
+    Fancy Sauce, and Sesame Buns;  4 of our house-made Bratwursts with a side of fermented
+    cabbage; Wobbly-Cart Farms Asparagus; Rigatoni Pasta Salad, ready-to-bake Chocolate
+    Chip Cookie Dough, 2 cans of Holy Mountain White Lodge Ale, and 2 cans of E9 Tac
+    City Lager\n\nFor Brunch:\nMelissa's now-famous Bagel Shed Everything Bagels (3
+    ea.) with House-smoked Copper River Sockeye Salmon Cream Cheese, 1 jar of Samish
+    Bay Plain Greek Yogurt, 1 Dozen Farm Fresh Eggs, and a Housemade Tomato Shakshuka
+    Kit with Feta and Cilantro"
+  price: "$185"
+  is_soldout: false
+  is_live: false
 layout: covid-menu
 ---
 
