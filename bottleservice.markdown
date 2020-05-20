@@ -12,27 +12,19 @@ og_photo: "/uploads/canlis_concept_bottleservice.jpg"
 drinks:
 - drink-category: Cocktail Kits
   drinks:
-  - title: Almost Perfect
-    volume: "(makes 16 cocktails)"
-    desc: Our signature cocktail. Includes 750ml bottles of Stiggin's Fancy Rum, Cochi
-      Americano, Meletti Amaro, and 375ml of Luxardo Maraschino. Also comes with grenadine,
-      bitters, lemon peel, fresh flower garnish, and 16 large ice squares.
-    price: "$208 ($13 per drink)"
-    experience_id: 128868
-    is_soldout: false
   - title: Negroni
     volume: "(makes 16 cocktails)"
     desc: Includes full bottles of Sipsmith gin, Carpano Antica and Campari with 16
       large ice squares, and orange peel garnish.
     price: "$176 ($11 per drink)"
-    experience_id: 128868
+    experience_id: 136827
     is_soldout: false
   - title: Manhattan
     volume: "(makes 12 cocktails)"
     desc: Includes 750ml bottle of Knob Creek Bourbon and 375ml of Carpano Antica,
       James' house-made spiced cherries, orange bitters, and two copper garnish picks.
     price: "$120 ($10 per drink)"
-    experience_id: 128868
+    experience_id: 136827
     is_soldout: false
   - title: Piña Colada
     volume: "(makes 12 cocktails)"
@@ -41,17 +33,7 @@ drinks:
       Pina Colada mix, pineapple and mint for garnish. Pineapple glasses, straws and
       umbrellas included, naturally.
     price: "$168 ($14 per drink)"
-    experience_id: 128868
-    is_soldout: false
-  - title: Long Island Iced Tea
-    volume: "(makes 24 cocktails) (seriously...space these out people)"
-    desc: 'Think of this as an incredible way to stock your bar. Includes 1 liter
-      bottle of Monopolowa Vodka, 1 liter bottle of Campo Bravo Plata Tequila, 1 liter
-      bottle of Plantation 3 Star Rum, 750ml bottles each of Sipsmith Gin and Pierre
-      Ferrand Curacao. Also included: fresh lemon juice, simple syrup, lemon wedges,
-      and two bottles of Mexican Coke.'
-    price: "$216 ($9 per drink)"
-    experience_id: 128868
+    experience_id: 136827
     is_soldout: false
   - title: Margarita
     volume: "(makes 16 cocktails)"
@@ -59,7 +41,7 @@ drinks:
       Pierre Ferrand Curacao. Also comes with fresh lime juice, simple syrup, Jacobsen
       sea salt, and lime garnish.
     price: "$160 ($10 per drink)"
-    experience_id: 128868
+    experience_id: 136827
     is_soldout: false
 - drink-category: Sparkling Wine
   drinks:
@@ -74,12 +56,6 @@ drinks:
     price: "$95"
 - drink-category: White Wine
   drinks:
-  - title: Scarpetta Pinot Grigio, Friuli, ITA
-    desc: Crisp and clean. Fresh lemons coupled by a mineral finish.
-    price: "$22"
-  - title: Bailly-Reverdy Sancerre, Loire Valley, FRA
-    desc: Crisp, bright, and refreshing Sauvignon Blanc with grassy undertones.
-    price: "$36"
   - title: Orr, Old Vines, Chenin Blanc, Columbia Valley, WA
     desc: Local chenin blanc from the talented Erica Orr. Medium bodied, stone fruit
       with a flinty finish.
@@ -167,9 +143,6 @@ drinks:
   - title: Bedrock Old Vine Zinfandel, Sonoma Valley, CA
     desc: Brambly black fruits with peppery spice and vanilla.
     price: "$28"
-  - title: Wind Gap Grenache, CA
-    desc: Ripe wild strawberry with purple flower and cinnamon.
-    price: "$38"
   - title: Château Simian, Châteauneuf-du-Pape, Rhone Valley, FRA
     desc: Mixed berry compote brightened with fresh herbal tones.
     price: "$53"

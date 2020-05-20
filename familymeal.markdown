@@ -213,7 +213,7 @@ menu:
     and Marinara // Grilled Squash and Zucchini Alla Scapece // Canlis Salad // Garlic
     and Herb Sourdough Rolls // Italian Orange Cake with Icing Sugar Frosting
   price: "$58 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Homemade Vegetarian Lasagna
   date: 2020-05-18 00:00:00 -07:00
@@ -232,7 +232,7 @@ menu:
     Sourdough Rolls with Cherry Valley Butter // Granny Smith Apple and Blackberry
     Crumble
   price: "$62 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Dungeness Crab Cakes
   date: 2020-05-20 00:00:00 -07:00
@@ -241,7 +241,7 @@ menu:
     Vinegar // Canlis Salad // Herb and Garlic Sourdough Rolls with Cherry Valley
     Butter // Dark Chocolate Layer Cake
   price: "$64 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Buttermilk Fried Chicken (1/2 Chicken Per Person)
   date: 2020-05-21 00:00:00 -07:00
@@ -266,19 +266,69 @@ menu:
 - title: The Ultimate Weekend Kit
   date: 2020-05-22 00:00:00 -07:00
   experience_id: 132619
-  desc: "For the Grill: \nPainted Hills Ribeye, 2 ea., Wild Sockeye Salmon, 4 filets,
-    scaled and de-boned, Wobbly-Cart Farms Asparagus, and Alvarez Farms Spring Onions,
-    Celeste's Roasted-and-smashed Summer Potato Salad, Canlis Chocolate Chip Cookie
-    Dough, ready-to-bake, and a 6-pack Special Beer.\n\nFor Brunch:\nMelissa's Now-famed
-    Bagel Shed Everything Bagels (3 ea.) with plain cream cheese, 1lb. Bagel Shed
-    Breakfast Sausage, and 1 Dozen Farm Fresh Eggs."
+  desc: "For the Grill: \nPainted Hills Ribeye, 2 ea., Wild Alaskan King Salmon, 4
+    filets, scaled and de-boned, Wobbly-Cart Farms Asparagus, and Alvarez Farms Spring
+    Onions, Celeste's Roasted-and-smashed Summer Potato Salad, Canlis Chocolate Chip
+    Cookie Dough, ready-to-bake, and a 6-pack Special Beer.\n\nFor Brunch:\nMelissa's
+    Now-famed Bagel Shed Everything Bagels (3 ea.) with plain cream cheese, 1lb. Bagel
+    Shed Breakfast Sausage, and 1 Dozen Farm Fresh Eggs."
   price: "$215"
-  is_soldout: false
+  is_soldout: true
   is_live: true
+- title: Wagyu Meatloaf in Spicy Beet Ketchup
+  date: 2020-05-26 00:00:00 -07:00
+  experience_id: 136799
+  desc: Caramelized Garlic Mashed Potatoes // Sno-Valley Mushrooms Sauteed in Miso
+    Butter // Canlis Salad // Herb and Garlic Sourdough Rolls with Cherry Valley Butter
+    // Cinnamon Sugar Coffee Cake
+  price: "$58 per person"
+  is_soldout: false
+  is_live: false
+- title: 'Dry-Aged Duck Carnitas Enchiladas '
+  date: 2020-05-27 00:00:00 -07:00
+  experience_id: 136805
+  desc: Slow-cooked Sea Breeze Farm Duck Enchiladas smothered with a Red Chile Sauce
+    and topped with Cotija Cheese and Pickled Onions // Refried Bread Lab Beans //
+    Ancho-chile Rubbed Roasted Cauliflower  // Smoked Avocado, Pumpkin Seed, and Little
+    Gem Lettuce Salad //  Aqua Fresca (Rhubarb-Hibiscus Syrup and Topo Chico) and
+    Mexican Hot Chocolate Cookies
+  price: "$54 per person"
+  is_soldout: false
+  is_live: false
+- title: Vegetarian Enchiladas
+  date: 2020-05-27 00:00:00 -07:00
+  experience_id: 136808
+  desc: Hearth-roasted Squash, Zucchini, and Poblano Enchiladas smothered with a Red
+    Chile Sauce and topped with Cotija Cheese and Pickled Onions // Refried Bread
+    Lab Beans // Ancho-chile Rubbed Roasted Cauliflower // Smoked Avocado, Pumpkin
+    Seed, and Little Gem Lettuce Salad // Aqua Fresca (Rhubarb-Hibiscus Syrup and
+    Topo Chico) and Mexican Hot Chocolate Cookies
+  price: "$48 per person"
+  is_soldout: false
+  is_live: false
+- title: Buttermilk Fried Chicken (1/2 Chicken per person)
+  date: 2020-05-28 00:00:00 -07:00
+  experience_id: 136810
+  desc: Rigatoni Mac and Cheese // Roasted and Smashed Potato Salad // Fermented Cabbage
+    and Carrot Coleslaw // Canlis Salad // Herb and Garlic Sourdough Rolls with Cherry
+    Valley Butter // Strawberry Shortcake
+  price: "$54 per person"
+  is_soldout: false
+  is_live: false
+- title: Dry-Aged Cote de Bouef for Two
+  date: 2020-05-29 00:00:00 -07:00
+  experience_id: 136815
+  desc: 45-day Dry-aged Cote de Boeuf // Creamy Horseradish and Au jus // Whole Baked
+    Potatoes with all of the fixings // Asparagus Roasted with Seaweed Vinegar //
+    Canlis Salad // Herb and Garlic Sourdough Rolls with Cherry Valley Butter // Pouding
+    Chomeur (Vanilla-Maple Pudding Cake)
+  price: "$88 per person"
+  is_soldout: false
+  is_live: false
 layout: covid-menu
 ---
 
-Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar at an additional cost.
+Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar or ready-to-drink cocktails at an additional cost.
 
 Delivery is available to any address in Seattle, Shoreline, Mercer Island, West Bellevue, and West Seattle. See [delivery map](/deliverymap). You may pick up your order if you live outside of this area. Simply add "for pick up" in your delivery notes when ordering.
 
