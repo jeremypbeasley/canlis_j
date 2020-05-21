@@ -290,7 +290,7 @@ menu:
   desc: Slow-cooked Sea Breeze Farm Duck Enchiladas smothered with a Red Chile Sauce
     and topped with Cotija Cheese and Pickled Onions // Refried Bread Lab Beans //
     Ancho-chile Rubbed Roasted Cauliflower  // Smoked Avocado, Pumpkin Seed, and Little
-    Gem Lettuce Salad //  Aqua Fresca (Rhubarb-Hibiscus Syrup and Topo Chico) and
+    Gem Lettuce Salad //  Agua Fresca (Rhubarb-Hibiscus Syrup and Topo Chico) and
     Mexican Hot Chocolate Cookies
   price: "$54 per person"
   is_soldout: false
