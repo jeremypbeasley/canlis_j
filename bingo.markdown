@@ -15,7 +15,7 @@ layout: events
 
 <p class="Caption mb2">How to play</p>
 
-- All family meal, CSA, General Store, and Bottle Service deliveries include Bingo cards. 
+- All family meal, CSA, General Store, and Bottle Service deliveries include Bingo cards. </p>
 
 
 1.) Watch the livestream. Video will appear on this link on May 1st at 8:30PM.
