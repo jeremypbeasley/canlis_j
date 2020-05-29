@@ -51,9 +51,12 @@ drinks:
   - title: NV Bruno Paillard, Champagne, FRA
     desc: Caramelized quince, rhubarb, toasted brioche, and delicate mousse.
     price: "$53"
-  - title: NV Ruinart, Brut Rosé, Champagne, FRA
-    desc: Lemon zest, chalk, red berries, roses. Soft and delicate texture.
-    price: "$95"
+  - title: Canlis x Robert Moncuit, Le-Mesnil-sur-Oger, Grand Cru, Champagne, FRA
+    desc: A special collaboration blended and aged in the Moncuit cellar in Champagne
+      by sommeliers Nelson Daquip and Jackson Rohrbaugh, Master Sommelier. Beautifully
+      balanced with notes of golden apple, lemon curd, sourdough, and striking minerality.
+      Only 100 cases produced.
+    price: "$125"
 - drink-category: White Wine
   drinks:
   - title: Orr, Old Vines, Chenin Blanc, Columbia Valley, WA
@@ -86,9 +89,6 @@ drinks:
   - title: Two Vintners, Rosé, Yakima Valley, WA
     desc: Crushed red berries, rhubarb, and watermelon.  Absolutely delicious!
     price: "$31"
-  - title: Kerloo Cellars, Lonesome Ranch, Yakima Valley, WA
-    desc: Fresh and fun with tart flavors of strawberries and spring blossoms.
-    price: "$29"
   - title: Château Routas, Provence, FRA
     desc: Minerally and bright with underripe berry flavors and lilacs aromas.
     price: "$21"
@@ -130,9 +130,6 @@ drinks:
   - title: áMaurice Malbec, Gamache Vineyard, Walla Walla, WA
     desc: Deep, brooding black and blue fruit, baking spices and violets.
     price: "$44"
-  - title: Kerloo Syrah, Black Rock, WA
-    desc: Meaty, smoky, and savory. Black berries and olive tapenade.
-    price: "$35"
   - title: Kerloo Red Willow, Cabernet Sauvignon, Yakima Valley, WA
     desc: Bold, classic cabernet with a core of juicy blackberry, dried cherry, and
       sweet tobacco.
@@ -140,9 +137,6 @@ drinks:
   - title: Salicutti Rosso di Montalcino, Tuscany, ITA
     desc: Tart bing cherries flow into leathery aromas backed by button mushrooms.
     price: "$55"
-  - title: Bedrock Old Vine Zinfandel, Sonoma Valley, CA
-    desc: Brambly black fruits with peppery spice and vanilla.
-    price: "$28"
   - title: Château Simian, Châteauneuf-du-Pape, Rhone Valley, FRA
     desc: Mixed berry compote brightened with fresh herbal tones.
     price: "$53"

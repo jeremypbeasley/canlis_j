@@ -8,7 +8,7 @@ layout: events
 ---
 
 <div class="EventsButton mt1 mb10">
-  <a class="Caption" href="https://youtu.be/g3megIMIF_I">
+  <a class="Caption" href="https://youtu.be/c02pvGBAO_k">
     Watch on Youtube
   </a>
 </div>
@@ -32,7 +32,7 @@ layout: events
 
 <p class="Caption mb2">The Prize</p>
 
-The first person to text their winning card will receive a Canlis CSA box, a $100 Canlis Gift Card, and 2 rolls of double-ply premium Canlis toilet paper, delivered to your door.
+The first person to text their winning card will receive a Canlis CSA box, a $100 Canlis Gift Card, and... a mystery prize (or two). All delivered to your door.
 
 <p class="Caption mb2">Support a nonprofit</p>
 

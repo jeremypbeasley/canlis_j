@@ -293,7 +293,7 @@ menu:
     Gem Lettuce Salad //  Agua Fresca (Rhubarb-Hibiscus Syrup and Topo Chico) and
     Mexican Hot Chocolate Cookies
   price: "$54 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Vegetarian Enchiladas
   date: 2020-05-27 00:00:00 -07:00
@@ -323,7 +323,7 @@ menu:
     Canlis Salad // Herb and Garlic Sourdough Rolls with Cherry Valley Butter // Pouding
     Chomeur (Vanilla-Maple Pudding Cake)
   price: "$88 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: The Ultimate Weekend Kit
   date: 2020-05-29 00:00:00 -07:00
@@ -338,6 +338,78 @@ menu:
     Bay Plain Greek Yogurt, 1 Dozen Farm Fresh Eggs, and a Housemade Tomato Shakshuka
     Kit with Feta and Cilantro"
   price: "$185"
+  is_soldout: true
+  is_live: true
+- title: Southern-Style Pan-Fried Copper River Sockeye Salmon Cakes
+  date: 2020-06-01 00:00:00 -07:00
+  experience_id: 140598
+  desc: With Spicy Creole Remoulade // Caramelized Garlic Mashed Potatoes // Canlis
+    Salad //  Roasted Hakurei Turnips and Arugula Finished with Seaweed Vinegar //
+    Garlic and Herb Sourdough Rolls // Flourless Chocolate and Pear Cake
+  price: "$60 per person"
+  is_soldout: false
+  is_live: true
+- title: Pork Shoulder and Belly Bo Ssam
+  date: 2020-06-02 00:00:00 -07:00
+  experience_id: 140612
+  desc: 'With All The Fixings: Slow-roasted Olson Farms Pork Shoulder // Bibb Lettuce
+    // White Rice // Chive Pancakes // House-made Daikon Kimchi // Chilled Ginger
+    Scallion Noodles // Hoisin Sauce // Vinegar-Braised Bok Choy and Mushrooms //
+    Roasted Barley Tea Cake with Lemon Marmalade'
+  price: "$65 per person"
+  is_soldout: false
+  is_live: true
+- title: Homemade Lasagna Bolognese
+  date: 2020-06-03 00:00:00 -07:00
+  experience_id: 140624
+  desc: Beef and Pork Bolognese // Finished with Mozzarella, Basil, and Fiore Sardo
+    // Fried Mozzarella Sticks and Marinara // Roasted Eggplant Caponata // Canlis
+    Salad // Garlic and Herb Sourdough Rolls // Profiteroles with Whipped Mascarpone
+    and Chocolate Sauce
+  price: "$58 per person"
+  is_soldout: false
+  is_live: true
+- title: Homemade Vegetarian Spinach Lasagna
+  date: 2020-06-03 00:00:00 -07:00
+  experience_id: 140635
+  desc: Finished with Mozzarella, Basil, and Fiore Sardo // Fried Mozzarella Sticks
+    and Marinara // Roasted Eggplant Caponata // Canlis Salad (no bacon) // Garlic
+    and Herb Sourdough Rolls // Profiteroles with Whipped Mascarpone and Chocolate
+    Sauce
+  price: "$58 per person"
+  is_soldout: true
+  is_live: true
+- title: Buttermilk Fried Chicken (1/2 Chicken per person)
+  date: 2020-06-04 00:00:00 -07:00
+  experience_id: 140650
+  desc: Rigatoni Mac and Cheese // Baked Bread Lab Beans // Fermented Cabbage and
+    Carrot Coleslaw // Canlis Salad // Herb and Garlic Sourdough Rolls // Hummingbird
+    Cupcakes with Cheesecake Frosting
+  price: "$54 per person"
+  is_soldout: true
+  is_live: true
+- title: Canlis Charcoal Broiler Surf 'n Turf
+  date: 2020-06-05 00:00:00 -07:00
+  experience_id: 140652
+  desc: Grilled Prime Beef Tenderloin and Shrimp Cocktail  // Spicy Cocktail Sauce
+    and Au Jus // Grilled Asparagus with Sauce Gribiche // Iceberg Wedge Salad with
+    Cherry Tomatoes, Roquefort Dressing, and Applewood-Smoked Bacon // Passionfruit
+    Posset with Shortbread Cookies
+  price: "$88 per person"
+  is_soldout: false
+  is_live: true
+- title: The Ultimate Weekend Kit
+  date: 2020-06-05 00:00:00 -07:00
+  experience_id: 140654
+  desc: "For the Grill: \nThe Canlis Drive-on-Thru Burger Kit (complete with 6 Dry-Aged
+    Beef Patties, Romaine, Caramelized Yubeshi Onions, Pickles, American Cheese, Canlis
+    Fancy Sauce, and Sesame Buns),  4 of our house-made Bratwursts with a side of
+    fermented cabbage; Wobbly-Cart Farms Asparagus; Celeste's Smashed and Fried Potato
+    Salad, ready-to-bake Oatmeal Raisin Cookie Dough, and 2 cans of Holy Mountain
+    White Lodge Ale and 2 cans of E9 Kolsch\n\nFor Brunch:\nReady-to-make Buttermilk
+    Biscuit and Sausage Gravy Kit (with all ingredients and a recipe), 1 Dozen Farm
+    Fresh Eggs, and our housemade granola with dried Skagit Valley blueberries"
+  price: "$195"
   is_soldout: false
   is_live: true
 layout: covid-menu
