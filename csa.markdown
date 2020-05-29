@@ -132,7 +132,7 @@ menu:
     farms. Plus: 1 Dozen farm-fresh eggs, 1 Jar of Samish Bay yogurt, and 1 piece
     of Tieton Farm and Creamery "Bianca" Goat Cheese'
   price: "$75"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: 
   date: 2020-05-27 00:00:00 -07:00
@@ -142,7 +142,7 @@ menu:
     Samish Bay yogurt, 1 dozen farm-fresh eggs, and 2 lbs of freshly milled Cairnsprings
     Mill Club Cara flour'
   price: "$95"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: The Ultimate Weekend Kit
   date: 2020-05-29 00:00:00 -07:00
@@ -157,6 +157,47 @@ menu:
     Bay Plain Greek Yogurt, 1 Dozen Farm Fresh Eggs, and a Housemade Tomato Shakshuka
     Kit with Feta and Cilantro"
   price: "$185"
+  is_soldout: true
+  is_live: true
+- title: 
+  date: 2020-06-01 00:00:00 -07:00
+  experience_id: 140660
+  desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
+    farms. Plus: 1 Dozen farm-fresh eggs, 1 Jar of Samish Bay plain greek yogurt,
+    and 1 piece (7oz) of Fantello Farmstead Creamery Filomena Tomme Cheese'
+  price: "$75"
+  is_soldout: false
+  is_live: true
+- title: 
+  date: 2020-06-02 00:00:00 -07:00
+  experience_id: 140663
+  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
+    Painted Hills NY Strip Steaks, 1 Jar of Samish Bay plain greek yogurt, 1 dozen
+    farm-fresh eggs, and 2 lbs of freshly milled Cairnsprings Mill Club Cara flour'
+  price: "$95"
+  is_soldout: false
+  is_live: true
+- title: 
+  date: 2020-06-03 00:00:00 -07:00
+  experience_id: 140665
+  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea-Breeze
+    Farms fresh roaster chicken, 1lb of Olsen Farms grass-fed ground beef , 1 dozen
+    farm-fresh eggs, and 2 lbs of freshly milled Cairnsprings Mill Club Cara flour'
+  price: "$105"
+  is_soldout: false
+  is_live: true
+- title: The Ultimate Weekend Kit
+  date: 2020-06-05 00:00:00 -07:00
+  experience_id: 140654
+  desc: "For the Grill: \nThe Canlis Drive-on-Thru Burger Kit (complete with 6 Dry-Aged
+    Beef Patties, Romaine, Caramelized Yubeshi Onions, Pickles, American Cheese, Canlis
+    Fancy Sauce, and Sesame Buns),  4 of our house-made Bratwursts with a side of
+    fermented cabbage; Wobbly-Cart Farms Asparagus; Celeste's Smashed and Fried Potato
+    Salad, ready-to-bake Oatmeal Raisin Cookie Dough, and 2 cans of Holy Mountain
+    White Lodge Ale and 2 cans of E9 Kolsch\n\nFor Brunch:\nReady-to-make Buttermilk
+    Biscuit and Sausage Gravy Kit (with all ingredients and a recipe), 1 Dozen Farm
+    Fresh Eggs, and our housemade granola with dried Skagit Valley blueberries"
+  price: "$195"
   is_soldout: false
   is_live: true
 layout: covid-menu
