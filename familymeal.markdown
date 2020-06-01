@@ -367,7 +367,7 @@ menu:
     Salad // Garlic and Herb Sourdough Rolls // Profiteroles with Whipped Mascarpone
     and Chocolate Sauce
   price: "$58 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Homemade Vegetarian Spinach Lasagna
   date: 2020-06-03 00:00:00 -07:00
