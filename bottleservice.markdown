@@ -1,5 +1,5 @@
 ---
-title: Bottle Service
+title: "Bottle Service"
 date: 2020-03-13 16:19:00 -07:00
 image: "/uploads/canlis_concept_bottleservice.jpg"
 desc: Quarantined preprohibitionists, bartenders, and delivery drivers of the world

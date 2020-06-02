@@ -8,6 +8,12 @@
     <div class="Divider ShowMobile op20 mt1"></div>
   </div>
   <div class="col mt3 ml3 mr3 d-mt15 d-mr15 d-ml15 col-twothirds">
+    {% if page.title == 'Family Meal' %}
+      {% assign page.order_type = "familymeal" %}
+    {% endif %}
+    {% if page.title == 'Community Support Agriculture Boxes' %}
+      {% assign page.order_type = "csa" %}
+    {% endif %}
     {% for item in page.menu %}
         {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
         {% capture date %}{{item.date | date: '%s'}}{% endcapture %}
@@ -93,6 +99,7 @@
                 })"
                 class="TockButton TockButtonLocal mt3 mb4 OrderLink"
                 data-link="https://exploretock.com/canlis/experience/{{ item.experience_id }}/"
+                data-order-type="{{ page.order_type}}"
                 >
                   Order on Tock
                 </a>
