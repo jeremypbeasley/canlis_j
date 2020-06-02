@@ -71,9 +71,11 @@
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
 <!-- End Google Tag Manager (noscript) -->
 
-{% assign popup = site.pages | where: "slug", "popup-delivery" | first %}
-{% if popup.is_pop_up == true %}
-  <div class="Popup">
+<!-- Popups -->
+
+{% assign popup_delivery = site.pages | where: "slug", "popup-delivery" | first %}
+{% if popup_delivery.is_pop_up == true %}
+  <div class="Popup" id="popup_delivery">
     <div class="PopupOverlay"></div>
     <div class="PopupCard">
       <div class="CloseButton">
@@ -83,21 +85,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       </div>
       <img src="/uploads/delivery_popup.jpg"/>
       <div class="PopupContent">
-        <p class="mb2">{{popup.body }}</p>
+        <p class="mb2">{{ popup_delivery.body }}</p>
           <a
             target="_blank"
             class="TockButton Caption mt2 Continue"
             id="PopupButtonLink"
             href=""
           >
-            {{ popup.link_text }}
+            {{ popup_delivery.link_text }}
           </a>
         </div>
       </div>
-      <img class="PopupImage" onclick="location.href='{{popup.link}}';" src="{{popup.pop_up_image}}"/>
     </div>
   </div>
 {% endif %}
+
 
 <div class="OrderFlow d-mb8">
 
