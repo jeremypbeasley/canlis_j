@@ -415,7 +415,7 @@ menu:
 layout: covid-menu
 ---
 
-See our [delivery map](/deliverymap). Pickup available on request. Pickup available upon request.
+See our [delivery map](/deliverymap). Pickup available on request. 
 
 Sales go live here every Wednesday at 1PM for the following week.
 
