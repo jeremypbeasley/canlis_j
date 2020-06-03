@@ -10,7 +10,7 @@ og_photo: "/uploads/canlis_concept_familymeal.jpg"
 menu:
 - title: 'Beets Wellington (Vegetarian) '
   date: 2020-04-20 05:00:00 -07:00
-  experience_id:
+  experience_id: 
   desc: Roasted Beets and Mushroom Duxelles wrapped in puff pastry with Mushroom-Peppercorn
     Sauce, Cauliflower and Aged Pecorino Gratin, Canlis Salad (Bacon on the side),
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Strawberry and Rhubarb
@@ -20,7 +20,7 @@ menu:
   is_live: true
 - title: 'Braised Rabbit White Lasagna '
   date: 2020-04-21 05:00:00 -07:00
-  experience_id:
+  experience_id: 
   desc: Valley Farms Rabbit braised in white wine with Vegetables, Fiore Sardo Cheese
     and a White Bechamel Sauce, Woodfired Radishes and Arugula with Salsa Verde, Canlis
     Salad, Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Layered Chocolate
@@ -30,7 +30,7 @@ menu:
   is_live: true
 - title: Nana's Italian Sausage with Onions & Peppers
   date: 2020-04-22 05:00:00 -07:00
-  experience_id:
+  experience_id: 
   desc: Pork and Duck Sausage with Caramelized Spring Onions and Roasted Peppers,
     Creamy Stone-ground Polenta, Cannellini Bean & Root Vegetable Ragu, Canlis Salad,
     Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Raspberry, Rose, and
@@ -347,7 +347,7 @@ menu:
     Salad //  Roasted Hakurei Turnips and Arugula Finished with Seaweed Vinegar //
     Garlic and Herb Sourdough Rolls // Flourless Chocolate and Pear Cake
   price: "$60 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Pork Shoulder and Belly Bo Ssam
   date: 2020-06-02 00:00:00 -07:00
@@ -415,9 +415,10 @@ menu:
 layout: covid-menu
 ---
 
-See our [delivery map](/deliverymap). Pickup available on request. Pickup available upon request.
+Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar or ready-made cocktails at an additional cost.
+
+Delivery is available to any address in Seattle, Shoreline, Mercer Island, West Bellevue, and West Seattle. See [delivery map](/deliverymap). You may pick up your order if you live outside of this area. Simply add "for pick up" in your delivery notes when ordering.
+
+Canlis servers, our delivery drivers, will arrive within one hour of the time you have chosen. For example, if you selected a 5pm meal we'll arrive sometime between 5pm and 6pm. So you can plan ahead and to minimize contact, we’ll send you a text as soon as we are en route and again when we arrive at your address.
 
 Sales go live here every Wednesday at 1PM for the following week.
-
-<div style="background: #FDF2C3; border: 1px solid #E3C442; border-radius: 5px; padding: 18px; margin-bottom: 30px;">In order to keep our drivers safe during the demonstrations, we'll be delivering early this week, from 2:00 to 5:00 PM. All meals are fully cooked and specifically designed to be re-heated.
-</div>
