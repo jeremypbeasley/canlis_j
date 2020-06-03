@@ -1,5 +1,5 @@
 ---
-title: Bottle Service
+title: "Bottle Service"
 date: 2020-03-13 16:19:00 -07:00
 image: "/uploads/canlis_concept_bottleservice.jpg"
 desc: Quarantined preprohibitionists, bartenders, and delivery drivers of the world
@@ -146,14 +146,11 @@ drinks:
 layout: covid-drinks
 ---
 
-Our Director of Wine & Spirits, Nelson Daquip, has shared his go-to bottle list below. Many wines offered at retail price. Download our full wine list <a target="_blank" href="https://canlis.com/uploads/winelist.pdf">here</a>.
+Our Director of Wine & Spirits, Nelson Daquip, and Head Barman, James MacWilliams have created the perfect wine list and cocktail kits to get you through quarantine. Detailed instructions are included with every kit.
 
-<p class="mb1 Caption ShowDesktop">For wine, TEXT A SOMM @ (206) 222-7253</p>
+Many wines offered at retail price. Download our full wine list <a target="_blank" href="https://canlis.com/uploads/winelist.pdf">here</a>.
 
-<div class="mt2">
-  <div class="EventsButton mb10 ShowMobile">
-    <a class="Caption" href="sms:+12062227253">
-      TEXT A SOMM @ (206) 222-7253
-    </a>
-  </div>
+See our [delivery map](/deliverymap). Pickup available on request. Pickup available upon request.
+
+<div style="background: #FDF2C3; border: 1px solid #E3C442; border-radius: 5px; padding: 18px; margin-bottom: 30px;">In order to keep our drivers safe during the demonstrations, we'll be delivering dinners early this week, from 2:00 to 5:00 PM. All meals are fully cooked and specifically designed to be re-heated.
 </div>
