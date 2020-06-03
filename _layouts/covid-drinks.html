@@ -4,11 +4,13 @@
   <div class="col mt3 ml3 mr3 d-mt15 d-mr5 d-ml15 col-onethird">
     <a class="CenterText" href="/">Back to all options</a>
     <h1 class="Display1 mb2 mt3">{{ page.title }}</h1>
-    <p class="">{{ page.desc }}</p>
     {{ content }}
     <div class="Divider ShowMobile op20 mt1"></div>
   </div>
   <div class="col mt3 ml3 mr3 d-mt15 d-mr15 d-ml15 col-twothirds">
+    <!-- Pre-Tock Popup -->
+    {% assign order_type = "bottleservice" %}
+    {% assign order_msg = site.pages | where: "slug", "popup-bottleservice" | first %}
     <!-- COCKTAIL KITS -->
     <div class="mb2 contents">
         {% for drink in page.drinks %}
@@ -48,6 +50,8 @@
                           <a
                           class="TockButton mt3 mb4 OrderLink"
                           data-link="https://exploretock.com/canlis/experience/{{ nestedproduct.experience_id }}/"
+                          data-order-type="{{ order_type }}"
+                          data-order-msg="{{ order_msg.body }}"
                           >
                             Order on Tock
                           </a>

@@ -415,9 +415,9 @@ menu:
 layout: covid-menu
 ---
 
-<div style="background: #FDF2C3; border: 1px solid #E3C442; border-radius: 5px; padding: 18px; margin-bottom: 30px;">In order to keep our drivers safe during the demonstrations, we'll be delivering dinners early this week, from 2:00 to 5:00 PM. All meals are fully cooked and specifically designed to be re-heated.
-</div>
-
-Dinner from our kitchen to your doorstep with zero contact. Add wine from our storied cellar or ready-made cocktails at an additional cost. See our delivery map here. Pickup available on request. See [delivery map](/deliverymap). Pickup available upon request.
+See our [delivery map](/deliverymap). Pickup available on request. Pickup available upon request.
 
 Sales go live here every Wednesday at 1PM for the following week.
+
+<div style="background: #FDF2C3; border: 1px solid #E3C442; border-radius: 5px; padding: 18px; margin-bottom: 30px;">In order to keep our drivers safe during the demonstrations, we'll be delivering early this week, from 2:00 to 5:00 PM. All meals are fully cooked and specifically designed to be re-heated.
+</div>
