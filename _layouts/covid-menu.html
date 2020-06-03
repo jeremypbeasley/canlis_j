@@ -8,6 +8,16 @@
     <div class="Divider ShowMobile op20 mt1"></div>
   </div>
   <div class="col mt3 ml3 mr3 d-mt15 d-mr15 d-ml15 col-twothirds">
+    <!-- Pre-Tock Popup -->
+    {% if page.title == 'Family Meal' %}
+      {% assign order_type = "familymeal" %}
+      {% assign order_msg = site.pages | where: "slug", "popup-delivery" | first %}
+    {% endif %}
+    {% if page.title == 'Community Support Agriculture Boxes' %}
+      {% assign order_type = "csa" %}
+      {% assign order_msg = site.pages | where: "slug", "popup-csa" | first %}
+    {% endif %}
+    <!-- Loop through items -->
     {% for item in page.menu %}
         {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
         {% capture date %}{{item.date | date: '%s'}}{% endcapture %}
@@ -93,6 +103,8 @@
                 })"
                 class="TockButton TockButtonLocal mt3 mb4 OrderLink"
                 data-link="https://exploretock.com/canlis/experience/{{ item.experience_id }}/"
+                data-order-type="{{ order_type }}"
+                data-order-msg="{{ order_msg.body }}"
                 >
                   Order on Tock
                 </a>
