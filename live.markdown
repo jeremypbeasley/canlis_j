@@ -1,6 +1,9 @@
 ---
 title: Live at Canlis
 date: 2020-06-04 17:23:00 -07:00
+og_desc: Live piano, bingo, and special guests
+image: "/uploads/canlis_bingo.jpg"
+og_photo: "/uploads/canlis_bingo.jpg"
 layout: events
 ---
 
