@@ -412,12 +412,78 @@ menu:
   price: "$195"
   is_soldout: false
   is_live: true
+- title: Wood-Grilled BBQ Pork Loin
+  date: 2020-06-08 00:00:00 -07:00
+  experience_id: 144824
+  desc: Rubbed with a Miso-Pepper BBQ Sauce  // Caramelized Garlic Mashed Potatoes  //
+    Slow-cooked Greens in Grenache Vinegar with Bacon // Canlis Salad // Herb and
+    Garlic Sourdough Rolls // Toasted Nut Milk Panna Cotta with Lace Cookies
+  price: "$40 per person"
+  is_soldout: false
+  is_live: true
+- title: Wagyu Short Rib Stroganoff
+  date: 2020-06-09 00:00:00 -07:00
+  experience_id: 144834
+  desc: Homemade Egg Noodles and Sno-Valley Mushrooms // Canlis Salad // Herb and
+    Garlic Sourdough Rolls  // Angel Food Cake with Strawberries and Cream
+  price: "$42 per person"
+  is_soldout: true
+  is_live: true
+- title: Sno-Valley Mushroom Stroganoff
+  date: 2020-06-09 00:00:00 -07:00
+  experience_id: 144838
+  desc: Homemade Egg Noodles // Canlis Salad // Herb and Garlic Sourdough Rolls  //
+    Angel Food Cake with Strawberries and Cream
+  price: "$36 per person"
+  is_soldout: true
+  is_live: true
+- title: Slow-Braised Rabbit Tinga Enchiladas
+  date: 2020-06-10 00:00:00 -07:00
+  experience_id: 144840
+  desc: Simmered in Tomato, Garlic, and Spices with Corn Tortillas in a Smoked Red
+    Chile Sauce // Black Beans with Wood-fired Onions and Poblano Peppers // Housemade
+    Chips and Chef Brady’s Queso // Mexican Chocolate Pot de Creme
+  price: "$38 per person"
+  is_soldout: false
+  is_live: true
+- title: Buttermilk Fried Chicken (1/2 Chicken per person)
+  date: 2020-06-11 00:00:00 -07:00
+  experience_id: 144865
+  desc: Rigatoni Mac and Cheese // Fermented Carrot and Cabbage Coleslaw // Roasted
+    and Smashed Potato Salad // Canlis Salad // Herb and Garlic Sourdough Rolls //
+    Graham Cracker Crusted Lemon Bars
+  price: "$52 per person"
+  is_soldout: true
+  is_live: true
+- title: Canlis Charcoal Broiler Prime Rib
+  date: 2020-06-12 00:00:00 -07:00
+  experience_id: 144867
+  desc: Au jus and Creamy Horseradish // Dungeness Crab Louie Salad // Twice Baked
+    Baked Potatoes // Herb and Garlic Sourdough Rolls // Canlis Barrel-aged Rhum Baba
+  price: "$72 per person"
+  is_soldout: false
+  is_live: true
+- title: Weekend-Made-Easy Kit
+  date: 2020-06-12 00:00:00 -07:00
+  experience_id: 144870
+  desc: "For the Grill: \n2 Dry-Aged Painted Hills Farms NY Strip Steaks; 4 portions
+    of Copper River Sockeye Salmon; Grilled Spring Onion Chimichurri; Wobbly Cart
+    Asparagus; ready-to-bake Oatmeal Raisin cookies, and 2 cans of Holy Mountain White
+    Lodge Ale and 2 cans of E9 Kolsch.  \n\nReady-to-make Brunch:\nFresh Blueberry
+    Pancakes with Maple Syrup, 1 Dozen Farm Fresh Eggs, 1lb of Scott’s Breakfast Sausage\n"
+  price: "$165"
+  is_soldout: false
+  is_live: true
 layout: covid-menu
 ---
 
 See our [delivery map](/deliverymap). Pickup available on request. 
 
-Sales go live here every Wednesday at 1PM for the following week.
+Sales go live here every Wednesday at 1PM for the following week.  
+
+All meals are fully cooked, but require reheating. 
+
+Canlis servers, our delivery drivers, will arrive within one hour of the time you have chosen. For example, if you selected a 3pm meal we'll arrive sometime between 3pm and 4pm. So you can plan ahead and to minimize contact, we’ll send you a text as soon as we are en route and again when we arrive at your address.
 
 <div style="background: #FDF2C3; border: 1px solid #E3C442; border-radius: 5px; padding: 18px; margin-bottom: 30px;">In order to keep our drivers safe during the demonstrations, we'll be delivering early this week, from 2:00 to 5:00 PM. All meals are fully cooked and specifically designed to be re-heated.
 </div>
