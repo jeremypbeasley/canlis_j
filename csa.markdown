@@ -200,12 +200,53 @@ menu:
   price: "$195"
   is_soldout: false
   is_live: true
+- title: 
+  date: 2020-06-08 00:00:00 -07:00
+  experience_id: 144871
+  desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
+    farms. Plus: 1 Dozen farm-fresh eggs, 1 Jar of Samish Bay plain greek yogurt,
+    and 1 piece (7oz) of Fantello Farmstead Creamery Filomena Tomme Cheese'
+  price: "$75"
+  is_soldout: false
+  is_live: true
+- title: 
+  date: 2020-06-09 00:00:00 -07:00
+  experience_id: 144873
+  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
+    Painted Hills NY Strip Steaks, 1 Jar of Samish Bay plain greek yogurt, 1 dozen
+    farm-fresh eggs, and 2 lbs of freshly milled Cairnsprings Mill Club Cara flour'
+  price: "$95"
+  is_soldout: false
+  is_live: true
+- title: 
+  date: 2020-06-10 00:00:00 -07:00
+  experience_id: 144886
+  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea-Breeze
+    Farms fresh roaster chicken, 1lb of Olsen Farms grass-fed ground beef , 1 dozen
+    farm-fresh eggs, and 2 lbs of freshly milled Cairnsprings Mill Club Cara flour'
+  price: "$105"
+  is_soldout: false
+  is_live: true
+- title: Weekend-Made-Easy Kit
+  date: 2020-06-12 00:00:00 -07:00
+  experience_id: 144870
+  desc: "For the Grill: \n\n2 Dry-Aged Painted Hills Farms NY Strip Steaks; 4 portions
+    of Copper River Sockeye Salmon; Grilled Spring Onion Chimichurri; Wobbly Cart
+    Asparagus; ready-to-bake Oatmeal Raisin cookies, and 2 cans of Holy Mountain White
+    Lodge Ale and 2 cans of E9 Kolsch.\n\nReady-to-make Brunch:\n\nFresh Blueberry
+    Pancakes with Maple Syrup, 1 Dozen Farm Fresh Eggs, and 1lb of Scott’s Breakfast
+    Sausage"
+  price: "$165"
+  is_soldout: false
+  is_live: true
 layout: covid-menu
 ---
 
 See our [delivery map](/deliverymap). Pickup available on request.
 
 Sales go live here every Wednesday at 1PM for the following week.
+
+Canlis servers, our delivery drivers, will arrive within one hour of the time you have chosen. For example, if you selected a 3pm meal we'll arrive sometime between 3pm and 4pm. So you can plan ahead and to minimize contact, we’ll send you a text as soon as we are en route and again when we arrive at your address.
 
 <div style="background: #FDF2C3; border: 1px solid #E3C442; border-radius: 5px; padding: 18px; margin-bottom: 30px;">In order to keep our drivers safe during the demonstrations, we'll be delivering early this week, from 2:00 to 5:00 PM. All meals are fully cooked and specifically designed to be re-heated.
 </div>
