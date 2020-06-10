@@ -427,7 +427,7 @@ menu:
   desc: Homemade Egg Noodles and Sno-Valley Mushrooms // Canlis Salad // Herb and
     Garlic Sourdough Rolls  // Angel Food Cake with Strawberries and Cream
   price: "$42 per person"
-  is_soldout: true
+  is_soldout: false
   is_live: true
 - title: Sno-Valley Mushroom Stroganoff
   date: 2020-06-09 00:00:00 -07:00
@@ -474,6 +474,70 @@ menu:
   price: "$165"
   is_soldout: false
   is_live: true
+- title: Miso BBQ Chicken
+  date: 2020-06-15 00:00:00 -07:00
+  experience_id: 
+  desc: Rubbed in Miso BBQ Sauce and Grilled Over Applewood // Cherry Tomato Caprese
+    with Basil Pesto // Canlis Salad // Sourdough Rolls // Spiced Carrot Cake with
+    Whipped Cream Cheese Frosting
+  price: "$48 per person"
+  is_soldout: false
+  is_live: false
+- title: Eggplant Parmesan
+  date: 2020-06-16 00:00:00 -07:00
+  experience_id: 
+  desc: Creamy Stone-ground Polenta // Gigante Beans and Zucchini in Tapenade // Canlis
+    Salad // Sourdough Rolls // Olive Oil Cake with Pistachio Cream and Raspberries
+  price: "$36 per person"
+  is_soldout: false
+  is_live: false
+- title: Veal Parmesan
+  date: 2020-06-16 00:00:00 -07:00
+  experience_id: 
+  desc: Creamy Stone-ground Polenta // Gigante Beans and Zucchini in Tapenade // Canlis
+    Salad // Sourdough Rolls //  Olive Oil Cake with Pistachio Cream and Raspberries
+  price: "$42 per person"
+  is_soldout: false
+  is_live: false
+- title: Southern-Style Pan-Fried Copper River Sockeye Salmon Cakes
+  date: 2020-06-17 00:00:00 -07:00
+  experience_id: 
+  desc: with Spicy Creole Remoulade // Caramelized Garlic Mashed Potatoes // Local
+    Asparagus Grilled with Seaweed Vinegar // Canlis Salad // Sourdough Rolls // Granny
+    Smith Apple Strudel
+  price: "$58 per person"
+  is_soldout: false
+  is_live: false
+- title: Slow Roasted Pork Shoulder and Belly Bo Ssam
+  date: 2020-06-18 00:00:00 -07:00
+  experience_id: 
+  desc: Glazed in Soy and Chili Paste // Bibb Lettuce and White Rice // Leek and Chive
+    Pancakes // Hoisin Sauce //  Hakurei Turnip Kimchi // Smashed Cucumber and Mint
+    Salad with Fried Chillies // Yuzu Toasted S’mores Bar
+  price: "$56 per person"
+  is_soldout: false
+  is_live: false
+- title: Grilled NY Strip Steak
+  date: 2020-06-19 00:00:00 -07:00
+  experience_id: 
+  desc: "“Wicked Lobstah” Mac & Cheese // Grilled Spring Onions and Sauteed Mushrooms
+    // Chimichurri // Iceberg Wedge Salad with Roquefort Dressing and Bacon // Sourdough
+    Rolls //  Basque Cheesecake with Citrus Marmalade"
+  price: "$72 per person"
+  is_soldout: false
+  is_live: false
+- title: The Weekend-Made-Easy Kit
+  date: 2020-06-19 00:00:00 -07:00
+  experience_id: 
+  desc: "For the Grill: \n2 Dry-Aged Painted Hills Farms Rib-Eye Steaks // Housemade
+    Pasta Salad // Wobbly Cart Asparagus // ready-to-bake Snickerdoodle cookies, 2
+    cans of E9 Pilsner, and 2 cans of Stoup Brewing Citrus IPA.\n \nReady-to-make
+    Brunch:\n2 Bagel Shed Everything Bagel // Plain Cream Cheese //  Smoked Copper
+    River Sockeye Salmon and Dill Spread // 1 Dozen Farm Fresh Eggs //  House-made
+    Granola and Samish Bay Greek Yogurt."
+  price: "$165"
+  is_soldout: false
+  is_live: false
 layout: covid-menu
 ---
 

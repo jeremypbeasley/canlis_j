@@ -9,9 +9,9 @@ layout: events
 
 Canlis will not air Friday Night Bingo this week. Instead a time of fundraising and civic self-reflection with <a href="https://www.symlmusic.com/">SYML</a> as he performs live Friday from 8-9PM PST.
 
-<div class="EventsButton mt1 mb6">
-  <a class="Caption" target="_blank" href="https://www.youtube.com/watch?v=DV1PdscIshM">
-    Join the livestream
+<div class="EventsButton mt1 mb10">
+  <a class="Caption" href="https://www.youtube.com/watch?v=fj1sTIoiDV8">
+    Watch on Youtube
   </a>
 </div>
 
@@ -27,20 +27,8 @@ We hope you’ll join us here.
 
 The mission of M.U.S.T. is to find responsible African American men in college to help spring kids free from the hardest generational cycles of poverty through long-term paid mentoring. More information at <a href="https://www.mentoringisamust.org/" target="_blank">mentoringisamust.org</a>.
 
-<div class="EventsButton mt1 mb6">
-  <a class="Caption" target="_blank" href="https://canlis.formstack.com/forms/donation_must">
-    Donate now
-  </a>
-</div>
-
 <div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
 
 <h2 class="Caption mt3 mb3">Equal Justice Initiative</h2>
 
 The Equal Justice Initiative is a non-profit organization, based in Montgomery, Alabama, that provides legal representation to prisoners who may have been wrongly convicted of crimes, poor prisoners without effective representation, and others who may have been denied a fair trial. It guarantees the defense of anyone in Alabama in a death penalty case. More information at <a href="https://eji.org/" target="_blank">eji.org</a>.
-
-<div class="EventsButton mt1 mb10">
-  <a class="Caption" target="_blank" href="https://canlis.formstack.com/forms/donation_eji">
-    Donate now
-  </a>
-</div>
