@@ -8,7 +8,7 @@ layout: events
 ---
 
 <div class="EventsButton mt1 mb10">
-  <a class="Caption" href="https://www.youtube.com/watch?v=DV1PdscIshM">
+  <a class="Caption" href="https://youtu.be/DV1PdscIshM">
     Watch on Youtube
   </a>
 </div>
@@ -18,11 +18,11 @@ layout: events
 - All family meal, CSA, General Store, and Bottle Service deliveries include Bingo cards.
 
 
-1.) Watch the livestream. Video will appear on this link on May 1st at 8:30PM.
+1.) Watch the livestream. Video will appear on this link on June 12th at 8:00pm.
 
 2.) Random numbers are drawn. Whoever completes a bingo pattern first, wins the prize. A winning bingo pattern is a line with five numbers in a diagonal, horizontal, or vertical row. Numbers must be X'd out with a pen.
 
-3.) Text us a photo of your winning bingo card (and the Canlis Family Meal stamp on the back) as fast as you can 
+3.) Text us a photo of your winning bingo card as fast as you can 
 
 (480) 702-1978
 

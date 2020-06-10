@@ -10,40 +10,7 @@ og_desc: Quarantined preprohibitionists, bartenders, and delivery drivers of the
   with us 24/7.
 og_photo: "/uploads/canlis_concept_bottleservice.jpg"
 drinks:
-- drink-category: 'Cocktail Kits | June 1st - June 5th '
-  drinks:
-  - title: Negroni
-    volume: "(makes 16 cocktails)"
-    desc: Includes full bottles of Sipsmith gin, Carpano Antica and Campari with 16
-      large ice squares, and orange peel garnish.
-    price: "$176 ($11 per drink)"
-    experience_id: 136827
-    is_soldout: false
-  - title: Manhattan
-    volume: "(makes 12 cocktails)"
-    desc: Includes 750ml bottle of Knob Creek Bourbon and 375ml of Carpano Antica,
-      James' house-made spiced cherries, orange bitters, and two copper garnish picks.
-    price: "$120 ($10 per drink)"
-    experience_id: 136827
-    is_soldout: false
-  - title: Piña Colada
-    volume: "(makes 12 cocktails)"
-    desc: A known remedy for cabin fever, this tropical salve will stave off the quarantine
-      blues. Kit includes 1 liter of Plantation Original Dark Rum, 2 liters of Canlis
-      Pina Colada mix, pineapple and mint for garnish. Pineapple glasses, straws and
-      umbrellas included, naturally.
-    price: "$168 ($14 per drink)"
-    experience_id: 136827
-    is_soldout: false
-  - title: Margarita
-    volume: "(makes 16 cocktails)"
-    desc: Includes 1 liter bottle of Campo Bravo Plata Tequila and 750ml bottle of
-      Pierre Ferrand Curacao. Also comes with fresh lime juice, simple syrup, Jacobsen
-      sea salt, and lime garnish.
-    price: "$160 ($10 per drink)"
-    experience_id: 136827
-    is_soldout: false
-- drink-category: Cocktail Kits | June 8th - June 12th
+- drink-category: 'Cocktail Kits '
   drinks:
   - title: Negroni
     volume: "(makes 16 cocktails)"
@@ -125,32 +92,6 @@ drinks:
   - title: Château Routas, Provence, FRA
     desc: Minerally and bright with underripe berry flavors and lilacs aromas.
     price: "$21"
-- drink-category: 
-  drinks:
-  - title: 
-    volume: 
-    desc: 
-    price: 
-    experience_id: 
-    is_soldout: 
-  - title: 
-    volume: 
-    desc: 
-    price: 
-    experience_id: 
-    is_soldout: 
-  - title: 
-    volume: 
-    desc: 
-    price: 
-    experience_id: 
-    is_soldout: 
-  - title: 
-    volume: 
-    desc: 
-    price: 
-    experience_id: 
-    is_soldout: 
 - drink-category: Red Wine
   drinks:
   - title: Raconteur Cabernet Sauvignon, Columbia Valley, WA
@@ -202,6 +143,10 @@ drinks:
   - title: Somm's Choice
     desc: A seasonal mix of 5 wines.
     price: "$150"
+  - title: 'Reserve Wines Somm''s Choice '
+    desc: A special box of  5 wines selected by the Canlis sommelier team. A few bottles
+      for now or to stash away in the cellar.
+    price: "$250"
 layout: covid-drinks
 ---
 
