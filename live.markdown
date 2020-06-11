@@ -10,7 +10,7 @@ layout: events
 Canlis will not air Friday Night Bingo this week. Instead a time of fundraising and civic self-reflection with <a href="https://www.symlmusic.com/">SYML</a> as he performs live Friday from 8-9PM PST.
 
 <div class="EventsButton mt1 mb10">
-  <a class="Caption" href="https://www.youtube.com/watch?v=fj1sTIoiDV8">
+  <a class="Caption" href="https://youtu.be/y-nb4xGXp5Q">
     Watch on Youtube
   </a>
 </div>

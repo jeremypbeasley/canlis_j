@@ -239,6 +239,45 @@ menu:
   price: "$165"
   is_soldout: false
   is_live: true
+- title: 
+  date: 2020-06-15 00:00:00 -07:00
+  experience_id: 148904
+  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 each
+    Olsen Farms Pork Loin Chops, 1# of Olsen Farms Grassfed Ground Beef, 1 Jar of
+    Samish Bay plain greek yogurt, and 1 dozen farm-fresh eggs, and 2 lbs of freshly
+    milled Cairnsprings Mill Club Cara flour'
+  price: "$95"
+  is_soldout: false
+  is_live: true
+- title: 
+  date: 2020-06-16 00:00:00 -07:00
+  experience_id: 148905
+  desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
+    farms. Plus: 1 Dozen farm-fresh eggs, 1 Jar of Samish Bay plain greek yogurt,
+    1 piece (7oz) of Fantello Farmstead Creamery Filomena Tomme Cheese'
+  price: "$75"
+  is_soldout: false
+  is_live: true
+- title: 
+  date: 2020-06-17 00:00:00 -07:00
+  experience_id: 148906
+  desc: 1 Sea-Breeze Farms fresh roaster chicken, 1lb of Olsen Farms grass-fed ground
+    beef , 2 ea Painted Hills NY Strip Steaks
+  price: "$95"
+  is_soldout: false
+  is_live: true
+- title: The Weekend-Made-Easy Kit
+  date: 2020-06-19 00:00:00 -07:00
+  experience_id: 148894
+  desc: "For the Grill: \n2 Dry-Aged Painted Hills Farms Rib-Eye Steaks // Housemade
+    Pasta Salad // Wobbly Cart Asparagus // ready-to-bake Snickerdoodle cookies, 2
+    cans of E9 Pilsner, and 2 cans of Stoup Brewing Citrus IPA.\n \nReady-to-make
+    Brunch:\n2 Bagel Shed Everything Bagel // Plain Cream Cheese //  Smoked Copper
+    River Sockeye Salmon and Dill Spread // 1 Dozen Farm Fresh Eggs //  House-made
+    Granola and Samish Bay Greek Yogurt."
+  price: "$165"
+  is_soldout: false
+  is_live: true
 layout: covid-menu
 ---
 
