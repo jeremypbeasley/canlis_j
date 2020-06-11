@@ -1,5 +1,5 @@
 ---
-title: Live, from the Dining Room
+title: Piano, Live from the Dining Room
 date: 2020-03-18 17:34:00 -07:00
 og_desc: "“Live-streaming the smooth sounds of the city’s finest dining room…”  -
   Seattle Met"
@@ -9,7 +9,7 @@ layout: events
 ---
 
 <div class="EventsButton mt1 mb10">
-  <a class="Caption" href="https://youtu.be/mQu0gswH_zc">
+  <a class="Caption" href="https://youtu.be/y-nb4xGXp5Q">
     Watch on Youtube
   </a>
 </div>

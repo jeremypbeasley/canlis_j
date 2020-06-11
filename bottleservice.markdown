@@ -144,8 +144,8 @@ drinks:
     desc: A seasonal mix of 5 wines.
     price: "$150"
   - title: 'Reserve Wines Somm''s Choice '
-    desc: A special box of  5 wines selected by the Canlis sommelier team. A few bottles
-      for now or to stash away in the cellar.
+    desc: A special box of 5 wines hand selected by the Canlis sommelier team. A few
+      bottles for now, a few for the cellar. Or all for now. We don’t judge.
     price: "$250"
 layout: covid-drinks
 ---
