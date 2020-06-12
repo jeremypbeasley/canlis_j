@@ -462,7 +462,7 @@ menu:
     Baked Potatoes // Herb and Garlic Sourdough Rolls // Canlis Barrel-aged Rhum Baba
   price: "$72 per person"
   is_soldout: false
-  is_live: true
+  is_live: false
 - title: Weekend-Made-Easy Kit
   date: 2020-06-12 00:00:00 -07:00
   experience_id: 144870
