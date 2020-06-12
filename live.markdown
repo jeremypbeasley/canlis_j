@@ -23,6 +23,5 @@ Black Lives Matter Seattle-King County is a grassroots, volunteer-run, social-ju
   </a>
 </div>
 
-
 <div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
 
