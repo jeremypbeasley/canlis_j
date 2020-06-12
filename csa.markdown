@@ -237,7 +237,7 @@ menu:
     Pancakes with Maple Syrup, 1 Dozen Farm Fresh Eggs, and 1lb of Scott’s Breakfast
     Sausage"
   price: "$165"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: 
   date: 2020-06-15 00:00:00 -07:00

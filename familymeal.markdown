@@ -472,7 +472,7 @@ menu:
     Lodge Ale and 2 cans of E9 Kolsch.  \n\nReady-to-make Brunch:\nFresh Blueberry
     Pancakes with Maple Syrup, 1 Dozen Farm Fresh Eggs, 1lb of Scott’s Breakfast Sausage\n"
   price: "$165"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Miso BBQ Chicken
   date: 2020-06-15 00:00:00 -07:00
@@ -489,7 +489,7 @@ menu:
   desc: Creamy Stone-ground Polenta // Gigante Beans and Zucchini in Tapenade // Canlis
     Salad // Sourdough Rolls // Olive Oil Cake with Pistachio Cream and Raspberries
   price: "$36 per person"
-  is_soldout: true
+  is_soldout: false
   is_live: true
 - title: Veal Parmesan
   date: 2020-06-16 00:00:00 -07:00
