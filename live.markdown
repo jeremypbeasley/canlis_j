@@ -7,9 +7,9 @@ og_photo: "/uploads/LIVE%20copy.jpg"
 layout: events
 ---
 
-This week Canlis welcomes Thad Cockrell. The show will start at 8PM PST.
+This week Canlis welcomes Thad Cockrell. The show will start at 8PM PST and the link to watch will be posted here. 
 
-Please considering donating to these week's non-profit. 
+Please consider donating to these week's non-profit. 
 
 <div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
 
