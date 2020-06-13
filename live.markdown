@@ -13,7 +13,7 @@ Please consider donating to this weeks's non-profits.
 
 <div class="EventsButton mt1 mb6">
   <a class="Caption" target="_blank" href="https://youtu.be/aLoWjEzrgwg">
-    Tune in live
+    Watch on Youtube
   </a>
 </div>
 
