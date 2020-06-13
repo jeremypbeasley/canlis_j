@@ -9,7 +9,13 @@ layout: events
 
 This week Canlis welcomes Thad Cockrell. The show will start at 8PM PST and the link to watch will be posted here. 
 
-Please consider donating to these week's non-profit. 
+Please consider donating to this weeks's non-profits. 
+
+<div class="EventsButton mt1 mb6">
+  <a class="Caption" target="_blank" href="https://youtu.be/aLoWjEzrgwg">
+    Tune in live
+  </a>
+</div>
 
 <div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
 
@@ -24,4 +30,15 @@ Black Lives Matter Seattle-King County is a grassroots, volunteer-run, social-ju
 </div>
 
 <div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
+
+<h2 class="Caption mt2 mb3">Youth Impact Co.</h2>
+
+Youth Impact Company based is a mentorship organization helping youth process trauma though the lens of restorative justice.
+
+<div class="EventsButton mt1 mb6">
+  <a class="Caption" target="_blank" href="https://canlis.formstack.com/forms/donation_youthimpactco">
+    Donate now
+  </a>
+</div>
+
 
