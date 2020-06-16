@@ -8,16 +8,6 @@ image: "/uploads/canlis_concept_piano.jpg"
 layout: events
 ---
 
-<div class="EventsButton mt1 mb10">
-  <a class="Caption" href="https://youtu.be/s6ZtsfeHFrc">
-    Watch on Youtube
-  </a>
-</div>
-
-<p class="Caption">Featuring</p>
-
-Jason Lux (Thursdays, Fridays)
-
-Lennon Aldort (Tuesdays, Wednesdays)
-
-Jonas Myers (Mondays)
+<script>
+window.location = "https://canlis.com/live";
+</script>
