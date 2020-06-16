@@ -156,5 +156,5 @@ Many wines offered at retail price. Download our full wine list <a target="_blan
 
 See our [delivery map](/deliverymap). Pickup available on request.
 
-<div style="background: #FDF2C3; border: 1px solid #E3C442; border-radius: 5px; padding: 18px; margin-bottom: 30px;">In order to keep our drivers safe during the demonstrations, we'll be delivering dinners early this week, from 2:00 to 5:00 PM. All meals are fully cooked and specifically designed to be re-heated.
+<div style="background: #FDF2C3; border: 1px solid #E3C442; border-radius: 5px; padding: 18px; margin-bottom: 30px;">In order to keep our drivers safe during the demonstrations, we'll be delivering dinners early this week, from 3:00 to 6:00 PM. All meals are fully cooked and specifically designed to be re-heated.
 </div>
