@@ -1,5 +1,5 @@
 ---
-title: Live at Canlis
+title: Live in the Canlis Penthouse
 date: 2020-06-04 17:23:00 -07:00
 og_desc: Live piano, bingo, and special guests
 image: "/uploads/Sharon%20Irving-045.jpg"
