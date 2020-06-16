@@ -524,7 +524,7 @@ menu:
     // Chimichurri // Iceberg Wedge Salad with Roquefort Dressing and Bacon // Sourdough
     Rolls //  Basque Cheesecake with Citrus Marmalade"
   price: "$72 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: The Weekend-Made-Easy Kit
   date: 2020-06-19 00:00:00 -07:00

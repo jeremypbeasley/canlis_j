@@ -1,5 +1,5 @@
 ---
-title: Friday Night Bingo
+title: How to play bingo
 date: 2020-04-14 12:45:00 -07:00
 og_desc: This Friday night, it's Bingo night at Canlis. Tune in at 8:30PM.
 og_photo: "/uploads/canlis_bingo.jpg"
@@ -8,8 +8,8 @@ layout: events
 ---
 
 <div class="EventsButton mt1 mb10">
-  <a class="Caption" href="https://youtu.be/aLoWjEzrgwg">
-    Watch on Youtube
+  <a class="Caption" href="/live">
+    Tune in Live
   </a>
 </div>
 
