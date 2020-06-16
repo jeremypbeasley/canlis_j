@@ -1,5 +1,5 @@
 ---
-title: How to play bingo
+title: How to play Bingo
 date: 2020-04-14 12:45:00 -07:00
 og_desc: This Friday night, it's Bingo night at Canlis. Tune in at 8:30PM.
 og_photo: "/uploads/canlis_bingo.jpg"
