@@ -40,6 +40,8 @@ Live Piano from 6:00-9:00PM by Jason Lux
 Live Piano from 6:00-8:00PM by Jason Lux
 The Bingo Show w/ musical guests Sharon Irving and Robert Irving III from 8:00-9:00PM
 
+![Sharon Irving](/uploads/1069299_10151735345509269_824106250_n.jpg)
+
 <i>About the guests</i>
 
 Sharon Irving is a native of Chicago, born and raised on the South Side of Chicago, Sharon's musical education started early. Her father, Robert Irving III, a jazz musician and musical director for Miles Davis, frequently brought her to the studio with him. As a student at North Park University, she realized that she wanted to be a "voice for the voiceless" through song and spoken word. Sharon continues to pursue this artistic journey by working on her first album, a collection of song, poetry and rap. She loves exploring different genres, covering everyone from Dolly Parton to Billie Holiday to one of her biggest inspirations, Lauryn Hill. She hopes her music will inspire each and every person watching America's Got Talent to find and use their unique voice.
