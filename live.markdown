@@ -2,8 +2,8 @@
 title: Live, in the Canlis Penthouse
 date: 2020-06-04 17:23:00 -07:00
 og_desc: Live piano, bingo, and special guests
-image: "/uploads/IMG_3937.JPG"
-og_photo: "/uploads/IMG_3937.JPG"
+image: "/uploads/IMG_3937-1e1588.jpg"
+og_photo: "/uploads/IMG_3937-1e1588.jpg"
 layout: events
 ---
 
