@@ -287,5 +287,5 @@ Sales go live here every Wednesday at 1PM for the following week.
 
 Canlis servers, our delivery drivers, will arrive within one hour of the time you have chosen. For example, if you selected a 3pm meal we'll arrive sometime between 3pm and 4pm. So you can plan ahead and to minimize contact, we’ll send you a text as soon as we are en route and again when we arrive at your address.
 
-<div style="background: #FDF2C3; border: 1px solid #E3C442; border-radius: 5px; padding: 18px; margin-bottom: 30px;">In order to keep our drivers safe during the demonstrations, we'll be delivering early this week, from 2:00 to 5:00 PM. All meals are fully cooked and specifically designed to be re-heated.
+<div style="background: #FDF2C3; border: 1px solid #E3C442; border-radius: 5px; padding: 18px; margin-bottom: 30px;">In order to keep our drivers safe during the demonstrations, we'll be delivering early this week, from 3:00 to 6:00 PM. All meals are fully cooked and specifically designed to be re-heated.
 </div>
