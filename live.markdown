@@ -38,6 +38,7 @@ Live Piano from 6:00-9:00PM by Jason Lux
 <h2 class="Caption mt2 mb3">Friday, June 19th</h2>
 
 Live Piano from 6:00-8:00PM by Jason Lux
+
 The Bingo Show w/ musical guests Sharon Irving and Robert Irving III from 8:00-9:00PM
 
 ![Sharon Irving](/uploads/1069299_10151735345509269_824106250_n.jpg)
