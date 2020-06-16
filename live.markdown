@@ -7,7 +7,7 @@ og_photo: "/uploads/IMG_3937.JPG"
 layout: events
 ---
 
-Below you can find each live event, links to view each live event will be posted here at the time of the event.
+Here's what's happening each night in the Canlis Penthouse. Links to view each live event will be posted here at the time of the event.
 
 <div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
 
