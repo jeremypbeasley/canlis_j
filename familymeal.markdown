@@ -8,497 +8,6 @@ og_desc: Dinner from our kitchen to your doorstep with zero contact. Add wine fr
   our storied cellar at an additional cost.
 og_photo: "/uploads/canlis_concept_familymeal.jpg"
 menu:
-- title: 'Beets Wellington (Vegetarian) '
-  date: 2020-04-20 05:00:00 -07:00
-  experience_id: 
-  desc: Roasted Beets and Mushroom Duxelles wrapped in puff pastry with Mushroom-Peppercorn
-    Sauce, Cauliflower and Aged Pecorino Gratin, Canlis Salad (Bacon on the side),
-    Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Strawberry and Rhubarb
-    Crisp
-  price: "$48 per person"
-  is_soldout: false
-  is_live: true
-- title: 'Braised Rabbit White Lasagna '
-  date: 2020-04-21 05:00:00 -07:00
-  experience_id: 
-  desc: Valley Farms Rabbit braised in white wine with Vegetables, Fiore Sardo Cheese
-    and a White Bechamel Sauce, Woodfired Radishes and Arugula with Salsa Verde, Canlis
-    Salad, Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Layered Chocolate
-    Fudge Cake
-  price: "$58 per person"
-  is_soldout: true
-  is_live: true
-- title: Nana's Italian Sausage with Onions & Peppers
-  date: 2020-04-22 05:00:00 -07:00
-  experience_id: 
-  desc: Pork and Duck Sausage with Caramelized Spring Onions and Roasted Peppers,
-    Creamy Stone-ground Polenta, Cannellini Bean & Root Vegetable Ragu, Canlis Salad,
-    Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Raspberry, Rose, and
-    Pistachio Pavlova
-  price: "$52 per person"
-  is_soldout: false
-  is_live: true
-- title: Pork Shoulder Bo Ssam
-  date: 2020-04-23 05:00:00 -07:00
-  experience_id: 117965
-  desc: 'With All The Fixings: Slow-roasted Olson Farms Pork Shoulder, Bibb Lettuce,
-    White Rice, Chive Pancakes, House-made Daikon Kimchi, Chilled Ginger Scallion
-    Noodles, Hoisin Sauce, Vinegar-Braised Tatsoi and Mushrooms, Mochi Cake with Coconut
-    Cream Sauce'
-  price: "$65 per person"
-  is_soldout: true
-  is_live: true
-- title: Dry-Aged Cote de Boeuf
-  date: 2020-04-24 05:00:00 -07:00
-  experience_id: 117967
-  desc: Creamy Horseradish, Au jus, Creamed Spinach, Canlis Salad, Classic Canlis
-    Forest Mushrooms, Herb and Asiago Sourdough Rolls with Cherry Valley Butter, Upside
-    Down Pineapple Cake with Coconut Macaroons
-  price: "$92 per person"
-  is_soldout: false
-  is_live: true
-- title: Wild Mushroom and Roasted Tomato Lasagna (Vegetarian)
-  date: 2020-04-27 00:00:00 -07:00
-  experience_id: 117947
-  desc: Mozzarella, Ricotta, and Basil // Roasted Asparagus // Canlis Salad (bacon
-    on the side) // Brioche Rolls and Cherry Valley Butter // Chocolate Peanut Butter
-    Sandwich Cookies
-  price: "$44 per person"
-  is_soldout: false
-  is_live: true
-- title: Herb-Crusted Roast Leg of Lamb
-  date: 2020-04-28 00:00:00 -07:00
-  experience_id: 120950
-  desc: Naturally Leavened Laffa Bread // Skagit Valley Barley and Herb Tabbouleh
-    // Canlis Salad, Tehina Hummus // Olives and Feta // Homemade Baklava
-  price: "$54 per person"
-  is_soldout: true
-  is_live: true
-- title: 'Olsen Farms Pork Shoulder in Green Coconut Curry '
-  date: 2020-04-29 00:00:00 -07:00
-  experience_id: 120957
-  desc: White rice // Blistered and Chilled Green Beans with Cherry Tomato and Lime
-    // Roasted Broccoli Raab with Fermented Black Bean Sauce // Young Lettuce and
-    Herb Salad with Peanuts in Fish Sauce-Citronette // Black Sticky Rice Pudding
-  price: "$52 per person"
-  is_soldout: false
-  is_live: true
-- title: Braised Wagyu Short Rib
-  date: 2020-04-30 00:00:00 -07:00
-  experience_id: 120959
-  desc: Roasted Fingerling Potato Salad // Spring Onions and Fennel roasted in Pernod
-    butter // Canlis Salad // Brioche Rolls and Cherry Valley Butter  // Lemon Meringue
-    Tart
-  price: "$64 per person"
-  is_soldout: true
-  is_live: true
-- title: Dry-Aged Duck Cassoulet
-  date: 2020-05-01 00:00:00 -07:00
-  experience_id: 120964
-  desc: Sea Breeze Farm Dry-Aged Duck Confit + Olsen Farms Pork Sausage and Cannellini
-    Beans // Canlis Forest Mushrooms // Canlis Salad // Brioche Rolls and Cherry Valley
-    Butter  // Chocolate Pot de Creme
-  price: "$58 per person"
-  is_soldout: true
-  is_live: true
-- title: Vegetarian Enchiladas
-  date: 2020-05-04 00:00:00 -07:00
-  experience_id: 124507
-  desc: Roasted Yellow Squash and Zucchini with Bread Lab Beans in a Smoked Red Chile
-    Sauce // Pickled Onions and Cotija // Green Chile and Hominy Posole // Little
-    Gem Lettuces with Avocado-Pistachio “Green Goddess” Dressing // Tres Leches Cake
-  price: "$52 per person"
-  is_soldout: false
-  is_live: true
-- title: Homemade Lasagna with Dry-Aged Beef Bolognese
-  date: 2020-05-05 00:00:00 -07:00
-  experience_id: 124511
-  desc: Finished with Mozzarella, Basil, and Fiore Sardo // Roasted Radishes and Kale
-    in Boquerone Bagna Cauda // Canlis Salad // Garlic and Herb Sourdough Rolls //
-    Cheesecake with Homemade Strawberry Jam
-  price: "$58 per person"
-  is_soldout: true
-  is_live: true
-- title: General Tso Confit Duck Legs
-  date: 2020-05-06 00:00:00 -07:00
-  experience_id: 124532
-  desc: Glazed Dry-aged Sea Breeze Farm Duck Legs with White Rice // Ginger Scallion
-    Noodles // Daikon and Baby Lettuce Salad with Mint and Fish Sauce Citronette //
-    Fermented Cabbage and Ground Pork Egg Rolls  // Silken Tofu Pudding with Brown
-    Sugar and Ginger Syrup
-  price: "$68 per person"
-  is_soldout: false
-  is_live: true
-- title: Rabbit Pot Pie
-  date: 2020-05-07 00:00:00 -07:00
-  experience_id: 124542
-  desc: Braised Valley Farms rabbit and spring vegetables from our favorite farm under
-    layers of puff pastry  // Haricots Verts “Amandine” with House-cured Coppa //
-    Canlis Salad // Garlic and Herb Sourdough Rolls // Frangipane and Marionberry
-    Tart
-  price: "$58 per person"
-  is_soldout: false
-  is_live: true
-- title: Dungeness Crab Boil
-  date: 2020-05-08 00:00:00 -07:00
-  experience_id: 124547
-  desc: One whole Samish Bay Dungeness Crab per person, Simmered with Olsen Farms
-    new Potatoes, Housemade Portuguese Sausage, Fennel and Spring Onions // Asparagus
-    Roasted in Seaweed Vinegar // Canlis Salad // Drawn butter // Spicy Aioli // Garlic
-    and Herb Sourdough Rolls // Key Lime Pie (Includes one crab cracker per two people.)
-  price: "$95 per person"
-  is_soldout: true
-  is_live: true
-- title: Mother's Day
-  date: 2020-05-09 00:00:00 -07:00
-  experience_id: 124556
-  desc: |
-    For those looking to show mom the appreciation she deserves. (Easily feeds four or will last two people well into the week)
-    // Mimosa fixings: full bottle of Sparkling Wine & Fresh Squeezed OJ // Blueberry Scone Kit (easy to make, ready to bake) with Cherry Valley butter & jam from Springrain Farm // Canlis Frittata Kit: One dozen farm fresh eggs, Tonnemaker Farms Asparagus, Tieton Farm “Bianca” Goat cheese and simple-to-follow instructions. // Chef Brady’s Famous Cheesy Hashbrown Casserole (honoring his mom on this day with her recipe) all ready to bake & pull hot from the oven. // 1lb of “Bagel Shed” Breakfast Sausage // Fresh Strawberries with Canlis Devonshire cream // 1 bunch of fresh peonies from Eric & Clarita Santos of Pike Place Market
-  price: "$185, complete box"
-  is_soldout: true
-  is_live: true
-- title: Vegetarian Falafel and Cauliflower Shawarma
-  date: 2020-05-11 00:00:00 -07:00
-  experience_id: 128873
-  desc: Spiced Cauliflower Roasted Whole with Red Onion and Coriander // Fried Chickpea
-    and Herb Falafel // Tehina Hummus topped with Hearth-Roasted Eggplant in Harissa
-    & Naturally Leavened Laffa Bread // Skagit Valley Grains and Herb Tabbouleh //
-    Canlis Salad (without bacon) // Traditional Greek Cake with Filo and Citrus
-  price: "$52 per person"
-  is_soldout: false
-  is_live: true
-- title: Buttermilk Fried Chicken (½ Chicken per person)
-  date: 2020-05-12 00:00:00 -07:00
-  experience_id: 128943
-  desc: Rigatoni Mac and Cheese // Baked Bread Lab Beans // Rainbow Chard and Collard
-    Greens Braised with Bacon in Grenache Vinegar // Canlis Salad // Herb and Garlic
-    Sourdough Rolls with Cherry Valley Butter // Caramelized Chocolate Brownies with
-    Blackberry Swirl
-  price: "$54 per person"
-  is_soldout: true
-  is_live: true
-- title: Wagyu Short Rib Stroganoff
-  date: 2020-05-13 00:00:00 -07:00
-  experience_id: 128947
-  desc: Homemade Egg Noodles and Sno-Valley Mushrooms // Canlis Salad // Herb and
-    Garlic Sourdough Rolls with Cherry Valley Butter // Chocolate Chip Cookie Cake
-  price: "$44 per person"
-  is_soldout: true
-  is_live: true
-- title: Herb-Rubbed Olsen Farms Slow Roasted Pork Loin
-  date: 2020-05-14 00:00:00 -07:00
-  experience_id: 128953
-  desc: Wild Rice and Foraged Mushroom Pilaf // Baby Cauliflower and Brassicas in
-    Boquerone Bagna Cauda // Canlis Salad // Herb and Garlic Sourdough Rolls with
-    Cherry Valley Butter // Rhubarb Semolina Upside Down Cake
-  price: "$56 per person"
-  is_soldout: false
-  is_live: true
-- title: Canlis Broiler Surf & Turf
-  date: 2020-05-15 00:00:00 -07:00
-  experience_id: 128958
-  desc: Wood-grilled Wagyu Beef Tenderloin with Au Jus // Steamed Dungeness Crab Legs
-    with Drawn Butter //  Iceberg Wedge Salad with Roquefort Dressing and Bacon //
-    Baked Potato with all of the Fixings (Butter, Chives, Bacon, Cheese) // Herb and
-    Garlic Sourdough Rolls with Cherry Valley Butter // Black Forest Trifle Cake with
-    Luxardo Cherries
-  price: "$96 per person"
-  is_soldout: true
-  is_live: true
-- title: Homemade Lasagna with Dry-Aged Beef Bolognese
-  date: 2020-05-18 00:00:00 -07:00
-  experience_id: 132562
-  desc: Finished with Mozzarella, Basil, and Fiore Sardo // Fried Mozzarella Sticks
-    and Marinara // Grilled Squash and Zucchini Alla Scapece // Canlis Salad // Garlic
-    and Herb Sourdough Rolls // Italian Orange Cake with Icing Sugar Frosting
-  price: "$58 per person"
-  is_soldout: true
-  is_live: true
-- title: Homemade Vegetarian Lasagna
-  date: 2020-05-18 00:00:00 -07:00
-  experience_id: 132563
-  desc: Finished with Mozzarella, Basil, and Fiore Sardo // Fried Mozzarella Sticks
-    and Marinara // Grilled Squash and Zucchini Alla Scapece // Canlis Salad // Garlic
-    and Herb Sourdough Rolls // Italian Orange Cake with Icing Sugar Frosting
-  price: "$58 per person"
-  is_soldout: true
-  is_live: true
-- title: Applewood-Grilled Hanger Steak
-  date: 2020-05-19 00:00:00 -07:00
-  experience_id: 132566
-  desc: Chimichurri Sauce // Skagit Valley Barley with Green Garlic Sauce Verge //
-    Grilled Spring Onions // Roasted Potato Salad // Canlis Salad // Herb and Garlic
-    Sourdough Rolls with Cherry Valley Butter // Granny Smith Apple and Blackberry
-    Crumble
-  price: "$62 per person"
-  is_soldout: true
-  is_live: true
-- title: Dungeness Crab Cakes
-  date: 2020-05-20 00:00:00 -07:00
-  experience_id: 132569
-  desc: With Spicy Remoulade // Roast Eggplant Caponata // Grilled Asparagus in Seaweed
-    Vinegar // Canlis Salad // Herb and Garlic Sourdough Rolls with Cherry Valley
-    Butter // Dark Chocolate Layer Cake
-  price: "$64 per person"
-  is_soldout: true
-  is_live: true
-- title: Buttermilk Fried Chicken (1/2 Chicken Per Person)
-  date: 2020-05-21 00:00:00 -07:00
-  experience_id: 132571
-  desc: Rigatoni Mac and Cheese // Baked Bread Lab Beans // Rainbow Chard and Collard
-    Greens Braised with Bacon in Grenache Vinegar // Canlis Salad // Herb and Garlic
-    Sourdough Rolls with Cherry Valley Butter // Chocolate Chip Cookie Cake
-  price: "$54 per person"
-  is_soldout: true
-  is_live: true
-- title: 'Canlis Hawaiian Nights: A Throwback Menu From Last Summer'
-  date: 2020-05-22 00:00:00 -07:00
-  experience_id: 132574
-  desc: 'Kalua Pork Nacho Kit (ready to go but you build yourself): Roasted Pork with
-    Brady''s Queso and all the Fixings (sour cream, hot sauce, radish, black olives,
-    pickled onions, cilantro) // Marinated and Grilled Kalbi Short Ribs with Macaroni
-    Salad and a Scoop of White Rice // Canlis Salad // Toasted Coconut Cake and yes,
-    two Mango White Claws'
-  price: "$60 per person"
-  is_soldout: true
-  is_live: true
-- title: The Ultimate Weekend Kit
-  date: 2020-05-22 00:00:00 -07:00
-  experience_id: 132619
-  desc: "For the Grill: \nPainted Hills Ribeye, 2 ea., Wild Alaskan King Salmon, 4
-    filets, scaled and de-boned, Wobbly-Cart Farms Asparagus, and Alvarez Farms Spring
-    Onions, Celeste's Roasted-and-smashed Summer Potato Salad, Canlis Chocolate Chip
-    Cookie Dough, ready-to-bake, and a 6-pack Special Beer.\n\nFor Brunch:\nMelissa's
-    Now-famed Bagel Shed Everything Bagels (3 ea.) with plain cream cheese, 1lb. Bagel
-    Shed Breakfast Sausage, and 1 Dozen Farm Fresh Eggs."
-  price: "$215"
-  is_soldout: true
-  is_live: true
-- title: Wagyu Meatloaf in Spicy Beet Ketchup
-  date: 2020-05-26 00:00:00 -07:00
-  experience_id: 136799
-  desc: Caramelized Garlic Mashed Potatoes // Sno-Valley Mushrooms Sauteed in Miso
-    Butter // Canlis Salad // Herb and Garlic Sourdough Rolls with Cherry Valley Butter
-    // Cinnamon Sugar Coffee Cake
-  price: "$58 per person"
-  is_soldout: false
-  is_live: true
-- title: 'Dry-Aged Duck Carnitas Enchiladas '
-  date: 2020-05-27 00:00:00 -07:00
-  experience_id: 136805
-  desc: Slow-cooked Sea Breeze Farm Duck Enchiladas smothered with a Red Chile Sauce
-    and topped with Cotija Cheese and Pickled Onions // Refried Bread Lab Beans //
-    Ancho-chile Rubbed Roasted Cauliflower  // Smoked Avocado, Pumpkin Seed, and Little
-    Gem Lettuce Salad //  Agua Fresca (Rhubarb-Hibiscus Syrup and Topo Chico) and
-    Mexican Hot Chocolate Cookies
-  price: "$54 per person"
-  is_soldout: true
-  is_live: true
-- title: Vegetarian Enchiladas
-  date: 2020-05-27 00:00:00 -07:00
-  experience_id: 136808
-  desc: Hearth-roasted Squash, Zucchini, and Poblano Enchiladas smothered with a Red
-    Chile Sauce and topped with Cotija Cheese and Pickled Onions // Refried Bread
-    Lab Beans // Ancho-chile Rubbed Roasted Cauliflower // Smoked Avocado, Pumpkin
-    Seed, and Little Gem Lettuce Salad // Aqua Fresca (Rhubarb-Hibiscus Syrup and
-    Topo Chico) and Mexican Hot Chocolate Cookies
-  price: "$48 per person"
-  is_soldout: true
-  is_live: true
-- title: Buttermilk Fried Chicken (1/2 Chicken per person)
-  date: 2020-05-28 00:00:00 -07:00
-  experience_id: 136810
-  desc: Rigatoni Mac and Cheese // Roasted and Smashed Potato Salad // Fermented Cabbage
-    and Carrot Coleslaw // Canlis Salad // Herb and Garlic Sourdough Rolls with Cherry
-    Valley Butter // Strawberry Shortcake
-  price: "$54 per person"
-  is_soldout: true
-  is_live: true
-- title: Dry-Aged Cote de Bouef for Two
-  date: 2020-05-29 00:00:00 -07:00
-  experience_id: 136815
-  desc: 45-day Dry-aged Cote de Boeuf // Creamy Horseradish and Au jus // Whole Baked
-    Potatoes with all of the fixings // Asparagus Roasted with Seaweed Vinegar //
-    Canlis Salad // Herb and Garlic Sourdough Rolls with Cherry Valley Butter // Pouding
-    Chomeur (Vanilla-Maple Pudding Cake)
-  price: "$88 per person"
-  is_soldout: true
-  is_live: true
-- title: The Ultimate Weekend Kit
-  date: 2020-05-29 00:00:00 -07:00
-  experience_id: 136850
-  desc: "For the Grill: \nThe Canlis Drive-on-Thru Burger Kit complete with 4 Dry-Aged
-    Beef Patties, Romaine, Caramelized Yubeshi Onions, Pickles, American Cheese, Canlis
-    Fancy Sauce, and Sesame Buns;  4 of our house-made Bratwursts with a side of fermented
-    cabbage; Wobbly-Cart Farms Asparagus; Rigatoni Pasta Salad, ready-to-bake Chocolate
-    Chip Cookie Dough, 2 cans of Holy Mountain White Lodge Ale, and 2 cans of E9 Tac
-    City Lager.\n\nFor Brunch:\nMelissa's now-famous Bagel Shed Everything Bagels
-    (3 ea.) with House-smoked Copper River Sockeye Salmon Cream Cheese, 1 jar of Samish
-    Bay Plain Greek Yogurt, 1 Dozen Farm Fresh Eggs, and a Housemade Tomato Shakshuka
-    Kit with Feta and Cilantro"
-  price: "$185"
-  is_soldout: true
-  is_live: true
-- title: Southern-Style Pan-Fried Copper River Sockeye Salmon Cakes
-  date: 2020-06-01 00:00:00 -07:00
-  experience_id: 140598
-  desc: With Spicy Creole Remoulade // Caramelized Garlic Mashed Potatoes // Canlis
-    Salad //  Roasted Hakurei Turnips and Arugula Finished with Seaweed Vinegar //
-    Garlic and Herb Sourdough Rolls // Flourless Chocolate and Pear Cake
-  price: "$60 per person"
-  is_soldout: true
-  is_live: true
-- title: Pork Shoulder and Belly Bo Ssam
-  date: 2020-06-02 00:00:00 -07:00
-  experience_id: 140612
-  desc: 'With All The Fixings: Slow-roasted Olson Farms Pork Shoulder // Bibb Lettuce
-    // White Rice // Chive Pancakes // House-made Daikon Kimchi // Chilled Ginger
-    Scallion Noodles // Hoisin Sauce // Vinegar-Braised Bok Choy and Mushrooms //
-    Roasted Barley Tea Cake with Lemon Marmalade'
-  price: "$65 per person"
-  is_soldout: false
-  is_live: true
-- title: Homemade Lasagna Bolognese
-  date: 2020-06-03 00:00:00 -07:00
-  experience_id: 140624
-  desc: Beef and Pork Bolognese // Finished with Mozzarella, Basil, and Fiore Sardo
-    // Fried Mozzarella Sticks and Marinara // Roasted Eggplant Caponata // Canlis
-    Salad // Garlic and Herb Sourdough Rolls // Profiteroles with Whipped Mascarpone
-    and Chocolate Sauce
-  price: "$58 per person"
-  is_soldout: true
-  is_live: true
-- title: Homemade Vegetarian Spinach Lasagna
-  date: 2020-06-03 00:00:00 -07:00
-  experience_id: 140635
-  desc: Finished with Mozzarella, Basil, and Fiore Sardo // Fried Mozzarella Sticks
-    and Marinara // Roasted Eggplant Caponata // Canlis Salad (no bacon) // Garlic
-    and Herb Sourdough Rolls // Profiteroles with Whipped Mascarpone and Chocolate
-    Sauce
-  price: "$58 per person"
-  is_soldout: true
-  is_live: true
-- title: Buttermilk Fried Chicken (1/2 Chicken per person)
-  date: 2020-06-04 00:00:00 -07:00
-  experience_id: 140650
-  desc: Rigatoni Mac and Cheese // Baked Bread Lab Beans // Fermented Cabbage and
-    Carrot Coleslaw // Canlis Salad // Herb and Garlic Sourdough Rolls // Hummingbird
-    Cupcakes with Cheesecake Frosting
-  price: "$54 per person"
-  is_soldout: true
-  is_live: true
-- title: Canlis Charcoal Broiler Surf 'n Turf
-  date: 2020-06-05 00:00:00 -07:00
-  experience_id: 140652
-  desc: Grilled Prime Beef Tenderloin and Shrimp Cocktail  // Spicy Cocktail Sauce
-    and Au Jus // Grilled Asparagus with Sauce Gribiche // Iceberg Wedge Salad with
-    Cherry Tomatoes, Roquefort Dressing, and Applewood-Smoked Bacon // Passionfruit
-    Posset with Shortbread Cookies
-  price: "$88 per person"
-  is_soldout: false
-  is_live: true
-- title: The Ultimate Weekend Kit
-  date: 2020-06-05 00:00:00 -07:00
-  experience_id: 140654
-  desc: "For the Grill: \nThe Canlis Drive-on-Thru Burger Kit (complete with 6 Dry-Aged
-    Beef Patties, Romaine, Caramelized Yubeshi Onions, Pickles, American Cheese, Canlis
-    Fancy Sauce, and Sesame Buns),  4 of our house-made Bratwursts with a side of
-    fermented cabbage; Wobbly-Cart Farms Asparagus; Celeste's Smashed and Fried Potato
-    Salad, ready-to-bake Oatmeal Raisin Cookie Dough, and 2 cans of Holy Mountain
-    White Lodge Ale and 2 cans of E9 Kolsch\n\nFor Brunch:\nReady-to-make Buttermilk
-    Biscuit and Sausage Gravy Kit (with all ingredients and a recipe), 1 Dozen Farm
-    Fresh Eggs, and our housemade granola with dried Skagit Valley blueberries"
-  price: "$195"
-  is_soldout: false
-  is_live: true
-- title: Wood-Grilled BBQ Pork Loin
-  date: 2020-06-08 00:00:00 -07:00
-  experience_id: 144824
-  desc: Rubbed with a Miso-Pepper BBQ Sauce  // Caramelized Garlic Mashed Potatoes  //
-    Slow-cooked Greens in Grenache Vinegar with Bacon // Canlis Salad // Herb and
-    Garlic Sourdough Rolls // Toasted Nut Milk Panna Cotta with Lace Cookies
-  price: "$40 per person"
-  is_soldout: false
-  is_live: true
-- title: Wagyu Short Rib Stroganoff
-  date: 2020-06-09 00:00:00 -07:00
-  experience_id: 144834
-  desc: Homemade Egg Noodles and Sno-Valley Mushrooms // Canlis Salad // Herb and
-    Garlic Sourdough Rolls  // Angel Food Cake with Strawberries and Cream
-  price: "$42 per person"
-  is_soldout: false
-  is_live: true
-- title: Sno-Valley Mushroom Stroganoff
-  date: 2020-06-09 00:00:00 -07:00
-  experience_id: 144838
-  desc: Homemade Egg Noodles // Canlis Salad // Herb and Garlic Sourdough Rolls  //
-    Angel Food Cake with Strawberries and Cream
-  price: "$36 per person"
-  is_soldout: true
-  is_live: true
-- title: Slow-Braised Rabbit Tinga Enchiladas
-  date: 2020-06-10 00:00:00 -07:00
-  experience_id: 144840
-  desc: Simmered in Tomato, Garlic, and Spices with Corn Tortillas in a Smoked Red
-    Chile Sauce // Black Beans with Wood-fired Onions and Poblano Peppers // Housemade
-    Chips and Chef Brady’s Queso // Mexican Chocolate Pot de Creme
-  price: "$38 per person"
-  is_soldout: false
-  is_live: true
-- title: Buttermilk Fried Chicken (1/2 Chicken per person)
-  date: 2020-06-11 00:00:00 -07:00
-  experience_id: 144865
-  desc: Rigatoni Mac and Cheese // Fermented Carrot and Cabbage Coleslaw // Roasted
-    and Smashed Potato Salad // Canlis Salad // Herb and Garlic Sourdough Rolls //
-    Graham Cracker Crusted Lemon Bars
-  price: "$52 per person"
-  is_soldout: true
-  is_live: true
-- title: Canlis Charcoal Broiler Prime Rib
-  date: 2020-06-12 00:00:00 -07:00
-  experience_id: 144867
-  desc: Au jus and Creamy Horseradish // Dungeness Crab Louie Salad // Twice Baked
-    Baked Potatoes // Herb and Garlic Sourdough Rolls // Canlis Barrel-aged Rhum Baba
-  price: "$72 per person"
-  is_soldout: false
-  is_live: false
-- title: Weekend-Made-Easy Kit
-  date: 2020-06-12 00:00:00 -07:00
-  experience_id: 144870
-  desc: "For the Grill: \n2 Dry-Aged Painted Hills Farms NY Strip Steaks; 4 portions
-    of Copper River Sockeye Salmon; Grilled Spring Onion Chimichurri; Wobbly Cart
-    Asparagus; ready-to-bake Oatmeal Raisin cookies, and 2 cans of Holy Mountain White
-    Lodge Ale and 2 cans of E9 Kolsch.  \n\nReady-to-make Brunch:\nFresh Blueberry
-    Pancakes with Maple Syrup, 1 Dozen Farm Fresh Eggs, 1lb of Scott’s Breakfast Sausage\n"
-  price: "$165"
-  is_soldout: true
-  is_live: true
-- title: Miso BBQ Chicken
-  date: 2020-06-15 00:00:00 -07:00
-  experience_id: 148713
-  desc: Rubbed in Miso BBQ Sauce and Grilled Over Applewood // Cherry Tomato Caprese
-    with Basil Pesto // Canlis Salad // Sourdough Rolls // Spiced Carrot Cake with
-    Whipped Cream Cheese Frosting
-  price: "$48 per person"
-  is_soldout: false
-  is_live: true
-- title: Eggplant Parmesan
-  date: 2020-06-16 00:00:00 -07:00
-  experience_id: 148802
-  desc: Creamy Stone-ground Polenta // Gigante Beans and Zucchini in Tapenade // Canlis
-    Salad // Sourdough Rolls // Olive Oil Cake with Pistachio Cream and Raspberries
-  price: "$36 per person"
-  is_soldout: true
-  is_live: true
-- title: Veal Parmesan
-  date: 2020-06-16 00:00:00 -07:00
-  experience_id: 148885
-  desc: Creamy Stone-ground Polenta // Gigante Beans and Zucchini in Tapenade // Canlis
-    Salad // Sourdough Rolls //  Olive Oil Cake with Pistachio Cream and Raspberries
-  price: "$42 per person"
-  is_soldout: false
-  is_live: true
 - title: Southern-Style Pan-Fried Copper River Sockeye Salmon Cakes
   date: 2020-06-17 00:00:00 -07:00
   experience_id: 148887
@@ -529,23 +38,130 @@ menu:
 - title: The Weekend-Made-Easy Kit
   date: 2020-06-19 00:00:00 -07:00
   experience_id: 148894
-  desc: "For the Grill: \n2 Dry-Aged Painted Hills Farms Rib-Eye Steaks // Housemade
+  desc: "**For the Grill:**<Br>
+
+    2 Dry-Aged Painted Hills Farms Rib-Eye Steaks // Housemade
     Pasta Salad // Wobbly Cart Asparagus // ready-to-bake Snickerdoodle cookies, 2
-    cans of E9 Pilsner, and 2 cans of Stoup Brewing Citrus IPA.\n \nReady-to-make
-    Brunch:\n2 Bagel Shed Everything Bagel // Plain Cream Cheese //  Smoked Copper
+    cans of E9 Pilsner, and 2 cans of Stoup Brewing Citrus IPA.<br><br>
+    **Ready-to-make Brunch:**<br>
+
+    2 Bagel Shed Everything Bagel // Plain Cream Cheese //  Smoked Copper
     River Sockeye Salmon and Dill Spread // 1 Dozen Farm Fresh Eggs //  House-made
     Granola and Samish Bay Greek Yogurt."
   price: "$165"
   is_soldout: false
   is_live: true
+- title: Dry-Aged Wagyu Meatloaf
+  date: 2020-06-22 00:00:00 -07:00
+  experience_id: 152760
+  desc: "
+  Main Dish: <br>
+  Dry-Aged Wagyu Meatloaf Glazed in Spicy Ketchup <br><br>
+
+  Side Dishes:<br>
+  Canlis Twice Baked Potatoes <br>
+  Canlis Salad<br>
+  Garlic and Herb Sourdough Rolls  <br><br>
+
+  Dessert:<br>
+  Peanut Butter Cookies"
+  price: "$36 per person"
+  is_soldout: false
+  is_live: false
+- title: Dry-Aged Duck Carnitas Enchiladas
+  date: 2020-06-23 00:00:00 -07:00
+  experience_id: 152770
+  desc: "
+  Main Dish: <br>
+  Slow-Roasted Dry-Aged Duck Simmered in Tomato, Garlic, and Spices with Corn Tortillas in a Smoked Red Chile Sauce and Finished with Cotija and Pickled Onions<br><br>
+
+  Side Dishes:<br>
+  Black Beans with Wood-fired Onions and Poblano Peppers <br>
+  Mixed Green Salad with Radish, Summer Squash, and Lime <br><br>
+
+  Dessert:<br>
+  Cinnamon Conchas with Strawberries and Whipped Goat Cheese"
+  price: "$42 per person"
+  is_soldout: false
+  is_live: false
+- title: Homemade Lasagna (Pork Shoulder Ragu)
+  date: 2020-06-24 00:00:00 -07:00
+  experience_id: 152777
+  desc: "
+  Main Dish:<br>
+  Layers of Homemade Pasta and Pork Shoulder Ragu, Finished with Mozzarella, Basil, and Fiore Sardo  <br><br>
+
+  Side Dishes: <br>
+  Roasted Eggplant Caponata <br>
+  Canlis Salad <br>
+  Garlic and Herb Sourdough Rolls<br><br>
+
+  Dessert:<br>
+  Cherry Amaretto Pistachio Pound Cake"
+  price: "$46 per person"
+  is_soldout: false
+  is_live: false
+- title: Homemade Vegetarian Spinach Lasagna
+  date: 2020-06-24 00:00:00 -07:00
+  experience_id: 152784
+  desc: "
+  Main Dish:<br>
+  Layers of Homemade Pasta, Tomato Sauce, and Spinach, Finished with Mozzarella, Basil, and Fiore Sardo  <br><br>
+
+  Side Dishes:<br>
+  Roasted Eggplant Caponata <br>
+  Canlis Salad (no bacon)<br>
+  Garlic and Herb Sourdough Rolls<br><br>
+
+  Dessert:<br>
+  Cherry Amaretto Pistachio Pound Cake"
+  price: "$42 per person"
+  is_soldout: false
+  is_live: false
+- title: Buttermilk Fried Chicken
+  date: 2020-06-25 00:00:00 -07:00
+  experience_id: 152786
+  desc: "
+  Main Dish:<br>
+  Buttermilk Fried Chicken (½ chicken per person)<br><br>
+
+  Side Dishes:<br>
+  Caramelized Garlic Mashed Potatoes and Gravy<br>
+  Yubeshi BBQ Baked Beans<br>
+  Jalapeno Cornbread with Big Leaf Maple Butter<br>
+  Canlis Salad<br><br>
+
+  Dessert:<br>
+  Pecan Pie Bars"
+  price: "$52 per person"
+  is_soldout: false
+  is_live: false
+- title: Canlis Charcoal Broiler Filet Mignon and Dungeness Crab Legs
+  date: 2020-06-25 00:00:00 -07:00
+  experience_id: 152789
+  desc: "
+  Main Dishes:<br>
+  Wood-grilled Filet Mignon with Au Jus<br>
+  Whole Dungeness Crab Legs with Mustard Mayonnaise<br><br>
+
+  Side Dishes:<br>
+  Grilled Asparagus with Miso Butter <br>
+  Canlis Salad<br>
+  Garlic and Herb Sourdough Rolls <br><br>
+
+  Dessert:<br>
+  Chocolate Hazelnut Mousse with Blueberry Jam and Hazelnut Sandies"
+  price: "$78 per person"
+  is_soldout: false
+  is_live: false
 layout: covid-menu
 ---
 
-See our [delivery map](/deliverymap). Pickup available on request. 
+See our [delivery map](/deliverymap). Pickup available on request.
 
 Sales go live here every Wednesday at 1PM for the following week.  
 
-All meals are fully cooked, but require reheating. 
+All meals are fully cooked, but require reheating.
 
 Canlis servers, our delivery drivers, will arrive within one hour of the time you have chosen. For example, if you selected a 3pm meal we'll arrive sometime between 3pm and 4pm. So you can plan ahead and to minimize contact, we’ll send you a text as soon as we are en route and again when we arrive at your address.
 
