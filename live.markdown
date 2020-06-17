@@ -19,31 +19,31 @@ Here's what's happening each night in the Canlis Penthouse. Links to view each l
 
 <h2 class="Caption mt2 mb3">Monday, June 15th</h2>
 
-Live Piano from 6:00-9:00PM by Jonas Myers 
+Live Piano from 5:00-8:00PM by Jonas Myers 
 
 <div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
 
 <h2 class="Caption mt2 mb3">Tuesday, June 16th</h2>
 
-Live Piano from 6:00-9:00PM by Lennon Aldort
+Live Piano from 5:00-8:00PM by Lennon Aldort
 
 <div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
 
 <h2 class="Caption mt2 mb3">Wednesday, June 17th</h2>
 
-Live Piano from 6:00-9:00PM by Lennon Aldort
+Live Piano from 5:00-8:00PM by Lennon Aldort
 
 <div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
 
 <h2 class="Caption mt2 mb3">Thursday, June 18th</h2>
 
-Live Piano from 6:00-9:00PM by Jason Lux
+Live Piano from 5:00-8:00PM by Jason Lux
 
 <div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
 
 <h2 class="Caption mt2 mb3">Friday, June 19th</h2>
 
-Live Piano from 6:00-8:00PM by Jason Lux
+Live Piano from 5:00-8:00PM by Jason Lux
 
 The Bingo Show w/ musical guests Sharon Irving and Robert Irving III from 8:00-9:00PM
 
