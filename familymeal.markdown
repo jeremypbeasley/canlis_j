@@ -38,119 +38,70 @@ menu:
 - title: The Weekend-Made-Easy Kit
   date: 2020-06-19 00:00:00 -07:00
   experience_id: 148894
-  desc: "**For the Grill:**<Br>
-
-    2 Dry-Aged Painted Hills Farms Rib-Eye Steaks // Housemade
-    Pasta Salad // Wobbly Cart Asparagus // ready-to-bake Snickerdoodle cookies, 2
-    cans of E9 Pilsner, and 2 cans of Stoup Brewing Citrus IPA.<br><br>
-    **Ready-to-make Brunch:**<br>
-
-    2 Bagel Shed Everything Bagel // Plain Cream Cheese //  Smoked Copper
-    River Sockeye Salmon and Dill Spread // 1 Dozen Farm Fresh Eggs //  House-made
-    Granola and Samish Bay Greek Yogurt."
+  desc: |-
+    **For the Grill:**<Br>
+    2 Dry-Aged Painted Hills Farms Rib-Eye Steaks // Housemade Pasta Salad // Wobbly Cart Asparagus // ready-to-bake Snickerdoodle cookies, 2 cans of E9 Pilsner, and 2 cans of Stoup Brewing Citrus IPA.<br><br> **Ready-to-make Brunch:**<br>
+    2 Bagel Shed Everything Bagel // Plain Cream Cheese //  Smoked Copper River Sockeye Salmon and Dill Spread // 1 Dozen Farm Fresh Eggs //  House-made Granola and Samish Bay Greek Yogurt.
   price: "$165"
   is_soldout: false
   is_live: true
 - title: Dry-Aged Wagyu Meatloaf
   date: 2020-06-22 00:00:00 -07:00
   experience_id: 152760
-  desc: "
-  Main Dish: <br>
-  Dry-Aged Wagyu Meatloaf Glazed in Spicy Ketchup <br><br>
-
-  Side Dishes:<br>
-  Canlis Twice Baked Potatoes <br>
-  Canlis Salad<br>
-  Garlic and Herb Sourdough Rolls  <br><br>
-
-  Dessert:<br>
-  Peanut Butter Cookies"
+  desc: |2-
+     Main Dish: <br> Dry-Aged Wagyu Meatloaf Glazed in Spicy Ketchup <br><br>
+    Side Dishes:<br> Canlis Twice Baked Potatoes <br> Canlis Salad<br> Garlic and Herb Sourdough Rolls  <br><br>
+    Dessert:<br> Peanut Butter Cookies
   price: "$36 per person"
   is_soldout: false
   is_live: false
 - title: Dry-Aged Duck Carnitas Enchiladas
   date: 2020-06-23 00:00:00 -07:00
   experience_id: 152770
-  desc: "
-  Main Dish: <br>
-  Slow-Roasted Dry-Aged Duck Simmered in Tomato, Garlic, and Spices with Corn Tortillas in a Smoked Red Chile Sauce and Finished with Cotija and Pickled Onions<br><br>
-
-  Side Dishes:<br>
-  Black Beans with Wood-fired Onions and Poblano Peppers <br>
-  Mixed Green Salad with Radish, Summer Squash, and Lime <br><br>
-
-  Dessert:<br>
-  Cinnamon Conchas with Strawberries and Whipped Goat Cheese"
+  desc: |2-
+     Main Dish: <br> Slow-Roasted Dry-Aged Duck Simmered in Tomato, Garlic, and Spices with Corn Tortillas in a Smoked Red Chile Sauce and Finished with Cotija and Pickled Onions<br><br>
+    Side Dishes:<br> Black Beans with Wood-fired Onions and Poblano Peppers <br> Mixed Green Salad with Radish, Summer Squash, and Lime <br><br>
+    Dessert:<br> Cinnamon Conchas with Strawberries and Whipped Goat Cheese
   price: "$42 per person"
   is_soldout: false
   is_live: false
 - title: Homemade Lasagna (Pork Shoulder Ragu)
   date: 2020-06-24 00:00:00 -07:00
   experience_id: 152777
-  desc: "
-  Main Dish:<br>
-  Layers of Homemade Pasta and Pork Shoulder Ragu, Finished with Mozzarella, Basil, and Fiore Sardo  <br><br>
-
-  Side Dishes: <br>
-  Roasted Eggplant Caponata <br>
-  Canlis Salad <br>
-  Garlic and Herb Sourdough Rolls<br><br>
-
-  Dessert:<br>
-  Cherry Amaretto Pistachio Pound Cake"
+  desc: |2-
+     Main Dish:<br> Layers of Homemade Pasta and Pork Shoulder Ragu, Finished with Mozzarella, Basil, and Fiore Sardo  <br><br>
+    Side Dishes: <br> Roasted Eggplant Caponata <br> Canlis Salad <br> Garlic and Herb Sourdough Rolls<br><br>
+    Dessert:<br> Cherry Amaretto Pistachio Pound Cake
   price: "$46 per person"
   is_soldout: false
   is_live: false
 - title: Homemade Vegetarian Spinach Lasagna
   date: 2020-06-24 00:00:00 -07:00
   experience_id: 152784
-  desc: "
-  Main Dish:<br>
-  Layers of Homemade Pasta, Tomato Sauce, and Spinach, Finished with Mozzarella, Basil, and Fiore Sardo  <br><br>
-
-  Side Dishes:<br>
-  Roasted Eggplant Caponata <br>
-  Canlis Salad (no bacon)<br>
-  Garlic and Herb Sourdough Rolls<br><br>
-
-  Dessert:<br>
-  Cherry Amaretto Pistachio Pound Cake"
+  desc: |2-
+     Main Dish:<br> Layers of Homemade Pasta, Tomato Sauce, and Spinach, Finished with Mozzarella, Basil, and Fiore Sardo  <br><br>
+    Side Dishes:<br> Roasted Eggplant Caponata <br> Canlis Salad (no bacon)<br> Garlic and Herb Sourdough Rolls<br><br>
+    Dessert:<br> Cherry Amaretto Pistachio Pound Cake
   price: "$42 per person"
   is_soldout: false
   is_live: false
 - title: Buttermilk Fried Chicken
   date: 2020-06-25 00:00:00 -07:00
   experience_id: 152786
-  desc: "
-  Main Dish:<br>
-  Buttermilk Fried Chicken (½ chicken per person)<br><br>
-
-  Side Dishes:<br>
-  Caramelized Garlic Mashed Potatoes and Gravy<br>
-  Yubeshi BBQ Baked Beans<br>
-  Jalapeno Cornbread with Big Leaf Maple Butter<br>
-  Canlis Salad<br><br>
-
-  Dessert:<br>
-  Pecan Pie Bars"
+  desc: |2-
+     Main Dish:<br> Buttermilk Fried Chicken (½ chicken per person)<br><br>
+    Side Dishes:<br> Caramelized Garlic Mashed Potatoes and Gravy<br> Yubeshi BBQ Baked Beans<br> Jalapeno Cornbread with Big Leaf Maple Butter<br> Canlis Salad<br><br>
+    Dessert:<br> Pecan Pie Bars
   price: "$52 per person"
   is_soldout: false
   is_live: false
 - title: Canlis Charcoal Broiler Filet Mignon and Dungeness Crab Legs
   date: 2020-06-25 00:00:00 -07:00
   experience_id: 152789
-  desc: "
-  Main Dishes:<br>
-  Wood-grilled Filet Mignon with Au Jus<br>
-  Whole Dungeness Crab Legs with Mustard Mayonnaise<br><br>
-
-  Side Dishes:<br>
-  Grilled Asparagus with Miso Butter <br>
-  Canlis Salad<br>
-  Garlic and Herb Sourdough Rolls <br><br>
-
-  Dessert:<br>
-  Chocolate Hazelnut Mousse with Blueberry Jam and Hazelnut Sandies"
+  desc: |2-
+     Main Dishes:<br> Wood-grilled Filet Mignon with Au Jus<br> Whole Dungeness Crab Legs with Mustard Mayonnaise<br><br>
+    Side Dishes:<br> Grilled Asparagus with Miso Butter <br> Canlis Salad<br> Garlic and Herb Sourdough Rolls <br><br>
+    Dessert:<br> Chocolate Hazelnut Mousse with Blueberry Jam and Hazelnut Sandies
   price: "$78 per person"
   is_soldout: false
   is_live: false
