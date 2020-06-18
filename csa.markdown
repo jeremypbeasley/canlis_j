@@ -269,12 +269,54 @@ menu:
 - title: The Weekend-Made-Easy Kit
   date: 2020-06-19 00:00:00 -07:00
   experience_id: 148894
-  desc: "For the Grill: \n2 Dry-Aged Painted Hills Farms Rib-Eye Steaks // Housemade
+  desc: "For the Grill:<br> 2 Dry-Aged Painted Hills Farms Rib-Eye Steaks // Housemade
     Pasta Salad // Wobbly Cart Asparagus // ready-to-bake Snickerdoodle cookies, 2
-    cans of E9 Pilsner, and 2 cans of Stoup Brewing Citrus IPA.\n \nReady-to-make
-    Brunch:\n2 Bagel Shed Everything Bagel // Plain Cream Cheese //  Smoked Copper
+    cans of E9 Pilsner, and 2 cans of Stoup Brewing Citrus IPA.<br><br> \nReady-to-make
+    Brunch:<br> 2 Bagel Shed Everything Bagel // Plain Cream Cheese //  Smoked Copper
     River Sockeye Salmon and Dill Spread // 1 Dozen Farm Fresh Eggs //  House-made
     Granola and Samish Bay Greek Yogurt."
+  price: "$165"
+  is_soldout: false
+  is_live: true
+- title: 
+  date: 2020-06-22 00:00:00 -07:00
+  experience_id: 152830
+  desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
+    farms. Plus: 1 Dozen farm-fresh eggs, 1 Jar of Samish Bay plain greek yogurt,
+    1 piece (7oz) of Fantello Farmstead Creamery Filomena Tomme Cheese, and 2 lbs
+    of freshly milled Cairnsprings Mill Club Cara flour'
+  price: "$75"
+  is_soldout: false
+  is_live: true
+- title: 
+  date: 2020-06-23 00:00:00 -07:00
+  experience_id: 152845
+  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
+    Painted Hills NY Strip Steaks, 2 ea Olsen Farms Pork Loin Chops, 1 Jar of Samish
+    Bay plain greek yogurt, 1 dozen farm-fresh eggs, and 2 lbs of freshly milled Cairnsprings
+    Mill Club Cara flour'
+  price: "$105"
+  is_soldout: false
+  is_live: true
+- title: 
+  date: 2020-06-24 00:00:00 -07:00
+  experience_id: 152852
+  desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea-Breeze
+    Farms fresh roaster chicken, 1lb of Olsen Farms grass-fed ground beef , 1 Jar
+    of Samish Bay plain greek yogurt, 1 dozen farm-fresh eggs, and 2 lbs of freshly
+    milled Cairnsprings Mill Club Cara flour'
+  price: "$105"
+  is_soldout: false
+  is_live: true
+- title: The Weekend-Made-Easy Kit
+  date: 2020-06-26 00:00:00 -07:00
+  experience_id: 152794
+  desc: "For the Grill:<br> 4 Dry-Aged Painted Hills Farms Rib-Eye Steaks; Fresh Zucchini
+    and Portobello Mushrooms; Grilled Spring Onion Chimichurri; ready-to-bake White
+    Chocolate Macadamia Nut Cookie Dough; 2 cans of Stoup Mosaic Pale Ale and 2 cans
+    of Holy Mountain White Lodge.<br><br>  \nReady-to-make Brunch:<br> 1 Dozen Farm
+    Fresh Eggs; 1 Jar of Samish Bay Greek Yogurt with Fresh Strawberries; 1lb of Breakfast
+    Sausage; Buckwheat Blueberry Pancake Mix"
   price: "$165"
   is_soldout: false
   is_live: true
