@@ -1,6 +1,6 @@
 ---
 title: Home
-is_alert_shown: false
+is_alert_shown: true
 alert_text: Tickets for the theatre go on sale here this Friday at 3:00 PM PST.
 food_concepts_title: Food & Drink
 food_concepts:
