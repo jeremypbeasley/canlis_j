@@ -20,18 +20,20 @@ menu:
 - title: Slow Roasted Pork Shoulder and Belly Bo Ssam
   date: 2020-06-18 00:00:00 -07:00
   experience_id: 148890
-  desc: Glazed in Soy and Chili Paste // Bibb Lettuce and White Rice // Leek and Chive
-    Pancakes // Hoisin Sauce //  Hakurei Turnip Kimchi // Smashed Cucumber and Mint
-    Salad with Fried Chillies // Yuzu Toasted S’mores Bar
+  desc: "Main Dish:<br> Slow Roasted Pork Shoulder Glazed in Soy and Chili Paste<br><br>
+    \nSide Dishes:<br> Bibb Lettuce and White Rice<br> Leek and Chive Pancakes<br>
+    Hoisin Sauce<br> Hakurei Turnip Kimchi<br> Smashed Cucumber and Mint Salad with
+    Fried Chillies<br><br> \nDessert:<br> Yuzu Toasted S’mores Bar"
   price: "$56 per person"
   is_soldout: false
   is_live: true
 - title: Grilled NY Strip Steak
   date: 2020-06-19 00:00:00 -07:00
   experience_id: 148891
-  desc: "“Wicked Lobstah” Mac & Cheese // Grilled Spring Onions and Sauteed Mushrooms
-    // Chimichurri // Iceberg Wedge Salad with Roquefort Dressing and Bacon // Sourdough
-    Rolls //  Basque Cheesecake with Citrus Marmalade"
+  desc: "Main Dish:<br> Grilled NY Strip Steak<br><br> \nSide Dishes:<br> “Wicked
+    Lobstah” Mac & Cheese<br> Grilled Spring Onions and Sauteed Mushrooms<br> Chimichurri<br>
+    Iceberg Wedge Salad with Roquefort Dressing and Bacon<br> Sourdough Rolls<br><br>
+    \nDessert:<br> Basque Cheesecake with Citrus Marmalade"
   price: "$72 per person"
   is_soldout: true
   is_live: true
@@ -48,23 +50,23 @@ menu:
 - title: Dry-Aged Wagyu Meatloaf
   date: 2020-06-22 00:00:00 -07:00
   experience_id: 152760
-  desc: |2-
-     Main Dish: <br> Dry-Aged Wagyu Meatloaf Glazed in Spicy Ketchup <br><br>
+  desc: |-
+    Main Dish: <br> Dry-Aged Wagyu Meatloaf Glazed in Spicy Ketchup <br><br>
     Side Dishes:<br> Canlis Twice Baked Potatoes <br> Canlis Salad<br> Garlic and Herb Sourdough Rolls  <br><br>
     Dessert:<br> Peanut Butter Cookies
   price: "$36 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Dry-Aged Duck Carnitas Enchiladas
   date: 2020-06-23 00:00:00 -07:00
   experience_id: 152770
   desc: |2-
-     Main Dish: <br> Slow-Roasted Dry-Aged Duck Simmered in Tomato, Garlic, and Spices with Corn Tortillas in a Smoked Red Chile Sauce and Finished with Cotija and Pickled Onions<br><br>
+     Main Dish: <br> Slow-Roasted Dry-Aged Duck Simmered in Tomato, Garlic, and Spices with Corn Tortillas in a Smoked Red Chile Sauce, and Finished with Cotija and Pickled Onions<br><br>
     Side Dishes:<br> Black Beans with Wood-fired Onions and Poblano Peppers <br> Mixed Green Salad with Radish, Summer Squash, and Lime <br><br>
     Dessert:<br> Cinnamon Conchas with Strawberries and Whipped Goat Cheese
   price: "$42 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Homemade Lasagna (Pork Shoulder Ragu)
   date: 2020-06-24 00:00:00 -07:00
   experience_id: 152777
@@ -74,7 +76,7 @@ menu:
     Dessert:<br> Cherry Amaretto Pistachio Pound Cake
   price: "$46 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Homemade Vegetarian Spinach Lasagna
   date: 2020-06-24 00:00:00 -07:00
   experience_id: 152784
@@ -84,7 +86,7 @@ menu:
     Dessert:<br> Cherry Amaretto Pistachio Pound Cake
   price: "$42 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Buttermilk Fried Chicken
   date: 2020-06-25 00:00:00 -07:00
   experience_id: 152786
@@ -94,9 +96,9 @@ menu:
     Dessert:<br> Pecan Pie Bars
   price: "$52 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Canlis Charcoal Broiler Filet Mignon and Dungeness Crab Legs
-  date: 2020-06-25 00:00:00 -07:00
+  date: 2020-06-26 00:00:00 -07:00
   experience_id: 152789
   desc: |2-
      Main Dishes:<br> Wood-grilled Filet Mignon with Au Jus<br> Whole Dungeness Crab Legs with Mustard Mayonnaise<br><br>
@@ -104,7 +106,16 @@ menu:
     Dessert:<br> Chocolate Hazelnut Mousse with Blueberry Jam and Hazelnut Sandies
   price: "$78 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
+- title: The Weekend-Made-Easy Kit
+  date: 2020-06-26 00:00:00 -07:00
+  experience_id: 152794
+  desc: |-
+    For the Grill:<br> 4 Dry-Aged Painted Hills Farms Rib-Eye Steaks; Fresh Zucchini and Portobello Mushrooms; Grilled Spring Onion Chimichurri; ready-to-bake White Chocolate Macadamia Nut Cookie Dough; and 2 cans of Stoup Mosaic Pale Ale and 2 cans of Holy Mountain White Lodge.<br><br>
+    Ready-to-make Brunch:<br> 1 Dozen Farm Fresh Eggs; 1 Jar of Samish Bay Greek Yogurt with Fresh Strawberries; 1lb of Breakfast Sausage; Buckwheat Blueberry Pancake Mix
+  price: "$165"
+  is_soldout: false
+  is_live: true
 layout: covid-menu
 ---
 
