@@ -54,15 +54,15 @@ fun_concepts:
     link: https://canlisgeneralstore.squarespace.com/
 - title: The Weekly SPAM
   image: "/uploads/canlis_concept_spam.jpg"
-  desc: "Order dinner ahead of everyone else when you sign up for our weekly email
-    list. Also, get a peek behind the scenes, and other exclusive extras."
+  desc: Order dinner ahead of everyone else when you sign up for our weekly email
+    list. Also, get a peek behind the scenes, and other exclusive extras.
   block_link: http://eepurl.com/g1Yw4L
   buttons:
   - label: Sign up now
     link: http://eepurl.com/g1Yw4L
 - title: The Drive-In Theatre
   image: "/uploads/drivein.jpg"
-  desc: "A community theatre in our parking lot supporting the Black Farmers Collective."
+  desc: A community theatre in our parking lot supporting the Black Farmers Collective.
   block_link: "/drivein"
   buttons:
   - label: Get tickets
