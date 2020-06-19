@@ -1,10 +1,7 @@
 ---
 title: Home
 is_alert_shown: true
-alert_text: 'Technical difficulty! SO MANY PEOPLE TRYING TO GET ON! Should be fixed
-  any minute. Thanks for your patience!!
-
-'
+alert_text: Link to purchase theater tickets now live! Scroll down!
 food_concepts_title: Food & Drink
 food_concepts:
 - title: Family Meal
