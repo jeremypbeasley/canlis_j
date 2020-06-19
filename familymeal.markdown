@@ -7,7 +7,7 @@ image: "/uploads/canlis_concept_familymeal.jpg"
 og_desc: Dinner from our kitchen to your doorstep with zero contact. Add wine from
   our storied cellar at an additional cost.
 og_photo: "/uploads/canlis_concept_familymeal.jpg"
-live_notice: "This experience will go live Wednesday at 1:00PM PST"
+live_notice: This experience will go live Wednesday at 1:00PM PST
 menu:
 - title: Southern-Style Pan-Fried Copper River Sockeye Salmon Cakes
   date: 2020-06-17 00:00:00 -07:00
