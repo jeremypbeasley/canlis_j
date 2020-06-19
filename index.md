@@ -1,6 +1,6 @@
 ---
 title: Home
-is_alert_shown: true
+is_alert_shown: false
 alert_text: Tickets for the theatre go on sale here this Friday at 3:00 PM PST.
 food_concepts_title: Food & Drink
 food_concepts:
@@ -52,12 +52,21 @@ fun_concepts:
   buttons:
   - label: Buy Merch
     link: https://canlisgeneralstore.squarespace.com/
-weekly_spam:
-  title: The Weekly SPAM
-  desc: Order dinner ahead of everyone else when you sign up for our weekly email
-    list. Also, get a peek behind the scenes, and other exclusive extras.
+- title: The Weekly SPAM
   image: "/uploads/canlis_concept_spam.jpg"
-  link: http://eepurl.com/g1Yw4L
+  desc: "Order dinner ahead of everyone else when you sign up for our weekly email
+    list. Also, get a peek behind the scenes, and other exclusive extras."
+  block_link: http://eepurl.com/g1Yw4L
+  buttons:
+  - label: Sign up now
+    link: http://eepurl.com/g1Yw4L
+- title: The Drive-In Theatre
+  image: "/uploads/drivein.jpg"
+  desc: "A community theater in our parking lot supporting the Black Farmers Collective."
+  block_link: "/movies"
+  buttons:
+  - label: Get tickets
+    link: "/movies"
 layout: covid-home
 ---
 
