@@ -13,28 +13,28 @@ menu:
   experience_id: 152582
   desc: PG-13 ‧ 2019 ‧ Drama/Legal drama ‧ 2h 17m
   price: "$50 per vehicle"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Get Out
   date: 2020-06-24 00:00:00 -07:00
   experience_id: 154463
   desc: R ‧ 2017 ‧ Horror/Thriller ‧ 1h 44m
   price: "$50 per vehicle"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Groundhog Day
   date: 2020-06-25 00:00:00 -07:00
   experience_id: 154466
   desc: PG ‧ 1993 ‧ Comedy/Romance ‧ 1h 41m
   price: "$50 per vehicle"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Back to the Future II
   date: 2020-06-26 00:00:00 -07:00
   experience_id: 154472
   desc: PG ‧ 1989 ‧ Comedy/Sci-fi ‧ 1h 48m
   price: "$50 per vehicle"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: The Muppet Movie
   date: 2020-06-30 00:00:00 -07:00
