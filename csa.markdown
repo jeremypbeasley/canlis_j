@@ -7,9 +7,9 @@ image: "/uploads/canlis_concept_csa.jpg"
 og_desc: Support a farm! Get a curated box of the best ingredients, delivered to your
   door. It's dinner around the table, direct from our favorite farmers.
 og_photo: "/uploads/canlis_concept_csa.jpg"
-live_notice: "This experience will go live Wednesday at 1:00PM PST"
+live_notice: This experience will go live Wednesday at 1:00PM PST
 menu:
-- title:
+- title: 
   date: 2020-05-06 00:00:00 -07:00
   experience_id: 124569
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -19,7 +19,7 @@ menu:
   price: "$90"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-05-07 00:00:00 -07:00
   experience_id: 124570
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -28,7 +28,7 @@ menu:
   price: "$100"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-05-08 00:00:00 -07:00
   experience_id: 124572
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -38,7 +38,7 @@ menu:
   price: "$105"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-05-11 00:00:00 -07:00
   experience_id: 128829
   desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
@@ -47,7 +47,7 @@ menu:
   price: "$75"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-05-12 00:00:00 -07:00
   experience_id: 128840
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -56,7 +56,7 @@ menu:
   price: "$95"
   is_soldout: true
   is_live: true
-- title:
+- title: 
   date: 2020-05-13 00:00:00 -07:00
   experience_id: 128846
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2lbs
@@ -66,7 +66,7 @@ menu:
   price: "$90"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-05-14 00:00:00 -07:00
   experience_id: 128849
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 ea
@@ -75,7 +75,7 @@ menu:
   price: "$105"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-05-15 00:00:00 -07:00
   experience_id: 128851
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 4 ea
@@ -85,7 +85,7 @@ menu:
   price: "$105"
   is_soldout: true
   is_live: true
-- title:
+- title: 
   date: 2020-05-18 00:00:00 -07:00
   experience_id: 132612
   desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
@@ -94,7 +94,7 @@ menu:
   price: "$75 "
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-05-19 00:00:00 -07:00
   experience_id: 132614
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -104,7 +104,7 @@ menu:
   price: "$90"
   is_soldout: true
   is_live: true
-- title:
+- title: 
   date: 2020-05-20 00:00:00 -07:00
   experience_id: 132615
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea-Breeze
@@ -126,7 +126,7 @@ menu:
   price: "$215"
   is_soldout: true
   is_live: true
-- title:
+- title: 
   date: 2020-05-26 00:00:00 -07:00
   experience_id: 136743
   desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
@@ -135,7 +135,7 @@ menu:
   price: "$75"
   is_soldout: true
   is_live: true
-- title:
+- title: 
   date: 2020-05-27 00:00:00 -07:00
   experience_id: 136755
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea-Breeze
@@ -160,7 +160,7 @@ menu:
   price: "$185"
   is_soldout: true
   is_live: true
-- title:
+- title: 
   date: 2020-06-01 00:00:00 -07:00
   experience_id: 140660
   desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
@@ -169,7 +169,7 @@ menu:
   price: "$75"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-06-02 00:00:00 -07:00
   experience_id: 140663
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -178,7 +178,7 @@ menu:
   price: "$95"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-06-03 00:00:00 -07:00
   experience_id: 140665
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea-Breeze
@@ -201,7 +201,7 @@ menu:
   price: "$195"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-06-08 00:00:00 -07:00
   experience_id: 144871
   desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
@@ -210,7 +210,7 @@ menu:
   price: "$75"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-06-09 00:00:00 -07:00
   experience_id: 144873
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -219,7 +219,7 @@ menu:
   price: "$95"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-06-10 00:00:00 -07:00
   experience_id: 144886
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea-Breeze
@@ -240,7 +240,7 @@ menu:
   price: "$165"
   is_soldout: true
   is_live: true
-- title:
+- title: 
   date: 2020-06-15 00:00:00 -07:00
   experience_id: 148904
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 each
@@ -250,7 +250,7 @@ menu:
   price: "$95"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-06-16 00:00:00 -07:00
   experience_id: 148905
   desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
@@ -259,7 +259,7 @@ menu:
   price: "$75"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-06-17 00:00:00 -07:00
   experience_id: 148906
   desc: 1 Sea-Breeze Farms fresh roaster chicken, 1lb of Olsen Farms grass-fed ground
@@ -279,7 +279,7 @@ menu:
   price: "$165"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-06-22 00:00:00 -07:00
   experience_id: 152830
   desc: 'An abundance of just-picked vegetables from half a dozen of our favorite
@@ -289,7 +289,7 @@ menu:
   price: "$75"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-06-23 00:00:00 -07:00
   experience_id: 152845
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 2 ea
@@ -299,7 +299,7 @@ menu:
   price: "$105"
   is_soldout: false
   is_live: true
-- title:
+- title: 
   date: 2020-06-24 00:00:00 -07:00
   experience_id: 152852
   desc: 'An abundance of just-picked vegetables from our favorite farms. Plus: 1 Sea-Breeze

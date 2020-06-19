@@ -9,7 +9,7 @@ og_desc: Quarantined preprohibitionists, bartenders, and delivery drivers of the
   unite! We’ll get through this, and raise a glass to the loved ones willing to live
   with us 24/7.
 og_photo: "/uploads/canlis_concept_bottleservice.jpg"
-live_notice: "This experience will go live Wednesday at 1:00PM PST"
+live_notice: This experience will go live Wednesday at 1:00PM PST
 drinks:
 - drink-category: 'Cocktail Kits '
   drinks:
