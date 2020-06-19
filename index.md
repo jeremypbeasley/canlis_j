@@ -1,7 +1,12 @@
 ---
 title: Home
+<<<<<<< HEAD
 is_alert_shown: false
 alert_text: Tickets for the theatre go on sale here this Friday at 3:00 PM PST.
+=======
+is_alert_shown: true
+alert_text: Link to purchase theater tickets now live! Scroll down!
+>>>>>>> e652e2359e57ed7ae378bc3c8325204c5c9badfb
 food_concepts_title: Food & Drink
 food_concepts:
 - title: Family Meal
