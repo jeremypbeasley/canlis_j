@@ -1,7 +1,10 @@
 ---
 title: Home
 is_alert_shown: true
-alert_text: Tickets for the theatre go on sale here this Friday at 3:00 PM PST.
+alert_text: 'Technical difficulty! SO MANY PEOPLE TRYING TO GET ON! Should be fixed
+  any minute. Thanks for your patience!!
+
+'
 food_concepts_title: Food & Drink
 food_concepts:
 - title: Family Meal
