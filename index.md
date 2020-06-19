@@ -1,7 +1,8 @@
 ---
 title: Home
 is_alert_shown: true
-alert_text: Link to purchase theatre tickets now live! Scroll down!
+alert_text: 'Next week''s shows are sold out! Come back next Friday at 3pm when the
+  following week goes on sale. '
 food_concepts_title: Food & Drink
 food_concepts:
 - title: Family Meal
