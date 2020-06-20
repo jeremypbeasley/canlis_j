@@ -17,30 +17,6 @@ Here's what's happening each night in the Canlis Penthouse. Links to view each l
 
 <div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
 
-<h2 class="Caption mt2 mb3">Monday, June 15th</h2>
-
-Live piano from 5:00-8:00PM by Jonas Myers 
-
-<div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
-
-<h2 class="Caption mt2 mb3">Tuesday, June 16th</h2>
-
-Live piano from 5:00-8:00PM by Lennon Aldort
-
-<div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
-
-<h2 class="Caption mt2 mb3">Wednesday, June 17th</h2>
-
-Live piano from 5:00-8:00PM by Lennon Aldort
-
-<div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
-
-<h2 class="Caption mt2 mb3">Thursday, June 18th</h2>
-
-Live piano from 5:00-8:00PM by Jason Lux
-
-<div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
-
 <h2 class="Caption mt2 mb3">Friday, June 19th</h2>
 
 Live piano from 6:00-8:00PM by Jason Lux
@@ -54,3 +30,13 @@ Sharon Irving is a native of Chicago, born and raised on the South Side of Chica
 A native of Chicago, Robert Irving III was one of a group of young Chicago musicians that in the late '70s and early '80s formed the nucleus of Miles Davis' recording and touring bands. Irving left the Davis band in 1989, and has gone on to a prolific career as touring musician, composer, arranger, producer, educator and interdisciplinary artist. Irving resumed his career as a recording artist under his own name with the 2007 release of New Momentum and more recently with the release of "Our Space In Time" by Robert Irving III Generations (featuring students Irving mentored through the Jazz Institute of Chicago Jazz Links program).
 
 <div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
+
+<h2 class="Caption mt2 mb3">Black Girls Rock!</h2>
+
+Black Girls Rock! is an annual award show, founded by former DJ and model Beverly Bond, that honors and promotes Black women in different fields involving music, entertainment, medicine, and entrepreneurship. Follow Black Girls Rock! on <a href="https://twitter.com/BLACKGIRLSROCK">Twitter</a> and <a href="https://www.instagram.com/bgrfest/">Instagram</a>. 
+
+<div class="EventsButton mt1 mb10">
+  <a class="Caption" href="https://www.blackgirlsrock.com">
+    Donate now 
+  </a>
+</div>
