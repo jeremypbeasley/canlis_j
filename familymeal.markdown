@@ -56,7 +56,7 @@ menu:
     Side Dishes:<br> Canlis Twice Baked Potatoes <br> Canlis Salad<br> Garlic and Herb Sourdough Rolls  <br><br>
     Dessert:<br> Peanut Butter Cookies
   price: "$36 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Dry-Aged Duck Carnitas Enchiladas
   date: 2020-06-23 00:00:00 -07:00
@@ -96,7 +96,7 @@ menu:
     Side Dishes:<br> Caramelized Garlic Mashed Potatoes and Gravy<br> Yubeshi BBQ Baked Beans<br> Jalapeno Cornbread with Big Leaf Maple Butter<br> Canlis Salad<br><br>
     Dessert:<br> Pecan Pie Bars
   price: "$52 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Canlis Charcoal Broiler Filet Mignon and Dungeness Crab Legs
   date: 2020-06-26 00:00:00 -07:00
@@ -126,7 +126,6 @@ Sales go live here every Wednesday at 1PM for the following week.
 
 All meals are fully cooked, but require reheating.
 
-Canlis servers, our delivery drivers, will arrive within one hour of the time you have chosen. For example, if you selected a 3pm meal we'll arrive sometime between 3pm and 4pm. So you can plan ahead and to minimize contact, we’ll send you a text as soon as we are en route and again when we arrive at your address.
+Canlis servers, our delivery drivers, will arrive within one hour of the time you have chosen. For example, if you selected a 4pm meal we'll arrive sometime between 4pm and 5pm. So you can plan ahead and to minimize contact, we’ll send you a text as soon as we are en route and again when we arrive at your address.
 
-<div style="background: #FDF2C3; border: 1px solid #E3C442; border-radius: 5px; padding: 18px; margin-bottom: 30px;">In order to keep our drivers safe during the demonstrations, we'll be delivering early this week, from 3:00 to 6:00 PM. All meals are fully cooked and specifically designed to be re-heated.
-</div>
+***Starting June 29th our delivery drivers will arrive within 1.5 hrs of the time you have chosen.  For example, if you selected a 4pm meal we'll arrive sometime between 4pm and 5:30pm.***

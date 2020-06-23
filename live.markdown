@@ -10,7 +10,7 @@ layout: events
 Here's what's happening each night in the Canlis Penthouse. Links to view each live event will be posted here at the time of the event.
 
 <div class="EventsButton mt1 mb10">
-  <a class="Caption" href="https://www.youtube.com/watch?v=_FIge8tKZtA">
+  <a class="Caption" href="https://youtu.be/moV5DQ4T3Pg">
     Live on Youtube
   </a>
 </div>
