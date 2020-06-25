@@ -319,6 +319,19 @@ menu:
     Fresh Eggs; 1 Jar of Samish Bay Greek Yogurt with Fresh Strawberries; 1lb of Breakfast
     Sausage; Buckwheat Blueberry Pancake Mix"
   price: "$165"
+  is_soldout: true
+  is_live: true
+- title: 'The July 4th Weekend-Made-Easy Kit '
+  date: 2020-07-03 00:00:00 -07:00
+  experience_id: 156152
+  desc: "For the Grill:<br> 3 Dry-Aged Painted Hills Farm NY Strip Steaks; 4 Housemade
+    Bratwursts with Wholegrain Mustard; Spring Onions and Sno-Valley Mushrooms for
+    the grill; ready-to-bake Sugar Cookies with Red, White, and Blue Star Sprinkles;
+    2 cans of White Lodge from Holy Mountain, and 2 cans of E9 Pilsner<br><br>  \nReady-to-make
+    Brunch:<br> 1 Dozen Farm Fresh Eggs; 1 Jar of Samish Bay Greek Yogurt with Fresh
+    Strawberries; 1 lb. of Breakfast Sausage; Buckwheat Blueberry Pancake Mix (with
+    fresh blueberries). "
+  price: "$165"
   is_soldout: false
   is_live: true
 layout: covid-menu
