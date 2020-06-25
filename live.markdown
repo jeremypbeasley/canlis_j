@@ -21,22 +21,8 @@ Here's what's happening each night in the Canlis Penthouse. Links to view each l
 
 Live piano from 6:00-8:00PM by Jason Lux
 
-The Bingo Show w/ musical guests Sharon Irving and Robert Irving III from 8:00-9:00PM
+The Bingo Show w/ musical guests Zach Williams of The Lone Bellow from 8:00-9:00PM
 
-<i>About The Guests</i>
+<i>About The Lone Bellow</i>
 
-Sharon Irving is a native of Chicago, born and raised on the South Side of Chicago, Sharon's musical education started early. Her father, Robert Irving III, a jazz musician and musical director for Miles Davis, frequently brought her to the studio with him. As a student at North Park University, she realized that she wanted to be a "voice for the voiceless" through song and spoken word. Sharon continues to pursue this artistic journey by working on her first album, a collection of song, poetry and rap. She loves exploring different genres, covering everyone from Dolly Parton to Billie Holiday to one of her biggest inspirations, Lauryn Hill. She hopes her music will inspire each and every person watching America's Got Talent to find and use their unique voice.
-
-A native of Chicago, Robert Irving III was one of a group of young Chicago musicians that in the late '70s and early '80s formed the nucleus of Miles Davis' recording and touring bands. Irving left the Davis band in 1989, and has gone on to a prolific career as touring musician, composer, arranger, producer, educator and interdisciplinary artist. Irving resumed his career as a recording artist under his own name with the 2007 release of New Momentum and more recently with the release of "Our Space In Time" by Robert Irving III Generations (featuring students Irving mentored through the Jazz Institute of Chicago Jazz Links program).
-
-<div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
-
-<h2 class="Caption mt2 mb3">Black Girls Rock!</h2>
-
-Black Girls Rock! is an annual award show, founded by former DJ and model Beverly Bond, that honors and promotes Black women in different fields involving music, entertainment, medicine, and entrepreneurship. Follow Black Girls Rock! on <a href="https://twitter.com/BLACKGIRLSROCK">Twitter</a> and <a href="https://www.instagram.com/bgrfest/">Instagram</a>. 
-
-<div class="EventsButton mt1 mb10">
-  <a class="Caption" href="https://www.blackgirlsrock.com">
-    Donate now 
-  </a>
-</div>
+The Lone Bellow burst onto the scene with their self-titled debut in 2013. The Brooklyn-based band quickly became known for their transcendent harmonies, serious musicianship and raucous live performance — a reputation that earned them their rabid fan base. It's been three years since the band's victorious Then Came The Morning was released. Produced by The National's Aaron Dessner, the album was nominated for an Americana Music Award. The band appeared on "Jimmy Kimmel Live," "Late Show With David Letterman," "Conan O'Brien," "CBS This Morning," "Later...with Jools Holland," and "The Late Late Show With James Corden" in support of the album. In the years since the release, the band left their beloved adopted home of Brooklyn and moved to Nashville. Now, The Lone Bellow is back with Walk Into A Storm, which will be released Sept. 15 on Sony Music Masterworks. Walk Into A Storm was produced by legendary music producer Dave Cobb (Chris Stapleton, Sturgill Simpson, and more) and features their lead single "Time's Always Leaving." The trio, featuring Zach Williams (guitar/vocals), Kanene Donehey Pipkin (multi-instrumentalist), and Brian Elmquist (guitar), recorded this album in only seven days. The group’s first two albums graced the Billboard 200.
