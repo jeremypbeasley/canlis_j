@@ -115,6 +115,78 @@ menu:
     For the Grill:<br> 4 Dry-Aged Painted Hills Farms Rib-Eye Steaks; Fresh Zucchini and Portobello Mushrooms; Grilled Spring Onion Chimichurri; ready-to-bake White Chocolate Macadamia Nut Cookie Dough; and 2 cans of Stoup Mosaic Pale Ale and 2 cans of Holy Mountain White Lodge.<br><br>
     Ready-to-make Brunch:<br> 1 Dozen Farm Fresh Eggs; 1 Jar of Samish Bay Greek Yogurt with Fresh Strawberries; 1lb of Breakfast Sausage; Buckwheat Blueberry Pancake Mix
   price: "$165"
+  is_soldout: true
+  is_live: true
+- title: 'Miso BBQ Chicken '
+  date: 2020-06-29 00:00:00 -07:00
+  experience_id: 155310
+  desc: |2-
+     Main Dish:<br> ½ Chicken Per Person Rubbed in Miso BBQ Sauce and Grilled Over Applewood<br><br>
+    Side Dishes:<br> Canlis Salad<br> Japanese-Style Potato Salad with Pickled Cucumbers<br> Collard Greens Simmered in Grenache Vinegar with Bacon<br> Sourdough Rolls<br><br>
+    Dessert:<br> Rainier Cherry & Blackberry Spoon Cake
+  price: "$42 per person"
+  is_soldout: false
+  is_live: true
+- title: Summer Spot Prawn Boil
+  date: 2020-06-30 00:00:00 -07:00
+  experience_id: 155678
+  desc: |-
+    Main Dish:<br> Spot Prawn with Old Bay Sausage, Peppers, Onions, and Potatoes served with Spicy Remoulade<br><br>
+    Side Dishes:<br> Tomato and Mozzarella Panzanella Salad<br> Sourdough Rolls<br><br>
+    Dessert:<br> Cornmeal Vanilla Chess Pie
+  price: "$58 per person"
+  is_soldout: false
+  is_live: true
+- title: Wagyu Short Rib Stroganoff
+  date: 2020-07-01 00:00:00 -07:00
+  experience_id: 155679
+  desc: |-
+    Main Dish:<br> Wagyu Short Rib Stroganoff with Mushrooms and Homemade Egg Noodles<br><br>
+    Side Dishes:<br> Canlis Salad<br> Citrus-Poached Beets with Fennel, Pistachios, and Samish Bay Yogurt<br>  Sourdough Rolls<br><br>
+    Dessert:<br> Glazed Bergamot Cakes
+  price: "$38 per person"
+  is_soldout: false
+  is_live: true
+- title: Mushroom Stroganoff
+  date: 2020-07-01 00:00:00 -07:00
+  experience_id: 155682
+  desc: |-
+    Main Dish:<br> Sno-Valley Mushroom Stroganoff with Homemade Egg Noodles<br><br>
+    Side Dishes:<br> Canlis Salad<br> Citrus-Poached Beets with Fennel, Pistachios, and Samish Bay Yogurt<br> Sourdough Rolls<br><br>
+    Dessert:<br> Glazed Bergamot Cakes
+  price: "$34 per person"
+  is_soldout: false
+  is_live: true
+- title: 'Canlis Hawaiian Nights: A Throwback Menu From Last Summer'
+  date: 2020-07-02 00:00:00 -07:00
+  experience_id: 155684
+  desc: |-
+    Main Dish:<br> Grilled Kalbi Ribs with Kalua Pork Nacho Kit (ready to go but you build it yourself): Roasted Pork with Chef Brady's Queso and all the Fixings (sour cream, hot sauce, radish, black olives, pickled onions, cilantro)<br><br>
+    Side Dishes:<br> Canlis Salad<br> White Rice and Mac Salad<br> And of course, a Mango White Claw!<br><br>
+    Dessert:<br> Guava Coconut Cake
+  price: "$58 per person"
+  is_soldout: false
+  is_live: true
+- title: Miso Glazed Copper River King Salmon
+  date: 2020-07-03 00:00:00 -07:00
+  experience_id: 155687
+  desc: |-
+    Main Dish:<br> Copper River King Salmon Marinated in Chickpea Miso and Grilled over Applewood<br><br>
+    Side Dishes:<br> Canlis Salad<br> Black Truffle Mashed Potatoes<br> Grilled Maitake Mushrooms finished with Seaweed Vinegar<br> Sourdough Rolls<br><br>
+    Dessert:<br> Meyer Lemon Posset with Meyer Lemon Linzer Cookie
+  price: "$58 per person"
+  is_soldout: false
+  is_live: true
+- title: The July 4th Weekend-Made-Easy Kit
+  date: 2020-07-03 00:00:00 -07:00
+  experience_id: 156152
+  desc: "For the Grill:<br> \n4 Dry-Aged Painted Hills Farms NY Strip Steaks; 4 Housemade
+    Bratwursts with Wholegrain Mustard; Spring Onions and Sno-Valley Mushrooms for
+    the grill; ready-to-bake Sugar Cookies with Red, White, and Blue Star Sprinkles;
+    2 cans of White Lodge from Holy Mountain, and 2 cans of E9 Pilsner<br><br>\nReady-to-make
+    Brunch:<br> \n1 Dozen Farm Fresh Eggs; 1 Jar of Samish Bay Yogurt with Fresh Strawberries;
+    1 lb. of Breakfast Sausage; Buckwheat Blueberry Pancake Mix (with fresh blueberries)"
+  price: "$165"
   is_soldout: false
   is_live: true
 layout: covid-menu
