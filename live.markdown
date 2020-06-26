@@ -19,9 +19,9 @@ Here's what's happening each night in the Canlis Penthouse. Links to view each l
 
 <h2 class="Caption mt2 mb3">Friday, June 19th</h2>
 
-Live piano from 6:00-8:00PM by Jason Lux
+Live piano from 6:00 - 8:00PM by Jason Lux
 
-The Bingo Show w/ musical guests Zach Williams of The Lone Bellow from 8:00-9:00PM
+The Bingo Show w/ musical guests Zach Williams of The Lone Bellow from 8:00 - 9:00PM
 
 <i>About The Lone Bellow</i>
 
