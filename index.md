@@ -29,14 +29,6 @@ fun_concepts:
   buttons:
   - label: Watch Now
     link: "/piano"
-- title: Bingo
-  image: "/uploads/canlis_concept_bingo.jpg"
-  desc: Every Friday night, we livestream the hottest family fun in town, right to
-    your living room.
-  block_link: "/bingo"
-  buttons:
-  - label: How to Play
-    link: "/bingo"
 - title: General Store
   image: "/uploads/canlis_concept_store.jpg"
   desc: We’re selling merch to benefit Big Table.
