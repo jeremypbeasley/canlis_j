@@ -1,6 +1,6 @@
 ---
 title: Home
-is_alert_shown: true
+is_alert_shown: false
 alert_text: Next week's drive-in theatre shows go on sale today at 3PM!
 food_concepts_title: Food & Drink
 food_concepts:
@@ -11,14 +11,6 @@ food_concepts:
   buttons:
   - label: Explore the menu
     link: "/familymeal"
-- title: Community Supported Agriculture Boxes
-  image: "/uploads/canlis_concept_csa.jpg"
-  desc: Support a farm! Get a curated box of the best ingredients, delivered to your
-    door.
-  block_link: "/csa"
-  buttons:
-  - label: See the boxes
-    link: "/csa"
 - title: Bottle Service
   image: "/uploads/canlis_concept_bottleservice.jpg"
   desc: Feeling cooped up? A Canlis cocktail kit or a bottle of wine from our cellar

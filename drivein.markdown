@@ -38,32 +38,32 @@ menu:
   is_live: true
 - title: The Muppet Movie
   date: 2020-06-30 00:00:00 -07:00
-  experience_id: XXXXX
+  experience_id: 154473
   desc: G ‧ 1979 ‧ Family/Musical ‧ 1h 37m
   price: "$50 per vehicle"
-  is_soldout: false
-  is_live: false
+  is_soldout: true
+  is_live: true
 - title: 'John Lewis: Good Trouble'
   date: 2020-07-01 00:00:00 -07:00
-  experience_id: XXXXX
+  experience_id: 154476
   desc: PG ‧ 2020 ‧ Documentary ‧ 1h 36m
   price: "$50 per vehicle"
-  is_soldout: false
-  is_live: false
+  is_soldout: true
+  is_live: true
 - title: Do The Right Thing
   date: 2020-07-02 00:00:00 -07:00
-  experience_id: XXXXX
+  experience_id: 154483
   desc: R ‧ 1989 ‧ Drama/Comedy-drama ‧ 2h 5m
   price: "$50 per vehicle"
-  is_soldout: false
-  is_live: false
+  is_soldout: true
+  is_live: true
 - title: Top Gun
   date: 2020-07-03 00:00:00 -07:00
-  experience_id: XXXXX
+  experience_id: 154485
   desc: PG ‧ 1986 ‧ Action/Drama ‧ 1h 50m
   price: "$50 per vehicle"
-  is_soldout: false
-  is_live: false
+  is_soldout: true
+  is_live: true
 layout: covid-drivein
 ---
 

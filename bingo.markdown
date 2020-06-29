@@ -17,7 +17,7 @@ layout: events
 
 - All family meal, CSA, General Store, and Bottle Service deliveries include Bingo cards.
 
-1.) Watch the livestream. Video will appear on this link on June 19th at 8:00pm.
+1.) Watch the livestream. Video will appear on this link on June 26th at 8:00pm.
 
 2.) Random numbers are drawn. Whoever completes a bingo pattern first, wins the prize. A winning bingo pattern is a line with five numbers in a diagonal, horizontal, or vertical row. Numbers must be X'd out with a pen.
 

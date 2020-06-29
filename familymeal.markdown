@@ -145,7 +145,7 @@ menu:
     Side Dishes:<br> Canlis Salad<br> Citrus-Poached Beets with Fennel, Pistachios, and Samish Bay Yogurt<br>  Sourdough Rolls<br><br>
     Dessert:<br> Glazed Bergamot Cakes
   price: "$38 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Mushroom Stroganoff
   date: 2020-07-01 00:00:00 -07:00
@@ -155,7 +155,7 @@ menu:
     Side Dishes:<br> Canlis Salad<br> Citrus-Poached Beets with Fennel, Pistachios, and Samish Bay Yogurt<br> Sourdough Rolls<br><br>
     Dessert:<br> Glazed Bergamot Cakes
   price: "$34 per person"
-  is_soldout: true
+  is_soldout: false
   is_live: true
 - title: 'Canlis Hawaiian Nights: A Throwback Menu From Last Summer'
   date: 2020-07-02 00:00:00 -07:00
