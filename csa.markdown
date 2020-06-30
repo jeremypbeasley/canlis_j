@@ -341,6 +341,5 @@ See our [delivery map](/deliverymap). Pickup available on request.
 
 Sales go live here every Wednesday at 1PM for the following week.
 
-Canlis servers, our delivery drivers, will arrive between 3pm-7pm.  So you can plan ahead and to minimize contact, we’ll send you a text as soon as we are en route and again when we arrive at your address.
+Canlis servers, our delivery drivers, will arrive between 4pm-7:30pm.  So you can plan ahead and to minimize contact, we’ll send you a text as soon as we are en route and again when we arrive at your address.
 
-***Starting June 29th our delivery drivers will arrive between 4pm-7:30pm***
