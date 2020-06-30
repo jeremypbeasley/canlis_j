@@ -155,7 +155,7 @@ menu:
     Side Dishes:<br> Canlis Salad<br> Citrus-Poached Beets with Fennel, Pistachios, and Samish Bay Yogurt<br> Sourdough Rolls<br><br>
     Dessert:<br> Glazed Bergamot Cakes
   price: "$34 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: 'Canlis Hawaiian Nights: A Throwback Menu From Last Summer'
   date: 2020-07-02 00:00:00 -07:00
@@ -198,6 +198,4 @@ Sales go live here every Wednesday at 1PM for the following week.
 
 All meals are fully cooked, but require reheating.
 
-Canlis servers, our delivery drivers, will arrive within one hour of the time you have chosen. For example, if you selected a 4pm meal we'll arrive sometime between 4pm and 5pm. So you can plan ahead and to minimize contact, we’ll send you a text as soon as we are en route and again when we arrive at your address.
-
-***Starting June 29th our delivery drivers will arrive within 1.5 hrs of the time you have chosen.  For example, if you selected a 4pm meal we'll arrive sometime between 4pm and 5:30pm.***
+Canlis servers, our delivery drivers, will arrive within 1.5 hours of the time you have chosen. For example, if you selected a 4pm meal we'll arrive sometime between 4pm and 5:30pm. So you can plan ahead and to minimize contact, we’ll send you a text as soon as we are en route and again when we arrive at your address.
