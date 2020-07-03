@@ -44,13 +44,6 @@ fun_concepts:
   buttons:
   - label: Sign up now
     link: http://eepurl.com/g1Yw4L
-- title: The Drive-In Theatre
-  image: "/uploads/drivein.jpg"
-  desc: A community theatre in our parking lot supporting the Black Farmers Collective.
-  block_link: "/drivein"
-  buttons:
-  - label: Get tickets
-    link: "/drivein"
 layout: covid-home
 ---
 
