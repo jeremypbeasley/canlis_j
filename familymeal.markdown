@@ -69,7 +69,7 @@ menu:
     Potatoes<br> Canlis Salad<br> Garlic and Herb Sourdough Rolls<br> Beef Au Jus<br><br>
     \nDessert:<br> Rainier Cherry Clafoutis"
   price: "$48 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Eggplant Parmesan
   date: 2020-07-07 00:00:00 -07:00
