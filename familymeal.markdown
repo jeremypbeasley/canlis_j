@@ -20,8 +20,8 @@ menu:
 - title: Dungeness Crab Cakes
   date: 2020-07-10 00:00:00 -07:00
   experience_id: 159189
-  delivery_id:
-  pickup_id:
+  delivery_id: 
+  pickup_id: 
   desc: |2-
      Main Dish:<br> Dungeness Crab Cakes with Spicy Remoulade<br><br>
     Side Dishes:<br> Alaskan Spot Prawns with Cocktail Sauce<br> Grilled Summer Corn with Miso Butter, Old Bay, and Herbs<br> Canlis Salad<br> Garlic and Herb Sourdough Rolls<br><br>
@@ -32,8 +32,8 @@ menu:
 - title: The Weekender
   date: 2020-07-10 00:00:00 -07:00
   experience_id: 159192
-  delivery_id:
-  pickup_id:
+  delivery_id: 
+  pickup_id: 
   desc: "Get a meal planning head start with the best ingredients we can get our hands
     on, perfect for a weekend of brunches, bbq's, and outdoor eating.  Complete with
     official \"what would my brother make with this stuff\" suggestions for the home
