@@ -10,8 +10,6 @@ menu:
 - title: Buttermilk Fried Chicken
   date: 2020-07-09 00:00:00 -07:00
   experience_id: 159180
-  delivery_id: 159180
-  pickup_id: 159180
   desc: |2-
      Main Dish:<br> Buttermilk Fried Chicken<br><br>
     Side Dishes:<br> Caramelized Garlic Mashed Potatoes and Gravy<br> Yubeshi BBQ Baked Beans<br> Jalepeno Cornbread with Big Leaf Maple Butter<br> Canlis Salad<br><br>
