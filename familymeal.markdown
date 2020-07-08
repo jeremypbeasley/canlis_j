@@ -20,8 +20,8 @@ menu:
 - title: Dungeness Crab Cakes
   date: 2020-07-10 00:00:00 -07:00
   experience_id: 159189
-  delivery_id: 
-  pickup_id: 
+  delivery_id:
+  pickup_id:
   desc: |2-
      Main Dish:<br> Dungeness Crab Cakes with Spicy Remoulade<br><br>
     Side Dishes:<br> Alaskan Spot Prawns with Cocktail Sauce<br> Grilled Summer Corn with Miso Butter, Old Bay, and Herbs<br> Canlis Salad<br> Garlic and Herb Sourdough Rolls<br><br>
@@ -32,8 +32,8 @@ menu:
 - title: The Weekender
   date: 2020-07-10 00:00:00 -07:00
   experience_id: 159192
-  delivery_id: 
-  pickup_id: 
+  delivery_id:
+  pickup_id:
   desc: "Get a meal planning head start with the best ingredients we can get our hands
     on, perfect for a weekend of brunches, bbq's, and outdoor eating.  Complete with
     official \"what would my brother make with this stuff\" suggestions for the home
@@ -49,6 +49,54 @@ menu:
   price: "$165"
   is_soldout: false
   is_live: true
+drinks:
+- drink-category: 'Cocktail Kits '
+  drinks:
+  - title: 'Manhattan '
+    volume: "(makes 12 cocktails)"
+    desc: Includes 750ml bottle of Knob Creek Bourbon and 375ml of Carpano Antica,
+      James' house-made spiced cherries, orange bitters, and two copper garnish picks.
+    price: "$120 ($10 per drink)"
+    experience_id: 144891
+    is_soldout: false
+  - title: Piña Colada
+    volume: "(makes 12 cocktails)"
+    desc: Includes 1 liter of Plantation Original Dark Rum, 2 liters of Canlis Pina
+      Colada mix, pineapple and mint for garnish. Pineapple glasses, straws and umbrellas
+      included, naturally.
+    price: "$168 ($14 per drink)"
+    experience_id: 144891
+    is_soldout: false
+  - title: Margarita
+    volume: "(makes 16 cocktails)"
+    desc: Includes 1 liter bottle of Campo Bravo Plata Tequila and 750ml bottle of
+      Pierre Ferrand Curacao. Also comes with fresh lime juice, simple syrup, Jacobsen
+      sea salt, and lime garnish.
+    price: "$160 ($10 per drink)"
+    experience_id: 144891
+    is_soldout: false
+  - title: 'Corpse Reviver #2'
+    volume: "(makes 16 cocktails)"
+    desc: Includes 750ml bottles of Sipsmith Gin, Pierre Ferrand Dry Curacao and 375ml
+      of Cocchi Americano, Absinthe, lemon and orange garnishes
+    price: "$176"
+    experience_id: 144891
+    is_soldout: false
+- drink-category: Wine
+  drinks:
+  - title: Somm's Choice
+    volume: 5 bottles
+    desc: A rotating mix of seasonal wines selected by the Canlis sommelier team.
+    price: "$150"
+    experience_id: 151883
+    is_soldout: false
+  - title: Reserve Wines Somm's Choice
+    volume: 5 bottles
+    desc: A special box of wine hand selected by the Canlis sommelier team. A few
+      bottles for now, a few for the cellar. Or all for now. We don’t judge.
+    price: "$250"
+    experience_id: 151883
+    is_soldout: false
 layout: covid-menu
 ---
 
