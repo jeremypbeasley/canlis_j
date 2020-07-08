@@ -13619,24 +13619,24 @@ $(document).ready(function() {
 
   // Popup
 
-  $(document.body).on('click', '.OrderLink', function(){
-    var order_link = $(this).attr('data-link');
-    var order_type = $(this).attr('data-order-type');
-    var order_msg = $(this).attr('data-order-msg');
-    console.log(order_link);
-    console.log("ORDER TYPE: " + order_type);
-    console.log("ORDER MSG: " + order_msg);
-    $('.Popup').show();
-    $('.Popup').addClass('active');
-    $('#PopupButtonLink').attr('href', order_link);
-    $('#PopupBody').html(order_msg);
-  });
-
-  // Closes the popup
-  $(document.body).on('click', '.Popup .CloseButton, .PopupOverlay', function(){
-    $('.Popup').hide();
-    $('.Popup').removeClass('active');
-    console.log("Popup: Off");
-  });
+  // $(document.body).on('click', '.OrderLink', function(){
+  //   var order_link = $(this).attr('data-link');
+  //   var order_type = $(this).attr('data-order-type');
+  //   var order_msg = $(this).attr('data-order-msg');
+  //   console.log(order_link);
+  //   console.log("ORDER TYPE: " + order_type);
+  //   console.log("ORDER MSG: " + order_msg);
+  //   $('.Popup').show();
+  //   $('.Popup').addClass('active');
+  //   $('#PopupButtonLink').attr('href', order_link);
+  //   $('#PopupBody').html(order_msg);
+  // });
+  //
+  // // Closes the popup
+  // $(document.body).on('click', '.Popup .CloseButton, .PopupOverlay', function(){
+  //   $('.Popup').hide();
+  //   $('.Popup').removeClass('active');
+  //   console.log("Popup: Off");
+  // });
 
 });

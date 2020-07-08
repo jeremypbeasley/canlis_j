@@ -1,13 +1,16 @@
-{% include minihead.html %}
+{% include head.html %}
+
+<div style="height: 6vw;"></div>
 
 <div class="mt3 d-mt8 flex">
+  <div class="col mt3 ml3 mr3 d-mt0 d-mr0 d-ml0 col-onethird">
+    <!-- <a class="CenterText" href="/">Back to all options</a> -->
+    <img src="/uploads/fam.jpg"/>
+  </div>
   <div class="col mt3 ml3 mr3 d-mt15 d-mr15 d-ml15 col-onethird">
-    <a class="CenterText" href="/">Back to all options</a>
     <h1 class="Display1 mb3 mt3">{{ page.title }}</h1>
     {{ content }}
-    <div class="Divider ShowMobile op20 mt1"></div>
-  </div>
-  <div class="col mt3 ml3 mr3 d-mt15 d-mr15 d-ml15 col-twothirds">
+    <div class="Divider op20 mb5"></div>
     <!-- Pre-Tock Popup -->
     {% if page.title == 'Family Meal' %}
       {% assign order_type = "familymeal" %}
@@ -87,28 +90,57 @@
                   <a
                     class="Caption NoLine color-tock-blue m2"
                     target="_blank"
-                    href="https://www.exploretock.com/canlis/waitlist?experienceId={{ item.experience_id }}"
+                    href="https://www.exploretock.com/canlis/waitlist?experienceId={{ item.delivery_id }}"
                   >
                     Join Waitlist
                   </a>
                 </div>
               </div>
               {% else %}
-              <div class="mb4 mt3">
-                <a
-                onclick="gtag("event", "Click", {
-                  "event_category": "Family Meal",
-                  "event_label": "Clicked Meal for 2 - {{ item.title }}",
-                  "value": "XXXXX"
-                })"
-                class="TockButton TockButtonLocal mt3 mb4 OrderLink"
-                data-link="https://exploretock.com/canlis/experience/{{ item.experience_id }}/"
-                data-order-type="{{ order_type }}"
-                data-order-msg="{{ order_msg.body }}"
-                >
-                  Order on Tock
-                </a>
-              </div>
+                <div class="OrderButtons flex">
+                  {% if item.experience_id %}
+                    <div class="mb4 mr1">
+                      <a
+                      class="TockButton TockButtonLocal mt3 mb4 OrderLink"
+                      data-link="https://exploretock.com/canlis/experience/{{ item.experience_id }}/"
+                      href="https://exploretock.com/canlis/experience/{{ item.experience_id }}/"
+                      target="_blank"
+                      data-order-type="{{ order_type }}"
+                      data-order-msg="{{ order_msg.body }}"
+                      >
+                        Order on Tock
+                      </a>
+                    </div>
+                  {% endif %}
+                  {% if item.delivery_id %}
+                    <div class="mb4 mr1">
+                      <a
+                      class="TockButton TockButtonLocal mt3 mb4 OrderLink"
+                      data-link="https://exploretock.com/canlis/experience/{{ item.delivery_id }}/"
+                      href="https://exploretock.com/canlis/experience/{{ item.delivery_id }}/"
+                      target="_blank"
+                      data-order-type="{{ order_type }}"
+                      data-order-msg="{{ order_msg.body }}"
+                      >
+                        Delivery
+                      </a>
+                    </div>
+                  {% endif %}
+                  {% if item.pickup_id %}
+                    <div class="mb4">
+                      <a
+                      class="TockButton TockButtonLocal mt3 mb4 OrderLink"
+                      data-link="https://exploretock.com/canlis/experience/{{ item.pickup_id }}/"
+                      href="https://exploretock.com/canlis/experience/{{ item.pickup_id }}/"
+                      target="_blank"
+                      data-order-type="{{ order_type }}"
+                      data-order-msg="{{ order_msg.body }}"
+                      >
+                        Pickup
+                      </a>
+                    </div>
+                  {% endif %}
+                </div>
               {% endif %} <!-- end is_soldout -->
               {% else %}
               <p class="color-tock-blue mt0 mb2 p0">{{ page.live_notice }}</p>
