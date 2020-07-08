@@ -20,8 +20,8 @@ menu:
 - title: Dungeness Crab Cakes
   date: 2020-07-10 00:00:00 -07:00
   experience_id: 159189
-  delivery_id:
-  pickup_id:
+  delivery_id: 
+  pickup_id: 
   desc: |2-
      Main Dish:<br> Dungeness Crab Cakes with Spicy Remoulade<br><br>
     Side Dishes:<br> Alaskan Spot Prawns with Cocktail Sauce<br> Grilled Summer Corn with Miso Butter, Old Bay, and Herbs<br> Canlis Salad<br> Garlic and Herb Sourdough Rolls<br><br>
@@ -32,8 +32,8 @@ menu:
 - title: The Weekender
   date: 2020-07-10 00:00:00 -07:00
   experience_id: 159192
-  delivery_id:
-  pickup_id:
+  delivery_id: 
+  pickup_id: 
   desc: "Get a meal planning head start with the best ingredients we can get our hands
     on, perfect for a weekend of brunches, bbq's, and outdoor eating.  Complete with
     official \"what would my brother make with this stuff\" suggestions for the home
@@ -51,7 +51,7 @@ menu:
   is_live: true
 - title: Slow Cooked Pork Enchilada Verde
   date: 2020-07-14 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 161603
   pickup_id: 161627
   desc: |-
@@ -63,7 +63,7 @@ menu:
   is_live: true
 - title: Pan-Fried Copper River Sockeye Salmon Cakes
   date: 2020-07-15 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 161604
   pickup_id: 161631
   desc: |-
@@ -75,7 +75,7 @@ menu:
   is_live: true
 - title: Wagyu Beef Short Rib Lasagna
   date: 2020-07-16 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 161606
   pickup_id: 161635
   desc: |-
@@ -87,7 +87,7 @@ menu:
   is_live: true
 - title: Spinach and Roasted Tomato Lasagna
   date: 2020-07-16 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 161612
   pickup_id: 161638
   desc: |-
@@ -99,7 +99,7 @@ menu:
   is_live: true
 - title: 'The Weekender '
   date: 2020-07-17 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 159192
   pickup_id: 161655
   desc: "Enough food for two dinners and two breakfasts<br><br> \nFor Dinner:<br>
@@ -118,7 +118,7 @@ menu:
   is_live: true
 - title: Grilled Dry-Aged NY Strip Steaks
   date: 2020-07-18 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 161615
   pickup_id: 161642
   desc: |-
