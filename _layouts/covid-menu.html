@@ -165,42 +165,37 @@
                         — {{ nestedproduct.volume }}
                       {% endif %}
                     </div>
-
-                    {% if nestedproduct.experience_id %}
-                      <div class="p0 mt0 mb1">{{ nestedproduct.price }}</div>
-                      {% if nestedproduct.is_soldout == true %}
-                        <div class="flex mt3 mb4 SoldOut">
-                          <div class="col">
-                            <a class="TockButton TockButtonSoldOut op20">
-                                Sold Out
-                            </a>
-                          </div>
-                          <div class="col col-twothirds">
+                    <div class="p0 mt0 mb2 d-mb3">{{ nestedproduct.price }}</div>
+                      <div class="mt3 flex">
+                        {% if nestedproduct.delivery_id %}
+                          <div class="mb4 mr1">
                             <a
-                              class="Caption NoLine color-tock-blue m2"
-                              target="_blank"
-                              href="https://www.exploretock.com/canlis/waitlist?experienceId={{ nestedproduct.experience_id }}"
+                            class="TockButton TockButtonLocal mt3 mb4 OrderLink"
+                            data-link="https://exploretock.com/canlis/experience/{{ nestedproduct.delivery_id }}/"
+                            href="https://exploretock.com/canlis/experience/{{ nestedproduct.delivery_id }}/"
+                            target="_blank"
+                            data-order-type="{{ order_type }}"
+                            data-order-msg="{{ order_msg.body }}"
                             >
-                              Join Waitlist
+                              Delivery
                             </a>
                           </div>
-                        </div>
-                        {% else %}
-                        <div class="mb4 mt3">
-                          <a
-                          class="TockButton mt3 mb4 OrderLink"
-                          href="https://exploretock.com/canlis/experience/{{ nestedproduct.experience_id }}/"
-                          target="_blank"
-                          data-order-type="{{ order_type }}"
-                          data-order-msg="{{ order_msg.body }}"
-                          >
-                            Order
-                          </a>
-                        </div>
-                      {% endif %}
-                      {% else %}
-                      <div class="p0 mt0 mb2 d-mb3">{{ nestedproduct.price }}</div>
-                    {% endif %}
+                        {% endif %}
+                        {% if nestedproduct.pickup_id %}
+                          <div class="mb4">
+                            <a
+                            class="TockButton TockButtonLocal mt3 mb4 OrderLink"
+                            data-link="https://exploretock.com/canlis/experience/{{ nestedproduct.pickup_id }}/"
+                            href="https://exploretock.com/canlis/experience/{{ nestedproduct.pickup_id }}/"
+                            target="_blank"
+                            data-order-type="{{ order_type }}"
+                            data-order-msg="{{ order_msg.body }}"
+                            >
+                              Pickup
+                            </a>
+                          </div>
+                        {% endif %}
+                      </div>
                     <div class="Divider op20 mb2 d-mb0"></div>
                 </div>
               {% endfor %}
