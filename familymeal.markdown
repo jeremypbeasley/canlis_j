@@ -27,7 +27,7 @@ menu:
     Side Dishes:<br> Alaskan Spot Prawns with Cocktail Sauce<br> Grilled Summer Corn with Miso Butter, Old Bay, and Herbs<br> Canlis Salad<br> Garlic and Herb Sourdough Rolls<br><br>
     Dessert:<br> Chocolate Pound Cake with Theo Cocoa Nibs
   price: "$54 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: The Weekender
   date: 2020-07-10 00:00:00 -07:00
@@ -47,7 +47,7 @@ menu:
     Housemade Granola and 1 Jar of Samish Bay Greek Yogurt<br> 1 lb. of Breakfast
     Sausage"
   price: "$165"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Slow Cooked Pork Enchilada Verde
   date: 2020-07-14 00:00:00 -07:00
@@ -59,7 +59,7 @@ menu:
     Side Dishes:<br> Stewed Black Beans and Roasted Poblano Peppers<br> Spanish-Style Rice with Roasted Tomato and Garlic<br> Canlis Salad<br> Farm Petite Lettuce Salad with Shallot, Radish, Herbs, and a Lime Citronette<br><br>
     Dessert:<br> Tres Leches Cake
   price: "$38 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Pan-Fried Copper River Sockeye Salmon Cakes
   date: 2020-07-15 00:00:00 -07:00
@@ -83,7 +83,7 @@ menu:
     Side Dishes:<br> Roasted Eggplant Caponata<br> Canlis Salad<br> Sourdough Parker House Rolls<br><br>
     Dessert:<br> Caramel Budino
   price: "$44 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Spinach and Roasted Tomato Lasagna
   date: 2020-07-16 00:00:00 -07:00

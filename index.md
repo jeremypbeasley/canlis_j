@@ -12,11 +12,12 @@ concepts:
     link: "/familymeal"
 - title: The Crab Shack
   image: "/uploads/crabby.jpg"
-  desc: 'An outdoor restaurant in our parking lot featuring buckets of crab and copious amounts of hand sanitizer.'
-  block_link: "http://canliscrabshack.com"
+  desc: An outdoor restaurant in our parking lot featuring buckets of crab and copious
+    amounts of hand sanitizer.
+  block_link: http://canliscrabshack.com
   buttons:
   - label: Buy Tickets
-    link: "http://canliscrabshack.com"
+    link: http://canliscrabshack.com
 - title: Piano
   image: "/uploads/canlis_concept_piano.jpg"
   desc: "“Livestreaming the smooth sounds of the city’s finest dining room…”  - Seattle
@@ -35,3 +36,4 @@ concepts:
     link: https://canlisgeneralstore.squarespace.com/
 layout: covid-home
 ---
+
