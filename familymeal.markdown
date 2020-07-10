@@ -71,7 +71,7 @@ menu:
     Side Dishes:<br> Canlis Salad<br> Caramelized Garlic Mashed Potatoes<br> Grilled Summer Corn with Togarashi and Miso Butter<br> Sourdough Parker House Rolls<br><br>
     Dessert:<br> Raspberry Oat Crumble
   price: "$52 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: Wagyu Beef Short Rib Lasagna
   date: 2020-07-16 00:00:00 -07:00
@@ -95,7 +95,7 @@ menu:
     Side Dishes:<br> Roasted Eggplant Caponata<br> Canlis Salad<br> Sourdough Parker House Rolls<br><br>
     Dessert:<br> Caramel Budino
   price: "$40 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
 - title: 'The Weekender '
   date: 2020-07-17 00:00:00 -07:00
