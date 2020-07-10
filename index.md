@@ -16,8 +16,10 @@ concepts:
     amounts of hand sanitizer.
   block_link: http://canliscrabshack.com
   buttons:
-  - label: Buy Tickets
+  - label: More info
     link: http://canliscrabshack.com
+  - label: Buy Tickets
+    link: https://www.exploretock.com/canliscrabshack
 - title: Piano
   image: "/uploads/canlis_concept_piano.jpg"
   desc: "“Livestreaming the smooth sounds of the city’s finest dining room…”  - Seattle
@@ -36,4 +38,3 @@ concepts:
     link: https://canlisgeneralstore.squarespace.com/
 layout: covid-home
 ---
-
