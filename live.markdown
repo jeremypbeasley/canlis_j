@@ -10,38 +10,32 @@ layout: events
 Here's what's happening each night in the Canlis Penthouse. Links to view each live event will be posted here at the time of the event.
 
 <div class="EventsButton mt1 mb10">
-  <a href="https://www.youtube.com/watch?v=5wNfGzuMSHk">
+  <a href="https://youtu.be/Q31S_Pu9kK0">
     Live on Youtube
   </a>
 </div>
 
 <div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
 
-<h2 class="Caption mt2 mb3">Monday, July 6th</h2>
-
-Live piano from 6:00-9:00PM by Jason Lux
-
-<div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
-
-<h2 class="Caption mt2 mb3">Tuesday, July 7th</h2>
-
-Live piano from 6:00-9:00PM by Lennon Aldort
-
-<div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
-
-<h2 class="Caption mt2 mb3">Wednesday, July 8th</h2>
-
-Live piano from 6:00-9:00PM by Lennon Aldort
-
-<div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
-
-<h2 class="Caption mt2 mb3">Thursday, July 9th</h2>
+<h2 class="Caption mt2 mb3">Tuesday, July 14th</h2>
 
 Live piano from 6:00-9:00PM by Jonas Myers
 
 <div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
 
-<h2 class="Caption mt2 mb3">Friday, July 10th</h2>
+<h2 class="Caption mt2 mb3">Wednesday, July 15th</h2>
+
+Live piano from 6:00-9:00PM by Jonas Myers
+
+<div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
+
+<h2 class="Caption mt2 mb3">Thursday, July 16th</h2>
+
+Live piano from 6:00-9:00PM by Kelsey Cate
+
+<div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
+
+<h2 class="Caption mt2 mb3">Saturday, July 18th</h2>
 
 Live piano from 6:00-9:00PM by Jason Lux
 
