@@ -30,8 +30,7 @@ concepts:
     link: "/live"
 - title: General Store
   image: "/uploads/canlis_concept_store.jpg"
-  desc: We’re selling merch to benefit Big Table. Sweatpants, t-shirts, coffee mugs,
-    etc.
+  desc: 'We’re selling merch: sweatpants, t-shirts, coffee mugs, etc.'
   block_link: https://canlisgeneralstore.squarespace.com/
   buttons:
   - label: Buy Merch

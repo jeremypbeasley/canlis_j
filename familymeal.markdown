@@ -7,144 +7,134 @@ og_desc: Mighty-fine meals and more from Canlis to your doorstep, all with zero 
 og_photo: "/uploads/canlis_concept_familymeal.jpg"
 live_notice: This experience will go live Wednesday at 1:00PM PST
 menu:
-- title: Pan-Fried Copper River Sockeye Salmon Cakes
-  date: 2020-07-15 00:00:00 -07:00
+- title: Homemade Vegetarian Lasagna
+  date: 2020-07-29 00:00:00 -07:00
   experience_id: 
-  delivery_id: 161604
-  pickup_id: 161631
+  delivery_id: 167132
+  pickup_id: 167150
   desc: |-
-    Main Dish:<br> Southern-Style Pan-Fried Copper River Sockeye Salmon Cakes served with Spicy Remoulade<br><br>
-    Side Dishes:<br> Canlis Salad<br> Caramelized Garlic Mashed Potatoes<br> Grilled Summer Corn with Togarashi and Miso Butter<br> Sourdough Parker House Rolls<br><br>
-    Dessert:<br> Raspberry Oat Crumble
-  price: "$52 per person"
-  is_soldout: true
-  is_live: true
-- title: Wagyu Beef Short Rib Lasagna
-  date: 2020-07-16 00:00:00 -07:00
-  experience_id: 
-  delivery_id: 161606
-  pickup_id: 161635
-  desc: |-
-    Main Dish:<br> Layers of Homemade Pasta and Wagyu Short Rib Ragu, finished with Mozzarella, Basil, and Fiore Sardo<br><br>
-    Side Dishes:<br> Roasted Eggplant Caponata<br> Canlis Salad<br> Sourdough Parker House Rolls<br><br>
-    Dessert:<br> Caramel Budino
-  price: "$44 per person"
-  is_soldout: true
-  is_live: true
-- title: Spinach and Roasted Tomato Lasagna
-  date: 2020-07-16 00:00:00 -07:00
-  experience_id: 
-  delivery_id: 161612
-  pickup_id: 161638
-  desc: |-
-    Main Dish:<br> Layers of Homemade Pasta and Spinach and Tomato Sauce, finished with Mozzarella, Basil, and Fiore Sardo<br><br>
-    Side Dishes:<br> Roasted Eggplant Caponata<br> Canlis Salad<br> Sourdough Parker House Rolls<br><br>
-    Dessert:<br> Caramel Budino
+    Main Dish:<br> Layers of Homemade Pasta, Tomato Sauce, Roasted Zucchini, and Spinach - Finished with Mozzarella, Basil, and Fiore Sardo<br><br>
+    Side Dishes:<br> Canlis Salad (no bacon)<br> Wood-Roasted Young Carrots with Basil and Pine Nut Pesto<br> Garlic and Herb Sourdough Rolls<br><br>
+    Dessert:<br> Brown Butter Hazelnut Chocolate Torte
   price: "$40 per person"
   is_soldout: true
   is_live: true
-- title: 'The Weekender '
-  date: 2020-07-17 00:00:00 -07:00
+- title: 'Slow-Cooked Pork Carnitas Posole '
+  date: 2020-07-30 00:00:00 -07:00
   experience_id: 
-  delivery_id: 161617
-  pickup_id: 161655
-  desc: "Enough food for two dinners and two breakfasts<br><br> \nFor Dinner:<br>
-    1 Fresh Whole Roaster Chicken<br> 4 portions (6 oz. each) Copper River King Salmon
-    (with Sake and Miso Marinade provided)<br> Ready to eat Pepper-Yubeshi BBQ Baked
-    Beans<br> Assorted Pickle Jar from the larder at the Canlis Research Kitchen<br>
-    Summer Produce: Broccoli, Zucchini, Carrots, Just-Picked Herbs, Sno-Valley Mushrooms,
-    Sugar Snap Peas, Green Garlic, Fresh Blackberries, and more!<br> Ready-to-bake
-    Dark Chocolate Chip and Sea Salt Cookie Dough<br> Bottle of 2019 Le Doubblé Troubblé
-    Grenache Rosé<br><br>\nFor Breakfast:<br> Tortilla Espanol (with recipe): 1 Dozen
-    Farm Fresh Eggs with Lay's Lightly Salted Potato Chips (Brady's Secret Ingredient),
-    Onions, and Avocado<br> Fresh Blueberry Scone Kit (with recipe)<br> 1 lb. of Housemade
-    Breakfast Sausage"
-  price: "$188"
-  is_soldout: false
-  is_live: true
-- title: Grilled Dry-Aged NY Strip Steaks
-  date: 2020-07-18 00:00:00 -07:00
-  experience_id: 
-  delivery_id: 161615
-  pickup_id: 161642
+  delivery_id: 167135
+  pickup_id: 167156
   desc: |-
-    Main Dish:<br> Applewood-Grilled Painted Hills Farm Dry Aged NY Strip Steak<br><br>
-    Side Dishes:<br> Twice Baked Potatoes<br> Canlis Salad<br> Marinated and Roasted Zucchini and Summer Squash<br> Roasted Rainier Cherry Au Jus<br><br>
-    Dessert:<br> Chocolate Pot de Creme
-  price: "$58 per person"
-  is_soldout: true
-  is_live: true
-- title: Applewood-Grilled Hanger Steak Fajitas
-  date: 2020-07-21 00:00:00 -07:00
-  experience_id: 
-  delivery_id: 164449
-  pickup_id: 164476
-  desc: |-
-    Main Dish:<br> Applewood-Grilled Hanger Steak with Roasted Spring Onions in Chimichurri<br><br>
-    Side Dishes:<br> Griddled Corn Tortillas<br> Summer Corn Elotes with Cilantro, Crema, and Lime<br> Roasted Padron Peppers and Yuzu, and Slow Roasted Pork Dripping Aioli<br> Simmered Black Beans and Poblano Peppers<br><br>
-    Dessert:<br> The Canlis Cupcake: Vanilla with Dark Chocolate Fudge Frosting
-  price: "$44 per person"
-  is_soldout: false
-  is_live: true
-- title: Washington Heritage Chicken Parmesan
-  date: 2020-07-22 00:00:00 -07:00
-  experience_id: 
-  delivery_id: 164451
-  pickup_id: 164477
-  desc: |-
-    Main Dish:<br> Chicken Parmesan finished with Roasted Tomato, Basil, and Parmesan<br><br>
-    Side Dishes:<br> Canlis Salad<br> Heirloom Tomato and Mozzarella di Bufala Caprese with Basil Pesto<br> Gigante Beans with Zucchini in Olive Oil and Caper Tapenade<br> Garlic and Herb Sourdough Rolls<br><br>
-    Dessert:<br> Cheesecake with House-Made Boysenberry and Lavender Jam
-  price: "$44 per person"
-  is_soldout: true
-  is_live: true
-- title: Eggplant Parmesan finished with Roasted Tomato, Basil, and Parmesan
-  date: 2020-07-22 00:00:00 -07:00
-  experience_id: 
-  delivery_id: 164458
-  pickup_id: 164483
-  desc: |-
-    Main Dish:<br> Eggplant Parmesan finished with Roasted Tomato, Basil, and Parmesan<br><br>
-    Side Dishes:<br> Canlis Salad (no bacon)<br> Heirloom Tomato and Mozzarella di Bufala Caprese with Basil Pesto<br> Gigante Beans with Zucchini in Olive Oil and Caper Tapenade<br> Garlic and Herb Sourdough Rolls<br><br>
-    Dessert:<br> Cheesecake with House-Made Boysenberry and Lavender Jam
+    Main Dish:<br> Slow-Roasted Olsen Farms Pork Shoulder Simmered in Roasted Poblano Peppers and Tomatillos with Cotija, Pickled Onions, Tortilla Strips, Cilantro, and Crema<br><br>
+    Side Dishes:<br> Simmered Black Beans with Peppers and Onions<br> Grilled Corn with Cilantro, Crema, and Lime<br> Baby Lettuces with Charred Avocado Vinaigrette, Easter Egg Radish, and Pumpkin Seeds<br><br>
+    Dessert:<br> Cinnamon Conchas with Whipped Goat Cheese and Red Cherries
   price: "$38 per person"
-  is_soldout: false
+  is_soldout: true
   is_live: true
-- title: Olsen Farms Pork Shoulder Bo Ssam
-  date: 2020-07-23 00:00:00 -07:00
+- title: Buttermilk Fried Chicken
+  date: 2020-08-01 00:00:00 -07:00
   experience_id: 
-  delivery_id: 164461
-  pickup_id: 164486
+  delivery_id: 167141
+  pickup_id: 167158
   desc: |-
-    Main Dish:<br> Soy and Mirin Glazed Pork Shoulder Bo Ssam with Hoisin and Bibb Lettuce Wraps<br><br>
-    Side Dishes:<br> Korean Chive and Garlic Pancakes<br> House-Made Daikon Kimchi<br> Vinegar-Braised Bok Choy, Kohlrabi, and Mushrooms<br> White Rice<br><br>
-    Dessert:<br> Coconut Mochi Cake
-  price: "$46 per person"
-  is_soldout: false
+    Main Dish:<br> Buttermilk Fried Chicken (1/2 Chicken per person)<br><br>
+    Side Dishes:<br> Tomato and Nectarine Salad with Schmaltz Vinaigrette<br> Yubeshi BBQ Baked Beans<br> Jalapeno Cornbread with Big Leaf Maple Butter<br><br>
+    Dessert:<br> Farm Fresh Summer Berry Cobbler
+  price: "$52 per person"
+  is_soldout: true
   is_live: true
+- title: Taco Tuesday - Sea Breeze Farms Duck Carnitas Tacos
+  date: 2020-08-04 00:00:00 -07:00
+  experience_id: 
+  delivery_id: 169040
+  pickup_id: 169057
+  desc: |-
+    Main Dish:<br> Slow-Roasted Duck Carnitas Tacos with Avocado, Cilantro, and Onion on Corn Tortillas<br><br>
+    Side Dishes:<br> Chips and Salsas - Homemade Tortilla Chips with Chile de Arbol Salsa (Spicy) and Roasted Tomatillo Salsa Verde (Mild)<br> Summered Black Beans with Blistered Poblano Peppers<br> Roasted Tomato and Garlic Spanish Rice<br> Elotes-Style Corn with Crema, Cilantro, Cotija, and Lime<br><br>
+    Dessert:<br> Alfajores (Dulce de Leche Sandwich Cookies)
+  price: "$40 per person"
+  is_soldout: false
+  is_live: false
+- title: Summer Vegetable Ratatouille
+  date: 2020-08-05 00:00:00 -07:00
+  experience_id: 
+  delivery_id: 169045
+  pickup_id: 169060
+  desc: |-
+    Main Dish:<br> Summer Vegetable Ratatouille - Squash, Eggplant, Tomato, Red Peppers and Garlic slow-roasted in our wood oven and finished with Basil, Thyme, and Marjoram<br><br>
+    Side Dishes:<br> Canlis Salad (no bacon)<br> Roasted Rosemary New Potatoes<br> Fresh Green Bean Salad with Shallots, Herbs, and Grenache Vinaigrette<br> Garlic and Herb Sourdough Rolls<br><br>
+    Dessert:<br> Honey Buckwheat Cake with Housemade Strawberry Jam
+  price: "$40 per person"
+  is_soldout: false
+  is_live: false
+- title: Heritage Chicken Tikka Masala
+  date: 2020-08-06 00:00:00 -07:00
+  experience_id: 
+  delivery_id: 169049
+  pickup_id: 169062
+  desc: |-
+    Main Dish:<br> Washington Heritage Chicken Thighs Slowly Simmered in a Spiced Masala Curry<br><br>
+    Side Dishes:<br> Saag Paneer - Spinach Stewed with Fried Paneer Cheese<br> Wood-Roasted Vadouvan Spiced Cauliflower with Yogurt and Mint Sauce<br> Sourdough Roti (Flatbread)<br> Turmeric Spiced Rice<br><br>
+    Dessert:<br> Gulab Jamun (Indian Milk Balls)
+  price: "$45 per person"
+  is_soldout: false
+  is_live: false
+- title: Applewood-Grilled Spot Prawn & Teriyaki Ribeye Skewers
+  date: 2020-08-08 00:00:00 -07:00
+  experience_id: 
+  delivery_id: 169051
+  pickup_id: 169063
+  desc: |-
+    Main Dish:<br> Applewood-Grilled Steak and Spot Prawn Skewers (1 large of each) loaded with Pineapple, Onions, and Shishito Peppers and Served with Teriyaki Glaze<br><br>
+    Side Dishes:<br> Old School Canlis Twice Baked Potatoes<br> Marinated Heirloom Tomatoes with Alliums, Fennel, and Blackberry Vinegar<br> Canlis Salad<br> Garlic and Herb Sourdough Rolls<br><br>
+    Dessert:<br> Tellicherry Peppercorn Pavlova with Yuzu Curd and Fresh Raspberries
+  price: "$64 per person"
+  is_soldout: false
+  is_live: false
 - title: The Weekender
-  date: 2020-07-24 00:00:00 -07:00
+  date: 2020-07-31 00:00:00 -07:00
   experience_id: 
-  delivery_id: 164460
-  pickup_id: 161655
-  desc: |-
-    For Dinner:<br> 2 each 45-day Dry-Aged Painted Hills Ribeye Steaks with Fresh Horseradish Sauce<br> 4 Housemade Bratwursts with Stoneground Mustard<br> Smoked Salmon and Green Garlic Miso Dip<br> Ready-to-eat Housemade Pasta Summer Salad with Salami and Olives<br> Fresh Produce: Spring Onions, Zucchini, Kohlrabi, Just-Picked Herbs, Sno-Valley Mushrooms, Fresh Berries, and more!<br> Ready-to-bake Dark Chocolate Chip and Sea Salt Cookie Dough<br> Bottle of 2018 Domaine de la Patience, Nemausa Rosé<br><br>
-    For Breakfast:<br> 1 Dozen Farm Fresh Eggs<br> Fresh Blueberry Pancake Kit with Maple Syrup<br> 1 lb. of Housemade Breakfast Sausage
+  delivery_id: 167138
+  pickup_id: 167148
+  desc: "Get a meal planning head start with a box of the best ingredients we can
+    get our hands on, perfect for a weekend of brunches, bbq's, and outdoor eating.
+    \ Complete with official \"what would my brother make with this stuff\" suggestions
+    for the home cook.<br><br> \nFor Dinner:<br> 2 each 45-day 12oz. Dry-Aged Painted
+    Hills Ribeye Steaks with Spring Onion Chimichurri<br> 2 each Heritage Pork Chops
+    with Montreal Seasoning and Apricot-Mustard Sauce<br> Smoked Salmon and Green
+    Garlic Miso Dip<br> Pickles from the Canlis Research Kitchen Larder<br> Fresh
+    Produce: Spring Onions, Peppers, Kohlrabi, Just-Picked Herbs, Sno-Valley Mushrooms,
+    and more!<br> Ready-to-bake Dark Chocolate Chip and Sea Salt Cookie Dough<br>
+    Bottle of 2018 Domaine de la Patience, Nemausa Rosé<br><br>\nFor Breakfast:<br>
+    Summer Frittata Kit (with recipe) with 1 Dozen Farm Fresh Eggs, Summer Squash,
+    Tieton Farms Goat Cheese and Basil<br> 1 lb of Housemade Breakfast Sausage<br>
+    Fresh Berries & Cherries<br> Samish Bay Yogurt<br><br>\n***Please note that this
+    is a weekend kit, and not a prepared meal***"
   price: "$175"
   is_soldout: false
   is_live: true
-- title: Miso Glazed Copper River King Salmon
-  date: 2020-07-25 00:00:00 -07:00
+- title: The Weekender
+  date: 2020-08-07 00:00:00 -07:00
   experience_id: 
-  delivery_id: 164462
-  pickup_id: 164489
-  desc: |-
-    Main Dish:<br> Copper River King Salmon Marinated in Chickpea Miso and Grilled over Applewood<br><br>
-    Side Dishes:<br> Canlis Salad<br> Black Truffle Mashed Potatoes<br> Grilled Maitake Mushrooms Finished with Seaweed Vinegar<br> Sourdough Rolls<br><br>
-    Dessert:<br> Spiced Carrot Cake with Cream Cheese Frosting
-  price: "$62 per person"
+  delivery_id: 169053
+  pickup_id: 169590
+  desc: "Get a meal planning head start with a box of the best ingredients we can
+    get our hands on, perfect for a weekend of brunches, bbq's, and outdoor eating.
+    \ Complete with official \"what would my brother make with this stuff\" suggestions
+    for the home cook.<br><br> \nFor Dinner:<br> 4 ea. 30-Day Dry-Aged Painted Hills
+    NY Strip Steaks with Housemade Montreal Steak Rub<br> 4 ea. Ready-To-Pan-Fry Dungeness
+    Crab Cakes with Spicy Remoulade (with instructions)<br> Smoked Salmon and Green
+    Garlic Miso Dip<br> Pickles from the Canlis Research Kitchen Larder<br> Fresh
+    Produce: Spring Onions, Sweet Corn, Peppers, Kohlrabi, Just-Picked Herbs, Sno-Valley
+    Mushrooms, and more!<br> Ready-to-bake Double Chocolate Cherry Cookie Dough<br>
+    Bottle of 2019 Isenhower, Cabernet Franc Rosé, Walla Walla Valley<br><br>\nFor
+    Breakfast:<br> 1 Dozen Fram Fresh Eggs<br> 1 lb of Housemade Breakfast Chorizo
+    Sausage<br> 1 lb of Homestyle Potato Kit with New Potatoes with Garlic, Peppers,
+    and Herbs (with Recipe)<br> Samish Bay Yogurt with Fresh Summer Berries and Cherries<br><br>\n***Please
+    note that this is a weekend kit, and not a prepared meal***"
+  price: "$215"
   is_soldout: false
-  is_live: true
+  is_live: false
 drinks:
 - drink-category: 'Cocktail Kits '
   drinks:
