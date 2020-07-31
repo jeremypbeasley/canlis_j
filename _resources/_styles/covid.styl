@@ -25,13 +25,17 @@
 
 .TockButton {
   border: 1px solid color-black;
-  background-color: color-black;
+  background-color: transparent;
   padding: 12px 15px;
-  border-radius: 4px;
+  border-radius: 40px;
   text-align: center;
-  color: white;
+  color: black;
   transition: all 200ms ease-out;
   font-family: typeface-tertiary;
+  &:hover {
+    background-color: black;
+    color: white;
+  }
 }
 
 .TockButton::before {
@@ -161,4 +165,9 @@
   100% {
     transform: rotate(365deg);
   }
+}
+
+.menuItem {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 3px;
 }

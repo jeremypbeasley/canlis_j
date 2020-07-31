@@ -11,22 +11,24 @@
     <h1 class="Display1 mb3 mt3">{{ page.title }}</h1>
     {{ content }}
     <div class="mb2 contents">
-      <div class="Divider op20 mb2 d-mb0"></div>
       {% for category in page.menu %}
-        <p class="DrinkCategory Caption mb2 d-mb5 mt1 d-mt8">{{ category.menu-category-title }}</p>
+        <h2 class="DrinkCategory Caption mb2 d-mb2 mt1 d-mt10">{{ category.menu-category-title }}</h2>
+        <!-- <div class="Divider op20 mb2 mt2"></div> -->
         <!-- if the category has items in it -->
         {% if category.menu-items %}
           {% for item in category.menu-items %}
+          <div class="menuItem p4 pb5 mb1">
+          <!-- <div class="Divider op20 mb2"></div> -->
             {% if item.date %}
               {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
               {% capture date %}{{item.date | date: '%s'}}{% endcapture %}
               <!-- family meals, boxes, and things that have dates -->
               <!-- only display items that past today's date -->
               {% if date > now %}
-                <!-- Get the date -->
+                <!-- get the date -->
                 {% capture day %}{{ item.date | date: "%-d" }}{% endcapture %}
                 {% capture dayLastTwoDigits %}{{ day | modulo: 100 }}{% endcapture %}
-                <!-- Determine the suffix -->
+                <!-- determine the suffix -->
                 {% if dayLastTwoDigits >= "11" and dayLastTwoDigits <= "13" %}
                   {% assign ordinal = "th" %}
                 {% else %}
@@ -43,19 +45,91 @@
                   {% endcase %}
                 {% endif %}
                 {% capture ordinalDay %}{{ day | append: ordinal }}{% endcapture %}
-                <!-- Display the date -->
-                <div class="p0 mt0 mb1"><i>{{ item.date | date: "%A, %B" }} {{ ordinalDay }} </i></div>
-                <h2 class="p0 mt0 mb1 Display2">{{ item.title }}</h2>
-                <div class="p0 mt0 mb4">{{ item.price }}</div>
+                <!-- display the date -->
+                <div class="p0 mt2 mb2 Display2">{{ item.title }}</div>
+                <div class="p0 mt0 mb1 op60 typeface-tertiary">{{ item.date | date: "%A, %B" }} {{ ordinalDay }}</div>
+                <div class="p0 mt0 mb4 typeface-tertiary">{{ item.price }}</div>
               {% endif %} <!-- if date > now  -->
               {% else %}
                 <!-- cocktail kits, wine, etc. -->
                 <h2 class="p0 mt0 mb1 Display2">{{ item.title }}</h2>
                 <div class="p0 mt0 mb4">{{ item.price }}</div>
             {% endif %} <!-- if date -->
+            <!-- purchase buttons -->
+            {% if item.desc %}
+              <p>{{ item.desc }}</p>
+            {% endif %} <!-- if item.desc -->
+            {% if item.is_live == true %}
+              {% if item.is_soldout == true %}
+              <div class="flex mt3 SoldOut">
+                <div class="col">
+                  <a class="TockButton TockButtonSoldOut op20">
+                      Sold Out
+                  </a>
+                </div>
+                <div class="col col-twothirds">
+                  <a
+                    class="Caption NoLine color-tock-blue m2"
+                    target="_blank"
+                    href="https://www.exploretock.com/canlis/waitlist?experienceId={{ item.delivery_id }}"
+                  >
+                    Join Waitlist
+                  </a>
+                </div>
+              </div>
+              {% else %}
+                <div class="OrderButtons flex">
+                  {% if item.experience_id %}
+                    <div class="mr1">
+                      <a
+                      class="TockButton TockButtonLocal mt3 mb4 OrderLink"
+                      data-link="https://exploretock.com/canlis/experience/{{ item.experience_id }}/"
+                      href="https://exploretock.com/canlis/experience/{{ item.experience_id }}/"
+                      target="_blank"
+                      data-order-type="{{ order_type }}"
+                      data-order-msg="{{ order_msg.body }}"
+                      >
+                        Order
+                      </a>
+                    </div>
+                  {% endif %}
+                  {% if item.delivery_id %}
+                    <div class="mr1">
+                      <a
+                      class="TockButton TockButtonLocal mt3 mb4 OrderLink"
+                      data-link="https://exploretock.com/canlis/experience/{{ item.delivery_id }}/"
+                      href="https://exploretock.com/canlis/experience/{{ item.delivery_id }}/"
+                      target="_blank"
+                      data-order-type="{{ order_type }}"
+                      data-order-msg="{{ order_msg.body }}"
+                      >
+                        Delivery
+                      </a>
+                    </div>
+                  {% endif %}
+                  {% if item.pickup_id %}
+                    <div class="">
+                      <a
+                      class="TockButton TockButtonLocal mt3 mb4 OrderLink"
+                      data-link="https://exploretock.com/canlis/experience/{{ item.pickup_id }}/"
+                      href="https://exploretock.com/canlis/experience/{{ item.pickup_id }}/"
+                      target="_blank"
+                      data-order-type="{{ order_type }}"
+                      data-order-msg="{{ order_msg.body }}"
+                      >
+                        Pickup
+                      </a>
+                    </div>
+                  {% endif %}
+                </div>
+              {% endif %} <!-- end is_soldout -->
+              {% else %}
+              <p class="color-tock-blue mt0 mb2 p0">{{ page.live_notice }}</p>
+            {% endif %} <!-- end is_live -->
+            </div>
           {% endfor %} <!-- item in category.menu-items -->
         {% endif %} <!-- if category.menu-items -->
-        <div class="Divider op20"></div>
+        <!-- <div class="Divider op20"></div> -->
       {% endfor %} <!-- for category in page.menu -->
     </div>
   </div>

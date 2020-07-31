@@ -10,14 +10,11 @@ menu:
 - menu-category-title: 'Dinners'
   menu-items:
   - title: Buttermilk Fried Chicken
-    date: 2020-08-01 00:00:00 -07:00
+    date: 2020-07-31 00:00:00 -07:00
     experience_id:
     delivery_id: 167141
     pickup_id: 167158
-    desc: |-
-      Main Dish:<br> Buttermilk Fried Chicken (1/2 Chicken per person)<br><br>
-      Side Dishes:<br> Tomato and Nectarine Salad with Schmaltz Vinaigrette<br> Yubeshi BBQ Baked Beans<br> Jalapeno Cornbread with Big Leaf Maple Butter<br><br>
-      Dessert:<br> Farm Fresh Summer Berry Cobbler
+    desc:
     price: "$52 per person"
     is_soldout: true
     is_live: true
@@ -26,10 +23,7 @@ menu:
     experience_id:
     delivery_id: 169040
     pickup_id: 169057
-    desc: |-
-      Main Dish:<br> Slow-Roasted Duck Carnitas Tacos with Avocado, Cilantro, and Onion on Corn Tortillas<br><br>
-      Side Dishes:<br> Chips and Salsas - Homemade Tortilla Chips with Chile de Arbol Salsa (Spicy) and Roasted Tomatillo Salsa Verde (Mild)<br> Summered Black Beans with Blistered Poblano Peppers<br> Roasted Tomato and Garlic Spanish Rice<br> Elotes-Style Corn with Crema, Cilantro, Cotija, and Lime<br><br>
-      Dessert:<br> Alfajores (Dulce de Leche Sandwich Cookies)
+    desc:
     price: "$40 per person"
     is_soldout: false
     is_live: true
@@ -38,10 +32,7 @@ menu:
     experience_id:
     delivery_id: 169045
     pickup_id: 169060
-    desc: |-
-      Main Dish:<br> Summer Vegetable Ratatouille - Squash, Eggplant, Tomato, Red Peppers and Garlic slow-roasted in our wood oven and finished with Basil, Thyme, and Marjoram<br><br>
-      Side Dishes:<br> Canlis Salad (no bacon)<br> Roasted Rosemary New Potatoes<br> Fresh Green Bean Salad with Shallots, Herbs, and Grenache Vinaigrette<br> Garlic and Herb Sourdough Rolls<br><br>
-      Dessert:<br> Honey Buckwheat Cake with Housemade Strawberry Jam
+    desc:
     price: "$40 per person"
     is_soldout: false
     is_live: true
@@ -50,10 +41,7 @@ menu:
     experience_id:
     delivery_id: 169049
     pickup_id: 169062
-    desc: |-
-      Main Dish:<br> Washington Heritage Chicken Thighs Slowly Simmered in a Spiced Masala Curry<br><br>
-      Side Dishes:<br> Saag Paneer - Spinach Stewed with Fried Paneer Cheese<br> Wood-Roasted Vadouvan Spiced Cauliflower with Yogurt and Mint Sauce<br> Sourdough Roti (Flatbread)<br> Turmeric Spiced Rice<br><br>
-      Dessert:<br> Gulab Jamun (Indian Milk Balls)
+    desc:
     price: "$45 per person"
     is_soldout: false
     is_live: true
@@ -62,10 +50,7 @@ menu:
     experience_id:
     delivery_id: 169051
     pickup_id: 169063
-    desc: |-
-      Main Dish:<br> Applewood-Grilled Steak and Spot Prawn Skewers (1 large of each) loaded with Pineapple, Onions, and Shishito Peppers and Served with Teriyaki Glaze<br><br>
-      Side Dishes:<br> Old School Canlis Twice Baked Potatoes<br> Marinated Heirloom Tomatoes with Alliums, Fennel, and Blackberry Vinegar<br> Canlis Salad<br> Garlic and Herb Sourdough Rolls<br><br>
-      Dessert:<br> Tellicherry Peppercorn Pavlova with Yuzu Curd and Fresh Raspberries
+    desc:
     price: "$64 per person"
     is_soldout: false
     is_live: true
@@ -76,20 +61,7 @@ menu:
     experience_id:
     delivery_id: 169053
     pickup_id: 169590
-    desc: "Get a meal planning head start with a box of the best ingredients we can
-      get our hands on, perfect for a weekend of brunches, bbq's, and outdoor eating.
-      \ Complete with official \"what would my brother make with this stuff\" suggestions
-      for the home cook.<br><br> \nFor Dinner:<br> 4 ea. 30-Day Dry-Aged Painted Hills
-      NY Strip Steaks with Housemade Montreal Steak Rub<br> 4 ea. Ready-To-Pan-Fry Dungeness
-      Crab Cakes with Spicy Remoulade (with instructions)<br> Smoked Salmon and Green
-      Garlic Miso Dip<br> Pickles from the Canlis Research Kitchen Larder<br> Fresh
-      Produce: Spring Onions, Sweet Corn, Peppers, Kohlrabi, Just-Picked Herbs, Sno-Valley
-      Mushrooms, and more!<br> Ready-to-bake Double Chocolate Cherry Cookie Dough<br>
-      Bottle of 2019 Isenhower, Cabernet Franc Rosé, Walla Walla Valley<br><br>\nFor
-      Breakfast:<br> 1 Dozen Fram Fresh Eggs<br> 1 lb of Housemade Breakfast Chorizo
-      Sausage<br> 1 lb of Homestyle Potato Kit with New Potatoes with Garlic, Peppers,
-      and Herbs (with Recipe)<br> Samish Bay Yogurt with Fresh Summer Berries and Cherries<br><br>\n***Please
-      note that this is a weekend kit, and not a prepared meal***"
+    desc: "Get a meal planning head start with a box of the best ingredients we can get our hands on, perfect for a weekend of brunches, bbq's, and outdoor eating."
     price: "$215"
     is_soldout: false
     is_live: true
