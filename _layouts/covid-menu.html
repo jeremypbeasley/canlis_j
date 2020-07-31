@@ -10,24 +10,16 @@
   <div class="col mt3 ml3 mr3 d-mt15 d-mr15 d-ml15 col-onethird">
     <h1 class="Display1 mb3 mt3">{{ page.title }}</h1>
     {{ content }}
-    <div class="Divider op20 mb5"></div>
-    <!-- Pre-Tock Popup -->
-    {% if page.title == 'Family Meal' %}
-      {% assign order_type = "familymeal" %}
-      {% assign order_msg = site.pages | where: "slug", "popup-delivery" | first %}
-    {% endif %}
-    {% if page.title == 'Community Support Agriculture Boxes' %}
-      {% assign order_type = "csa" %}
-      {% assign order_msg = site.pages | where: "slug", "popup-csa" | first %}
-    {% endif %}
-    <!-- Loop through items -->
-    {% for item in page.menu %}
-        {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
-        {% capture date %}{{item.date | date: '%s'}}{% endcapture %}
-        {% if date > now %}
-          <div class="d-mt0 d-mb3 d-mr0 d-ml0 MenuItem">
-            {% if item.title %}
-              <!-- This block exists for Family Meal which do have titles -->
+    <div class="mb2 contents">
+      {% for category in page.menu %}
+        <p class="DrinkCategory Caption mb2 d-mb5 mt1 d-mt8">{{ category.menu-category-title }}</p>
+        <!-- if the category has items in it -->
+        {% if category.menu-items %}
+          {% for item in category.menu-items %}
+            <!-- only display items that past today's date -->
+            {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+            {% capture date %}{{item.date | date: '%s'}}{% endcapture %}
+            {% if date > now %}
               <!-- Get the date -->
               {% capture day %}{{ item.date | date: "%-d" }}{% endcapture %}
               {% capture dayLastTwoDigits %}{{ day | modulo: 100 }}{% endcapture %}
@@ -51,156 +43,25 @@
               <!-- Display the date -->
               <div class="p0 mt0 mb1"><i>{{ item.date | date: "%A, %B" }} {{ ordinalDay }} </i></div>
               <h2 class="p0 mt0 mb1 Display2">{{ item.title }}</h2>
-            {% else %}
-              <!-- This block exists for CSA, which don't have titles -->
-              <!-- Get the date -->
-              {% capture day %}{{ item.date | date: "%-d" }}{% endcapture %}
-              {% capture dayLastTwoDigits %}{{ day | modulo: 100 }}{% endcapture %}
-              <!-- Determine the suffix -->
-              {% if dayLastTwoDigits >= "11" and dayLastTwoDigits <= "13" %}
-                  {% assign ordinal = "th" %}
-              {% else %}
-                  {% capture dayLastDigit %}{{ day | modulo: 10 }}{% endcapture %}
-                  {% case dayLastDigit %}
-                      {% when "1" %}
-                          {% assign ordinal = "st" %}
-                      {% when "2" %}
-                          {% assign ordinal = "nd" %}
-                      {% when "3" %}
-                          {% assign ordinal = "rd" %}
-                      {% else %}
-                          {% assign ordinal = "th" %}
-                  {% endcase %}
-              {% endif %}
               {% capture ordinalDay %}{{ day | append: ordinal }}{% endcapture %}
               <!-- Display the date -->
               <h2 class="p0 mt0 mb1 Display2">{{ item.date | date: "%A, %B" }} {{ ordinalDay }}</h2>
-            {% endif %}
-            <div class="p0 mt0 mb4">{{ item.price }}</div>
-            <div class="p0 mt0 mb0">{{ item.desc | markdownify }}</div>
-            {% if item.is_live == true %}
-              {% if item.is_soldout == true %}
-              <div class="flex mt3 mb4 SoldOut">
-                <div class="col">
-                  <a class="TockButton TockButtonSoldOut op20">
-                      Sold Out
-                  </a>
-                </div>
-                <div class="col col-twothirds">
-                  <a
-                    class="Caption NoLine color-tock-blue m2"
-                    target="_blank"
-                    href="https://www.exploretock.com/canlis/waitlist?experienceId={{ item.delivery_id }}"
-                  >
-                    Join Waitlist
-                  </a>
-                </div>
-              </div>
+              {% endif %}
+              <div class="p0 mt0 mb4">{{ item.price }}</div>
+              <!-- <div class="p0 mt0 mb0">{{ item.desc | markdownify }}</div> -->
+              {% if item.is_live == true %}
+                <p>it's live</p>
+                {% if item.is_soldout == true %}
+                  it's sold out
+                {% else %}
+                  it's not sold out
+                {% endif %}
               {% else %}
-                <div class="OrderButtons flex">
-                  {% if item.experience_id %}
-                    <div class="mb4 mr1">
-                      <a
-                      class="TockButton TockButtonLocal mt3 mb4 OrderLink"
-                      data-link="https://exploretock.com/canlis/experience/{{ item.experience_id }}/"
-                      href="https://exploretock.com/canlis/experience/{{ item.experience_id }}/"
-                      target="_blank"
-                      data-order-type="{{ order_type }}"
-                      data-order-msg="{{ order_msg.body }}"
-                      >
-                        Order
-                      </a>
-                    </div>
-                  {% endif %}
-                  {% if item.delivery_id %}
-                    <div class="mb4 mr1">
-                      <a
-                      class="TockButton TockButtonLocal mt3 mb4 OrderLink"
-                      data-link="https://exploretock.com/canlis/experience/{{ item.delivery_id }}/"
-                      href="https://exploretock.com/canlis/experience/{{ item.delivery_id }}/"
-                      target="_blank"
-                      data-order-type="{{ order_type }}"
-                      data-order-msg="{{ order_msg.body }}"
-                      >
-                        Delivery
-                      </a>
-                    </div>
-                  {% endif %}
-                  {% if item.pickup_id %}
-                    <div class="mb4">
-                      <a
-                      class="TockButton TockButtonLocal mt3 mb4 OrderLink"
-                      data-link="https://exploretock.com/canlis/experience/{{ item.pickup_id }}/"
-                      href="https://exploretock.com/canlis/experience/{{ item.pickup_id }}/"
-                      target="_blank"
-                      data-order-type="{{ order_type }}"
-                      data-order-msg="{{ order_msg.body }}"
-                      >
-                        Pickup
-                      </a>
-                    </div>
-                  {% endif %}
-                </div>
-              {% endif %} <!-- end is_soldout -->
-              {% else %}
-              <p class="color-tock-blue mt0 mb2 p0">{{ page.live_notice }}</p>
-            {% endif %} <!-- end is_live -->
-            <div class="Divider op20 mb3 d-mb0"></div>
-          </div>
+                <p>it's NOT live</p>
+              {% endif %} <!-- end is_live -->
+          {% endfor %}
         {% endif %}
-        {% else % }
-        <!-- Prompt for when day has passed. -->
-    {% endfor %}
-    {% endfor %}
-    <div class="mb2 contents">
-        {% for drink in page.drinks %}
-            <p class="DrinkCategory Caption mb2 d-mb5 mt1 d-mt8">{{ drink.drink-category }}</p>
-            {% if drink.drinks %}
-              {% for nestedproduct in drink.drinks %}
-                <div class="mb2 d-mb3">
-                    <h2 class="p0 mt0 mb1 Display2">{{ nestedproduct.title }}</h2>
-                    <div class="p0 mt0 mb1 italic op60">
-                      {{ nestedproduct.desc }}
-                      {% if nestedproduct.volume %}
-                        — {{ nestedproduct.volume }}
-                      {% endif %}
-                    </div>
-                    <div class="p0 mt0 mb2 d-mb3">{{ nestedproduct.price }}</div>
-                      <div class="mt3 flex">
-                        {% if nestedproduct.delivery_id %}
-                          <div class="mb4 mr1">
-                            <a
-                            class="TockButton TockButtonLocal mt3 mb4 OrderLink"
-                            data-link="https://exploretock.com/canlis/experience/{{ nestedproduct.delivery_id }}/"
-                            href="https://exploretock.com/canlis/experience/{{ nestedproduct.delivery_id }}/"
-                            target="_blank"
-                            data-order-type="{{ order_type }}"
-                            data-order-msg="{{ order_msg.body }}"
-                            >
-                              Delivery
-                            </a>
-                          </div>
-                        {% endif %}
-                        {% if nestedproduct.pickup_id %}
-                          <div class="mb4">
-                            <a
-                            class="TockButton TockButtonLocal mt3 mb4 OrderLink"
-                            data-link="https://exploretock.com/canlis/experience/{{ nestedproduct.pickup_id }}/"
-                            href="https://exploretock.com/canlis/experience/{{ nestedproduct.pickup_id }}/"
-                            target="_blank"
-                            data-order-type="{{ order_type }}"
-                            data-order-msg="{{ order_msg.body }}"
-                            >
-                              Pickup
-                            </a>
-                          </div>
-                        {% endif %}
-                      </div>
-                    <div class="Divider op20 mb2 d-mb0"></div>
-                </div>
-              {% endfor %}
-            {% endif %}
-        {% endfor %}
+      {% endfor %}
     </div>
   </div>
 
