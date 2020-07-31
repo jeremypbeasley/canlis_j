@@ -73,7 +73,7 @@ menu:
     pickup_id: 161662
     desc: Includes 750ml bottle of Knob Creek Bourbon and 375ml of Carpano Antica,
       James' house-made spiced cherries, orange bitters, and two copper garnish picks.
-    price: "$120 ($10 per drink)"
+    price: "$120 &nbsp;⁘&nbsp; ($10 per drink)"
     is_soldout: false
     is_live: true
   - title: Piña Colada
@@ -83,7 +83,7 @@ menu:
     desc: Includes 1 liter of Plantation Original Dark Rum, 2 liters of Canlis Pina
       Colada mix, pineapple and mint for garnish. Pineapple glasses, straws and umbrellas
       included, naturally.
-    price: "$168 ($14 per drink)"
+    price: "$168 &nbsp;⁘&nbsp; ($14 per drink)"
     is_soldout: false
     is_live: true
   - title: Margarita
@@ -93,7 +93,7 @@ menu:
     desc: Includes 1 liter bottle of Campo Bravo Plata Tequila and 750ml bottle of
       Pierre Ferrand Curacao. Also comes with fresh lime juice, simple syrup, Jacobsen
       sea salt, and lime garnish.
-    price: "$160 ($10 per drink)"
+    price: "$160 &nbsp;⁘&nbsp; ($10 per drink)"
     is_soldout: false
     is_live: true
   - title: 'Corpse Reviver #2'
@@ -102,7 +102,7 @@ menu:
     pickup_id: 161662
     desc: Includes 750ml bottles of Sipsmith Gin, Pierre Ferrand Dry Curacao and 375ml
       of Cocchi Americano, Absinthe, lemon and orange garnishes
-    price: "$176"
+    price: "$176 &nbsp;⁘&nbsp; ($11 per drink)"
     is_soldout: false
     is_live: true
 - menu-category-title: Wine

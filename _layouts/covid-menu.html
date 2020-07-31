@@ -46,14 +46,13 @@
                 {% endif %}
                 {% capture ordinalDay %}{{ day | append: ordinal }}{% endcapture %}
                 <!-- display the date -->
-                <div class="p0 mt2 mb2 Display2">{{ item.title }}</div>
-                <div class="p0 mt0 mb1 op60 typeface-tertiary">{{ item.date | date: "%A, %B" }} {{ ordinalDay }}</div>
-                <div class="p0 mt0 mb4 typeface-tertiary">{{ item.price }}</div>
+                <div class="p0 mb1 Display2">{{ item.title }}</div>
+                <div class="p0 mt0 mb4 op60 typeface-tertiary">{{ item.date | date: "%A, %B" }} {{ ordinalDay }} &nbsp;⁘&nbsp; {{ item.price }}</div>
               {% endif %} <!-- if date > now  -->
               {% else %}
                 <!-- cocktail kits, wine, etc. -->
                 <h2 class="p0 mt0 mb1 Display2">{{ item.title }}</h2>
-                <div class="p0 mt0 mb4">{{ item.price }}</div>
+                <div class="p0 mt0 mb4 op60 typeface-tertiary">{{ item.price }}</div>
             {% endif %} <!-- if date -->
             <!-- purchase buttons -->
             {% if item.desc %}

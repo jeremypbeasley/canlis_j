@@ -4509,8 +4509,8 @@ input[type=submit] {
   font-family: HelveticaNeue-Medium, "ApercuMono", Andale Mono, monospaced;
 }
 .TockButton:hover {
-  background-color: #000;
-  color: #fff;
+  background-color: #fff;
+  box-shadow: 4px 4px 0px #000;
 }
 .TockButton::before {
   display: none;
