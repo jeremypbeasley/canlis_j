@@ -11,57 +11,52 @@
     <h1 class="Display1 mb3 mt3">{{ page.title }}</h1>
     {{ content }}
     <div class="mb2 contents">
+      <div class="Divider op20 mb2 d-mb0"></div>
       {% for category in page.menu %}
         <p class="DrinkCategory Caption mb2 d-mb5 mt1 d-mt8">{{ category.menu-category-title }}</p>
         <!-- if the category has items in it -->
         {% if category.menu-items %}
           {% for item in category.menu-items %}
-            <!-- only display items that past today's date -->
-            {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
-            {% capture date %}{{item.date | date: '%s'}}{% endcapture %}
-            {% if date > now %}
-              <!-- Get the date -->
-              {% capture day %}{{ item.date | date: "%-d" }}{% endcapture %}
-              {% capture dayLastTwoDigits %}{{ day | modulo: 100 }}{% endcapture %}
-              <!-- Determine the suffix -->
-              {% if dayLastTwoDigits >= "11" and dayLastTwoDigits <= "13" %}
+            {% if item.date %}
+              {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
+              {% capture date %}{{item.date | date: '%s'}}{% endcapture %}
+              <!-- family meals, boxes, and things that have dates -->
+              <!-- only display items that past today's date -->
+              {% if date > now %}
+                <!-- Get the date -->
+                {% capture day %}{{ item.date | date: "%-d" }}{% endcapture %}
+                {% capture dayLastTwoDigits %}{{ day | modulo: 100 }}{% endcapture %}
+                <!-- Determine the suffix -->
+                {% if dayLastTwoDigits >= "11" and dayLastTwoDigits <= "13" %}
                   {% assign ordinal = "th" %}
-              {% else %}
+                {% else %}
                   {% capture dayLastDigit %}{{ day | modulo: 10 }}{% endcapture %}
                   {% case dayLastDigit %}
-                      {% when "1" %}
-                          {% assign ordinal = "st" %}
-                      {% when "2" %}
-                          {% assign ordinal = "nd" %}
-                      {% when "3" %}
-                          {% assign ordinal = "rd" %}
-                      {% else %}
-                          {% assign ordinal = "th" %}
+                    {% when "1" %}
+                      {% assign ordinal = "st" %}
+                    {% when "2" %}
+                      {% assign ordinal = "nd" %}
+                    {% when "3" %}
+                      {% assign ordinal = "rd" %}
+                    {% else %}
+                      {% assign ordinal = "th" %}
                   {% endcase %}
-              {% endif %}
-              {% capture ordinalDay %}{{ day | append: ordinal }}{% endcapture %}
-              <!-- Display the date -->
-              <div class="p0 mt0 mb1"><i>{{ item.date | date: "%A, %B" }} {{ ordinalDay }} </i></div>
-              <h2 class="p0 mt0 mb1 Display2">{{ item.title }}</h2>
-              {% capture ordinalDay %}{{ day | append: ordinal }}{% endcapture %}
-              <!-- Display the date -->
-              <h2 class="p0 mt0 mb1 Display2">{{ item.date | date: "%A, %B" }} {{ ordinalDay }}</h2>
-              {% endif %}
-              <div class="p0 mt0 mb4">{{ item.price }}</div>
-              <!-- <div class="p0 mt0 mb0">{{ item.desc | markdownify }}</div> -->
-              {% if item.is_live == true %}
-                <p>it's live</p>
-                {% if item.is_soldout == true %}
-                  it's sold out
-                {% else %}
-                  it's not sold out
                 {% endif %}
+                {% capture ordinalDay %}{{ day | append: ordinal }}{% endcapture %}
+                <!-- Display the date -->
+                <div class="p0 mt0 mb1"><i>{{ item.date | date: "%A, %B" }} {{ ordinalDay }} </i></div>
+                <h2 class="p0 mt0 mb1 Display2">{{ item.title }}</h2>
+                <div class="p0 mt0 mb4">{{ item.price }}</div>
+              {% endif %} <!-- if date > now  -->
               {% else %}
-                <p>it's NOT live</p>
-              {% endif %} <!-- end is_live -->
-          {% endfor %}
-        {% endif %}
-      {% endfor %}
+                <!-- cocktail kits, wine, etc. -->
+                <h2 class="p0 mt0 mb1 Display2">{{ item.title }}</h2>
+                <div class="p0 mt0 mb4">{{ item.price }}</div>
+            {% endif %} <!-- if date -->
+          {% endfor %} <!-- item in category.menu-items -->
+        {% endif %} <!-- if category.menu-items -->
+        <div class="Divider op20"></div>
+      {% endfor %} <!-- for category in page.menu -->
     </div>
   </div>
 
