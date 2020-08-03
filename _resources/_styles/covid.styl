@@ -26,12 +26,15 @@
 .TockButton {
   border: 1px solid color-black;
   background-color: transparent;
-  padding: 12px 15px;
+  padding: 8px 15px;
   border-radius: 40px;
   text-align: center;
   color: black;
   transition: all 200ms ease-out;
   font-family: typeface-tertiary;
+  @media laptop {
+    padding: 12px 15px;
+  }
   &:hover {
     background-color: white;
     box-shadow: 4px 4px 0px rgba(0, 0, 0, 1);
@@ -116,10 +119,6 @@
   transform: translateY(-3px);
 }
 
-.DrinkCategory:first-child {
-  margin-top: 0;
-}
-
 .ConceptBlock:last-child .Divider,
 .MenuItem:last-child .Divider {
   display: none;
@@ -168,6 +167,23 @@
 }
 
 .menuItem {
-  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   border-radius: 3px;
+  margin-left: -24px;
+  width: calc(100% + 50px);
+  @media laptop {
+    width: 100%;
+    margin-left: 0;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+  }
+  &:last-of-type {
+    border-bottom: 4px solid rgba(0, 0, 0, 0.1);
+    @media laptop {
+      border: 1px solid rgba(0, 0, 0, 0.1);
+    }
+  }
+}
+
+.MenuCategory .menuItem:first-of-type {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
 }

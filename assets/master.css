@@ -1659,10 +1659,10 @@ table {
 }
 
 html {
-  font-size: 15px;
+  font-size: 13px;
   font-family: typeface-body, serif;
 }
-@media (min-width: 30em) {
+@media (min-width: 62em) {
   html {
     font-size: 15px;
   }
@@ -4501,12 +4501,17 @@ input[type=submit] {
 .TockButton {
   border: 1px solid #000;
   background-color: transparent;
-  padding: 12px 15px;
+  padding: 8px 15px;
   border-radius: 40px;
   text-align: center;
   color: #000;
   transition: all 200ms ease-out;
   font-family: HelveticaNeue-Medium, "ApercuMono", Andale Mono, monospaced;
+}
+@media (min-width: 62em) {
+  .TockButton {
+    padding: 12px 15px;
+  }
 }
 .TockButton:hover {
   background-color: #fff;
@@ -4571,9 +4576,6 @@ input[type=submit] {
 .ConceptBlock:hover {
   transform: translateY(-3px);
 }
-.DrinkCategory:first-child {
-  margin-top: 0;
-}
 .ConceptBlock:last-child .Divider,
 .MenuItem:last-child .Divider {
   display: none;
@@ -4607,8 +4609,28 @@ input[type=submit] {
   animation-iteration-count: infinite;
 }
 .menuItem {
-  border: 1px solid rgba(0,0,0,0.1);
+  border-bottom: 1px solid rgba(0,0,0,0.1);
   border-radius: 3px;
+  margin-left: -24px;
+  width: calc(100% + 50px);
+}
+@media (min-width: 62em) {
+  .menuItem {
+    width: 100%;
+    margin-left: 0;
+    border: 1px solid rgba(0,0,0,0.1);
+  }
+}
+.menuItem:last-of-type {
+  border-bottom: 4px solid rgba(0,0,0,0.1);
+}
+@media (min-width: 62em) {
+  .menuItem:last-of-type {
+    border: 1px solid rgba(0,0,0,0.1);
+  }
+}
+.MenuCategory .menuItem:first-of-type {
+  border-top: 1px solid rgba(0,0,0,0.1);
 }
 @-moz-keyframes spin {
   0% {
