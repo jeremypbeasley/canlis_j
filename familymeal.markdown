@@ -2,7 +2,7 @@
 title: Family Meal, delivered.
 date: 2020-03-13 16:19:00 -07:00
 desc: Mighty-fine meals and more from Canlis to your doorstep, all with zero contact.
-image: "/uploads/canlis_concept_familymeal.jpg"
+image: "/uploads/fam.jpg"
 og_desc: Mighty-fine meals and more from Canlis to your doorstep, all with zero contact.
 og_photo: "/uploads/canlis_concept_familymeal.jpg"
 live_notice: This experience will go live Wednesday at 1:00PM PST
@@ -11,6 +11,7 @@ menu:
   menu-items:
   - title: Buttermilk Fried Chicken
     date: 2020-07-31 00:00:00 -07:00
+    show_date: true
     delivery_id: 167141
     pickup_id: 167158
     desc:
@@ -19,6 +20,7 @@ menu:
     is_forsale: true
   - title: Taco Tuesday - Sea Breeze Farms Duck Carnitas Tacos
     date: 2020-08-04 00:00:00 -07:00
+    show_date: true
     delivery_id: 169040
     pickup_id: 169057
     desc:
@@ -27,6 +29,7 @@ menu:
     is_forsale: true
   - title: Summer Vegetable Ratatouille
     date: 2020-08-05 00:00:00 -07:00
+    show_date: true
     delivery_id: 169045
     pickup_id: 169060
     desc:
@@ -35,6 +38,7 @@ menu:
     is_forsale: true
   - title: Heritage Chicken Tikka Masala
     date: 2020-08-06 00:00:00 -07:00
+    show_date: true
     delivery_id: 169049
     pickup_id: 169062
     desc:
@@ -43,6 +47,7 @@ menu:
     is_forsale: true
   - title: Applewood-Grilled Spot Prawn & Teriyaki Ribeye Skewers
     date: 2020-08-08 00:00:00 -07:00
+    show_date: true
     delivery_id: 169051
     pickup_id: 169063
     desc:
@@ -53,6 +58,7 @@ menu:
   menu-items:
   - title: The Weekender
     date: 2020-08-07 00:00:00 -07:00
+    show_date: true
     delivery_id: 169053
     pickup_id: 169590
     desc: "Get a meal planning head start with a box of the best ingredients we can get our hands on, perfect for a weekend of brunches, bbq's, and outdoor eating."
@@ -62,6 +68,8 @@ menu:
 - menu-category-title: 'Cocktail Kits'
   menu-items:
   - title: 'Manhattan '
+    date: 3000-12-31 00:00:00 -07:00
+    show_date: false
     delivery_id: 144891
     pickup_id: 161662
     desc: Includes 750ml bottle of Knob Creek Bourbon and 375ml of Carpano Antica,
@@ -70,6 +78,8 @@ menu:
     is_soldout: false
     is_forsale: true
   - title: Piña Colada
+    date: 3000-12-31 00:00:00 -07:00
+    show_date: false
     pickup_id: 161662
     delivery_id: 144891
     desc: Includes 1 liter of Plantation Original Dark Rum, 2 liters of Canlis Pina
@@ -79,6 +89,8 @@ menu:
     is_soldout: false
     is_forsale: true
   - title: Margarita
+    date: 3000-12-31 00:00:00 -07:00
+    show_date: false
     delivery_id: 144891
     pickup_id: 161662
     desc: Includes 1 liter bottle of Campo Bravo Plata Tequila and 750ml bottle of
@@ -88,6 +100,8 @@ menu:
     is_soldout: false
     is_forsale: true
   - title: 'Corpse Reviver #2'
+    date: 3000-12-31 00:00:00 -07:00
+    show_date: false
     delivery_id: 144891
     pickup_id: 161662
     desc: Includes 750ml bottles of Sipsmith Gin, Pierre Ferrand Dry Curacao and 375ml
@@ -98,6 +112,8 @@ menu:
 - menu-category-title: Wine
   menu-items:
   - title: Somm's Choice
+    date: 3000-12-31 00:00:00 -07:00
+    show_date: false
     delivery_id: 151883
     pickup_id: 161665
     desc: A rotating mix of seasonal wines selected by the Canlis sommelier team. 5 bottles.
@@ -105,6 +121,8 @@ menu:
     is_soldout: false
     is_forsale: true
   - title: Reserve Wines Somm's Choice
+    date: 3000-12-31 00:00:00 -07:00
+    show_date: false
     delivery_id: 151883
     pickup_id: 161665
     desc: A special box of wine hand selected by the Canlis sommelier team. A few
@@ -112,9 +130,11 @@ menu:
     price: "$250"
     is_soldout: false
     is_forsale: true
-layout: covid-menu2
+layout: covid-menu
 ---
 
 Mighty-fine meals and more from Canlis to your doorstep, all with zero contact.
 
-Sales go live here every Wednesday at 1PM for the following week.<br> All meals are fully cooked, designed to be reheated. Instructions included.
+- Sales go live here every Wednesday at 1PM for the following week.
+- All meals are fully cooked, designed to be reheated. Instructions included.
+- See our delivery area [here](/deliverymap).
