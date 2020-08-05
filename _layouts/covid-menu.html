@@ -1,11 +1,8 @@
 {% include head.html %}
-
 <div style="height: 6vw;"></div>
-
 <div class="mt3 d-mt8 flex">
   <div class="col mt3 ml3 mr3 d-mt0 d-mr0 d-ml0 col-onethird">
-    <!-- <a class="CenterText" href="/">Back to all options</a> -->
-    <img src="/uploads/fam.jpg"/>
+    <img src="{{ page.image }}"/>
   </div>
   <div class="col mt3 ml3 mr3 d-mt15 d-mr15 d-ml15 col-onethird">
     <h1 class="Display1 mb3 mt3">{{ page.title }}</h1>
@@ -13,127 +10,135 @@
     <div class="mb2 contents">
       {% for category in page.menu %}
         <div class="MenuCategory">
-          <h2 class="DrinkCategory Caption mb2 d-mb2 mt1 d-mt10">{{ category.menu-category-title }}</h2>
-          <!-- <div class="Divider op20 mb2 mt2"></div> -->
+          <h2 class="DrinkCategory Caption mb5 mt5 d-mt10">
+            {{ category.menu-category-title }}
+          </h2>
           <!-- if the category has items in it -->
           {% if category.menu-items %}
             {% for item in category.menu-items %}
-            <div class="menuItem p4 pb5 mb1">
-            <!-- <div class="Divider op20 mb2"></div> -->
               {% if item.date %}
-                {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
-                {% capture date %}{{item.date | date: '%s'}}{% endcapture %}
-                <!-- family meals, boxes, and things that have dates -->
-                <!-- only display items that past today's date -->
+                <!-- get today's date -->
+                {% capture now %}
+                  {{ 'now' | date: '%s' }}
+                {% endcapture %}
+                {% capture date %}
+                  {{ item.date | date: '%s' }}
+                {% endcapture %}
+                <!-- if the date isn't in the past, show the item -->
                 {% if date > now %}
-                  <!-- get the date -->
-                  {% capture day %}{{ item.date | date: "%-d" }}{% endcapture %}
-                  {% capture dayLastTwoDigits %}{{ day | modulo: 100 }}{% endcapture %}
-                  <!-- determine the suffix -->
-                  {% if dayLastTwoDigits >= "11" and dayLastTwoDigits <= "13" %}
-                    {% assign ordinal = "th" %}
-                  {% else %}
-                    {% capture dayLastDigit %}{{ day | modulo: 10 }}{% endcapture %}
-                    {% case dayLastDigit %}
-                      {% when "1" %}
-                        {% assign ordinal = "st" %}
-                      {% when "2" %}
-                        {% assign ordinal = "nd" %}
-                      {% when "3" %}
-                        {% assign ordinal = "rd" %}
-                      {% else %}
+                  <div class="menuItem p3 pb4 d-p4 d-pb5 d-mb1">
+                    <div class="p0 mb1 Display2">{{ item.title }}</div>
+                    <!-- show the date if it's not a permanent item -->
+                    {% if item.show_date == true %}
+                      <!-- ordinal date -->
+                      {% capture day %}
+                        {{ item.date | date: "%-d" }}
+                      {% endcapture %}
+                      {% capture dayLastTwoDigits %}
+                        {{ day | modulo: 100 }}
+                      {% endcapture %}
+                      <!-- determine the suffix -->
+                      {% if dayLastTwoDigits >= "11" and dayLastTwoDigits <= "13" %}
                         {% assign ordinal = "th" %}
-                    {% endcase %}
-                  {% endif %}
-                  {% capture ordinalDay %}{{ day | append: ordinal }}{% endcapture %}
-                  <!-- display the date -->
-                  <div class="p0 mb1 Display2">{{ item.title }}</div>
-                  <div class="p0 mt0 mb4 op60 typeface-tertiary">{{ item.date | date: "%A, %B" }} {{ ordinalDay }} &nbsp;⁘&nbsp; {{ item.price }}</div>
-                {% endif %} <!-- if date > now  -->
-                {% else %}
-                  <!-- cocktail kits, wine, etc. -->
-                  <h2 class="p0 mt0 mb1 Display2">{{ item.title }}</h2>
-                  <div class="p0 mt0 mb4 op60 typeface-tertiary">{{ item.price }}</div>
-              {% endif %} <!-- if date -->
-              <!-- purchase buttons -->
-              {% if item.desc %}
-                <p>{{ item.desc }}</p>
-              {% endif %} <!-- if item.desc -->
-              {% if item.is_live == true %}
-                {% if item.is_soldout == true %}
-                <div class="flex mt3 SoldOut">
-                  <div class="col">
-                    <a class="TockButton TockButtonSoldOut op20">
-                        Sold Out
-                    </a>
-                  </div>
-                  <div class="col col-twothirds">
-                    <a
-                      class="Caption NoLine color-tock-blue m2"
-                      target="_blank"
-                      href="https://www.exploretock.com/canlis/waitlist?experienceId={{ item.delivery_id }}"
-                    >
-                      Join Waitlist
-                    </a>
-                  </div>
-                </div>
-                {% else %}
-                  <div class="OrderButtons flex">
-                    {% if item.experience_id %}
-                      <div class="mr1">
-                        <a
-                        class="TockButton TockButtonLocal mt3 mb4 OrderLink"
-                        data-link="https://exploretock.com/canlis/experience/{{ item.experience_id }}/"
-                        href="https://exploretock.com/canlis/experience/{{ item.experience_id }}/"
-                        target="_blank"
-                        data-order-type="{{ order_type }}"
-                        data-order-msg="{{ order_msg.body }}"
-                        >
-                          Order
-                        </a>
+                      {% else %}
+                        {% capture dayLastDigit %}
+                          {{ day | modulo: 10 }}
+                        {% endcapture %}
+                        {% case dayLastDigit %}
+                          {% when "1" %}
+                            {% assign ordinal = "st" %}
+                          {% when "2" %}
+                            {% assign ordinal = "nd" %}
+                          {% when "3" %}
+                            {% assign ordinal = "rd" %}
+                          {% else %}
+                            {% assign ordinal = "th" %}
+                        {% endcase %}
+                      {% endif %}
+                      {% capture ordinalDay %}
+                        {{ day | append: ordinal }}
+                      {% endcapture %}
+                      <!-- display the date -->
+                      <div class="p0 mt0 mb2 op60 typeface-tertiary">
+                        {{ item.date | date: "%A, %B" }}
+                        {{ ordinalDay }}
+                        &nbsp;⁘&nbsp;
+                        {{ item.price }}
+                      </div>
+                    {% else %}
+                      <div class="p0 mt0 mb2 op60 typeface-tertiary">
+                        {{ item.price }}
                       </div>
                     {% endif %}
-                    {% if item.delivery_id %}
-                      <div class="mr1">
-                        <a
-                        class="TockButton TockButtonLocal mt3 mb4 OrderLink"
-                        data-link="https://exploretock.com/canlis/experience/{{ item.delivery_id }}/"
-                        href="https://exploretock.com/canlis/experience/{{ item.delivery_id }}/"
-                        target="_blank"
-                        data-order-type="{{ order_type }}"
-                        data-order-msg="{{ order_msg.body }}"
-                        >
-                          Delivery
-                        </a>
-                      </div>
+                    <!-- if show_date == true  -->
+                    {% if item.desc %}
+                      <div class="mt1">{{ item.desc }}</div>
                     {% endif %}
-                    {% if item.pickup_id %}
-                      <div class="">
-                        <a
-                        class="TockButton TockButtonLocal mt3 mb4 OrderLink"
-                        data-link="https://exploretock.com/canlis/experience/{{ item.pickup_id }}/"
-                        href="https://exploretock.com/canlis/experience/{{ item.pickup_id }}/"
-                        target="_blank"
-                        data-order-type="{{ order_type }}"
-                        data-order-msg="{{ order_msg.body }}"
-                        >
-                          Pickup
-                        </a>
-                      </div>
+                    <!-- if item.desc -->
+                    {% if item.is_forsale == true %}
+                      {% if item.is_soldout == true %}
+                        <div class="flex mt4 SoldOut">
+                          <div class="col">
+                            <a class="TockButton TockButtonSoldOut op20">
+                              Sold Out
+                            </a>
+                          </div>
+                          <div class="col col-twothirds">
+                            <a
+                              class="Caption NoLine color-tock-blue m2"
+                              target="_blank"
+                              href="https://www.exploretock.com/canlis/waitlist?experienceId={{ item.delivery_id }}"
+                            >
+                              Join Waitlist
+                            </a>
+                          </div>
+                        </div>
+                      {% else %}
+                        <div class="OrderButtons flex mt4">
+                          {% if item.delivery_id %}
+                            <div class="mr1">
+                              <a
+                                class="TockButton TockButtonLocal mt3 mb4 OrderLink"
+                                href="https://exploretock.com/canlis/experience/{{ item.delivery_id }}/"
+                                target="_blank"
+                              >
+                                Delivery
+                              </a>
+                            </div>
+                          {% endif %}
+                          {% if item.pickup_id %}
+                            <div class="">
+                              <a
+                                class="TockButton TockButtonLocal mt3 mb4 OrderLink"
+                                href="https://exploretock.com/canlis/experience/{{ item.pickup_id }}/"
+                                target="_blank"
+                              >
+                                Pickup
+                              </a>
+                            </div>
+                          {% endif %}
+                        </div>
+                      {% endif %}
+                      <!-- end is_soldout -->
+                    {% else %}
+                      <p class="color-tock-blue mt0 mb2 p0">{{ page.live_notice }}</p>
                     {% endif %}
+                    <!-- end is_forsale -->
                   </div>
-                {% endif %} <!-- end is_soldout -->
-                {% else %}
-                <p class="color-tock-blue mt0 mb2 p0">{{ page.live_notice }}</p>
-              {% endif %} <!-- end is_live -->
-              </div>
-            {% endfor %} <!-- item in category.menu-items -->
-          {% endif %} <!-- if category.menu-items -->
-        </div> <!-- closing MenuCategory -->
-      {% endfor %} <!-- for category in page.menu -->
+                  <!-- closing of item's div -->
+                {% endif %}
+                <!-- if date > now  -->
+              {% endif %}
+              <!-- if item.date  -->
+            {% endfor %}
+            <!-- item in category.menu-items -->
+          {% endif %}
+          <!-- if category.menu-items -->
+        </div>
+        <!-- closing MenuCategory -->
+      {% endfor %}
+      <!-- for category in page.menu -->
     </div>
   </div>
-
 </div>
-
 {% include minifooter.html %}
