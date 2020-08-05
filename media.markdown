@@ -31,4 +31,4 @@ og_photo: "/uploads/canlis_logo_black_media.jpg"
 layout: media
 ---
 
-Assets and photographs for press and media. <br><br>If you can't find what you're looking for, please email Jessica at [jessica@canlis.com](mailto:jessica@canlis.com).
+Assets and photographs for press and media. <br><br>If you can't find what you're looking for, please email Anthea at [anthea@canlis.com](mailto:anthea@canlis.com).

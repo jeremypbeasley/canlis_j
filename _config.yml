@@ -1,6 +1,5 @@
 ---
 title: Canlis
-name: Canlis
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -9,6 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+name: Canlis
 email: jeremy@jeremypbeasley.com
 description: Seattle's landmark fine-dining destination for 68 years, offering contemporary
   Pacific Northwest fare in a midcentury-modern home.
@@ -18,7 +18,7 @@ dress_code: Go big. Dress up. Make a statement. You're beautiful, let it show! W
   are a dress-respectful restaurant. No casual or athletic attire please. Men will
   feel most comfortable in a suit or sport coat.
 reservations_link: https://www.exploretock.com/canlis
-baseurl:
+baseurl: 
 url: http://canlis.com
 twitter_username: canlis
 github_username: jeremypbeasley

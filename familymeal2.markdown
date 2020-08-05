@@ -7,14 +7,14 @@ og_desc: Mighty-fine meals and more from Canlis to your doorstep, all with zero 
 og_photo: "/uploads/canlis_concept_familymeal.jpg"
 live_notice: Available today at 1:00PM PST
 menu:
-- menu-category-title: 'Dinners'
+- menu-category-title: Dinners
   menu-items:
   - title: Summer Vegetable Ratatouille
     date: 2020-08-05 00:00:00 -07:00
     show_date: true
     delivery_id: 169045
     pickup_id: 169060
-    desc:
+    desc: 
     price: "$40 per person"
     is_soldout: false
     is_forsale: true
@@ -23,7 +23,7 @@ menu:
     show_date: true
     delivery_id: 169049
     pickup_id: 169062
-    desc:
+    desc: 
     price: "$45 per person"
     is_soldout: true
     is_forsale: true
@@ -32,7 +32,7 @@ menu:
     show_date: true
     delivery_id: 169051
     pickup_id: 169063
-    desc:  
+    desc: 
     price: "$64 per person"
     is_soldout: true
     is_forsale: true
@@ -41,7 +41,7 @@ menu:
     show_date: true
     delivery_id: 172519
     pickup_id: 172541
-    desc:
+    desc: 
     price: "$54 per person"
     is_soldout: false
     is_forsale: false
@@ -51,7 +51,7 @@ menu:
     show_date: true
     delivery_id: 172530
     pickup_id: 172544
-    desc:
+    desc: 
     price: "$58 per person"
     is_soldout: false
     is_forsale: false
@@ -60,7 +60,7 @@ menu:
     show_date: true
     delivery_id: 172532
     pickup_id: 172547
-    desc:
+    desc: 
     price: "$48 per person"
     is_soldout: false
     is_forsale: false
@@ -69,7 +69,7 @@ menu:
     show_date: true
     delivery_id: 172535
     pickup_id: 172549
-    desc:
+    desc: 
     price: "$68 per person"
     is_soldout: false
     is_forsale: false
@@ -78,18 +78,20 @@ menu:
     show_date: true
     delivery_id: 172537
     pickup_id: 172550
-    desc:
+    desc: 
     price: "$75 per person"
     is_soldout: false
     is_forsale: false
-- menu-category-title: 'Boxes'
+- menu-category-title: Boxes
   menu-items:
   - title: The Weekender
     date: 2020-08-07 00:00:00 -07:00
     show_date: true
     delivery_id: 169053
     pickup_id: 169590
-    desc: "Support our favorite farms and get a meal planning head start with a box of the very same ingredients we would use to make fine dining meals from. Perfect for a weekend of brunches, BBQ's, and outdoor eating."
+    desc: Support our favorite farms and get a meal planning head start with a box
+      of the very same ingredients we would use to make fine dining meals from. Perfect
+      for a weekend of brunches, BBQ's, and outdoor eating.
     price: "$215"
     is_soldout: false
     is_forsale: true
@@ -98,24 +100,27 @@ menu:
     show_date: true
     delivery_id: 172556
     pickup_id: 172560
-    desc: "Support our favorite farms and get a meal planning head start with a box of the very same ingredients we would use to make fine dining meals from. Perfect for a weekend of brunches, BBQ's, and outdoor eating."
+    desc: Support our favorite farms and get a meal planning head start with a box
+      of the very same ingredients we would use to make fine dining meals from. Perfect
+      for a weekend of brunches, BBQ's, and outdoor eating.
     price: "$195"
     is_soldout: false
     is_forsale: false
-- menu-category-title: 'Cocktail Kits'
+- menu-category-title: Cocktail Kits
   menu-items:
   - title: 'Manhattan '
-    date: 3000-12-31 00:00:00 -07:00
+    date: 3000-12-30 23:00:00 -08:00
     show_date: false
     delivery_id: 144891
     pickup_id: 161662
     desc: Includes 750ml bottle of Knob Creek Bourbon and 375ml of Carpano Antica,
-      James' house-made spiced cherries, orange bitters, and two copper garnish picks. Makes 12 cocktails.
+      James' house-made spiced cherries, orange bitters, and two copper garnish picks.
+      Makes 12 cocktails.
     price: "$120 &nbsp;⁘&nbsp; ($10 per drink)"
     is_soldout: false
     is_forsale: true
   - title: Piña Colada
-    date: 3000-12-31 00:00:00 -07:00
+    date: 3000-12-30 23:00:00 -08:00
     show_date: false
     pickup_id: 161662
     delivery_id: 144891
@@ -126,7 +131,7 @@ menu:
     is_soldout: false
     is_forsale: true
   - title: Margarita
-    date: 3000-12-31 00:00:00 -07:00
+    date: 3000-12-30 23:00:00 -08:00
     show_date: false
     delivery_id: 144891
     pickup_id: 161662
@@ -137,7 +142,7 @@ menu:
     is_soldout: false
     is_forsale: true
   - title: 'Corpse Reviver #2'
-    date: 3000-12-31 00:00:00 -07:00
+    date: 3000-12-30 23:00:00 -08:00
     show_date: false
     delivery_id: 144891
     pickup_id: 161662
@@ -149,16 +154,17 @@ menu:
 - menu-category-title: Wine
   menu-items:
   - title: Somm's Choice
-    date: 3000-12-31 00:00:00 -07:00
+    date: 3000-12-30 23:00:00 -08:00
     show_date: false
     delivery_id: 151883
     pickup_id: 161665
-    desc: A rotating mix of seasonal wines selected by the Canlis sommelier team. 5 bottles.
+    desc: A rotating mix of seasonal wines selected by the Canlis sommelier team.
+      5 bottles.
     price: "$150"
     is_soldout: false
     is_forsale: true
   - title: Reserve Wines Somm's Choice
-    date: 3000-12-31 00:00:00 -07:00
+    date: 3000-12-30 23:00:00 -08:00
     show_date: false
     delivery_id: 151883
     pickup_id: 161665

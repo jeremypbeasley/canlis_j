@@ -35,5 +35,5 @@ Please email [amy@canlis.com](mailto:amy@canlis.com).
 
 For questions about our delivery services please see: [https://www.exploretock.com/canlis/faq ](https://www.exploretock.com/canlis/faq)
 
-For media inquiries, please contact [jessica@canlis.com](mailto:jessica@canlis.com).
+For media inquiries, please contact [anthea@canlis.com](mailto:anthea@canlis.com).
 
