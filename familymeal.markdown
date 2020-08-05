@@ -7,57 +7,9 @@ og_desc: Mighty-fine meals and more from Canlis to your doorstep, all with zero 
 og_photo: "/uploads/canlis_concept_familymeal.jpg"
 live_notice: This experience will go live Wednesday at 1:00PM PST
 menu:
-- title: Homemade Vegetarian Lasagna
-  date: 2020-07-29 00:00:00 -07:00
-  experience_id: 
-  delivery_id: 167132
-  pickup_id: 167150
-  desc: |-
-    Main Dish:<br> Layers of Homemade Pasta, Tomato Sauce, Roasted Zucchini, and Spinach - Finished with Mozzarella, Basil, and Fiore Sardo<br><br>
-    Side Dishes:<br> Canlis Salad (no bacon)<br> Wood-Roasted Young Carrots with Basil and Pine Nut Pesto<br> Garlic and Herb Sourdough Rolls<br><br>
-    Dessert:<br> Brown Butter Hazelnut Chocolate Torte
-  price: "$40 per person"
-  is_soldout: true
-  is_live: true
-- title: 'Slow-Cooked Pork Carnitas Posole '
-  date: 2020-07-30 00:00:00 -07:00
-  experience_id: 
-  delivery_id: 167135
-  pickup_id: 167156
-  desc: |-
-    Main Dish:<br> Slow-Roasted Olsen Farms Pork Shoulder Simmered in Roasted Poblano Peppers and Tomatillos with Cotija, Pickled Onions, Tortilla Strips, Cilantro, and Crema<br><br>
-    Side Dishes:<br> Simmered Black Beans with Peppers and Onions<br> Grilled Corn with Cilantro, Crema, and Lime<br> Baby Lettuces with Charred Avocado Vinaigrette, Easter Egg Radish, and Pumpkin Seeds<br><br>
-    Dessert:<br> Cinnamon Conchas with Whipped Goat Cheese and Red Cherries
-  price: "$38 per person"
-  is_soldout: true
-  is_live: true
-- title: Buttermilk Fried Chicken
-  date: 2020-08-01 00:00:00 -07:00
-  experience_id: 
-  delivery_id: 167141
-  pickup_id: 167158
-  desc: |-
-    Main Dish:<br> Buttermilk Fried Chicken (1/2 Chicken per person)<br><br>
-    Side Dishes:<br> Tomato and Nectarine Salad with Schmaltz Vinaigrette<br> Yubeshi BBQ Baked Beans<br> Jalapeno Cornbread with Big Leaf Maple Butter<br><br>
-    Dessert:<br> Farm Fresh Summer Berry Cobbler
-  price: "$52 per person"
-  is_soldout: true
-  is_live: true
-- title: Taco Tuesday - Sea Breeze Farms Duck Carnitas Tacos
-  date: 2020-08-04 00:00:00 -07:00
-  experience_id: 
-  delivery_id: 169040
-  pickup_id: 169057
-  desc: |-
-    Main Dish:<br> Slow-Roasted Duck Carnitas Tacos with Avocado, Cilantro, and Onion on Corn Tortillas<br><br>
-    Side Dishes:<br> Chips and Salsas - Homemade Tortilla Chips with Chile de Arbol Salsa (Spicy) and Roasted Tomatillo Salsa Verde (Mild)<br> Summered Black Beans with Blistered Poblano Peppers<br> Roasted Tomato and Garlic Spanish Rice<br> Elotes-Style Corn with Crema, Cilantro, Cotija, and Lime<br><br>
-    Dessert:<br> Alfajores (Dulce de Leche Sandwich Cookies)
-  price: "$40 per person"
-  is_soldout: false
-  is_live: false
 - title: Summer Vegetable Ratatouille
   date: 2020-08-05 00:00:00 -07:00
-  experience_id: 
+  experience_id:
   delivery_id: 169045
   pickup_id: 169060
   desc: |-
@@ -66,10 +18,10 @@ menu:
     Dessert:<br> Honey Buckwheat Cake with Housemade Strawberry Jam
   price: "$40 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Heritage Chicken Tikka Masala
   date: 2020-08-06 00:00:00 -07:00
-  experience_id: 
+  experience_id:
   delivery_id: 169049
   pickup_id: 169062
   desc: |-
@@ -77,11 +29,11 @@ menu:
     Side Dishes:<br> Saag Paneer - Spinach Stewed with Fried Paneer Cheese<br> Wood-Roasted Vadouvan Spiced Cauliflower with Yogurt and Mint Sauce<br> Sourdough Roti (Flatbread)<br> Turmeric Spiced Rice<br><br>
     Dessert:<br> Gulab Jamun (Indian Milk Balls)
   price: "$45 per person"
-  is_soldout: false
-  is_live: false
+  is_soldout: true
+  is_live: true
 - title: Applewood-Grilled Spot Prawn & Teriyaki Ribeye Skewers
   date: 2020-08-08 00:00:00 -07:00
-  experience_id: 
+  experience_id:
   delivery_id: 169051
   pickup_id: 169063
   desc: |-
@@ -89,33 +41,82 @@ menu:
     Side Dishes:<br> Old School Canlis Twice Baked Potatoes<br> Marinated Heirloom Tomatoes with Alliums, Fennel, and Blackberry Vinegar<br> Canlis Salad<br> Garlic and Herb Sourdough Rolls<br><br>
     Dessert:<br> Tellicherry Peppercorn Pavlova with Yuzu Curd and Fresh Raspberries
   price: "$64 per person"
+  is_soldout: true
+  is_live: true
+- title: 'Taco Tuesday: Spot Prawn Tacos'
+  date: 2020-08-11 00:00:00 -07:00
+  experience_id:
+  delivery_id: 172519
+  pickup_id: 172541
+  desc: |-
+    Main Dish:<br> Local Spot Prawns sautéed with Garlic and Lemon on Flour Tortillas with Cabbage, Lime, and Cilantro with Avocado Crema<br><br>
+    Side Dishes:<br> Homemade Tortilla Chips with Roasted Tomatillo and Poblano Salsa<br> Elotes-Style Corn with Crema, Cilantro, Cotija, and Lime<br> Roasted Alvarez Farm Peppers and Radish Salad<br><br>
+    Dessert:<br> Horchata Panna Cotta
+
+    ***We suggest pairing this with: a six-pack of cheap beer or the Canlis Margarita Kit***
+  price: "$54 per person"
+  is_soldout: false
+  is_live: false
+- title: Pappardelle Pasta and Braised Pork Shoulder with Sungold Tomato and Basil
+    Pomodoro
+  date: 2020-08-12 00:00:00 -07:00
+  experience_id:
+  delivery_id: 172530
+  pickup_id: 172544
+  desc: |-
+    Main Dish:<br> Housemade Pappardelle Pasta with Braised Pork Shoulder - in a Light Sungold Tomato and Basil Pomodoro<br><br>
+    Side Dishes:<br> Canlis Salad<br> Roasted Zucchini and Summer Squash with Oregano and Anise Hyssop from the Canlis Garden<br> Roasted and Chilled Corn Salad with Burrata and Calabrian Chilies<br> Garlic and Herb Sourdough Rolls<br><br>
+    Dessert:<br> Sweet Corn Cake with Blueberries
+
+    ***We suggest pairing this with the Canlis Wine Pairing for Two ($90), or that pre-COVID bottle of red you were saving and should just drink right now and watch the Godfather or the Godfather II - but never the Godfather The Godfather III.***
+  price: "$58 per person"
+  is_soldout: false
+  is_live: false
+- title: Pappardelle Pasta with Sungold Tomato and Basil Pomodoro
+  date: 2020-08-12 00:00:00 -07:00
+  experience_id:
+  delivery_id: 172532
+  pickup_id: 172547
+  desc: |-
+    Main Dish:<br> Housemade Pappardelle Pasta in a Light Sungold Tomato and Basil Pomodoro<br><br>
+    Side Dishes:<br> Canlis Salad (no bacon) <br> Roasted Zucchini with Oregano and Anise Hyssop from the Canlis Garden<br> Roasted and Chilled Corn Salad with Burrata and Calabrian Chilies<br> Garlic and Herb Sourdough Rolls<br><br>
+    Dessert:<br> Sweet Corn Cake with Blueberries
+
+    ***We suggest pairing this with the Canlis Wine Pairing for Two ($90), or that pre-COVID bottle of red you were saving and should just drink right now and watch the Godfather or the Godfather II - but never the Godfather The Godfather III.***
+  price: "$48 per person"
+  is_soldout: false
+  is_live: false
+- title: Smoked and Glazed Wagyu Beef Ribs
+  date: 2020-08-13 00:00:00 -07:00
+  experience_id:
+  delivery_id: 172535
+  pickup_id: 172549
+  desc: |-
+    Main Dish:<br> Wagyu Beef Ribs, smoked and glazed in caramelized Ayu Sauce and finished with Cilantro, Togarashi Spice, and Lime<br><br>
+    Side Dishes:<br> Yokosho-Style Potatoes - smashed Potatoes with Vinegar, Cucumber, Carrot, Mustard Seeds, and Onions<br> Housemade Mac Salad<br> Little Gem Lettuce and Cabbage Salad with Red Onion, Toasted Almonds, and Chickpea Miso Dressing<br><br>
+    Dessert:<br> Castella Sponge Cake with Shipped Cream and Peaches
+
+    ***We suggest pairing this with "Shoplifters" (the movie or the soundtrack) and an ice-cold Kirin Ichiban***
+  price: "$68 per person"
+  is_soldout: false
+  is_live: false
+- title: Sea Breeze Farms Roasted Chicken Shawarma
+  date: 2020-08-15 00:00:00 -07:00
+  experience_id:
+  delivery_id: 172537
+  pickup_id: 172550
+  desc: |-
+    Main Dish:<br> Marinated and Roasted Poulet Rouge on a bed of Braised Onions, Fennel, Summer Herbs, and Labneh Yogurt<br><br>
+    Side Dishes:<br> Canlis Salad <br> Heirloom Tomatoes and Stonefruit with a Quince and Tomato Vinaigrette<br> Marinated and Chilled Cucumbers with Fresno Chilies and Mint<br> Homemade Sourdough Pita from our wood oven<br> Roasted Eggplant Babaganoush<br><br>
+    Dessert:<br> Mini Rolled Baklavas with Orange and Rose Syrup
+
+    ***Well, if you like this meal you should buy the Israeli Soul cookbook by Mike Solmonov and Steven Cook.  It also pairs well with a bottle of  Vöcal Sabroso (CA)***
+  price: "$75 per person"
   is_soldout: false
   is_live: false
 - title: The Weekender
-  date: 2020-07-31 00:00:00 -07:00
-  experience_id: 
-  delivery_id: 167138
-  pickup_id: 167148
-  desc: "Get a meal planning head start with a box of the best ingredients we can
-    get our hands on, perfect for a weekend of brunches, bbq's, and outdoor eating.
-    \ Complete with official \"what would my brother make with this stuff\" suggestions
-    for the home cook.<br><br> \nFor Dinner:<br> 2 each 45-day 12oz. Dry-Aged Painted
-    Hills Ribeye Steaks with Spring Onion Chimichurri<br> 2 each Heritage Pork Chops
-    with Montreal Seasoning and Apricot-Mustard Sauce<br> Smoked Salmon and Green
-    Garlic Miso Dip<br> Pickles from the Canlis Research Kitchen Larder<br> Fresh
-    Produce: Spring Onions, Peppers, Kohlrabi, Just-Picked Herbs, Sno-Valley Mushrooms,
-    and more!<br> Ready-to-bake Dark Chocolate Chip and Sea Salt Cookie Dough<br>
-    Bottle of 2018 Domaine de la Patience, Nemausa Rosé<br><br>\nFor Breakfast:<br>
-    Summer Frittata Kit (with recipe) with 1 Dozen Farm Fresh Eggs, Summer Squash,
-    Tieton Farms Goat Cheese and Basil<br> 1 lb of Housemade Breakfast Sausage<br>
-    Fresh Berries & Cherries<br> Samish Bay Yogurt<br><br>\n***Please note that this
-    is a weekend kit, and not a prepared meal***"
-  price: "$175"
-  is_soldout: false
-  is_live: true
-- title: The Weekender
   date: 2020-08-07 00:00:00 -07:00
-  experience_id: 
+  experience_id:
   delivery_id: 169053
   pickup_id: 169590
   desc: "Get a meal planning head start with a box of the best ingredients we can
@@ -128,11 +129,32 @@ menu:
     Produce: Spring Onions, Sweet Corn, Peppers, Kohlrabi, Just-Picked Herbs, Sno-Valley
     Mushrooms, and more!<br> Ready-to-bake Double Chocolate Cherry Cookie Dough<br>
     Bottle of 2019 Isenhower, Cabernet Franc Rosé, Walla Walla Valley<br><br>\nFor
-    Breakfast:<br> 1 Dozen Fram Fresh Eggs<br> 1 lb of Housemade Breakfast Chorizo
+    Breakfast:<br> 1 Dozen Farm Fresh Eggs<br> 1 lb of Housemade Breakfast Chorizo
     Sausage<br> 1 lb of Homestyle Potato Kit with New Potatoes with Garlic, Peppers,
     and Herbs (with Recipe)<br> Samish Bay Yogurt with Fresh Summer Berries and Cherries<br><br>\n***Please
     note that this is a weekend kit, and not a prepared meal***"
   price: "$215"
+  is_soldout: false
+  is_live: true
+- title: The Weekender
+  date: 2020-08-14 00:00:00 -07:00
+  experience_id:
+  delivery_id: 172556
+  pickup_id: 172560
+  desc: "Support our favorite farms and get a meal planning head start with a box
+    of the very same ingredients we would use to make fine dining meals from.  Perfect
+    for a weekend of brunches, BBQ's, and outdoor eating.  Complete with tips and
+    suggestions for the home cook.<br><br> \nFor Dinner:<br> 2 ea. 30-Day Dry-Aged
+    Painted Hills NY Ribeye Steaks (about 12 oz. each)<br> 4 ea. Housemade Bratwursts
+    with Wholegrain Mustard Sauce<br> Smoked Salmon and Green Garlic Miso Dip<br>
+    One Jar of Pickled Veggies from the Canlis Research Kitchen Larder<br> Fresh Produce:
+    Zucchini, Sweet Corn, Peppers, Broccoli, Beets, Just-Picked Herbs, Sno-Valley
+    Mushrooms, and more!<br> Ready-to-bake Snickerdoodle Cookie Dough with Cinnamon
+    Sugar<br> Bottle of Labbe Vine de Savoie<br><br>\nFor Breakfast:<br> 1 Dozen Farm
+    Fresh Eggs<br> Brady's (well...his mom's) Famous Ready-to-bake Cheesy Hashbrown
+    Casserole<br> Samish Bay Greek Yogurt<br> Summer Berries (one pint)<br><br>\n***Please
+    note that this is a weekend kit, and not a prepared meal***"
+  price: "$195"
   is_soldout: false
   is_live: false
 drinks:
@@ -195,3 +217,5 @@ layout: covid-menu
 Mighty-fine meals and more from Canlis to your doorstep, all with zero contact.
 
 Sales go live here every Wednesday at 1PM for the following week.<br> All meals are fully cooked, designed to be reheated. Instructions included.
+
+See our delivery area [here](/deliverymap).
