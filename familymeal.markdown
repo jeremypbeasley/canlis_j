@@ -9,7 +9,7 @@ live_notice: This experience will go live Wednesday at 1:00PM PST
 menu:
 - title: Summer Vegetable Ratatouille
   date: 2020-08-05 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 169045
   pickup_id: 169060
   desc: |-
@@ -21,7 +21,7 @@ menu:
   is_live: true
 - title: Heritage Chicken Tikka Masala
   date: 2020-08-06 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 169049
   pickup_id: 169062
   desc: |-
@@ -33,7 +33,7 @@ menu:
   is_live: true
 - title: Applewood-Grilled Spot Prawn & Teriyaki Ribeye Skewers
   date: 2020-08-08 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 169051
   pickup_id: 169063
   desc: |-
@@ -45,7 +45,7 @@ menu:
   is_live: true
 - title: 'Taco Tuesday: Spot Prawn Tacos'
   date: 2020-08-11 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 172519
   pickup_id: 172541
   desc: |-
@@ -60,7 +60,7 @@ menu:
 - title: Pappardelle Pasta and Braised Pork Shoulder with Sungold Tomato and Basil
     Pomodoro
   date: 2020-08-12 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 172530
   pickup_id: 172544
   desc: |-
@@ -74,7 +74,7 @@ menu:
   is_live: false
 - title: Pappardelle Pasta with Sungold Tomato and Basil Pomodoro
   date: 2020-08-12 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 172532
   pickup_id: 172547
   desc: |-
@@ -88,7 +88,7 @@ menu:
   is_live: false
 - title: Smoked and Glazed Wagyu Beef Ribs
   date: 2020-08-13 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 172535
   pickup_id: 172549
   desc: |-
@@ -102,7 +102,7 @@ menu:
   is_live: false
 - title: Sea Breeze Farms Roasted Chicken Shawarma
   date: 2020-08-15 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 172537
   pickup_id: 172550
   desc: |-
@@ -116,7 +116,7 @@ menu:
   is_live: false
 - title: The Weekender
   date: 2020-08-07 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 169053
   pickup_id: 169590
   desc: "Get a meal planning head start with a box of the best ingredients we can
@@ -138,7 +138,7 @@ menu:
   is_live: true
 - title: The Weekender
   date: 2020-08-14 00:00:00 -07:00
-  experience_id:
+  experience_id: 
   delivery_id: 172556
   pickup_id: 172560
   desc: "Support our favorite farms and get a meal planning head start with a box
