@@ -44,7 +44,7 @@ menu:
     desc: 
     price: "$54 per person"
     is_soldout: false
-    is_forsale: false
+    is_forsale: true
   - title: Pappardelle Pasta and Braised Pork Shoulder with Sungold Tomato and Basil
       Pomodoro
     date: 2020-08-12 00:00:00 -07:00
@@ -54,7 +54,7 @@ menu:
     desc: 
     price: "$58 per person"
     is_soldout: false
-    is_forsale: false
+    is_forsale: true
   - title: Pappardelle Pasta with Sungold Tomato and Basil Pomodoro
     date: 2020-08-12 00:00:00 -07:00
     show_date: true
@@ -63,7 +63,7 @@ menu:
     desc: 
     price: "$48 per person"
     is_soldout: false
-    is_forsale: false
+    is_forsale: true
   - title: Smoked and Glazed Wagyu Beef Ribs
     date: 2020-08-13 00:00:00 -07:00
     show_date: true
@@ -72,7 +72,7 @@ menu:
     desc: 
     price: "$68 per person"
     is_soldout: false
-    is_forsale: false
+    is_forsale: true
   - title: Sea Breeze Farms Roasted Chicken Shawarma
     date: 2020-08-15 00:00:00 -07:00
     show_date: true
@@ -81,7 +81,7 @@ menu:
     desc: 
     price: "$75 per person"
     is_soldout: false
-    is_forsale: false
+    is_forsale: true
 - menu-category-title: Boxes
   menu-items:
   - title: The Weekender
