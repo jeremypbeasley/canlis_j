@@ -1,0 +1,133 @@
+{% include head.html %}
+<div style="height: 6vw;"></div>
+<div class="mt3 d-mt8 flex">
+  <div class="col mt3 ml3 mr3 d-mt0 d-mr0 d-ml0 col-onethird">
+    <img src="{{ page.image }}"/>
+  </div>
+  <div class="col mt3 ml3 mr3 d-mt15 d-mr15 d-ml15 col-onethird">
+    <h1 class="Display1 mb3 mt3">{{ page.title }}</h1>
+    {{ content }}
+    <div class="mb2 contents">
+      {% for category in page.menu %}
+        <div class="MenuCategory">
+          <h2 class="DrinkCategory Caption mb5 mt5 d-mt10">
+            {{ category.menu-category-title }}
+          </h2>
+          <!-- if the category has items in it -->
+          {% if category.menu-items %}
+            {% for item in category.menu-items %}
+              {% if item.date %}
+                <!-- get today's date -->
+                {% capture now %}
+                  {{ 'now' | date: '%s' }}
+                {% endcapture %}
+                {% capture date %}
+                  {{ item.date | date: '%s' }}
+                {% endcapture %}
+                <!-- if the date isn't in the past, show the item -->
+                {% if date > now %}
+                  <div class="menuItem p3 pb4 d-p4 d-pb5 d-mb1">
+                    <div class="p0 mb1 Display2">{{ item.title }}</div>
+                    <!-- show the date if it's not a permanent item -->
+                    {% if item.show_date == true %}
+                    <!-- Get the date -->
+                      {% capture day %}{{ item.date | date: "%-d" }}{% endcapture %}
+                      {% capture dayLastTwoDigits %}{{ day | modulo: 100 }}{% endcapture %}
+                      <!-- Determine the suffix -->
+                      {% if dayLastTwoDigits >= "11" and dayLastTwoDigits <= "13" %}
+                        {% assign ordinal = "th" %}
+                      {% else %}
+                        {% capture dayLastDigit %}{{ day | modulo: 10 }}{% endcapture %}
+                        {% case dayLastDigit %}
+                          {% when "1" %}
+                            {% assign ordinal = "st" %}
+                          {% when "2" %}
+                            {% assign ordinal = "nd" %}
+                          {% when "3" %}
+                            {% assign ordinal = "rd" %}
+                          {% else %}
+                            {% assign ordinal = "th" %}
+                        {% endcase %}
+                      {% endif %}
+                      {% capture ordinalDay %}{{ day | append: ordinal }}{% endcapture %}
+                      <!-- display the date -->
+                      <div class="p0 mt0 mb2 op60 typeface-tertiary">
+                        {{ item.date | date: "%A, %B" }} {{ ordinalDay }}&nbsp;⁘&nbsp;{{ item.price }}
+                      </div>
+                    {% else %}
+                      <div class="p0 mt0 mb2 op60 typeface-tertiary">
+                        {{ item.price }}
+                      </div>
+                    {% endif %}
+                    <!-- if show_date == true  -->
+                    {% if item.desc %}
+                      <div class="m0 p0 mb2 lineHeight150">{{ item.desc }}</div>
+                    {% endif %}
+                    <!-- if item.desc -->
+                    {% if item.is_forsale == true %}
+                      {% if item.is_soldout == true %}
+                        <div class="flex m0 SoldOut pt1">
+                          <div class="col">
+                            <a class="TockButton TockButtonSoldOut op20">
+                              Sold Out
+                            </a>
+                          </div>
+                          <div class="col col-twothirds">
+                            <a
+                              class="Caption NoLine color-tock-blue m2"
+                              target="_blank"
+                              href="https://www.exploretock.com/canlis/waitlist?experienceId={{ item.delivery_id }}"
+                            >
+                              Join Waitlist
+                            </a>
+                          </div>
+                        </div>
+                      {% else %}
+                        <div class="OrderButtons flex mt3">
+                          {% if item.delivery_id %}
+                            <div class="mr1">
+                              <a
+                                class="TockButton TockButtonLocal mt3 mb4 OrderLink"
+                                href="https://exploretock.com/canlis/experience/{{ item.delivery_id }}/"
+                                target="_blank"
+                              >
+                                Delivery
+                              </a>
+                            </div>
+                          {% endif %}
+                          {% if item.pickup_id %}
+                            <div class="">
+                              <a
+                                class="TockButton TockButtonLocal mt3 mb4 OrderLink"
+                                href="https://exploretock.com/canlis/experience/{{ item.pickup_id }}/"
+                                target="_blank"
+                              >
+                                Pickup
+                              </a>
+                            </div>
+                          {% endif %}
+                        </div>
+                      {% endif %}
+                      <!-- end is_soldout -->
+                    {% else %}
+                      <div class="color-tock-blue mt0 p0 typeface-tertiary">{{ page.live_notice }}</div>
+                    {% endif %}
+                    <!-- end is_forsale -->
+                  </div>
+                  <!-- closing of item's div -->
+                {% endif %}
+                <!-- if date > now  -->
+              {% endif %}
+              <!-- if item.date  -->
+            {% endfor %}
+            <!-- item in category.menu-items -->
+          {% endif %}
+          <!-- if category.menu-items -->
+        </div>
+        <!-- closing MenuCategory -->
+      {% endfor %}
+      <!-- for category in page.menu -->
+    </div>
+  </div>
+</div>
+{% include minifooter.html %}

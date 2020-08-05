@@ -1659,10 +1659,10 @@ table {
 }
 
 html {
-  font-size: 15px;
+  font-size: 13px;
   font-family: typeface-body, serif;
 }
-@media (min-width: 30em) {
+@media (min-width: 62em) {
   html {
     font-size: 15px;
   }
@@ -1785,10 +1785,6 @@ h6 {
 h1 {
   font-size: 2rem;
 }
-h3 {
-  font-size: 1rem;
-  opacity: 0.4;
-}
 ul,
 li {
   list-style: none;
@@ -1864,6 +1860,9 @@ li {
   .Caption {
     font-size: 1rem;
   }
+}
+.typeface-tertiary {
+  font-family: HelveticaNeue-Medium, "ApercuMono", Andale Mono, monospaced;
 }
 html {
   min-height: 100%;
@@ -2342,6 +2341,9 @@ img {
 .CenterText {
   text-align: center;
 }
+.lineHeight150 {
+  line-height: 150%;
+}
 .op20 {
   opacity: 0.2;
 }
@@ -2359,6 +2361,9 @@ img {
 }
 .color-negative {
   color: #f79494;
+}
+.color-accent-primary {
+  color: #ffa500;
 }
 .color-tock-blue {
   color: #1b1ba3;
@@ -4498,13 +4503,22 @@ input[type=submit] {
 }
 .TockButton {
   border: 1px solid #000;
-  background-color: #000;
-  padding: 12px 15px;
-  border-radius: 4px;
+  background-color: transparent;
+  padding: 8px 15px;
+  border-radius: 40px;
   text-align: center;
-  color: #fff;
+  color: #000;
   transition: all 200ms ease-out;
   font-family: HelveticaNeue-Medium, "ApercuMono", Andale Mono, monospaced;
+}
+@media (min-width: 62em) {
+  .TockButton {
+    padding: 8px 15px;
+  }
+}
+.TockButton:hover {
+  background-color: #fff;
+  box-shadow: 4px 4px 0px #000;
 }
 .TockButton::before {
   display: none;
@@ -4565,9 +4579,6 @@ input[type=submit] {
 .ConceptBlock:hover {
   transform: translateY(-3px);
 }
-.DrinkCategory:first-child {
-  margin-top: 0;
-}
 .ConceptBlock:last-child .Divider,
 .MenuItem:last-child .Divider {
   display: none;
@@ -4599,6 +4610,30 @@ input[type=submit] {
   animation-duration: 10s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
+}
+.menuItem {
+  border-bottom: 1px solid rgba(0,0,0,0.1);
+  border-radius: 3px;
+  margin-left: -24px;
+  width: calc(100% + 50px);
+}
+@media (min-width: 62em) {
+  .menuItem {
+    width: 100%;
+    margin-left: 0;
+    border: 1px solid rgba(0,0,0,0.1);
+  }
+}
+.menuItem:last-of-type {
+  border-bottom: 4px solid rgba(0,0,0,0.1);
+}
+@media (min-width: 62em) {
+  .menuItem:last-of-type {
+    border: 1px solid rgba(0,0,0,0.1);
+  }
+}
+.MenuCategory .menuItem:first-of-type {
+  border-top: 1px solid rgba(0,0,0,0.1);
 }
 @-moz-keyframes spin {
   0% {
