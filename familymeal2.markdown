@@ -89,9 +89,8 @@ menu:
     show_date: true
     delivery_id: 169053
     pickup_id: 169590
-    desc: Support our favorite farms and get a meal planning head start with a box
-      of the very same ingredients we would use to make fine dining meals from. Perfect
-      for a weekend of brunches, BBQ's, and outdoor eating.
+    desc: 'Support our favorite farms and get a meal planning head start with a box
+      of the very same ingredients we would use to make fine dining meals from. '
     price: "$215"
     is_soldout: false
     is_forsale: true
@@ -100,9 +99,8 @@ menu:
     show_date: true
     delivery_id: 172556
     pickup_id: 172560
-    desc: Support our favorite farms and get a meal planning head start with a box
-      of the very same ingredients we would use to make fine dining meals from. Perfect
-      for a weekend of brunches, BBQ's, and outdoor eating.
+    desc: 'Support our favorite farms and get a meal planning head start with a box
+      of the very same ingredients we would use to make fine dining meals from. '
     price: "$195"
     is_soldout: false
     is_forsale: false
