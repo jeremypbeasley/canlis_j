@@ -2341,6 +2341,9 @@ img {
 .CenterText {
   text-align: center;
 }
+.lineHeight150 {
+  line-height: 150%;
+}
 .op20 {
   opacity: 0.2;
 }
@@ -4510,7 +4513,7 @@ input[type=submit] {
 }
 @media (min-width: 62em) {
   .TockButton {
-    padding: 12px 15px;
+    padding: 8px 15px;
   }
 }
 .TockButton:hover {
