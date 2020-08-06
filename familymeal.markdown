@@ -53,7 +53,7 @@ menu:
     pickup_id: 172544
     desc: 
     price: "$58 per person"
-    is_soldout: false
+    is_soldout: true
     is_forsale: true
   - title: Pappardelle Pasta with Sungold Tomato and Basil Pomodoro
     date: 2020-08-12 00:00:00 -07:00
@@ -62,7 +62,7 @@ menu:
     pickup_id: 172547
     desc: 
     price: "$48 per person"
-    is_soldout: false
+    is_soldout: true
     is_forsale: true
   - title: Smoked and Glazed Wagyu Beef Ribs
     date: 2020-08-13 00:00:00 -07:00
@@ -71,7 +71,7 @@ menu:
     pickup_id: 172549
     desc: 
     price: "$68 per person"
-    is_soldout: false
+    is_soldout: true
     is_forsale: true
   - title: Sea Breeze Farms Roasted Chicken Shawarma
     date: 2020-08-15 00:00:00 -07:00
@@ -103,7 +103,7 @@ menu:
       of the very same ingredients we would use to make fine dining meals from. '
     price: "$195"
     is_soldout: false
-    is_forsale: false
+    is_forsale: true
 - menu-category-title: Cocktail Kits
   menu-items:
   - title: 'Manhattan '
