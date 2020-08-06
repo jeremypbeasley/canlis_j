@@ -56,7 +56,7 @@ menu:
     ***We suggest pairing this with: a six-pack of cheap beer or the Canlis Margarita Kit***
   price: "$54 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Pappardelle Pasta and Braised Pork Shoulder with Sungold Tomato and Basil
     Pomodoro
   date: 2020-08-12 00:00:00 -07:00
@@ -70,8 +70,8 @@ menu:
 
     ***We suggest pairing this with the Canlis Wine Pairing for Two ($90), or that pre-COVID bottle of red you were saving and should just drink right now and watch the Godfather or the Godfather II - but never the Godfather The Godfather III.***
   price: "$58 per person"
-  is_soldout: false
-  is_live: false
+  is_soldout: true
+  is_live: true
 - title: Pappardelle Pasta with Sungold Tomato and Basil Pomodoro
   date: 2020-08-12 00:00:00 -07:00
   experience_id: 
@@ -85,7 +85,7 @@ menu:
     ***We suggest pairing this with the Canlis Wine Pairing for Two ($90), or that pre-COVID bottle of red you were saving and should just drink right now and watch the Godfather or the Godfather II - but never the Godfather The Godfather III.***
   price: "$48 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Smoked and Glazed Wagyu Beef Ribs
   date: 2020-08-13 00:00:00 -07:00
   experience_id: 
@@ -99,7 +99,7 @@ menu:
     ***We suggest pairing this with "Shoplifters" (the movie or the soundtrack) and an ice-cold Kirin Ichiban***
   price: "$68 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: Sea Breeze Farms Roasted Chicken Shawarma
   date: 2020-08-15 00:00:00 -07:00
   experience_id: 
@@ -113,7 +113,7 @@ menu:
     ***Well, if you like this meal you should buy the Israeli Soul cookbook by Mike Solmonov and Steven Cook.  It also pairs well with a bottle of  Vöcal Sabroso (CA)***
   price: "$75 per person"
   is_soldout: false
-  is_live: false
+  is_live: true
 - title: The Weekender
   date: 2020-08-07 00:00:00 -07:00
   experience_id: 
@@ -156,7 +156,7 @@ menu:
     note that this is a weekend kit, and not a prepared meal***"
   price: "$195"
   is_soldout: false
-  is_live: false
+  is_live: true
 drinks:
 - drink-category: 'Cocktail Kits '
   drinks:
