@@ -85,16 +85,6 @@ menu:
 - menu-category-title: Boxes
   menu-items:
   - title: The Weekender
-    date: 2020-08-07 00:00:00 -07:00
-    show_date: true
-    delivery_id: 169053
-    pickup_id: 169590
-    desc: 'Support our favorite farms and get a meal planning head start with a box
-      of the very same ingredients we would use to make fine dining meals from. '
-    price: "$215"
-    is_soldout: true
-    is_forsale: true
-  - title: The Weekender
     date: 2020-08-14 00:00:00 -07:00
     show_date: true
     delivery_id: 172556
