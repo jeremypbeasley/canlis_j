@@ -92,7 +92,7 @@ menu:
     desc: 'Support our favorite farms and get a meal planning head start with a box
       of the very same ingredients we would use to make fine dining meals from. '
     price: "$215"
-    is_soldout: false
+    is_soldout: true
     is_forsale: true
   - title: The Weekender
     date: 2020-08-14 00:00:00 -07:00
