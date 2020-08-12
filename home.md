@@ -1,5 +1,5 @@
 ---
-title: Home
+title: About
 intro_video: "/uploads/bgvideo.mp4"
 headline: Please come<Br> over for dinner.
 headline_mobile: Please come over for dinner.

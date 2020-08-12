@@ -16,7 +16,7 @@ menu:
     pickup_id: 169060
     desc: 
     price: "$40 per person"
-    is_soldout: false
+    is_soldout: true
     is_forsale: true
   - title: Heritage Chicken Tikka Masala
     date: 2020-08-06 00:00:00 -07:00
@@ -62,7 +62,7 @@ menu:
     pickup_id: 172547
     desc: 
     price: "$48 per person"
-    is_soldout: true
+    is_soldout: false
     is_forsale: true
   - title: Smoked and Glazed Wagyu Beef Ribs
     date: 2020-08-13 00:00:00 -07:00
@@ -89,8 +89,9 @@ menu:
     show_date: true
     delivery_id: 172556
     pickup_id: 172560
-    desc: 'Support our favorite farms and get a meal planning head start with a box
-      of the very same ingredients we would use to make fine dining meals from. '
+    desc: "Support our favorite farms and get a meal planning head start with a box
+      of the very same ingredients we would use to make fine dining meals from.<br><br>
+      \nDeliveries take place between 4pm-7pm"
     price: "$195"
     is_soldout: false
     is_forsale: true
