@@ -9,39 +9,12 @@ live_notice: Available today at 1:00PM PST
 menu:
 - menu-category-title: Dinners
   menu-items:
-  - title: Smoked and Glazed Wagyu Beef Ribs
-    date: 2020-08-13 00:00:00 -07:00
-    show_date: true
-    delivery_id: 172535
-    pickup_id: 172549
-    desc: 
-    price: "$68 per person"
-    is_soldout: true
-    is_forsale: true
-  - title: Sea Breeze Farms Roasted Chicken Shawarma
-    date: 2020-08-15 00:00:00 -07:00
-    show_date: true
-    delivery_id: 172537
-    pickup_id: 172550
-    desc: 
-    price: "$75 per person"
-    is_soldout: false
-    is_forsale: true
-  - title: '"Sweet-N-Sassy-N-A-Lil-Spice" Pork Tenderloin'
-    date: 2020-08-18 00:00:00 -07:00
-    show_date: true
-    delivery_id: 175044
-    pickup_id: 175054
-    desc: 
-    price: "$52 per person"
-    is_soldout: false
-    is_forsale: true
   - title: Duck Carnitas Enchiladas Roja
     date: 2020-08-19 00:00:00 -07:00
     show_date: true
     delivery_id: 175045
     pickup_id: 175053
-    desc: 
+    desc:
     price: "$50 per person"
     is_soldout: false
     is_forsale: true
@@ -50,7 +23,7 @@ menu:
     show_date: true
     delivery_id: 175047
     pickup_id: 175055
-    desc: 
+    desc:
     price: "$46 per person"
     is_soldout: false
     is_forsale: true
@@ -59,7 +32,7 @@ menu:
     show_date: true
     delivery_id: 175048
     pickup_id: 175056
-    desc: 
+    desc:
     price: "$64 per person"
     is_soldout: false
     is_forsale: true
@@ -68,23 +41,57 @@ menu:
     show_date: true
     delivery_id: 175050
     pickup_id: 175057
-    desc: 
+    desc:
     price: "$58 per person"
     is_soldout: false
     is_forsale: true
+  - title: Seared Ahi Tuna
+    date: 2020-08-25 00:00:00 -07:00
+    show_date: true
+    delivery_id: 177780
+    pickup_id: 177812
+    desc:
+    price: "$56 per person"
+    is_soldout: false
+    is_forsale: false
+  - title:  Buttermilk Fried Chicken
+    date: 2020-08-26 00:00:00 -07:00
+    show_date: true
+    delivery_id: 177804
+    pickup_id: 177815
+    desc:
+    price: "$52 per person"
+    is_soldout: false
+    is_forsale: false
+  - title: Pork Carnitas Chile Relleno
+    date: 2020-08-27 00:00:00 -07:00
+    show_date: true
+    delivery_id: 177806
+    pickup_id: 177816
+    desc:
+    price: "$46 per person"
+    is_soldout: false
+    is_forsale: false
+  - title:  Vegetarian Chile Relleno
+    date: 2020-08-27 00:00:00 -07:00
+    show_date: true
+    delivery_id: 177808
+    pickup_id: 177818
+    desc:
+    price: "$44 per person"
+    is_soldout: false
+    is_forsale: false
+  - title:  Summer Surf N’ Turf
+    date: 2020-08-29 00:00:00 -07:00
+    show_date: true
+    delivery_id: 177809
+    pickup_id: 177819
+    desc:
+    price: "$72 per person"
+    is_soldout: false
+    is_forsale: false
 - menu-category-title: Boxes
   menu-items:
-  - title: The Weekender
-    date: 2020-08-14 00:00:00 -07:00
-    show_date: true
-    delivery_id: 172556
-    pickup_id: 172560
-    desc: "Support our favorite farms and get a meal planning head start with a box
-      of the very same ingredients we would use to make fine dining meals from.<br><br>
-      \nDeliveries take place between 4pm-7pm"
-    price: "$195"
-    is_soldout: false
-    is_forsale: true
   - title: The Tex-Mex Weekender
     date: 2020-08-21 00:00:00 -07:00
     show_date: true
@@ -93,11 +100,21 @@ menu:
     desc: "A weekend fest that supports our favorite farms.  Get a meal planning head
       start with a box of the very same ingredients we would use to make fine dining
       meals in pre-pandemic times.  Perfect for a weekend of brunches, BBQ's, and
-      outdoor eating.  Complete with tips and suggestions for the home cook.<br><br>
-      \nDeliveries take place between 4pm-7pm"
+      outdoor eating.  Complete with tips and suggestions for the home cook."
     price: "$195"
     is_soldout: false
     is_forsale: true
+  - title: The Weekender
+    date: 2020-08-28 00:00:00 -07:00
+    show_date: true
+    delivery_id: 177822
+    pickup_id: 177824
+    desc: "A weekend fest that supports our favorite farms.  Get a meal planning head
+      start with a box of the very same ingredients we would use to make fine dining
+      meals in pre-pandemic times.  Perfect for a weekend of brunches, BBQ's, and
+      outdoor eating.  Complete with tips and suggestions for the home cook."
+    is_soldout: false
+    is_forsale: false
 - menu-category-title: Cocktail Kits
   menu-items:
   - title: 'Manhattan '
