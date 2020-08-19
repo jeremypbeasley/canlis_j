@@ -115,6 +115,7 @@ menu:
       outdoor eating.  Complete with tips and suggestions for the home cook.
     is_soldout: false
     is_forsale: true
+    price: "$195"
 - menu-category-title: Cocktail Kits
   menu-items:
   - title: 'Manhattan '
