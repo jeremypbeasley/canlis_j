@@ -53,7 +53,7 @@ menu:
     desc: 
     price: "$56 per person"
     is_soldout: false
-    is_forsale: false
+    is_forsale: true
   - title: Buttermilk Fried Chicken
     date: 2020-08-26 00:00:00 -07:00
     show_date: true
@@ -62,7 +62,7 @@ menu:
     desc: 
     price: "$52 per person"
     is_soldout: false
-    is_forsale: false
+    is_forsale: true
   - title: Pork Carnitas Chile Relleno
     date: 2020-08-27 00:00:00 -07:00
     show_date: true
@@ -71,7 +71,7 @@ menu:
     desc: 
     price: "$46 per person"
     is_soldout: false
-    is_forsale: false
+    is_forsale: true
   - title: Vegetarian Chile Relleno
     date: 2020-08-27 00:00:00 -07:00
     show_date: true
@@ -80,7 +80,7 @@ menu:
     desc: 
     price: "$44 per person"
     is_soldout: false
-    is_forsale: false
+    is_forsale: true
   - title: Summer Surf N’ Turf
     date: 2020-08-29 00:00:00 -07:00
     show_date: true
@@ -89,7 +89,7 @@ menu:
     desc: 
     price: "$72 per person"
     is_soldout: false
-    is_forsale: false
+    is_forsale: true
 - menu-category-title: Boxes
   menu-items:
   - title: The Tex-Mex Weekender
@@ -114,7 +114,7 @@ menu:
       meals in pre-pandemic times.  Perfect for a weekend of brunches, BBQ's, and
       outdoor eating.  Complete with tips and suggestions for the home cook.
     is_soldout: false
-    is_forsale: false
+    is_forsale: true
 - menu-category-title: Cocktail Kits
   menu-items:
   - title: 'Manhattan '
