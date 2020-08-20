@@ -2359,6 +2359,9 @@ img {
 .rounded10 {
   border-radius: 10px;
 }
+.fullWidth {
+  width: 100%;
+}
 .color-negative {
   color: #f79494;
 }
