@@ -7,5 +7,7 @@ layout: default
 
 Click [here](/courses) to see the course catalog.
 
-Manage my [profile](/#/ms/profile).
+<a data-ms-modal="profile">My profile</a>
+
+<a href="#/ms/logout">Logout</a>
 
