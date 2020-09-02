@@ -7,5 +7,5 @@ layout: default
 
 Click [here](/courses) to see the course catalog.
 
-Manage my [profile](#/ms/profile).
+Manage my [profile](/#/ms/profile).
 
