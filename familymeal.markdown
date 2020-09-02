@@ -14,7 +14,7 @@ menu:
     show_date: true
     delivery_id: 175045
     pickup_id: 175053
-    desc: 
+    desc:
     price: "$50 per person"
     is_soldout: false
     is_forsale: true
@@ -23,7 +23,7 @@ menu:
     show_date: true
     delivery_id: 175047
     pickup_id: 175055
-    desc: 
+    desc:
     price: "$46 per person"
     is_soldout: false
     is_forsale: true
@@ -32,7 +32,7 @@ menu:
     show_date: true
     delivery_id: 175048
     pickup_id: 175056
-    desc: 
+    desc:
     price: "$64 per person"
     is_soldout: false
     is_forsale: true
@@ -41,7 +41,17 @@ menu:
     show_date: true
     delivery_id: 175050
     pickup_id: 175057
-    desc: 
+    desc:
+    long_desc: |-
+      - Main Dish:
+        - Heritage Breed Local Chicken Marinated in a Miso-BBQ Sauce and Grilled Over Applewood with plenty of extra BBQ Sauce
+      - Side Dishes:
+        - Marinated Tomato Salad with Stone Fruit, Shallots and Quince Vinaigrette
+        - Garlic and Herb Mashed Yukon Gold Potatoes
+        - Sherry and Thyme-Sauteed Forest Mushrooms
+        - Garlic and Herb Sourdough Rolls
+      - Dessert:
+        - Coffee Chocolate Pot de Creme with Amaretto Cookies
     price: "$58 per person"
     is_soldout: false
     is_forsale: true
@@ -50,7 +60,16 @@ menu:
     show_date: true
     delivery_id: 177780
     pickup_id: 177812
-    desc: 
+    desc:
+    long_desc: |-
+      - Main Dish:
+        - Seared Ahi Tuna Steak served with Sweet Soy, Ginger, and Sesame Seeds over Quick-pickled Tsukemono Cucumbers and Black Rice
+      - Side Dishes:
+        - The Canlis Salad
+        - Sno-Valley Mushrooms sauteed in Seaweed Butter
+      Herb and Garlic Sourdough Rolls
+      - Dessert:
+        - Anmitsu (Japanese Jelly with Peaches, Berries and Red Bean Paste)
     price: "$56 per person"
     is_soldout: false
     is_forsale: true
@@ -59,7 +78,17 @@ menu:
     show_date: true
     delivery_id: 177804
     pickup_id: 177815
-    desc: 
+    desc:
+    long_desc: |-
+      - Main Dish:
+        - Buttermilk Fried Chicken (½ per person)
+      - Side Dishes:
+        - Baked Macaroni and Cheese
+        - Yokosho Style Potato Salad
+        - Yubeshi BBQ Baked Beans
+        - Jalapeno Cornbread with Big Leaf Maple Butter
+      - Dessert:
+        - Chocolate Cake Trifle with Summer Berry Lavender Compote and Whipped Cream
     price: "$52 per person"
     is_soldout: false
     is_forsale: true
@@ -68,7 +97,16 @@ menu:
     show_date: true
     delivery_id: 177806
     pickup_id: 177816
-    desc: 
+    desc:
+    long_desc: |-
+      - Main Dish:
+        - Battered and Fried Poblano Pepper Stuffed with Slow-roasted Pork Shoulder, Onions, Black Beans and Queso Oaxaca and Finished with a Roasted Ranchero Sauce
+      - Side Dishes:
+        - Fresh Watermelon Compressed with Chile Pequin, Mint, and Lime
+        - Cabbage Salad with Avocado Vinaigrette, Radish, Lime and and Tortilla Strips
+        - Grilled Corn “Elotes” with Cotija, Crema, and Cilantro
+      - Dessert:
+        - Cinnamon Arroz Con Leche
     price: "$46 per person"
     is_soldout: false
     is_forsale: true
@@ -77,7 +115,16 @@ menu:
     show_date: true
     delivery_id: 177808
     pickup_id: 177818
-    desc: 
+    desc:
+    long_desc: |-
+      - Main Dish:
+        - Battered and Fried Poblano Pepper Stuffed with Summer Squash, Onions, Black Beans and Queso Oaxaca and Finished with a Roasted Ranchero Sauce
+      - Side Dishes:
+        - Fresh Watermelon Compressed with Chile Pequin, Mint, and Lime
+        - Cabbage Salad with Avocado Vinaigrette, Radish, Lime and and Tortilla Strips
+        - Grilled Corn “Elotes” with Cotija, Crema, and Cilantro
+      - Dessert:
+        - Cinnamon Arroz Con Leche
     price: "$44 per person"
     is_soldout: false
     is_forsale: true
@@ -86,7 +133,16 @@ menu:
     show_date: true
     delivery_id: 177809
     pickup_id: 177819
-    desc: 
+    desc:
+    long_desc: |-
+      - Main Dish:
+        - Dry-Aged NY Strip Steak grilled over applewood & Seared Alaskan Weathervane Scallops with Bonito Beurre Blanc
+      - Side Dishes:
+        - The Canlis Salad
+        - Roasted Cauliflower and Shishito Peppers with Meyer Lemon Aioli
+        - Herb and Garlic Sourdough Rolls
+      - Dessert:
+        - Grapefruit Posset with an Herbed Cucumber Relish
     price: "$72 per person"
     is_soldout: false
     is_forsale: true
@@ -183,7 +239,7 @@ menu:
     price: "$250"
     is_soldout: false
     is_forsale: true
-layout: covid-menu2
+layout: covid-menu
 ---
 
 Mighty-fine meals and more from Canlis to your doorstep, all with zero contact.

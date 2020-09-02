@@ -4638,6 +4638,32 @@ input[type=submit] {
 .MenuCategory .menuItem:first-of-type {
   border-top: 1px solid rgba(0,0,0,0.1);
 }
+.long_desc {
+  opacity: 0;
+  height: 1px;
+  overflow: hidden;
+  transition: all 300ms ease;
+}
+.long_desc.active {
+  opacity: 1;
+  height: auto;
+}
+.long_desc ul {
+  margin-top: 2em;
+  margin-bottom: -1em;
+}
+.long_desc ul li {
+  margin-bottom: 1em;
+}
+.long_desc ul li ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.long_desc ul li ul li {
+  margin-bottom: 0;
+  list-style: circle;
+  margin-left: 1em;
+}
 @-moz-keyframes spin {
   0% {
     transform: rotate(0deg);
