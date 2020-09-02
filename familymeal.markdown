@@ -157,7 +157,7 @@ menu:
     price: "$250"
     is_soldout: false
     is_forsale: true
-layout: covid-menu2
+layout: covid-menu
 ---
 
 Mighty-fine meals and more from Canlis to your doorstep, all with zero contact.
