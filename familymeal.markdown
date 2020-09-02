@@ -14,7 +14,7 @@ menu:
     show_date: true
     delivery_id: 180343
     pickup_id: 180368
-    desc:
+    desc: 
     price: "$48 per person"
     is_soldout: true
     is_forsale: true
@@ -23,7 +23,7 @@ menu:
     show_date: true
     delivery_id: 180347
     pickup_id: 180370
-    desc:
+    desc: 
     price: "$46 per person"
     is_soldout: false
     is_forsale: true
@@ -32,7 +32,7 @@ menu:
     show_date: true
     delivery_id: 180350
     pickup_id: 180373
-    desc:
+    desc: 
     price: "$44 per person"
     is_soldout: false
     is_forsale: true
@@ -41,7 +41,7 @@ menu:
     show_date: true
     delivery_id: 180356
     pickup_id: 180378
-    desc:
+    desc: 
     price: "$58 per person"
     is_soldout: false
     is_forsale: true
