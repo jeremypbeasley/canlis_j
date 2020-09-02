@@ -9,166 +9,84 @@ live_notice: Available today at 1:00PM PST
 menu:
 - menu-category-title: Dinners
   menu-items:
-  - title: Duck Carnitas Enchiladas Roja
-    date: 2020-08-19 00:00:00 -07:00
+  - title: Pacific Halibut Cheeks with Black Truffle Beurre Blanc
+    date: 2020-09-01 00:00:00 -07:00
     show_date: true
-    delivery_id: 175045
-    pickup_id: 175053
+    delivery_id: 180343
+    pickup_id: 180368
     desc:
-    price: "$50 per person"
-    is_soldout: false
+    price: "$48 per person"
+    is_soldout: true
     is_forsale: true
-  - title: Summer Squash & Torpedo Onion Enchiladas Roja (V)
-    date: 2020-08-19 00:00:00 -07:00
+  - title: Heritage Porchetta with Shio Koji Sauce Gribiche
+    date: 2020-09-02 00:00:00 -07:00
     show_date: true
-    delivery_id: 175047
-    pickup_id: 175055
+    delivery_id: 180347
+    pickup_id: 180370
     desc:
     price: "$46 per person"
     is_soldout: false
     is_forsale: true
-  - title: Grilled Miso & Sake Marinated King Salmon
-    date: 2020-08-20 00:00:00 -07:00
+  - title: Summer Vegetable Lasagna Bianca
+    date: 2020-09-03 00:00:00 -07:00
     show_date: true
-    delivery_id: 175048
-    pickup_id: 175056
+    delivery_id: 180350
+    pickup_id: 180373
     desc:
-    price: "$64 per person"
-    is_soldout: false
-    is_forsale: true
-  - title: BBQ Heritage Chicken
-    date: 2020-08-22 00:00:00 -07:00
-    show_date: true
-    delivery_id: 175050
-    pickup_id: 175057
-    desc:
-    long_desc: |-
-      - Main Dish:
-        - Heritage Breed Local Chicken Marinated in a Miso-BBQ Sauce and Grilled Over Applewood with plenty of extra BBQ Sauce
-      - Side Dishes:
-        - Marinated Tomato Salad with Stone Fruit, Shallots and Quince Vinaigrette
-        - Garlic and Herb Mashed Yukon Gold Potatoes
-        - Sherry and Thyme-Sauteed Forest Mushrooms
-        - Garlic and Herb Sourdough Rolls
-      - Dessert:
-        - Coffee Chocolate Pot de Creme with Amaretto Cookies
-    price: "$58 per person"
-    is_soldout: false
-    is_forsale: true
-  - title: Seared Ahi Tuna
-    date: 2020-08-25 00:00:00 -07:00
-    show_date: true
-    delivery_id: 177780
-    pickup_id: 177812
-    desc:
-    long_desc: |-
-      - Main Dish:
-        - Seared Ahi Tuna Steak served with Sweet Soy, Ginger, and Sesame Seeds over Quick-pickled Tsukemono Cucumbers and Black Rice
-      - Side Dishes:
-        - The Canlis Salad
-        - Sno-Valley Mushrooms sauteed in Seaweed Butter
-      Herb and Garlic Sourdough Rolls
-      - Dessert:
-        - Anmitsu (Japanese Jelly with Peaches, Berries and Red Bean Paste)
-    price: "$56 per person"
-    is_soldout: false
-    is_forsale: true
-  - title: Buttermilk Fried Chicken
-    date: 2020-08-26 00:00:00 -07:00
-    show_date: true
-    delivery_id: 177804
-    pickup_id: 177815
-    desc:
-    long_desc: |-
-      - Main Dish:
-        - Buttermilk Fried Chicken (½ per person)
-      - Side Dishes:
-        - Baked Macaroni and Cheese
-        - Yokosho Style Potato Salad
-        - Yubeshi BBQ Baked Beans
-        - Jalapeno Cornbread with Big Leaf Maple Butter
-      - Dessert:
-        - Chocolate Cake Trifle with Summer Berry Lavender Compote and Whipped Cream
-    price: "$52 per person"
-    is_soldout: false
-    is_forsale: true
-  - title: Pork Carnitas Chile Relleno
-    date: 2020-08-27 00:00:00 -07:00
-    show_date: true
-    delivery_id: 177806
-    pickup_id: 177816
-    desc:
-    long_desc: |-
-      - Main Dish:
-        - Battered and Fried Poblano Pepper Stuffed with Slow-roasted Pork Shoulder, Onions, Black Beans and Queso Oaxaca and Finished with a Roasted Ranchero Sauce
-      - Side Dishes:
-        - Fresh Watermelon Compressed with Chile Pequin, Mint, and Lime
-        - Cabbage Salad with Avocado Vinaigrette, Radish, Lime and and Tortilla Strips
-        - Grilled Corn “Elotes” with Cotija, Crema, and Cilantro
-      - Dessert:
-        - Cinnamon Arroz Con Leche
-    price: "$46 per person"
-    is_soldout: false
-    is_forsale: true
-  - title: Vegetarian Chile Relleno
-    date: 2020-08-27 00:00:00 -07:00
-    show_date: true
-    delivery_id: 177808
-    pickup_id: 177818
-    desc:
-    long_desc: |-
-      - Main Dish:
-        - Battered and Fried Poblano Pepper Stuffed with Summer Squash, Onions, Black Beans and Queso Oaxaca and Finished with a Roasted Ranchero Sauce
-      - Side Dishes:
-        - Fresh Watermelon Compressed with Chile Pequin, Mint, and Lime
-        - Cabbage Salad with Avocado Vinaigrette, Radish, Lime and and Tortilla Strips
-        - Grilled Corn “Elotes” with Cotija, Crema, and Cilantro
-      - Dessert:
-        - Cinnamon Arroz Con Leche
     price: "$44 per person"
     is_soldout: false
     is_forsale: true
-  - title: Summer Surf N’ Turf
-    date: 2020-08-29 00:00:00 -07:00
+  - title: 'Roasted Dry-Aged Duck Breast with Orange and Calabrian Chile Agrodolce '
+    date: 2020-09-05 00:00:00 -07:00
     show_date: true
-    delivery_id: 177809
-    pickup_id: 177819
+    delivery_id: 180356
+    pickup_id: 180378
     desc:
-    long_desc: |-
-      - Main Dish:
-        - Dry-Aged NY Strip Steak grilled over applewood & Seared Alaskan Weathervane Scallops with Bonito Beurre Blanc
-      - Side Dishes:
-        - The Canlis Salad
-        - Roasted Cauliflower and Shishito Peppers with Meyer Lemon Aioli
-        - Herb and Garlic Sourdough Rolls
-      - Dessert:
-        - Grapefruit Posset with an Herbed Cucumber Relish
-    price: "$72 per person"
+    price: "$58 per person"
     is_soldout: false
     is_forsale: true
 - menu-category-title: Boxes
   menu-items:
-  - title: The Tex-Mex Weekender
-    date: 2020-08-21 00:00:00 -07:00
-    show_date: true
-    delivery_id: 175061
-    pickup_id: 175063
-    desc: A weekend fest that supports our favorite farms.  Get a meal planning head
-      start with a box of the very same ingredients we would use to make fine dining
-      meals in pre-pandemic times.  Perfect for a weekend of brunches, BBQ's, and
-      outdoor eating.  Complete with tips and suggestions for the home cook.
-    price: "$195"
-    is_soldout: false
-    is_forsale: true
-  - title: The Weekender
-    date: 2020-08-28 00:00:00 -07:00
+  - date: 2020-08-28 00:00:00 -07:00
     show_date: true
     delivery_id: 177822
     pickup_id: 177824
-    desc: A weekend fest that supports our favorite farms.  Get a meal planning head
+    desc: "A weekend fest that supports our favorite farms.  Get a meal planning head
       start with a box of the very same ingredients we would use to make fine dining
       meals in pre-pandemic times.  Perfect for a weekend of brunches, BBQ's, and
-      outdoor eating.  Complete with tips and suggestions for the home cook.
+      outdoor eating.  Complete with tips and suggestions for the home cook.<br><br>\nFor
+      Dinner:<br> The Canlis Drive-on-thru Burger Kit complete with 2 lbs of our Dry-Aged
+      Ground Burger Blend, 6 Hamburger Buns, Pickles, Caramelized Onions, American
+      Cheese, and Fancy Sauce.<br> 8 Ready-to-Grill Ribeye and Spot Prawn Skewers
+      (4 Beef/Veggie and 4 Spot Prawn/Veggie) with Spring Onion Chimichurri<br> Smoked
+      Salmon and Green Garlic Miso Dip<br> Fresh Produce: Zucchini, Sweet Corn, Peppers,
+      Green Beans, Brassicas, Eggplant, Just-Picked Herbs, and more.<br> Ready-to-Bake
+      Dark Chocolate Chip Cookies with Jacobsen Sea Salt<br> Bottle of Labbe Vin de
+      Savoie, Jacquere - located in Eastern France, off-the-beaten path.<br><br> \nFor
+      Breakfast:<br> 1 Dozen Farm Fresh Eggs<br> 1 lb Housemade Breakfast Sausage<br>
+      1 Jar of Samish Bay Greek Yogurt with Fresh Blackberries and Peaches"
+    is_soldout: false
+    is_forsale: true
+    price: "$195"
+  - title: Labor Day Weekender
+    date: 2020-09-04 00:00:00 -07:00
+    show_date: true
+    delivery_id: 180362
+    pickup_id: 180375
+    desc: "We have the three-day, holiday weekend covered with a feast that supports
+      our favorite farms.  Get a meal planning head start with a box of the very same
+      ingredients we use at Canlis.  Perfect for a weekend of brunches, BBQ's, and
+      outdoor eating.  Complete with tips and suggestions to make any home cook successful.<br><br>\nFor
+      Dinner:<br> Painted Hills Hanger Steak for 4 with Japanese Spring Onion Chimichurri<br>
+      One full rack of Pork Ribs, dry-rubbed with Brown Sugar and Chilies, and ready
+      to smoke, roast, or grill.  Served with Honey and Togarashi Glaze.<br> Homemade
+      Pasta Salad with Canlis Charcuterie, Olives, and Mozzarella<br> One Jar of Pickled
+      Veggies from the Canlis Research Kitchen Larder<br> Fresh Produce: Zucchini,
+      Sweet Corn, Summer Peppers, Green Beans, Brassicas, Eggplant, Just-Picked Herbs,
+      and more!<br> Ready-to-Bake S'mores Cookies<br> Bottle of Domaine de l'Hermes
+      Rosé<br><br> \nFor Breakfast:<br> 1 Dozen Farm Fresh Eggs<br> Brady's (well...his
+      mom's) Famous, Ready-to-Bake, Cheesy Hashbrown Casserole<br> 1 lb Homemade Breakfast
+      Sausage<br> 1 Jar of Samish Bay Greek Yogurt with Fresh Blackberries and Peaches"
     is_soldout: false
     is_forsale: true
     price: "$195"
@@ -192,7 +110,7 @@ menu:
     delivery_id: 144891
     desc: Includes 1 liter of Plantation Original Dark Rum, 2 liters of Canlis Pina
       Colada mix, pineapple and mint for garnish. Pineapple glasses, straws and umbrellas
-      included, naturally. Makes 12 cocktails.
+      included, naturally. Makes 12 cocktails (2 glasses included in kit).
     price: "$168 &nbsp;⁘&nbsp; ($14 per drink)"
     is_soldout: false
     is_forsale: true
@@ -239,7 +157,7 @@ menu:
     price: "$250"
     is_soldout: false
     is_forsale: true
-layout: covid-menu
+layout: covid-menu2
 ---
 
 Mighty-fine meals and more from Canlis to your doorstep, all with zero contact.
