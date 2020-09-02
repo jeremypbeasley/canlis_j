@@ -13617,6 +13617,14 @@ $(document).ready(function() {
     console.log("Announcement: Off");
   });
 
+  // Long descriptions on /familymeal
+
+  $(document.body).on('click', '.long_desc_trigger', function(){
+    $(this).hide();
+    $('.long_desc').toggleClass('active');
+    console.log("Announcement: Off");
+  });
+
   // Popup
 
   // $(document.body).on('click', '.OrderLink', function(){

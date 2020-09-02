@@ -37,4 +37,3 @@ concepts:
     link: https://canlisgeneralstore.squarespace.com/
 layout: covid-home
 ---
-
