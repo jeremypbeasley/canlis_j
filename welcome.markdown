@@ -9,5 +9,5 @@ Click [here](/courses) to see the course catalog.
 
 <a data-ms-modal="profile">My profile</a>
 
-<a href="#/ms/logout">Logout</a>
+<a href="/#/ms/logout">Logout</a>
 
