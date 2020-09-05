@@ -9,24 +9,6 @@ live_notice: Available today at 1:00PM PST
 menu:
 - menu-category-title: Dinners
   menu-items:
-  - title: Pacific Halibut Cheeks with Black Truffle Beurre Blanc
-    date: 2020-09-01 00:00:00 -07:00
-    show_date: true
-    delivery_id: 180343
-    pickup_id: 180368
-    desc: 
-    price: "$48 per person"
-    is_soldout: true
-    is_forsale: true
-  - title: Heritage Porchetta with Shio Koji Sauce Gribiche
-    date: 2020-09-02 00:00:00 -07:00
-    show_date: true
-    delivery_id: 180347
-    pickup_id: 180370
-    desc: 
-    price: "$46 per person"
-    is_soldout: false
-    is_forsale: true
   - title: Summer Vegetable Lasagna Bianca
     date: 2020-09-03 00:00:00 -07:00
     show_date: true
@@ -45,29 +27,53 @@ menu:
     price: "$58 per person"
     is_soldout: false
     is_forsale: true
-- menu-category-title: Boxes
-  menu-items:
-  - date: 2020-08-28 00:00:00 -07:00
+  - title: Olsen Farms Pork Katsu-Donburi
+    date: 2020-09-08 00:00:00 -07:00
     show_date: true
-    delivery_id: 177822
-    pickup_id: 177824
-    desc: "A weekend fest that supports our favorite farms.  Get a meal planning head
-      start with a box of the very same ingredients we would use to make fine dining
-      meals in pre-pandemic times.  Perfect for a weekend of brunches, BBQ's, and
-      outdoor eating.  Complete with tips and suggestions for the home cook.<br><br>\nFor
-      Dinner:<br> The Canlis Drive-on-thru Burger Kit complete with 2 lbs of our Dry-Aged
-      Ground Burger Blend, 6 Hamburger Buns, Pickles, Caramelized Onions, American
-      Cheese, and Fancy Sauce.<br> 8 Ready-to-Grill Ribeye and Spot Prawn Skewers
-      (4 Beef/Veggie and 4 Spot Prawn/Veggie) with Spring Onion Chimichurri<br> Smoked
-      Salmon and Green Garlic Miso Dip<br> Fresh Produce: Zucchini, Sweet Corn, Peppers,
-      Green Beans, Brassicas, Eggplant, Just-Picked Herbs, and more.<br> Ready-to-Bake
-      Dark Chocolate Chip Cookies with Jacobsen Sea Salt<br> Bottle of Labbe Vin de
-      Savoie, Jacquere - located in Eastern France, off-the-beaten path.<br><br> \nFor
-      Breakfast:<br> 1 Dozen Farm Fresh Eggs<br> 1 lb Housemade Breakfast Sausage<br>
-      1 Jar of Samish Bay Greek Yogurt with Fresh Blackberries and Peaches"
+    delivery_id: 183457
+    pickup_id: 183471
+    desc: 
+    price: "$56 per person"
     is_soldout: false
     is_forsale: true
-    price: "$195"
+  - title: Portobello Mushroom Katsu-Donburi
+    date: 2020-09-08 00:00:00 -07:00
+    show_date: true
+    delivery_id: 183458
+    pickup_id: 183476
+    desc: 
+    price: "$48 per person"
+    is_soldout: false
+    is_forsale: true
+  - title: Grilled Lamb Cofta Skewers with Cucumber & Mint Yogurt Sauce
+    date: 2020-09-09 00:00:00 -07:00
+    show_date: true
+    delivery_id: 183462
+    pickup_id: 183478
+    desc: 
+    price: "$48 per person"
+    is_soldout: false
+    is_forsale: true
+  - title: Alaskan Spot Prawn Pomodoro
+    date: 2020-09-10 00:00:00 -07:00
+    show_date: true
+    delivery_id: 183464
+    pickup_id: 183479
+    desc: 
+    price: "$65 per person"
+    is_soldout: false
+    is_forsale: true
+  - title: Grilled Chicken Al Pastor Tacos
+    date: 2020-09-12 00:00:00 -07:00
+    show_date: true
+    delivery_id: 183468
+    pickup_id: 183485
+    desc: 
+    price: "$52 per person"
+    is_soldout: false
+    is_forsale: true
+- menu-category-title: Boxes
+  menu-items:
   - title: Labor Day Weekender
     date: 2020-09-04 00:00:00 -07:00
     show_date: true
@@ -87,6 +93,27 @@ menu:
       Rosé<br><br> \nFor Breakfast:<br> 1 Dozen Farm Fresh Eggs<br> Brady's (well...his
       mom's) Famous, Ready-to-Bake, Cheesy Hashbrown Casserole<br> 1 lb Homemade Breakfast
       Sausage<br> 1 Jar of Samish Bay Greek Yogurt with Fresh Blackberries and Peaches"
+    is_soldout: true
+    is_forsale: true
+    price: "$195"
+  - title: The Weekender
+    date: 2020-09-11 00:00:00 -07:00
+    show_date: true
+    delivery_id: 183465
+    pickup_id: 183482
+    desc: "We have the weekend covered with a feast that support our favorite farms.
+      \ Get a meal planning head start with a box of the very ingredients we use at
+      Canlis.  Perfect for a weekend of brunches, BBQ's, and outdoor eating.  Complete
+      with tips and suggestions to make any home cook successful.<br><br> \nFor Dinner:<br>
+      1 Sea Breeze Farms Fresh Roaster Chicken with Yubeshi BBQ Sauce<br> 2 King Salmon
+      Steaks with Miso and Sake Marinade (serves 4 people)<br> Not-out-of-a-package-but-still-good
+      Walla Walla French Onion Dip<br> One Jar of Pickled Veggies from the Canlis
+      Research Kitchen Larder<br> Fresh Produce: Zucchini, Tomatoes, Summer Peppers,
+      Green Beans, Brassicas, Eggplant, Just-picked Herbs, and more!<br> Ready-to-bake
+      Peanut Butter Cookie Dough<br> Bottle of Westmount Pinot Noir Rosé<br><br> \nFor
+      Breakfast:<br> 1 Dozen Farm Fresh Eggs<br> 1 lb Homemade Breakfast Sausage<br>
+      1 Baked \"Eggs in Purgatory\" Shakshuka Kit with Feta Cheese and Herbs<br> 1
+      Jar of Samish Bay Fresh Yogurt with Local Melon"
     is_soldout: false
     is_forsale: true
     price: "$195"

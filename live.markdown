@@ -10,7 +10,7 @@ layout: events
 Here's what's happening each night in the Canlis Penthouse. Links to view each live event will be posted here at the time of the event.
 
 <div class="EventsButton mt1 mb10">
-  <a href="https://youtu.be/8QYMh257u6w">
+  <a href="https://youtu.be/6YLV-MqpKwU">
     Watch on Youtube
   </a>
 </div>
@@ -37,7 +37,7 @@ Live piano from 6:00-9:00PM by Jason Lux
 
 <h2 class="Caption mt2 mb3">Saturday, September 5th</h2>
 
-Live piano from 6:00-9:00PM by Kelsey Cate
+Live piano from 6:00-9:00PM by Jonas Myers
 
 <div class="mb4" style="width: 100%; background: black; opacity: .2; height: 1px;"></div>
 
