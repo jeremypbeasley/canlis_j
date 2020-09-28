@@ -9,112 +9,74 @@ live_notice: Available today at 1:00PM PST
 menu:
 - menu-category-title: Dinners
   menu-items:
-  - title: Summer Vegetable Lasagna Bianca
-    date: 2020-09-03 00:00:00 -07:00
+  - title: 'Taco Tuesday: Duck Carnitas Tacos'
+    date: 2020-09-22 00:00:00 -07:00
     show_date: true
-    delivery_id: 180350
-    pickup_id: 180373
+    delivery_id: 188596
+    pickup_id: 188621
     desc: 
-    price: "$44 per person"
-    is_soldout: false
+    price: "$42 per person"
+    is_soldout: true
     is_forsale: true
-  - title: 'Roasted Dry-Aged Duck Breast with Orange and Calabrian Chile Agrodolce '
-    date: 2020-09-05 00:00:00 -07:00
+  - title: Spot Prawn Coconut Curry
+    date: 2020-09-23 00:00:00 -07:00
     show_date: true
-    delivery_id: 180356
-    pickup_id: 180378
-    desc: 
-    price: "$58 per person"
-    is_soldout: false
-    is_forsale: true
-  - title: Olsen Farms Pork Katsu-Donburi
-    date: 2020-09-08 00:00:00 -07:00
-    show_date: true
-    delivery_id: 183457
-    pickup_id: 183471
-    desc: 
-    price: "$56 per person"
-    is_soldout: false
-    is_forsale: true
-  - title: Portobello Mushroom Katsu-Donburi
-    date: 2020-09-08 00:00:00 -07:00
-    show_date: true
-    delivery_id: 183458
-    pickup_id: 183476
+    delivery_id: 188601
+    pickup_id: 188624
     desc: 
     price: "$48 per person"
+    is_soldout: true
+    is_forsale: true
+  - title: Vegetarian Coconut Curry
+    date: 2020-09-23 00:00:00 -07:00
+    show_date: true
+    delivery_id: 188604
+    pickup_id: 188625
+    desc: 
+    price: "$40 per person"
     is_soldout: false
     is_forsale: true
-  - title: Grilled Lamb Cofta Skewers with Cucumber & Mint Yogurt Sauce
-    date: 2020-09-09 00:00:00 -07:00
+  - title: Buttermilk Fried Chicken
+    date: 2020-09-24 00:00:00 -07:00
     show_date: true
-    delivery_id: 183462
-    pickup_id: 183478
+    delivery_id: 188602
+    pickup_id: 188627
     desc: 
-    price: "$48 per person"
-    is_soldout: false
+    price: "$54 per person"
+    is_soldout: true
     is_forsale: true
-  - title: Alaskan Spot Prawn Pomodoro
-    date: 2020-09-10 00:00:00 -07:00
+  - title: Dry-Aged Côte de Boeuf au Poivre
+    date: 2020-09-26 00:00:00 -07:00
     show_date: true
-    delivery_id: 183464
-    pickup_id: 183479
+    delivery_id: 188610
+    pickup_id: 
     desc: 
-    price: "$65 per person"
-    is_soldout: false
-    is_forsale: true
-  - title: Grilled Chicken Al Pastor Tacos
-    date: 2020-09-12 00:00:00 -07:00
-    show_date: true
-    delivery_id: 183468
-    pickup_id: 183485
-    desc: 
-    price: "$52 per person"
+    price: "$72 per person"
     is_soldout: false
     is_forsale: true
 - menu-category-title: Boxes
   menu-items:
-  - title: Labor Day Weekender
-    date: 2020-09-04 00:00:00 -07:00
+  - title: The Final Weekender Kit
+    date: 2020-09-25 00:00:00 -07:00
     show_date: true
-    delivery_id: 180362
-    pickup_id: 180375
-    desc: "We have the three-day, holiday weekend covered with a feast that supports
-      our favorite farms.  Get a meal planning head start with a box of the very same
-      ingredients we use at Canlis.  Perfect for a weekend of brunches, BBQ's, and
-      outdoor eating.  Complete with tips and suggestions to make any home cook successful.<br><br>\nFor
-      Dinner:<br> Painted Hills Hanger Steak for 4 with Japanese Spring Onion Chimichurri<br>
-      One full rack of Pork Ribs, dry-rubbed with Brown Sugar and Chilies, and ready
-      to smoke, roast, or grill.  Served with Honey and Togarashi Glaze.<br> Homemade
-      Pasta Salad with Canlis Charcuterie, Olives, and Mozzarella<br> One Jar of Pickled
-      Veggies from the Canlis Research Kitchen Larder<br> Fresh Produce: Zucchini,
-      Sweet Corn, Summer Peppers, Green Beans, Brassicas, Eggplant, Just-Picked Herbs,
-      and more!<br> Ready-to-Bake S'mores Cookies<br> Bottle of Domaine de l'Hermes
-      Rosé<br><br> \nFor Breakfast:<br> 1 Dozen Farm Fresh Eggs<br> Brady's (well...his
-      mom's) Famous, Ready-to-Bake, Cheesy Hashbrown Casserole<br> 1 lb Homemade Breakfast
-      Sausage<br> 1 Jar of Samish Bay Greek Yogurt with Fresh Blackberries and Peaches"
-    is_soldout: true
-    is_forsale: true
-    price: "$195"
-  - title: The Weekender
-    date: 2020-09-11 00:00:00 -07:00
-    show_date: true
-    delivery_id: 183465
-    pickup_id: 183482
-    desc: "We have the weekend covered with a feast that support our favorite farms.
-      \ Get a meal planning head start with a box of the very ingredients we use at
-      Canlis.  Perfect for a weekend of brunches, BBQ's, and outdoor eating.  Complete
+    delivery_id: 188615
+    pickup_id: 188629
+    desc: "Our final Weekend Kit leaves nothing out!  Get a meal-planning head start
+      with a fridge full of everything you need to take advantage of the weekend,
+      and easily feed your family twice over.  Perfect for a weekend of brunches,
+      late summer BBQ's, and finger's crossed - smokeless outdoor eating.  Complete
       with tips and suggestions to make any home cook successful.<br><br> \nFor Dinner:<br>
-      1 Sea Breeze Farms Fresh Roaster Chicken with Yubeshi BBQ Sauce<br> 2 King Salmon
-      Steaks with Miso and Sake Marinade (serves 4 people)<br> Not-out-of-a-package-but-still-good
-      Walla Walla French Onion Dip<br> One Jar of Pickled Veggies from the Canlis
-      Research Kitchen Larder<br> Fresh Produce: Zucchini, Tomatoes, Summer Peppers,
-      Green Beans, Brassicas, Eggplant, Just-picked Herbs, and more!<br> Ready-to-bake
-      Peanut Butter Cookie Dough<br> Bottle of Westmount Pinot Noir Rosé<br><br> \nFor
+      4 each Dry-Aged Painted Hills NY Strip Steaks<br> One full rack of Pork Ribs,
+      dry-rubbed with Brown Sugar and Chilies and ready to smoke, roast, or grill.
+      \ Served with a Honey and Togarashi Glaze<br> Smoked Salmon and Green Garlic
+      Miso Dip<br> One Jar of Pickled Veggies from the Canlis Research Kitchen Larder<br>
+      Fresh Produce: Zucchini, Tomatoes, Late Summer Peppers, Green Beans, Brassicas,
+      Eggplant, Just-Picked Herbs, and more!<br> Ready-to-Bake Dark Chocolate Chip
+      & Sea Salt Cookie Dough<br> Bottle of 2016 Rosell Mir Cabernet Sauvignon<br><br>\nFor
       Breakfast:<br> 1 Dozen Farm Fresh Eggs<br> 1 lb Homemade Breakfast Sausage<br>
-      1 Baked \"Eggs in Purgatory\" Shakshuka Kit with Feta Cheese and Herbs<br> 1
-      Jar of Samish Bay Fresh Yogurt with Local Melon"
-    is_soldout: false
+      Brady's (well...his mom's) Famous, Ready-to-Bake, Cheesy Hashbrown Casserole<br>
+      1 Jar of Samish Bay Fresh Yogurt with Local Berries"
+    is_soldout: true
     is_forsale: true
     price: "$195"
 - menu-category-title: Cocktail Kits
