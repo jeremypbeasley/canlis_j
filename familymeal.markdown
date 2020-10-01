@@ -149,6 +149,8 @@ menu:
 layout: covid-menu
 ---
 
+ATTN: Canlis Family Meal is no longer in service - as we have temporarily closed to run Canlis Community College.  Find out more details at canlis.com
+
 Mighty-fine meals and more from Canlis to your doorstep, all with zero contact.
 
 - Sales go live here every Wednesday at 1PM for the following week.
