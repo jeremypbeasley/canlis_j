@@ -47,4 +47,10 @@ og_description:
 layout: covid-home
 ---
 
-<center>Canlis Community College is experiencing is down temporarily. We'll be right back, folks.</center>
+Redirecting...
+
+<script>
+
+window.location = "https://school.canlis.com";
+
+</script>
