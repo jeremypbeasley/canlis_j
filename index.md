@@ -35,15 +35,16 @@ concepts:
   buttons:
   - label: Buy Merch
     link: https://canlisgeneralstore.squarespace.com/
-- title:
-  image:
-  desc:
-  block_link:
+- title: 
+  image: 
+  desc: 
+  block_link: 
   buttons:
-  - label:
-    link:
+  - label: 
+    link: 
 og_image: "/uploads/ccc_share.jpg"
-og_description:
+og_description: 
 layout: covid-home
 ---
+
 <center>Canlis Community College is experiencing is down temporarily. We'll be right back, folks.</center>
