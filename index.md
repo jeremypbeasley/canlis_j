@@ -51,6 +51,6 @@ Redirecting...
 
 <script>
 
-window.location = "https://school.canlis.com";
+window.location = "https://community.canlis.com";
 
 </script>
