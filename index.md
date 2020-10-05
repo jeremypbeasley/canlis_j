@@ -47,3 +47,5 @@ og_description:
 layout: covid-home
 ---
 
+Canlis Community College is experiencing is temporarily down. We'll be right back, folks.
+
