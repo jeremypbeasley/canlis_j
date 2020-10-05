@@ -35,6 +35,15 @@ concepts:
   buttons:
   - label: Buy Merch
     link: https://canlisgeneralstore.squarespace.com/
+- title: 
+  image: 
+  desc: 
+  block_link: 
+  buttons:
+  - label: 
+    link: 
+og_image: "/uploads/ccc_share.jpg"
+og_description: 
 layout: covid-home
 ---
 
