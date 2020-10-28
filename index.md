@@ -20,6 +20,7 @@ concepts:
   - label: Order now
     link: https://www.exploretock.com/canlis
 og_image: "/uploads/IMG_3937.JPG"
-og_description:
+og_description: 
 layout: covid-home
 ---
+
