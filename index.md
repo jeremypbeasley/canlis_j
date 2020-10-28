@@ -3,54 +3,21 @@ title: Home
 is_alert_shown: false
 alert_text: Next week's drive-in theatre shows go on sale today at 3PM!
 concepts:
-- title: Family Meal
-  image: "/uploads/canlis_concept_familymeal.jpg"
-  desc: 'Mighty-fine meals and more from Canlis to your doorstep, all with zero contact. '
-  block_link: "/familymeal"
+- title: Canlis Community College
+  image: "/uploads/ccc_thumb.jpg"
+  desc: Six weeks of live courses from Seattle's best voices at its most popular unaccredited college.
+  block_link: https://community.canlis.com
   buttons:
-  - label: Explore the menu
-    link: "/familymeal"
-- title: The Crab Shack
-  image: "/uploads/crabby.jpg"
-  desc: An outdoor restaurant in our parking lot featuring buckets of crab and copious
-    amounts of hand sanitizer.
-  block_link: http://canliscrabshack.com
+  - label: Continue
+    link: https://community.canlis.com
+- title: Thanksgiving Kits
+  image: "/uploads/turk.jpg"
+  desc: Seems like you've had enough on your plate this year, let us be the one to set the table.
+  block_link: https://www.exploretock.com/canlis
   buttons:
-  - label: More info
-    link: http://canliscrabshack.com
-  - label: Buy Tickets
-    link: https://www.exploretock.com/canliscrabshack
-- title: Piano
-  image: "/uploads/canlis_concept_piano.jpg"
-  desc: "“Livestreaming the smooth sounds of the city’s finest dining room…”  - Seattle
-    Met"
-  block_link: "/live"
-  buttons:
-  - label: Watch Now
-    link: "/live"
-- title: General Store
-  image: "/uploads/canlis_concept_store.jpg"
-  desc: 'We’re selling merch: sweatpants, t-shirts, coffee mugs, etc.'
-  block_link: https://canlisgeneralstore.squarespace.com/
-  buttons:
-  - label: Buy Merch
-    link: https://canlisgeneralstore.squarespace.com/
-- title: 
-  image: 
-  desc: 
-  block_link: 
-  buttons:
-  - label: 
-    link: 
-og_image: "/uploads/ccc_share.jpg"
-og_description: 
+  - label: Order now
+    link: https://www.exploretock.com/canlis
+og_image: "/uploads/IMG_3937.JPG"
+og_description:
 layout: covid-home
 ---
-
-Redirecting...
-
-<script>
-
-window.location = "https://community.canlis.com";
-
-</script>
