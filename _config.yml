@@ -10,14 +10,15 @@ collections:
     output: true
 name: Canlis
 email: jeremy@jeremypbeasley.com
-description: Seattle's landmark fine-dining destination for 69 years and recent home to multi-disciplinary pandemic pivots designed to serve our city.
+description: Seattle's landmark fine-dining destination for 69 years and recent home
+  to multi-disciplinary pandemic pivots designed to serve our city.
 og_title: Canlis, Seattle's storied restaurant.
 og_photo: "/uploads/ccc_share.jpg"
 dress_code: Go big. Dress up. Make a statement. You're beautiful, let it show! We
   are a dress-respectful restaurant. No casual or athletic attire please. Men will
   feel most comfortable in a suit or sport coat.
 reservations_link: https://www.exploretock.com/canlis
-baseurl:
+baseurl: 
 url: http://canlis.com
 twitter_username: canlis
 github_username: jeremypbeasley
