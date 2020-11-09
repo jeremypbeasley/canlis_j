@@ -1,7 +1,8 @@
 ---
 title: Home
-is_alert_shown: false
-alert_text: Next week's drive-in theatre shows go on sale today at 3PM!
+is_alert_shown: true
+alert_text: Joel Mchale livestream starts soon. Sign in or come back at 7pm PT to
+  join us!
 concepts:
 - title: Canlis Community College
   image: "/uploads/ccc_thumb.jpg"
