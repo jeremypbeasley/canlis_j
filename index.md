@@ -1,8 +1,8 @@
 ---
 title: Home
 is_alert_shown: true
-alert_text: Trivia and AMA with Joel Mchale starts soon. Join us on <a href="https://www.youtube.com/watch?v=MkTwPXCRCmMe"
-  target="_blank">Youtube</a> at 7pm PT.
+alert_text: Trivia and AMA with Joel Mchale live now! Join us on <a href="https://www.youtube.com/watch?v=MkTwPXCRCmMe"
+  target="_blank">Youtube</a>.
 concepts:
 - title: Canlis Community College
   image: "/uploads/ccc_thumb.jpg"
