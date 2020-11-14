@@ -1,6 +1,6 @@
 ---
 title: Home
-is_alert_shown: true
+is_alert_shown: false
 alert_text: Missed Trivia and AMA with Joel Mchale? Watch on <a href="https://www.youtube.com/watch?v=MkTwPXCRCmMe"
   target="_blank">Youtube</a>.
 concepts:
