@@ -16,10 +16,10 @@ concepts:
   image: "/uploads/turk.jpg"
   desc: Seems like you've had enough on your plate this year, let us be the one to
     set the table.
-  block_link: https://www.exploretock.com/canlis
+  block_link: 
   buttons:
-  - label: Order now
-    link: https://www.exploretock.com/canlis
+  - label: Sold Out
+    link: 
 og_image: "/uploads/IMG_3937.JPG"
 og_description: 
 layout: covid-home
