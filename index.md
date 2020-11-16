@@ -23,7 +23,7 @@ concepts:
 og_title: The Yurt Village at Canlis
 og_photo: "/uploads/yurt.gif"
 og_desc: Your own private dining suite, right outside in our parking lot. Tickets
-  on sale now. Opens Dec. 3rd. Available exclusively to AMEX cardholders.
+  on sale now. Opens Dec. 3rd. Available exclusively to American Express cardholders.
 layout: covid-home
 ---
 
