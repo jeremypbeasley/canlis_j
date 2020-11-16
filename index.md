@@ -16,11 +16,12 @@ concepts:
   image: "/uploads/turk.jpg"
   desc: Seems like you've had enough on your plate this year, let us be the one to
     set the table.
-  block_link:
+  block_link: 
   buttons:
   - label: Sold Out
-    link:
+    link: 
 og_image: "/uploads/IMG_3937.JPG"
-og_description:
+og_description: 
 layout: covid-home
 ---
+
