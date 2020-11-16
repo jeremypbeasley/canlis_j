@@ -9,7 +9,11 @@
   <!-- Facebook Open Graph Tags -->
   <meta property="og:URL" content="http://canlis.com" />
   <meta property="og:type" content="article" />
-  <meta property="og:title" content="Canlis — {{ page.title }}" />
+  {% if page.og_title %}
+    <meta property="og:title" content="{{ page.og_title }}" />
+    {% else %}
+    <meta property="og:title" content="Canlis — {{ page.title }}" />
+  {% endif %}
   {% if page.og_desc %}
     <meta property="og:description" content="{{ page.og_desc }}" />
     {% else %}
@@ -23,7 +27,11 @@
   <!-- Twitter Sharing Tags -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@canlis">
-  <meta name="twitter:title" content="Canlis — {{ page.title }}">
+  {% if page.og_title %}
+    <meta name="twitter:title" content="{{ page.og_title }}">
+    {% else %}
+    <meta name="twitter:title" content="Canlis — {{ page.title }}">
+  {% endif %}
   {% if page.og_desc %}
     <meta name="twitter:description" content="{{ page.og_desc }}"/>
     {% else %}
