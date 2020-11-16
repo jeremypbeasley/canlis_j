@@ -21,6 +21,7 @@ concepts:
   - label: Enroll now
     link: https://community.canlis.com
 og_image: "/uploads/yurt.gif"
-og_description:
+og_description: 
 layout: covid-home
 ---
+
