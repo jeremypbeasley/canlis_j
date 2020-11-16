@@ -1,7 +1,8 @@
 ---
 title: Home
 is_alert_shown: false
-alert_text: Next week's drive-in theatre shows go on sale today at 3PM!
+alert_text: Missed Trivia and AMA with Joel Mchale? Watch on <a href="https://www.youtube.com/watch?v=MkTwPXCRCmMe"
+  target="_blank">Youtube</a>.
 concepts:
 - title: Canlis Community College
   image: "/uploads/ccc_thumb.jpg"
@@ -15,10 +16,10 @@ concepts:
   image: "/uploads/turk.jpg"
   desc: Seems like you've had enough on your plate this year, let us be the one to
     set the table.
-  block_link: https://www.exploretock.com/canlis
+  block_link:
   buttons:
-  - label: Order now
-    link: https://www.exploretock.com/canlis
+  - label: Sold Out
+    link:
 og_image: "/uploads/IMG_3937.JPG"
 og_description:
 layout: covid-home
