@@ -20,7 +20,10 @@ concepts:
   buttons:
   - label: Enroll now
     link: https://community.canlis.com
+og_title: The Yurt Village at Canlis
 og_image: "/uploads/yurt.gif"
+og_desc: "Your own private dining suite, right outside in our parking lot. Tickets on
+  sale now. Opens Dec. 3rd. Available exclusively to AMEX cardholders."
 og_description:
 layout: covid-home
 ---
