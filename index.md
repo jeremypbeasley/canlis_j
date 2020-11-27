@@ -4,7 +4,7 @@ is_alert_shown: false
 alert_text: Next week's drive-in theatre shows go on sale today at 3PM!
 concepts:
 - title: The Yurt Village at Canlis
-  image: "/uploads/yurt.gif"
+  image: "/uploads/yurtseal.jpg"
   desc: 'Your own private dining suite, right outside in our parking lot. Opens Dec.
     3rd. Available exclusively to American Express cardholders. To see available tables,
     you must be signed into Resy and have an AMEX added to your payment methods. '
