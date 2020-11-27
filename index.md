@@ -4,7 +4,7 @@ is_alert_shown: false
 alert_text: Next week's drive-in theatre shows go on sale today at 3PM!
 concepts:
 - title: Canlis Family Meal
-  image: "/uploads/Artboard%20Copy%205.jpg"
+  image: "/uploads/fam-0de95d.jpg"
   desc: Family Meal Pick Up is Back! Four-coursed Canlis meals designed for the home
     and cooked to order, with ready-made cocktails or wines from our cellar.
   block_link: https://www.exploretock.com/canlis
