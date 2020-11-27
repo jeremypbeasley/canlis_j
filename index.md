@@ -25,7 +25,7 @@ concepts:
     you seven weeks of the best content we could imagine. '
   block_link: https://community.canlis.com
   buttons:
-  - label: Enroll now
+  - label: Enroll
     link: https://community.canlis.com
 - title: The Campus Store
   image: "/uploads/store.jpg"
