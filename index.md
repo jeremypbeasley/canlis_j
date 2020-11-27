@@ -21,14 +21,14 @@ concepts:
   buttons:
   - label: Enroll now
     link: https://community.canlis.com
-- title: Canlis Family Meal
-  image: 
-  desc: Family Meal Pick Up is Back! Four-course Canlis meals designed for the home
-    and cooked to order, with ready-made cocktails or wines from our cellar.
-  block_link: https://www.exploretock.com/canlis
+- title: The Campus Store
+  image: "/uploads/store.jpg"
+  desc: Smells like school spirit. Shop gear from Filson, Ebbets Field, BlackWing,
+    and much more.
+  block_link: https://canlis.squarespace.com/ccc-campus-store
   buttons:
-  - label: Reserve Dinner Now
-    link: https://www.exploretock.com/canlis
+  - label: Shop
+    link: https://canlis.squarespace.com/ccc-campus-stor
 og_title: The Yurt Village at Canlis
 og_photo: "/uploads/yurt.gif"
 og_desc: Your own private dining suite, right outside in our parking lot. Tickets
