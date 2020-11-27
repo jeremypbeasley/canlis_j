@@ -29,10 +29,18 @@ concepts:
   buttons:
   - label: Shop
     link: https://canlis.squarespace.com/ccc-campus-stor
-og_title: The Yurt Village at Canlis
-og_photo: "/uploads/yurt.gif"
-og_desc: Your own private dining suite, right outside in our parking lot. Tickets
-  on sale now. Opens Dec. 3rd. Available exclusively to American Express cardholders.
+- title: Canlis Family Meal
+  image: "/uploads/fam-0de95d.jpg"
+  desc: Family Meal Pick Up is Back! Four-coursed Canlis meals designed for the home
+    and cooked to order, with ready-made cocktails or wines from our cellar.
+  block_link: https://www.exploretock.com/canlis
+  buttons:
+  - label: 'Reserve '
+    link: https://www.exploretock.com/canlis
+og_title: Canlis Restaurant
+og_photo: "/uploads/moonrise_01.jpg"
+og_desc: Seattle's landmark fine-dining destination for 69 years and recent home to
+  multi-disciplinary pandemic pivots designed to serve our city.
 layout: covid-home
 ---
 
