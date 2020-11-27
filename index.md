@@ -12,7 +12,7 @@ concepts:
   - label: 'Reserve '
     link: https://www.exploretock.com/canlis
 - title: The Yurt Village at Canlis
-  image: "/uploads/yurtseal.jpg"
+  image: "/uploads/yurtseal-df1063.jpg"
   desc: 'Your own private dining suite, right outside in our parking lot. Available
     exclusively to American Express cardholders. '
   block_link: https://resy.com/cities/sea/canlis
