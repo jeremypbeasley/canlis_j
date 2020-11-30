@@ -23,10 +23,10 @@ concepts:
   image: "/uploads/ccc.gif"
   desc: 'We’re proud to partner with some of Seattle’s finest institutions to bring
     you seven weeks of the best content we could imagine. '
-  block_link: https://community.canlis.com
+  block_link: https://www.youtube.com/c/Canlis
   buttons:
-  - label: Enroll
-    link: https://community.canlis.com
+  - label: Watch on Youtube
+    link: https://www.youtube.com/c/Canlis
 - title: The Campus Store
   image: "/uploads/store.jpg"
   desc: Smells like school spirit. Shop gear from Filson, Ebbets Field, BlackWing,
@@ -41,4 +41,3 @@ og_desc: Seattle's landmark fine-dining destination for 69 years and recent home
   multi-disciplinary pandemic pivots designed to serve our city.
 layout: covid-home
 ---
-
