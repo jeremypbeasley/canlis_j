@@ -34,3 +34,23 @@
          url('_fonts/ApercuMono.woff') format('woff'),
          url('_fonts/ApercuMono.ttf') format('truetype');
 }
+
+@font-face {
+    font-family: 'OGJTypeDesignSequel100Wide85';
+    src: url('_fonts/OGJTypeDesignSequel100Wide85.eot');
+    src: url('_fonts/OGJTypeDesignSequel100Wide85.eot') format('embedded-opentype'),
+         url('_fonts/OGJTypeDesignSequel100Wide85.woff2') format('woff2'),
+         url('_fonts/OGJTypeDesignSequel100Wide85.woff') format('woff'),
+         url('_fonts/OGJTypeDesignSequel100Wide85.ttf') format('truetype'),
+         url('_fonts/OGJTypeDesignSequel100Wide85.svg#OGJTypeDesignSequel100Wide85') format('svg');
+}
+
+@font-face {
+    font-family: 'futuramaxicgbold';
+    src: url('_fonts/futuramaxicgbold.eot');
+    src: url('_fonts/futuramaxicgbold.eot') format('embedded-opentype'),
+         url('_fonts/futuramaxicgbold.woff2') format('woff2'),
+         url('_fonts/futuramaxicgbold.woff') format('woff'),
+         url('_fonts/futuramaxicgbold.ttf') format('truetype'),
+         url('_fonts/futuramaxicgbold.svg#futuramaxicgbold') format('svg');
+}
