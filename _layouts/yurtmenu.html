@@ -1,0 +1,39 @@
+{% include yurthead.html %}
+<div class="yurtmenu">
+
+<img src="/uploads/yurthead.png">
+
+{% for menu-category in page.menu %}
+  <div>
+    {% if menu-category.category-title %}
+      <div class="yurt-cat-title p5 mb5">{{ menu-category.category-title }}</div>
+    {% endif %}
+    <!-- CATEGORIES WITH SUBS -->
+    {% for subcategory in menu-category.subcategories %}
+      <div class="yurt-sub-title mb5">{{ subcategory.title }}</div>
+      {% if subcategory.items %}
+        {% for item in subcategory.items %}
+          <div class="mb3">
+            <div class="yurt-item-title mb1">{{ item.title }}</div>
+            <div class="yurt-item-desc">{{ item.desc }}</div>
+            {% if item.note %}
+              <div class="yurt-item-note">{{ item.note }}</div>
+            {% endif %}
+            <div class="yurt-item-price">{{ item.price }}</div>
+          </div>
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+    <!-- CATEGORIES WITHOUT SUBS -->
+    {% for item in menu-category.items %}
+    <div class="mb3">
+      <div class="yurt-item-title mb1">{{ item.title }}</div>
+      <div class="yurt-item-desc">{{ item.desc }}</div>
+      {% if item.note %}
+        <div class="yurt-item-note">{{ item.note }}</div>
+      {% endif %}
+      <div class="yurt-item-price">{{ item.price }}</div>
+    </div>
+    {% endfor %}
+  </div>
+{% endfor %}
