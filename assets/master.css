@@ -1658,6 +1658,26 @@ table {
          url('_fonts/ApercuMono.ttf') format('truetype');
 }
 
+@font-face {
+    font-family: 'OGSequel';
+    src: url('_fonts/OGJTypeDesignSequel100Wide85.eot');
+    src: url('_fonts/OGJTypeDesignSequel100Wide85.eot') format('embedded-opentype'),
+         url('_fonts/OGJTypeDesignSequel100Wide85.woff2') format('woff2'),
+         url('_fonts/OGJTypeDesignSequel100Wide85.woff') format('woff'),
+         url('_fonts/OGJTypeDesignSequel100Wide85.ttf') format('truetype'),
+         url('_fonts/OGJTypeDesignSequel100Wide85.svg#OGJTypeDesignSequel100Wide85') format('svg');
+}
+
+@font-face {
+    font-family: 'futuramaxicgbold';
+    src: url('_fonts/futuramaxicgbold.eot');
+    src: url('_fonts/futuramaxicgbold.eot') format('embedded-opentype'),
+         url('_fonts/futuramaxicgbold.woff2') format('woff2'),
+         url('_fonts/futuramaxicgbold.woff') format('woff'),
+         url('_fonts/futuramaxicgbold.ttf') format('truetype'),
+         url('_fonts/futuramaxicgbold.svg#futuramaxicgbold') format('svg');
+}
+
 html {
   font-size: 13px;
   font-family: typeface-body, serif;
@@ -4706,16 +4726,16 @@ input[type=submit] {
   }
 }
 .yurt-cat-title {
-  font-family: 'Sequel100Wide-85';
+  font-family: 'OGSequel';
   color: #1b5e65;
-  font-size: 2rem;
+  font-size: 1.5rem;
   text-transform: uppercase;
   width: 100%;
   text-align: center;
   border-bottom: 2px solid #1b5e65;
 }
 .yurt-sub-title {
-  font-family: 'Sequel100Wide-85';
+  font-family: 'OGSequel';
   color: #79c2cb;
   font-size: 1.5rem;
   text-transform: uppercase;
@@ -4723,18 +4743,18 @@ input[type=submit] {
   text-align: left;
 }
 .yurt-item-title {
-  font-family: 'Sequel100Wide-85';
+  font-family: 'OGSequel';
   color: #1b5e65;
   font-size: 1.5rem;
 }
 .yurt-item-price {
-  font-family: 'Sequel100Wide-85';
+  font-family: 'OGSequel';
   color: #fbb040;
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 .yurt-item-desc,
 .yurt-item-note {
-  font-family: 'Futura-Bold';
+  font-family: 'futuramaxicgbold', HelveticaBold, Helvetica-Bold, sans-serif;
   font-size: 1rem;
   color: #79c2cb;
   text-transform: uppercase;
