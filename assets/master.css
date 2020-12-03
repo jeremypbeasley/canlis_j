@@ -4716,9 +4716,15 @@ input[type=submit] {
     transform: rotate(365deg);
   }
 }
+.yurthead {
+  position: absolute;
+  width: 100vw;
+  top: 0;
+  left: 0;
+}
 .yurtmenu {
-  padding: 10px;
   text-align: left;
+  margin-top: 25vw;
 }
 @media (min-width: 62em) {
   .yurtmenu {
@@ -4741,6 +4747,7 @@ input[type=submit] {
   text-transform: uppercase;
   width: 100%;
   text-align: left;
+  border-bottom: 2px solid #1b5e65;
 }
 .yurt-item-title {
   font-family: 'OGSequel';

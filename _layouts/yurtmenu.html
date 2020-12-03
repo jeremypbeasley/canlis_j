@@ -1,8 +1,8 @@
 {% include yurthead.html %}
-<div class="yurtmenu">
 
-<img src="/uploads/yurthead.png">
+<img class="yurthead" src="/uploads/yurthead.png">
 
+<div class="yurtmenu p3">
 {% for menu-category in page.menu %}
   <div>
     {% if menu-category.category-title %}
@@ -10,18 +10,20 @@
     {% endif %}
     <!-- CATEGORIES WITH SUBS -->
     {% for subcategory in menu-category.subcategories %}
-      <div class="yurt-sub-title mb5">{{ subcategory.title }}</div>
+      <div class="mb6">
+        <span class="yurt-sub-title mb4 pb1">{{ subcategory.title }}</span>
+      </div>
       {% if subcategory.items %}
         {% for item in subcategory.items %}
           <div class="mb3">
-            <div class="yurt-item-title mb1">
+            <div class="yurt-item-title mb">
               {{ item.title }}
+              {% if item.note %}
+                <span class="yurt-item-note">{{ item.note }}</span>
+              {% endif %}
               <span class="yurt-item-price">{{ item.price }}</span>
             </div>
             <div class="yurt-item-desc mt1">{{ item.desc }}</div>
-            {% if item.note %}
-              <div class="yurt-item-note">{{ item.note }}</div>
-            {% endif %}
           </div>
         {% endfor %}
       {% endif %}
@@ -31,13 +33,18 @@
     <div class="mb3">
       <div class="yurt-item-title mb1">
         {{ item.title }}
+        {% if item.note %}
+          <span class="yurt-item-note">{{ item.note }}</span>
+        {% endif %}
         <span class="yurt-item-price">{{ item.price }}</span>
       </div>
       <div class="yurt-item-desc">{{ item.desc }}</div>
-      {% if item.note %}
-        <div class="yurt-item-note">{{ item.note }}</div>
-      {% endif %}
     </div>
     {% endfor %}
   </div>
 {% endfor %}
+</div>
+
+  <div class="mb7 p3">
+    <span class="mt5 yurt-sub-title mb5 pb1">Full list</span>
+  </div>
