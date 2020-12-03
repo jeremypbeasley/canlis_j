@@ -14,12 +14,14 @@
       {% if subcategory.items %}
         {% for item in subcategory.items %}
           <div class="mb3">
-            <div class="yurt-item-title mb1">{{ item.title }}</div>
-            <div class="yurt-item-desc">{{ item.desc }}</div>
+            <div class="yurt-item-title mb1">
+              {{ item.title }}
+              <span class="yurt-item-price">{{ item.price }}</span>
+            </div>
+            <div class="yurt-item-desc mt1">{{ item.desc }}</div>
             {% if item.note %}
               <div class="yurt-item-note">{{ item.note }}</div>
             {% endif %}
-            <div class="yurt-item-price">{{ item.price }}</div>
           </div>
         {% endfor %}
       {% endif %}
@@ -27,12 +29,14 @@
     <!-- CATEGORIES WITHOUT SUBS -->
     {% for item in menu-category.items %}
     <div class="mb3">
-      <div class="yurt-item-title mb1">{{ item.title }}</div>
+      <div class="yurt-item-title mb1">
+        {{ item.title }}
+        <span class="yurt-item-price">{{ item.price }}</span>
+      </div>
       <div class="yurt-item-desc">{{ item.desc }}</div>
       {% if item.note %}
         <div class="yurt-item-note">{{ item.note }}</div>
       {% endif %}
-      <div class="yurt-item-price">{{ item.price }}</div>
     </div>
     {% endfor %}
   </div>
