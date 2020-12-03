@@ -7,10 +7,10 @@ concepts:
   image: "/uploads/fam-0de95d.jpg"
   desc: Family Meal Pick Up is Back! Four-coursed Canlis meals designed for the home
     and cooked to order, with ready-made cocktails or wines from our cellar.
-  block_link: https://www.exploretock.com/canlis/experience/224420/
+  block_link: https://www.exploretock.com/canlis/experience/228376/
   buttons:
   - label: 'Reserve '
-    link: https://www.exploretock.com/canlis/experience/224420/
+    link: https://www.exploretock.com/canlis/experience/228376/
 - title: The Yurt Village at Canlis
   image: "/uploads/yurtseal-df1063.jpg"
   desc: 'Your own private dining suite, right outside in our parking lot. Available
