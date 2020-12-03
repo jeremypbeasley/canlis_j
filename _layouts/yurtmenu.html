@@ -1,50 +1,51 @@
 {% include yurthead.html %}
 
-<img class="yurthead" src="/uploads/yurthead.png">
-
-<div class="yurtmenu p3">
-{% for menu-category in page.menu %}
-  <div>
-    {% if menu-category.category-title %}
-      <div class="yurt-cat-title p5 mb5">{{ menu-category.category-title }}</div>
-    {% endif %}
-    <!-- CATEGORIES WITH SUBS -->
-    {% for subcategory in menu-category.subcategories %}
-      <div class="mb6">
-        <span class="yurt-sub-title mb4 pb1">{{ subcategory.title }}</span>
-      </div>
-      {% if subcategory.items %}
-        {% for item in subcategory.items %}
-          <div class="mb3">
-            <div class="yurt-item-title mb">
-              {{ item.title }}
-              {% if item.note %}
-                <span class="yurt-item-note">{{ item.note }}</span>
-              {% endif %}
-              <span class="yurt-item-price">{{ item.price }}</span>
-            </div>
-            <div class="yurt-item-desc mt1">{{ item.desc }}</div>
-          </div>
-        {% endfor %}
+<div class="yurtmenu">
+  <img class="yurthead" src="/uploads/yurthead.jpg">
+  <div class="yurtmenu-contents p3">
+  {% for menu-category in page.menu %}
+    <div>
+      {% if menu-category.category-title %}
+        <div class="yurt-cat-title pt2 pb4 mb5">{{ menu-category.category-title }}</div>
       {% endif %}
-    {% endfor %}
-    <!-- CATEGORIES WITHOUT SUBS -->
-    {% for item in menu-category.items %}
-    <div class="mb3">
-      <div class="yurt-item-title mb1">
-        {{ item.title }}
-        {% if item.note %}
-          <span class="yurt-item-note">{{ item.note }}</span>
+      <!-- CATEGORIES WITH SUBS -->
+      {% for subcategory in menu-category.subcategories %}
+        <div class="mb6 mt3">
+          <span class="yurt-sub-title mb4 pb1">{{ subcategory.title }}</span>
+        </div>
+        {% if subcategory.items %}
+          {% for item in subcategory.items %}
+            <div class="mb3">
+              <div class="yurt-item-title mb">
+                {{ item.title }}
+                {% if item.note %}
+                  <span class="yurt-item-note">{{ item.note }}</span>
+                {% endif %}
+                <span class="yurt-item-price">{{ item.price }}</span>
+              </div>
+              <div class="yurt-item-desc mt1">{{ item.desc }}</div>
+            </div>
+          {% endfor %}
         {% endif %}
-        <span class="yurt-item-price">{{ item.price }}</span>
+      {% endfor %}
+      <!-- CATEGORIES WITHOUT SUBS -->
+      {% for item in menu-category.items %}
+      <div class="mb3">
+        <div class="yurt-item-title mb1">
+          {{ item.title }}
+          {% if item.note %}
+            <span class="yurt-item-note">{{ item.note }}</span>
+          {% endif %}
+          <span class="yurt-item-price">{{ item.price }}</span>
+        </div>
+        <div class="yurt-item-desc">{{ item.desc }}</div>
       </div>
-      <div class="yurt-item-desc">{{ item.desc }}</div>
+      {% endfor %}
     </div>
-    {% endfor %}
+  {% endfor %}
+  <div class="mb7 mt5">
+    <span class="mt5 b5 pb1">Looking for the full list? Click <a class="" href="https://canlis.com/uploads/winelist.pdf" target="_blank">here</a>.</span>
   </div>
-{% endfor %}
-</div>
+  </div>
 
-  <div class="mb7 p3">
-    <span class="mt5 yurt-sub-title mb5 pb1">Full list</span>
-  </div>
+</div>

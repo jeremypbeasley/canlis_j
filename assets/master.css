@@ -4716,20 +4716,24 @@ input[type=submit] {
     transform: rotate(365deg);
   }
 }
-.yurthead {
-  position: absolute;
-  width: 100vw;
-  top: 0;
-  left: 0;
+@media (min-width: 62em) {
+  .yurthead {
+    position: relative;
+max-width
+  }
 }
 .yurtmenu {
   text-align: left;
-  margin-top: 25vw;
+  width: 100%;
+  max-width: 600px;
+  position: absolute;
+  top: 0;
 }
-@media (min-width: 62em) {
-  .yurtmenu {
-    padding: 100px;
-  }
+.yurtmenu-contents {
+  background: #fcfbfa;
+  border-radius: 20px;
+  position: relative;
+  margin-top: -35px;
 }
 .yurt-cat-title {
   font-family: 'OGSequel';
