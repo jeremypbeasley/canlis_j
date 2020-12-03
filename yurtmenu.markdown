@@ -10,83 +10,123 @@ menu:
     desc: ELDERFLOWER, PROSECCO, SPARKLING WATER, ORANGE, MINT
     price: "$16"
     note: 
-  - title: Glühmost
+  - title: Glühmost (warmed)
     desc: APPLE, APRICOT EAU DE VIE, AMARETTO, WHITE WINE, CITRUS, SPICES
-    price: "$16"
+    price: "$18"
     note: 
   - title: Fairbanks Cocktail No. 1
     desc: GIN, APRICOT, VERMOUTH, LEMON, GRENADINE
     price: "$18"
     note: 
-  - title: Hugo Spritz
-    desc: ELDERFLOWER, PROSECCO, SPARKLING WATER, ORANGE, MINT
-    price: "$16"
+  - title: Matterhorn
+    desc: BOURBON, CARPANO ANTICA, GREEN CHARTREUSE, ABSINTHE, BITTERS
+    price: "$20"
     note: 
-  - title: Glühmost
-    desc: APPLE, APRICOT EAU DE VIE, AMARETTO, WHITE WINE, CITRUS, SPICES
-    price: "$16"
+  - title: Almost Perfect
+    desc: STIGGIN'S FANCY PINEAPPLE RUM, AMERICANO COCCHI, AMARO, MARASCHINO, BITTERS
+    price: "$24"
     note: 
-  - title: Fairbanks Cocktail No. 1
-    desc: GIN, APRICOT, VERMOUTH, LEMON, GRENADINE
-    price: "$18"
+  - title: St. Gotthard Punsch (alcohol free)
+    desc: CRANBERRY, BLACKBERRY, BERGAMOT, GINGER BEER
+    price: "$10"
     note: 
 - category-title: Beer
   items:
-  - title: Hugo Spritz
-    desc: ELDERFLOWER, PROSECCO, SPARKLING WATER, ORANGE, MINT
-    price: "$16"
-    note: "(16 oz.)"
-  - title: Glühmost
-    desc: APPLE, APRICOT EAU DE VIE, AMARETTO, WHITE WINE, CITRUS, SPICES
-    price: "$16"
-    note: "(16 oz.)"
-  - title: Fairbanks Cocktail No. 1
-    desc: GIN, APRICOT, VERMOUTH, LEMON, GRENADINE
+  - title: EZ Orchards Roman Apple Cider
+    desc: 
+    price: "$20"
+    note: "(16.9 oz.)"
+  - title: Double Mountain Kolsch
+    desc: 
+    price: "$10"
+    note: "(16.9 oz.)"
+  - title: Coopers Extra Strong Vintage Ale
+    desc: 
+    price: "$12"
+    note: "(DRAFT 13.5 oz.)"
+  - title: Pfreim IPA
+    desc: 
+    price: "$12"
+    note: "(16.9 oz)"
+  - title: Rodenbach Gran Cru
+    desc: 
+    price: "$14"
+    note: "(12.7 oz)"
+  - title: Scaldis Noël
+    desc: 
     price: "$18"
-    note: "(16 oz.)"
+    note: "(12.7 oz) "
+  - title: Alvinne Podge Stout
+    desc: 
+    price: "$18"
+    note: "(12.7 oz)"
 - category-title: Wine
   subcategories:
   - title: Bubbles
     items:
-    - title: Hugo Spritz
-      desc: ELDERFLOWER, PROSECCO, SPARKLING WATER, ORANGE, MINT
-      price: "$16"
-      note: 
-    - title: Glühmost
-      desc: APPLE, APRICOT EAU DE VIE, AMARETTO, WHITE WINE, CITRUS, SPICES
-      price: "$16"
-      note: 
-    - title: Fairbanks Cocktail No. 1
-      desc: GIN, APRICOT, VERMOUTH, LEMON, GRENADINE
+    - title: Prosecco
+      desc: 2018 SORELLE BRONCA, ITA
       price: "$18"
+      note: 
+    - title: Sparkling Wine
+      desc: 2015 LYTLE-BARNETT, WILLAMETTE VALLEY, OR
+      price: "$25"
+      note: 
+    - title: Champagne
+      desc: NV CANLIS X MONCUIT, CUVÉE DU FRÉRE, GRAND CRU, FRA
+      price: "$30"
       note: 
   - title: White
     items:
-    - title: Hugo Spritz
-      desc: ELDERFLOWER, PROSECCO, SPARKLING WATER, ORANGE, MINT
+    - title: Silvaner
+      desc: 2018 KELLER, RHEINHESSEN, DEU
       price: "$16"
       note: 
-    - title: Glühmost
-      desc: APPLE, APRICOT EAU DE VIE, AMARETTO, WHITE WINE, CITRUS, SPICES
+    - title: Chenin Blanc
+      desc: 2019 ORR, COLUMBIA VALLEY, WA
+      price: "$15"
+      note: 
+    - title: Friulano
+      desc: 2017 SCARPETTA, FIULI, ITA
       price: "$16"
       note: 
-    - title: Fairbanks Cocktail No. 1
-      desc: GIN, APRICOT, VERMOUTH, LEMON, GRENADINE
+    - title: Chardonnay
+      desc: 2016 COPAIN, CA
       price: "$18"
+      note: 
+    - title: Clairette
+      desc: 2014 CHÂTEAU SIMONE, PROVENCE, FRA
+      price: "$25"
+      note: 
+    - title: Chardonnay
+      desc: 2014 VOCORET, CHABLIS, BLANCHOT, GRAND CRU, FRA
+      price: "$30"
       note: 
   - title: Red
     items:
-    - title: Hugo Spritz
-      desc: ELDERFLOWER, PROSECCO, SPARKLING WATER, ORANGE, MINT
+    - title: Cabernet Franc
+      desc: 2018 ATHLÉTES DU VIN, SAUMUR CHAMPIGNY, FRA
       price: "$16"
       note: 
-    - title: Glühmost
-      desc: APPLE, APRICOT EAU DE VIE, AMARETTO, WHITE WINE, CITRUS, SPICES
-      price: "$16"
-      note: 
-    - title: Fairbanks Cocktail No. 1
-      desc: GIN, APRICOT, VERMOUTH, LEMON, GRENADINE
+    - title: Pinot Noir
+      desc: 2018 WALTER SCOTT, WILLAMETTE VALLEY, OR
       price: "$18"
+      note: 
+    - title: Cabernet Sauvignon
+      desc: 2016 ARROWOOD, SONOMA, CA
+      price: "$24"
+      note: 
+    - title: Syrah + Cabernet Sauvignon
+      desc: 2013 DOMAINE TRÉVALLON, PROVENCE, CA
+      price: "$28"
+      note: 
+    - title: Nebbiolo
+      desc: 2015 ALTARE BAROLO, PIEDMONT, ITA
+      price: "$32"
+      note: 
+    - title: Cabernet Sauvignon + Merlot
+      desc: 2009 ANDREW WILL, SORELLA, WA
+      price: "$40"
       note: 
 layout: yurtmenu
 ---
