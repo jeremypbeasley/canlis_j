@@ -8,10 +8,21 @@
       {% if menu-category.category-title %}
         <div class="yurt-cat-title pt2 pb4 mb5">{{ menu-category.category-title }}</div>
       {% endif %}
+      {% if menu-category.category-title == "Wine" %}
+        <div class="mb4 mt5">
+          <span class="yurt-sub-title mb4">Full List</span>
+        </div>
+        <div class="mb7 mt2">
+          <div class="">The award-winning Canlis Wine Cellar with over X,XXX bottles is entirely at your disposal.</div>
+          <div class="mt4">
+            <a class="yurt-fulllist mt4 NoLine" href="https://canlis.com/uploads/winelist.pdf" target="_blank">See the full list</a>
+          </div>
+        </div>
+      {% endif %}
       <!-- CATEGORIES WITH SUBS -->
       {% for subcategory in menu-category.subcategories %}
-        <div class="mb6 mt3">
-          <span class="yurt-sub-title mb4 pb1">{{ subcategory.title }}</span>
+        <div class="mb6 mt5">
+          <span class="yurt-sub-title mb4">{{ subcategory.title }}</span>
         </div>
         {% if subcategory.items %}
           {% for item in subcategory.items %}
@@ -43,9 +54,10 @@
       {% endfor %}
     </div>
   {% endfor %}
-  <div class="mb7 mt5">
-    <span class="mt5 b5 pb1">Looking for the full list? Click <a class="" href="https://canlis.com/uploads/winelist.pdf" target="_blank">here</a>.</span>
-  </div>
-  </div>
-
+  <div>
+      <div class="yurt-cat-title pt2 pb4 mb5">Feeling the cold?</div>
+      <div class="mb7 mt2">
+        <span class="yurt-item-note">We'd be happy to provide a blanket. Just ask your server.</span>
+      </div>
+    </div>
 </div>
