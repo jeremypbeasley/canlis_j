@@ -3,6 +3,20 @@ title: Home
 is_alert_shown: false
 alert_text: Next week's drive-in theatre shows go on sale today at 3PM!
 concepts:
+- title: Christmas Brunch & Dinner Kit
+  image: "/uploads/Canlis-Holiday-Sticker.jpg"
+  desc: 'Here comes Santa Clause, and he’s packin’ an all-day feast. Serves 4-6 people. '
+  block_link: 
+  buttons:
+  - label: Buy now
+    link: 
+- title: NYE Party in a Box and Day-After Kit
+  image: "/uploads/nye.jpg"
+  desc: 'Enough for 4. Or heck, enjoy it all yourself...this year, you’ve earned it. '
+  block_link: 
+  buttons:
+  - label: Buy now
+    link: 
 - title: Canlis Family Meal
   image: "/uploads/fam-0de95d.jpg"
   desc: Family Meal Pick Up is Back! Four-coursed Canlis meals designed for the home
