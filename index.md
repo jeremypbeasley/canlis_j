@@ -6,10 +6,10 @@ concepts:
 - title: Christmas Brunch & Dinner Kit
   image: "/uploads/Canlis-Holiday-Sticker.jpg"
   desc: 'Here comes Santa Clause, and he’s packin’ an all-day feast. Serves 4-6 people. '
-  block_link: https://www.exploretock.com/canlis/
+  block_link: https://www.exploretock.com/canlis/experience/236941/
   buttons:
   - label: Buy now
-    link: https://www.exploretock.com/canlis/
+    link: https://www.exploretock.com/canlis/experience/236941/
 - title: NYE Party in a Box and Day-After Kit
   image: "/uploads/nye.jpg"
   desc: 'Enough for 4. Or heck, enjoy it all yourself...this year, you’ve earned it. '
