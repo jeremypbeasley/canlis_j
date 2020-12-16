@@ -26,7 +26,7 @@ menu:
     desc: STIGGIN'S FANCY PINEAPPLE RUM, AMERICANO COCCHI, AMARO, MARASCHINO, BITTERS
     price: "$24"
     note: 
-  - title: St. Gotthard Punsch
+  - title: St. Gotthard Punch
     desc: CRANBERRY, BLACKBERRY, BERGAMOT, GINGER BEER
     price: "$10"
     note: "(Alcohol Free)"
@@ -36,10 +36,10 @@ menu:
     desc: 
     price: "$20"
     note: "(16.9 oz.)"
-  - title: Double Mountain Kolsch
+  - title: Anchor Steam Ale
     desc: 
-    price: "$10"
-    note: "(16.9 oz.)"
+    price: "$7"
+    note: "(12 oz.)"
   - title: Coopers Extra Strong Vintage Ale
     desc: 
     price: "$12"

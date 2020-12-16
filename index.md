@@ -35,8 +35,8 @@ concepts:
     link: https://resy.com/cities/sea/canlis
 - title: Canlis Community College
   image: "/uploads/ccc.gif"
-  desc: 'We partnered with some of Seattle’s finest institutions to bring
-    you seven weeks of the best content we could imagine. '
+  desc: 'We partnered with some of Seattle’s finest institutions to bring you seven
+    weeks of the best content we could imagine. '
   block_link: https://www.youtube.com/c/Canlis
   buttons:
   - label: Watch
@@ -49,3 +49,4 @@ og_desc: Seattle's landmark fine-dining destination for 69 years and recent home
   multi-disciplinary pandemic pivots designed to serve our city.
 layout: covid-home
 ---
+
