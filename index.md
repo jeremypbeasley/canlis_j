@@ -23,8 +23,16 @@ concepts:
     and cooked to order, with ready-made cocktails or wines from our cellar.
   block_link: https://www.exploretock.com/canlis/experience/234479/
   buttons:
-  - label: 'Reserve'
+  - label: 'Reserve '
     link: https://www.exploretock.com/canlis/experience/234479/
+- title: The Yurt Village at Canlis
+  image: "/uploads/yurtseal-df1063.jpg"
+  desc: 'Your own private dining suite, right outside in our parking lot. Available
+    exclusively to American Express cardholders. '
+  block_link: https://resy.com/cities/sea/canlis
+  buttons:
+  - label: Get Tickets
+    link: https://resy.com/cities/sea/canlis
 - title: Canlis Community College
   image: "/uploads/ccc.gif"
   desc: 'We partnered with some of Seattle’s finest institutions to bring
