@@ -44,10 +44,10 @@ menu:
     desc: 
     price: "$12"
     note: "(DRAFT 13.5 oz.)"
-  - title: Pfreim IPA
+  - title: E-9 IPA
     desc: 
     price: "$12"
-    note: "(16.9 oz)"
+    note: "(16 oz)"
   - title: Rodenbach Gran Cru
     desc: 
     price: "$14"
@@ -113,8 +113,8 @@ menu:
       price: "$18"
       note: 
     - title: Cabernet Sauvignon
-      desc: 2016 ARROWOOD, SONOMA, CA
-      price: "$24"
+      desc: 2016 BASEL CELLARS, COLUMBIA VALLEY, WA
+      price: "$18"
       note: 
     - title: Syrah + Cabernet Sauvignon
       desc: 2013 DOMAINE TRÉVALLON, PROVENCE, CA
