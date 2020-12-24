@@ -4,4 +4,8 @@ date: 2020-12-24 08:48:00 -08:00
 layout: default
 ---
 
-This video will premiere here today at 1:30 PM PST. 
+<script>
+
+window.location = "https://canlis.com/yurtmenus";
+
+</script>
