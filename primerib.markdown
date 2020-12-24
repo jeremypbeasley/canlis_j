@@ -6,6 +6,6 @@ layout: default
 
 <script>
 
-window.location = "https://canlis.com/yurtmenus";
+window.location = "https://youtu.be/SckwvFg6nVo";
 
 </script>
