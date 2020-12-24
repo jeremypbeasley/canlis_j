@@ -3,20 +3,13 @@ title: Home
 is_alert_shown: false
 alert_text: Next week's drive-in theatre shows go on sale today at 3PM!
 concepts:
-- title: Christmas Brunch & Dinner Kit
-  image: "/uploads/xmas.jpg"
-  desc: 'Here comes Santa Clause, and he’s packin’ an all-day feast. Serves 4-6 people. '
-  block_link: https://www.exploretock.com/canlis/experience/236941/
-  buttons:
-  - label: Buy now
-    link: https://www.exploretock.com/canlis/experience/236941/
-- title: NYE Party in a Box and Day-After Kit
+- title: NYE Dinner in the Yurt Village
   image: "/uploads/nye.jpg"
-  desc: 'Enough for 4. Or heck, enjoy it all yourself...this year, you’ve earned it. '
-  block_link: https://www.exploretock.com/canlis/experience/236970/
+  desc: One final night to finish the year off right!
+  block_link: https://resy.com/cities/sea/canlis?date=2020-12-31&seats=2
   buttons:
-  - label: Buy now
-    link: https://www.exploretock.com/canlis/experience/236970/
+  - label: Get Tickets
+    link: https://resy.com/cities/sea/canlis?date=2020-12-31&seats=2
 - title: Canlis Family Meal
   image: "/uploads/fam-0de95d.jpg"
   desc: Family Meal Pick Up is Back! Four-coursed Canlis meals designed for the home
