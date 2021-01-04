@@ -5,6 +5,6 @@ date: 2020-12-14 16:24:00 -08:00
 
 <script>
 
-window.location = "https://youtu.be/SckwvFg6nVo";
+window.location = "https://canlis.com/yurtmenus";
 
 </script>
