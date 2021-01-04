@@ -3,13 +3,6 @@ title: Home
 is_alert_shown: false
 alert_text: Next week's drive-in theatre shows go on sale today at 3PM!
 concepts:
-- title: NYE Dinner in the Yurt Village
-  image: "/uploads/nye.jpg"
-  desc: One final night to finish the year off right!
-  block_link: https://resy.com/cities/sea/canlis?date=2020-12-31&seats=2
-  buttons:
-  - label: Get Tickets
-    link: https://resy.com/cities/sea/canlis?date=2020-12-31&seats=2
 - title: Canlis Family Meal
   image: "/uploads/fam-0de95d.jpg"
   desc: Family Meal Pick Up is Back! Four-coursed Canlis meals designed for the home
@@ -18,14 +11,6 @@ concepts:
   buttons:
   - label: 'Reserve '
     link: https://www.exploretock.com/canlis/experience/234479/
-- title: The Yurt Village at Canlis
-  image: "/uploads/yurtseal-df1063.jpg"
-  desc: 'Your own private dining suite, right outside in our parking lot. Available
-    exclusively to American Express cardholders. '
-  block_link: https://resy.com/cities/sea/canlis
-  buttons:
-  - label: Get Tickets
-    link: https://resy.com/cities/sea/canlis
 - title: Canlis Community College
   image: "/uploads/ccc.gif"
   desc: 'We partnered with some of Seattle’s finest institutions to bring you seven

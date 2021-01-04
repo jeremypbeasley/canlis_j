@@ -32,14 +32,10 @@ menu:
     note: "(Alcohol Free)"
 - category-title: Beer
   items:
-  - title: EZ Orchards Roman Apple Cider
+  - title: Snowdrift Cornice Barrel Aged Cider
     desc: 
     price: "$20"
     note: "(16.9 oz.)"
-  - title: Anchor Steam Ale
-    desc: 
-    price: "$7"
-    note: "(12 oz.)"
   - title: Coopers Extra Strong Vintage Ale
     desc: 
     price: "$12"
@@ -60,6 +56,10 @@ menu:
     desc: 
     price: "$18"
     note: "(12.7 oz)"
+  - title: Double Mountain Kolsch
+    desc: 
+    price: "$7"
+    note: "(16.9 oz) "
 - category-title: Wine
   subcategories:
   - title: Bubbles
