@@ -1,7 +1,7 @@
 ---
 title: Home
 is_alert_shown: false
-alert_text: Next week's drive-in theatre shows go on sale today at 3PM!
+alert_text: 'Next week''s drive-in theatre shows go on sale today at 3PM! '
 concepts:
 - title: Canlis Family Meal
   image: "/uploads/fam-0de95d.jpg"
