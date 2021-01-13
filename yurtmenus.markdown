@@ -40,7 +40,11 @@ menu:
     desc: 
     price: "$12"
     note: "(DRAFT 13.5 oz.)"
-  - title: E-9 IPA
+  - title: Double Mountain Kolsch
+    desc: 
+    price: "$10"
+    note: "(16.9 oz) "
+  - title: Pfriem IPA
     desc: 
     price: "$12"
     note: "(16 oz)"
@@ -56,10 +60,6 @@ menu:
     desc: 
     price: "$18"
     note: "(12.7 oz)"
-  - title: Double Mountain Kolsch
-    desc: 
-    price: "$7"
-    note: "(16.9 oz) "
 - category-title: Wine
   subcategories:
   - title: Bubbles
@@ -78,8 +78,8 @@ menu:
       note: 
   - title: White
     items:
-    - title: Silvaner
-      desc: 2018 KELLER, RHEINHESSEN, DEU
+    - title: Grüner Veltliner
+      desc: 2019 WT VINTNERS, COLUMBIA GORGE, WA
       price: "$16"
       note: 
     - title: Chenin Blanc
