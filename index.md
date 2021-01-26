@@ -11,16 +11,14 @@ concepts:
   buttons:
   - label: 'Reserve '
     link: https://www.exploretock.com/canlis/
-- title: Canlis Community College
-  image: "/uploads/ccc.gif"
-  desc: 'We partnered with some of Seattle’s finest institutions to bring you seven
-    weeks of the best content we could imagine. '
-  block_link: https://www.youtube.com/c/Canlis
+- title: The Canlis Super Bowl Kit
+  image: "/uploads/Screen%20Shot%202021-01-13%20at%2011.48.30%20AM%20copy.jpg"
+  desc: You could go to the store, fight the crowds, buy the ingredients, and get
+    everything ready for the big game —or we could just do that for you.
+  block_link: https://www.exploretock.com/canlis/experience/256538/
   buttons:
-  - label: Watch
-    link: https://www.youtube.com/c/Canlis
-  - label: Shop
-    link: https://canlis.squarespace.com/
+  - label: Buy now
+    link: https://www.exploretock.com/canlis/experience/256538/
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
 og_desc: Seattle's landmark fine-dining destination for 69 years and recent home to
