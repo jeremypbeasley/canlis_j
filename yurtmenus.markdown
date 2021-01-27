@@ -112,13 +112,13 @@ menu:
       desc: 2017 LINGUA FRANCA, AVNI, WILLAMETTE VALLEY, OR
       price: "$18"
       note: 
+    - title: Syrah
+      desc: 2018 KERLOO BLACK ROCK VINEYARD, YAKIMA VALLEY, WA
+      price: "$15"
+      note: 
     - title: Cabernet Sauvignon
       desc: 2016 BASEL CELLARS, COLUMBIA VALLEY, WA
       price: "$18"
-      note: 
-    - title: Syrah + Cabernet Sauvignon
-      desc: 2013 DOMAINE TRÉVALLON, PROVENCE, CA
-      price: "$28"
       note: 
     - title: Nebbiolo
       desc: 2015 ALTARE BAROLO, PIEDMONT, ITA
