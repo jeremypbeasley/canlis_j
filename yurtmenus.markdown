@@ -23,32 +23,32 @@ menu:
     price: "$20"
     note: 
   - title: Almost Perfect
-    desc: STIGGIN'S FANCY PINEAPPLE RUM, AMERICANO COCCHI, AMARO, MARASCHINO, BITTERS
+    desc: STIGGIN'S FANCY PINEAPPLE RUM, COCCHI AMERICANO, AMARO, MARASCHINO, BITTERS
     price: "$24"
     note: 
-  - title: St. Gotthard Punsch
+  - title: St. Gotthard Punch
     desc: CRANBERRY, BLACKBERRY, BERGAMOT, GINGER BEER
     price: "$10"
     note: "(Alcohol Free)"
 - category-title: Beer
   items:
-  - title: EZ Orchards Roman Apple Cider
+  - title: Snowdrift Cornice Barrel Aged Cider
     desc: 
     price: "$20"
-    note: "(16.9 oz.)"
-  - title: Double Mountain Kolsch
-    desc: 
-    price: "$10"
     note: "(16.9 oz.)"
   - title: Coopers Extra Strong Vintage Ale
     desc: 
     price: "$12"
     note: "(DRAFT 13.5 oz.)"
-  - title: Pfreim IPA
+  - title: Double Mountain Kolsch
+    desc: 
+    price: "$10"
+    note: "(16.9 oz) "
+  - title: Pfriem IPA
     desc: 
     price: "$12"
-    note: "(16.9 oz)"
-  - title: Rodenbach Gran Cru
+    note: "(16 oz)"
+  - title: Rodenbach Grand Cru "Red Ale"
     desc: 
     price: "$14"
     note: "(12.7 oz)"
@@ -56,10 +56,10 @@ menu:
     desc: 
     price: "$18"
     note: "(12.7 oz) "
-  - title: Alvinne Podge Stout
+  - title: Black Raven Grandfather Raven Imperial Stout Woodinville
     desc: 
-    price: "$18"
-    note: "(12.7 oz)"
+    price: "$20"
+    note: "(22 oz)"
 - category-title: Wine
   subcategories:
   - title: Bubbles
@@ -78,21 +78,21 @@ menu:
       note: 
   - title: White
     items:
-    - title: Silvaner
-      desc: 2018 KELLER, RHEINHESSEN, DEU
+    - title: Grüner Veltliner
+      desc: 2019 WT VINTNERS, COLUMBIA GORGE, WA
       price: "$16"
       note: 
     - title: Chenin Blanc
       desc: 2019 ORR, COLUMBIA VALLEY, WA
       price: "$15"
       note: 
-    - title: Friulano
-      desc: 2017 SCARPETTA, FIULI, ITA
+    - title: Sauvignon Blanc
+      desc: '2017 TIARE, COLLIO, ITA '
       price: "$16"
       note: 
     - title: Chardonnay
-      desc: 2016 COPAIN, CA
-      price: "$18"
+      desc: 2016 CSM COLD CREEK , COLUMBIA VALLEY, WA
+      price: "$14"
       note: 
     - title: Clairette
       desc: 2014 CHÂTEAU SIMONE, PROVENCE, FRA
@@ -105,20 +105,20 @@ menu:
   - title: Red
     items:
     - title: Cabernet Franc
-      desc: 2018 ATHLÉTES DU VIN, SAUMUR CHAMPIGNY, FRA
-      price: "$16"
-      note: 
-    - title: Pinot Noir
-      desc: 2018 WALTER SCOTT, WILLAMETTE VALLEY, OR
-      price: "$18"
-      note: 
-    - title: Cabernet Sauvignon
-      desc: 2016 ARROWOOD, SONOMA, CA
+      desc: 2013 DOMAINE COLLIER, SAUMUR, FRA
       price: "$24"
       note: 
-    - title: Syrah + Cabernet Sauvignon
-      desc: 2013 DOMAINE TRÉVALLON, PROVENCE, CA
-      price: "$28"
+    - title: Pinot Noir
+      desc: 2017 LINGUA FRANCA, AVNI, WILLAMETTE VALLEY, OR
+      price: "$18"
+      note: 
+    - title: Syrah
+      desc: 2018 KERLOO BLACK ROCK VINEYARD, YAKIMA VALLEY, WA
+      price: "$15"
+      note: 
+    - title: Cabernet Sauvignon
+      desc: 2016 BASEL CELLARS, COLUMBIA VALLEY, WA
+      price: "$18"
       note: 
     - title: Nebbiolo
       desc: 2015 ALTARE BAROLO, PIEDMONT, ITA
