@@ -11,14 +11,15 @@ concepts:
   buttons:
   - label: 'Reserve '
     link: https://www.exploretock.com/canlis/
-- title: The Canlis Super Bowl Kit
-  image: "/uploads/Screen%20Shot%202021-01-13%20at%2011.48.30%20AM%20copy.jpg"
-  desc: You could go to the store, fight the crowds, buy the ingredients, and get
-    everything ready for the big game —or we could just do that for you.
-  block_link: https://www.exploretock.com/canlis/experience/256538/
+- title: Classic Canlis Valentines Day Kit
+  image: "/uploads/IMG_1299.jpeg"
+  desc: A Classic Canlis Valentine’s Night at Home. Dinner for two, cooked by us,
+    just for you. ...and you. Way easier than getting a reservation, and a whole lot
+    less work than cooking it up yourselves. Happy Valentine’s Weekend!
+  block_link: https://www.exploretock.com/canlis/experience/259139/
   buttons:
   - label: Buy now
-    link: https://www.exploretock.com/canlis/experience/256538/
+    link: https://www.exploretock.com/canlis/experience/259139/
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
 og_desc: Seattle's landmark fine-dining destination for 69 years and recent home to
