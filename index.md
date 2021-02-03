@@ -4,9 +4,9 @@ is_alert_shown: false
 alert_text: 
 concepts:
 - title: Canlis Family Meal
-  image: "/uploads/FullSizeRender.jpg"
+  image: "/uploads/beef.jpg"
   desc: 'Four-coursed meals designed for the home and cooked to order, with ready-made
-    cocktails or wines from our cellar. This week: Waygu Fajitas and more. '
+    cocktails or wines from our cellar. This week: Beef Bourguignon and more. '
   block_link: https://www.exploretock.com/canlis/
   buttons:
   - label: 'Reserve '
