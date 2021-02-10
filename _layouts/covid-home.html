@@ -17,6 +17,31 @@
   </div>
 </div> -->
 
+
+
+<div class="flex flex-row m3 d-m5 flex-center">
+  {% for concept in page.concepts %}
+    <div class="col ConceptBlock">
+      <a class="NoLine" href="{{ concept.block_link }}">
+        <div class="d-m0 d-p3">
+          <img class="rounded10 mb2 fullWidth" src="{{ concept.image }}"/>
+          <!-- <div class="mb1"><i>Delivery or Pickup</i></div> -->
+          <h2 class="p0 mt0 mb1 Display2">{{ concept.title }}</h2>
+          <div class="p0 mt0 mb1 op60">{{ concept.desc }}</div>
+          <div class="flex">
+            {% for button in concept.buttons %}
+              <div class="col p0 mt0 mb3 mr3">
+                <a class="NoLine Caption" href="{{ button.link }}">{{ button.label }}</a>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+        <div class="Divider ShowMobile op20 mb3 d-mb0"></div>
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
 <div class="flex flex-row m3 d-m5 flex-center">
     <div class="col ConceptBlock">
       <div class="d-m0 d-p3">
@@ -49,29 +74,6 @@
         <div class="Divider ShowMobile op20 mb3 d-mb0"></div>
       </div>
     </div>
-</div>
-
-<div class="flex flex-row m3 d-m5 flex-center">
-  {% for concept in page.concepts %}
-    <div class="col ConceptBlock">
-      <a class="NoLine" href="{{ concept.block_link }}">
-        <div class="d-m0 d-p3">
-          <img class="rounded10 mb2 fullWidth" src="{{ concept.image }}"/>
-          <!-- <div class="mb1"><i>Delivery or Pickup</i></div> -->
-          <h2 class="p0 mt0 mb1 Display2">{{ concept.title }}</h2>
-          <div class="p0 mt0 mb1 op60">{{ concept.desc }}</div>
-          <div class="flex">
-            {% for button in concept.buttons %}
-              <div class="col p0 mt0 mb3 mr3">
-                <a class="NoLine Caption" href="{{ button.link }}">{{ button.label }}</a>
-              </div>
-            {% endfor %}
-          </div>
-        </div>
-        <div class="Divider ShowMobile op20 mb3 d-mb0"></div>
-      </a>
-    </div>
-  {% endfor %}
 </div>
 
 <div class="flex flex-center">
