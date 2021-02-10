@@ -4,9 +4,10 @@ is_alert_shown: false
 alert_text: 
 concepts:
 - title: Canlis Family Meal
-  image: "/uploads/beef.jpg"
+  image: "/uploads/IMG_5895.jpg"
   desc: 'Four-coursed meals designed for the home and cooked to order, with ready-made
-    cocktails or wines from our cellar. This week: Beef Bourguignon and more. '
+    cocktails or wines from our cellar. This week: Grilled Beef Kalbi Short Ribs and
+    more.'
   block_link: https://www.exploretock.com/canlis/
   buttons:
   - label: 'Reserve '
