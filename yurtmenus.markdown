@@ -36,6 +36,10 @@ menu:
     desc: 
     price: "$20"
     note: "(16.9 oz.)"
+  - title: Coopers Extra Strong Vintage Ale
+    desc: 
+    price: "$12"
+    note: "(DRAFT 13.5 oz.)"
   - title: Double Mountain Kolsch
     desc: 
     price: "$10"
@@ -56,14 +60,6 @@ menu:
     desc: 
     price: "$20"
     note: "(22 oz)"
-  - title: Coopers Extra Strong Vintage Ale
-    desc: 
-    price: "$12"
-    note: "(DRAFT 13.5 oz.)"
-  - title: Bale Breaker Feild 41 Pale Ale
-    desc: 
-    price: "$10"
-    note: "(DRAFT 13.5 oz.)"
 - category-title: Wine
   subcategories:
   - title: Bubbles
@@ -86,9 +82,9 @@ menu:
       desc: 2019 WT VINTNERS, COLUMBIA GORGE, WA
       price: "$16"
       note: 
-    - title: Chenin Blanc
-      desc: 2019 ORR, COLUMBIA VALLEY, WA
-      price: "$15"
+    - title: Riesling
+      desc: 2018 PETER LAUER, SENIOR, SAAR, DEU
+      price: "$18"
       note: 
     - title: Sauvignon Blanc
       desc: '2017 TIARE, COLLIO, ITA '
@@ -113,11 +109,11 @@ menu:
       price: "$24"
       note: 
     - title: Pinot Noir
-      desc: OWEN ROE, KILMORE, WILLAMETTE VALLEY, OR
+      desc: '2016 OWEN ROE KILMORE, YAMILL-CARLTON, OR '
       price: "$20"
       note: 
     - title: Syrah
-      desc: 2018 KERLOO BLACK ROCK VINEYARD, YAKIMA VALLEY, WA
+      desc: 2017 GUARDIAN, STONE TREE VINEYARD, WAHLUKE SLOPE, WA
       price: "$15"
       note: 
     - title: Cabernet Sauvignon
