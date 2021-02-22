@@ -117,7 +117,7 @@ menu:
       price: "$15"
       note: 
     - title: Cabernet Sauvignon
-      desc: 2016 BASEL CELLARS, COLUMBIA VALLEY, WA
+      desc: 2018 LYDIAN CELLARS, CABERNET SAUVIGNON, COLUMBIA VALLEY, WA
       price: "$18"
       note: 
     - title: Nebbiolo

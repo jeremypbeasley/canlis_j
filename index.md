@@ -1,7 +1,7 @@
 ---
 title: Home
 is_alert_shown: false
-alert_text:
+alert_text: 
 concepts:
 - title: Canlis Family Meal
   image: "/uploads/EE22D0D2-54D5-4C70-9A9D-88A7E2F1DB64-min.jpeg"
@@ -14,7 +14,8 @@ concepts:
     link: https://www.exploretock.com/canlis/
 - title: The Yurt Villages at Canlis
   image: "/uploads/yurtseal-df1063.jpg"
-  desc: 'Your own private dining suite, right outside in our parking lot. Available exclusively to American Express cardholders.'
+  desc: Your own private dining suite, right outside in our parking lot. Available
+    exclusively to American Express cardholders.
   block_link: https://resy.com/cities/sea/canlis?seats=4
   buttons:
   - label: 'Reserve '
@@ -25,3 +26,4 @@ og_desc: Seattle's landmark fine-dining destination for 69 years and recent home
   multi-disciplinary pandemic pivots designed to serve our city.
 layout: covid-home
 ---
+
