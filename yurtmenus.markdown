@@ -32,10 +32,10 @@ menu:
     note: "(Alcohol Free)"
 - category-title: Beer
   items:
-  - title: Snowdrift Cornice Barrel Aged Cider
+  - title: 'Snowdrift Cornice Barrel Aged Cider '
     desc: 
     price: "$20"
-    note: "(16.9 oz.)"
+    note: "(16.9 oz)"
   - title: Coopers Extra Strong Vintage Ale
     desc: 
     price: "$12"
