@@ -64,8 +64,8 @@ menu:
   subcategories:
   - title: Bubbles
     items:
-    - title: Prosecco
-      desc: 2018 SORELLE BRONCA, ITA
+    - title: Sparkling Wine
+      desc: NV SCHARFFENBERGER, MENDOCINO, CA
       price: "$18"
       note: 
     - title: Sparkling Wine
@@ -94,9 +94,9 @@ menu:
       desc: 2015 PATZ & HALL, HYDE VINEYARD, CARNEROS, CA
       price: "$20"
       note: 
-    - title: Clairette
-      desc: 2014 CHÂTEAU SIMONE, PROVENCE, FRA
-      price: "$25"
+    - title: Viognier
+      desc: 2017 CHAPOUTIER, RHONE VALLEY, FRA
+      price: "$18"
       note: 
     - title: Chardonnay
       desc: 2014 VOCORET, CHABLIS, BLANCHOT, GRAND CRU, FRA
@@ -124,8 +124,8 @@ menu:
       desc: 2015 ALTARE BAROLO, PIEDMONT, ITA
       price: "$32"
       note: 
-    - title: Cabernet Sauvignon + Merlot
-      desc: 2009 ANDREW WILL, SORELLA, WA
+    - title: RED BLEND
+      desc: 2010 PIROUETTE, COLUMBIA VALLEY, WA
       price: "$40"
       note: 
 layout: yurtmenu
