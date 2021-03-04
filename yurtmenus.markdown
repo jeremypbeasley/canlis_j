@@ -44,7 +44,7 @@ drinks:
     desc: 
     price: "$10"
     note: "(16.9 oz) "
-  - title: Pfriem IPA
+  - title: pFriem IPA
     desc: 
     price: "$12"
     note: "(16 oz)"
