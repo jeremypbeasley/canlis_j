@@ -13625,6 +13625,29 @@ $(document).ready(function() {
     console.log("Announcement: Off");
   });
 
+  // Yurt Menu
+
+  $('#menu-food').hide();
+  $("#menu-drinks-trigger").addClass("active");
+
+  $("#menu-drinks-trigger").click(function() {
+    $(".yurt-nav ul li").removeClass("active");
+    $(this).addClass("active");
+    // $(this).addClass("active");
+    $('#menu-drinks').show();
+    $('#menu-food').hide();
+    console.log("show drinks!")
+  });
+
+  $("#menu-food-trigger").click(function() {
+    $(".yurt-nav ul li").removeClass("active");
+    $(this).addClass("active");
+    $('#menu-drinks').hide();
+    $('#menu-food').show();
+    console.log("show food!")
+  });
+
+
   // Popup
 
   // $(document.body).on('click', '.OrderLink', function(){
