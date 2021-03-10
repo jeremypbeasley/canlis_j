@@ -6,30 +6,32 @@ og_photo: "/uploads/yurthead.png"
 drinks:
 - category-title: Cocktails
   items:
-  - title: Hugo Spritz
-    desc: ELDERFLOWER, PROSECCO, SPARKLING WATER, ORANGE, MINT
+  - title: Dagsmeja<br>
+    desc: Maker's Mark, Carpano Antica, genepe, maraschino, bitters
+    price: "$18"
+    note: Swedish for "Day Power." Snow melting under the full power of the sun in
+      still freezing temperatures. Just one of Scandinavia's many words describing
+      snow. A lush and aromatic Manhattan variant.<br>
+  - title: Norra Våren<br>
+    desc: Cognac, kummel, grapefruit, lingonberry
+    price: "$18"
+    note: Scandinavian spring in a glass. Bitterness and caraway yield to blossoming,
+      elegant lingonberry.<br>
+  - title: Bramble<br>
+    desc: Gin, lemon, sugar, blackberry
     price: "$16"
-    note: 
-  - title: Glühmost
-    desc: APPLE, APRICOT EAU DE VIE, AMARETTO, WHITE WINE, CITRUS, SPICES
+    note: Famed British bartender Dick Bradsell first made this modern classic in
+      1984 in London. Tart and refreshing in celebration of the newness of springtime.<br>
+  - title: Deshler<br>
+    desc: Rye, Dubonnet, Curacao, bitters
     price: "$18"
-    note: "(Warmed)"
-  - title: Fairbanks <br>Cocktail No. 1
-    desc: GIN, APRICOT, VERMOUTH, LEMON, GRENADINE
-    price: "$18"
-    note: 
-  - title: Matterhorn
-    desc: BOURBON, CARPANO ANTICA, GREEN CHARTREUSE, ABSINTHE, BITTERS
-    price: "$20"
-    note: 
-  - title: Almost Perfect
-    desc: STIGGIN'S FANCY PINEAPPLE RUM, COCCHI AMERICANO, AMARO, MARASCHINO, BITTERS
-    price: "$24"
-    note: 
-  - title: St. Gotthard Punch
-    desc: CRANBERRY, BLACKBERRY, BERGAMOT, GINGER BEER
+    note: 'Created by Hugo Enssli of Hotel Wallick in NYC circa 1916. A classic, mildly
+      bitter cocktail from the turn of the century.<br> '
+  - title: Ôstara<br>
+    desc: Lingonberry, grapefruit, dill, celery
     price: "$10"
-    note: "(Alcohol Free)"
+    note: An ancient Northern European goddess of spring. Ripe with latent youthfulness
+      of the next season.<br>(Alcohol Free)<br>
 - category-title: Beer
   items:
   - title: 'Snowdrift Cornice Barrel Aged Cider '
@@ -120,10 +122,6 @@ drinks:
       desc: 2018 LYDIAN CELLARS, CABERNET SAUVIGNON, COLUMBIA VALLEY, WA
       price: "$18"
       note: 
-    - title: Nebbiolo
-      desc: 2015 ALTARE BAROLO, PIEDMONT, ITA
-      price: "$32"
-      note: 
     - title: Red Blend
       desc: 2010 PIROUETTE, COLUMBIA VALLEY, WA
       price: "$40"
@@ -148,18 +146,10 @@ food:
       desc: Salsify with buttermilk and rosemary
       price: 
       note: 
-    - title: Oyster
-      desc: Bluepool with citus, daikon, and jalapeno
-      price: 
-      note: 
   - title: Second Course
     items:
     - title: Pork Collar
       desc: Grilled pork collar with cabbage, mushroom, and apple
-      price: 
-      note: 
-    - title: Beef Cheeks
-      desc: Braised with red wine and vinegar, ricotta gnocchi, and mustard greens
       price: 
       note: 
     - title: Lamb Leg
