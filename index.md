@@ -4,9 +4,9 @@ is_alert_shown: false
 alert_text: 
 concepts:
 - title: Canlis Family Meal
-  image: "/uploads/D7A168AD-BE10-4F17-9CE8-B04C9417A7CC.jpeg"
+  image: "/uploads/unnamed.jpeg"
   desc: 'Three-course meals designed for the home and cooked to order, with ready-made
-    cocktails or wines from our cellar. This week: Southern Fried Chicken'
+    cocktails or wines from our cellar. This week: Canlis Texas BBQ'
   block_link: https://www.exploretock.com/canlis/
   buttons:
   - label: 'Reserve '
