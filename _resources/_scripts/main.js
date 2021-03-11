@@ -101,6 +101,13 @@ $(document).ready(function() {
     console.log("show food!")
   });
 
+  $( ".camp-eagle" ).delay(4000).animate({
+    right: "+=5000",
+    top: "-=1000",
+  }, 9000, function() {
+    // Animation complete.
+  });
+
 
   // Popup
 
