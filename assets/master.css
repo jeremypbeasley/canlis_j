@@ -4828,17 +4828,17 @@ input[type=submit] {
   position: fixed;
   z-index: 99999;
   right: -150px;
-  top: 50%;
+  top: 300px;
 }
 .camp-mountain {
   width: 100vw;
-  height: 40vh;
+  height: 27em;
   position: relative;
   background-color: #718728;
 }
 @media (min-width: 48em) {
   .camp-mountain {
-    height: 35vh;
+    height: 23em;
   }
 }
 .camp-mountain-image {
@@ -4852,6 +4852,7 @@ input[type=submit] {
 .camp-title {
   position: absolute;
   width: 90vw;
+  max-width: 30em;
   z-index: 9999;
   overflow: auto;
   margin-top: 120px;
@@ -4862,7 +4863,8 @@ input[type=submit] {
 @media (min-width: 48em) {
   .camp-title {
     margin-top: 15vh;
-    width: 60vh;
+    width: 45vw;
+    max-width: 40em;
   }
 }
 .camp-blurb {

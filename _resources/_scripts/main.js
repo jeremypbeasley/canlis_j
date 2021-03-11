@@ -101,10 +101,10 @@ $(document).ready(function() {
     console.log("show food!")
   });
 
-  $( ".camp-eagle" ).delay(4000).animate({
+  $( ".camp-eagle" ).delay(2000).animate({
     right: "+=5000",
     top: "-=1000",
-  }, 9000, function() {
+  }, 6000, function() {
     // Animation complete.
   });
 
