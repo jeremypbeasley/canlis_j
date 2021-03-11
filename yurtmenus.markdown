@@ -10,8 +10,7 @@ drinks:
     desc: Maker's Mark, Carpano Antica, genepe, maraschino, bitters
     price: "$18"
     note: Swedish for "Day Power." Snow melting under the full power of the sun in
-      still freezing temperatures. Just one of Scandinavia's many words describing
-      snow. A lush and aromatic Manhattan variant.<br>
+      still freezing temperatures. A lush and aromatic Manhattan variant.<br>
   - title: Norra Våren<br>
     desc: Cognac, kummel, grapefruit, lingonberry
     price: "$18"
@@ -21,7 +20,7 @@ drinks:
     desc: Gin, lemon, sugar, blackberry
     price: "$16"
     note: Famed British bartender Dick Bradsell first made this modern classic in
-      1984 in London. Tart and refreshing in celebration of the newness of springtime.<br>
+      1984. Tart and refreshing in celebration of the newness of springtime.<br>
   - title: Deshler<br>
     desc: Rye, Dubonnet, Curacao, bitters
     price: "$18"
