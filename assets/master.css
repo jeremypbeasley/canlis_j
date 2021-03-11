@@ -4824,7 +4824,7 @@ input[type=submit] {
 .camp-eagle {
   width: 10rem;
   height: 10rem;
-  background: url("https://web.archive.org/web/20090829162635/http://geocities.com/thestoneman1/eagle_fly_lg_clr.gif");
+  background: url("/uploads/camp-eagle.gif");
   position: fixed;
   z-index: 99999;
   right: -150px;
