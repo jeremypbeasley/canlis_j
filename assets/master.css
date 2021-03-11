@@ -2371,7 +2371,8 @@ img {
     visibility: hidden;
   }
 }
-.CenterText {
+.CenterText,
+.text-align-center {
   text-align: center;
 }
 .lineHeight150 {
@@ -4807,4 +4808,182 @@ input[type=submit] {
 .yurt-nav .active {
   opacity: 1;
   border-bottom: 3px solid #fff;
+}
+.camp {
+  background: #324401;
+  min-height: 100vh;
+  width: 100vw;
+  overflow: auto;
+  color: #fff;
+  font-family: futuramaxicgbold;
+  line-height: 140%;
+}
+.camp h1 {
+  font-family: futuramaxicgbold;
+}
+.camp-eagle {
+  width: 10rem;
+  height: 10rem;
+  background: url("https://web.archive.org/web/20090829162635/http://geocities.com/thestoneman1/eagle_fly_lg_clr.gif");
+  position: fixed;
+  z-index: 99999;
+  right: -150px;
+  top: 50%;
+}
+.camp-mountain {
+  width: 100vw;
+  height: 40vh;
+  position: relative;
+  background-color: #718728;
+}
+@media (min-width: 48em) {
+  .camp-mountain {
+    height: 35vh;
+  }
+}
+.camp-mountain-image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: url("/uploads/camp-mountain.svg");
+  background-repeat: repeat-x;
+  background-position: top center;
+}
+.camp-title {
+  position: absolute;
+  width: 90vw;
+  z-index: 9999;
+  overflow: auto;
+  margin-top: 120px;
+}
+.camp-title img {
+  width: 100%;
+}
+@media (min-width: 48em) {
+  .camp-title {
+    margin-top: 15vh;
+    width: 60vh;
+  }
+}
+.camp-blurb {
+  width: 100%;
+  padding: 5vw 0;
+  color: #fff;
+}
+.camp-blurb p {
+  width: 20vw;
+  text-align: center;
+}
+.camp-location-list {
+  flex-wrap: wrap;
+  padding: 0 10vw;
+}
+@media (min-width: 62em) {
+  .camp-location-list {
+    padding: 0 15vw;
+  }
+}
+.camp-location {
+  width: 100%;
+  margin: 5vw 5vw;
+  text-align: center;
+}
+.camp-location:hover .camp-location-image {
+  transform: rotate(5deg);
+}
+@media (min-width: 62em) {
+  .camp-location {
+    width: 20vw;
+    margin: 2vw 5vw;
+  }
+}
+.camp-location-image {
+  width: 100%;
+  margin-bottom: 1em;
+}
+.camp-location-description {
+  margin-bottom: 1em;
+}
+.camp-location-notice {
+  margin-bottom: 1em;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  color: #f9a31a;
+  letter-spacing: 0.05rem;
+/* opacity: .6; */
+}
+.camp-location-CTA {
+  margin-top: -1vw;
+}
+.camp-location-CTA button {
+  border: none;
+  background-color: transparent;
+  margin-top: 1vw;
+  background: #f9a31a;
+  padding: 14px 25px 10px 25px;
+  box-shadow: 4px 4px 0px 0px #261100;
+  height: 40px;
+  border-radius: 20px;
+}
+.camp-location-CTA button:hover {
+  background: #fff;
+}
+.camp-location-CTA a {
+  text-decoration: none;
+}
+.camp-notify {
+  margin: 5vw;
+  flex-flow: column;
+}
+.camp-notify div {
+  margin-bottom: 2vw;
+}
+.camp-notify p {
+  color: #f9a31a;
+}
+@media (min-width: 48em) {
+  .camp-notify {
+    padding: 0 20vw;
+    margin-top: 8vw;
+  }
+  .camp-notify div {
+    margin-bottom: 0;
+  }
+}
+.signup input.email {
+  height: 30px;
+  padding: 20px 17px;
+  font-size: 14px;
+  outline: none;
+  border: none;
+  flex: 1;
+  background: #fff;
+  box-shadow: 4px 4px 0px 0px #261100;
+  border-radius: 0;
+}
+@media (min-width: 62em) {
+  .signup input.email {
+    height: 50px;
+    padding: 25px 17px;
+    font-size: 20px;
+  }
+}
+.signup .button {
+  height: 40px;
+  padding: 13px 15px;
+  font-size: 15px;
+  color: #261100;
+  background: #f9a31a;
+  outline: none;
+  box-shadow: 4px 4px 0px 0px #261100;
+  border-radius: 0;
+}
+@media (min-width: 62em) {
+  .signup .button {
+    height: 50px;
+    padding: 20px;
+    font-size: 20px;
+    margin-bottom: 0;
+    margin-left: -2.5px;
+  }
 }
