@@ -13648,12 +13648,16 @@ $(document).ready(function() {
   });
 
   $( ".camp-eagle" ).delay(2000).animate({
-    right: "+=5000",
+    right: "+=4000",
     top: "-=1000",
-  }, 6000, function() {
+  }, 7000, function() {
     // Animation complete.
   });
 
+  $(".camp-eagle").click(function() {
+    $(this).addClass("boom");
+
+  });
 
   // Popup
 
