@@ -114,8 +114,8 @@ drinks:
       price: "$20"
       note: 
     - title: Syrah
-      desc: 2017 GUARDIAN, STONE TREE VINEYARD, WAHLUKE SLOPE, WA
-      price: "$15"
+      desc: '2018 AMAVI, WALLA WALLA, WA '
+      price: "$17"
       note: 
     - title: Cabernet Sauvignon
       desc: 2018 LYDIAN CELLARS, CABERNET SAUVIGNON, COLUMBIA VALLEY, WA
@@ -153,6 +153,10 @@ food:
       note: 
     - title: Lamb Leg
       desc: Yubeshi, carrot, chorizo, and cherry
+      price: 
+      note: 
+    - title: Halibut
+      desc: Oca, sunchoke, green garlic
       price: 
       note: 
   - title: Dessert
