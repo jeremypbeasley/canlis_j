@@ -4890,10 +4890,12 @@ input[type=submit] {
 .camp-location-list {
   flex-wrap: wrap;
   padding: 0 10vw;
+  margin-top: 5vw;
 }
 @media (min-width: 62em) {
   .camp-location-list {
     padding: 0 15vw;
+    margin-top: 8vw;
   }
 }
 .camp-location {
