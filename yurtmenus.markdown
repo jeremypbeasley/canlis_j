@@ -92,7 +92,7 @@ drinks:
       price: "$16"
       note: 
     - title: Chardonnay
-      desc: 2015 PATZ & HALL, HYDE VINEYARD, CARNEROS, CA
+      desc: '2018 SANDHI, STA. RITA HILLS, CA '
       price: "$20"
       note: 
     - title: Viognier
@@ -157,6 +157,10 @@ food:
       note: 
     - title: Halibut
       desc: Oca, sunchoke, green garlic
+      price: 
+      note: 
+    - title: Celery Root Carbonara
+      desc: Pappardelle, Cremini chips
       price: 
       note: 
   - title: Dessert

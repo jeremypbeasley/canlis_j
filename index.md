@@ -1,12 +1,13 @@
 ---
 title: Home
 is_alert_shown: false
-alert_text:
+alert_text: 
 concepts:
 - title: Easter Brunch & Dinner Kit
   image: "/uploads/Canlis-Easter-Sticker.jpg"
-  desc: 'Let Canlis do the legwork on this one. Show up at Grandma’s house like a boss or just enjoy the day with family at home. '
-  block_link: "https://www.exploretock.com/canlis/experience/269826/"
+  desc: 'Let Canlis do the legwork on this one. Show up at Grandma’s house like a
+    boss or just enjoy the day with family at home. '
+  block_link: https://www.exploretock.com/canlis/experience/269826/
   buttons:
   - label: 'Reserve '
     link: https://www.exploretock.com/canlis/experience/269826/
@@ -18,7 +19,7 @@ concepts:
   block_link: "/camp"
   buttons:
   - label: 'Reserve '
-    link: '/camp'
+    link: "/camp"
 - title: Canlis Family Meal
   image: "/uploads/unnamed.jpeg"
   desc: 'Three-course meals designed for the home and cooked to order, with ready-made
@@ -33,3 +34,4 @@ og_desc: Seattle's landmark fine-dining destination for 69 years and recent home
   multi-disciplinary pandemic pivots designed to serve our city.
 layout: covid-home
 ---
+
