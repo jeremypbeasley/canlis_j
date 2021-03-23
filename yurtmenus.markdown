@@ -66,7 +66,7 @@ drinks:
   - title: Bubbles
     items:
     - title: Sparkling Wine
-      desc: NV SCHARFFENBERGER, MENDOCINO, CA
+      desc: 'NV BERLUCCHI, BRUT, FRANCIACORTA, ITA '
       price: "$18"
       note: 
     - title: Sparkling Wine
@@ -79,10 +79,6 @@ drinks:
       note: 
   - title: White
     items:
-    - title: Grüner Veltliner
-      desc: 2019 WT VINTNERS, COLUMBIA GORGE, WA
-      price: "$16"
-      note: 
     - title: Riesling
       desc: 2018 PETER LAUER, SENIOR, SAAR, DEU
       price: "$18"
@@ -105,6 +101,10 @@ drinks:
       note: 
   - title: Red
     items:
+    - title: Portuguese Red
+      desc: 2019 NIEPOORT, NAT COOL, BAGA PRT
+      price: "$16"
+      note: 
     - title: Cabernet Franc
       desc: 2013 DOMAINE COLLIER, SAUMUR, FRA
       price: "$24"
@@ -114,7 +114,7 @@ drinks:
       price: "$20"
       note: 
     - title: Syrah
-      desc: '2018 AMAVI, WALLA WALLA, WA '
+      desc: '2017 GUARDIAN CELLARS, COLUMBIA VALLEY, WA '
       price: "$17"
       note: 
     - title: Cabernet Sauvignon
