@@ -26,6 +26,9 @@ items:
 - title: Canlis Logo (Black, Vector)
   thumbnail: "/uploads/canlis_logo_white_media.jpg"
   link: "/uploads/canlis_logo_white_media_pdf.pdf"
+- title: Canlis Logo (Black, PNG Transparent)
+  thumbnail: "/uploads/canlis_logo_white_media.jpg"
+  link: "/uploads/Artboard%201@3x.png"
 og_desc: Assets and photographs for press and media.
 og_photo: "/uploads/canlis_logo_black_media.jpg"
 layout: media
