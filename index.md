@@ -21,9 +21,10 @@ concepts:
   - label: 'Reserve '
     link: "/camp"
 - title: Canlis Family Meal
-  image: "/uploads/unnamed.jpeg"
+  image: "/uploads/161421521_901032530653042_7369987712664720256_n.jpeg"
   desc: 'Three-course meals designed for the home and cooked to order, with ready-made
-    cocktails or wines from our cellar. This week: Canlis Texas BBQ'
+    cocktails or wines from our cellar. This week: Japanese Style Meatloaf with Tonkatsu
+    Bulldog Sauce'
   block_link: https://www.exploretock.com/canlis/
   buttons:
   - label: 'Reserve '
