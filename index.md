@@ -3,14 +3,6 @@ title: Home
 is_alert_shown: false
 alert_text: 
 concepts:
-- title: Easter Brunch & Dinner Kit
-  image: "/uploads/Canlis-Easter-Sticker.jpg"
-  desc: 'Let Canlis do the legwork on this one. Show up at Grandma’s house like a
-    boss or just enjoy the day with family at home. '
-  block_link: https://www.exploretock.com/canlis/experience/269826/
-  buttons:
-  - label: 'Reserve '
-    link: https://www.exploretock.com/canlis/experience/269826/
 - title: Camp Canlis
   image: "/uploads/campy.jpg"
   desc: 'Calling all campers! Cooped up at home? Cabin fever cramping your style?
@@ -21,10 +13,9 @@ concepts:
   - label: 'Reserve '
     link: "/camp"
 - title: Canlis Family Meal
-  image: "/uploads/161421521_901032530653042_7369987712664720256_n.jpeg"
+  image: "/uploads/IMG_7312.jpg"
   desc: 'Three-course meals designed for the home and cooked to order, with ready-made
-    cocktails or wines from our cellar. This week: Japanese Style Meatloaf with Tonkatsu
-    Bulldog Sauce'
+    cocktails or wines from our cellar. This week: Chicken Enchiladas Rojas'
   block_link: https://www.exploretock.com/canlis/
   buttons:
   - label: 'Reserve '
