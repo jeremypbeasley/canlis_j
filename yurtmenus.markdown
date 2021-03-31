@@ -37,10 +37,6 @@ drinks:
     desc: 
     price: "$20"
     note: "(16.9 oz)"
-  - title: Coopers Extra Strong Vintage Ale
-    desc: 
-    price: "$12"
-    note: "(DRAFT 13.5 oz.)"
   - title: Double Mountain Kolsch
     desc: 
     price: "$10"
@@ -110,7 +106,7 @@ drinks:
       price: "$24"
       note: 
     - title: Pinot Noir
-      desc: '2016 OWEN ROE KILMORE, YAMILL-CARLTON, OR '
+      desc: 2017 SMOCKSHOP BAND, SPRING EPHEMERAL, COLUMBIA GORGE, WA
       price: "$20"
       note: 
     - title: Syrah
@@ -131,18 +127,22 @@ food:
   - title: 
     items:
     - title: Snacks
-      desc: Sturgeon spread, smoked salmon, rotating pickles, rotating crackers, and
+      desc: Halibut spread, smoked salmon, rotating pickles, rotating crackers, and
         liver mousse
       price: 
       note: 
   - title: First Course
     items:
     - title: Amberjack
-      desc: Ajo Blanco, ginger, and pickled radish
+      desc: Ajo blanco, ginger, and pickled radish
       price: 
       note: 
     - title: Salsify
       desc: Salsify with buttermilk and rosemary
+      price: 
+      note: 
+    - title: Foie Gras
+      desc: Spiced muffin, Morel mushrooms, and pea shoots
       price: 
       note: 
   - title: Second Course
@@ -151,16 +151,16 @@ food:
       desc: Grilled pork collar with cabbage, mushroom, and apple
       price: 
       note: 
-    - title: Lamb Leg
-      desc: Yubeshi, carrot, chorizo, and cherry
+    - title: 'Celery Root Carbonara '
+      desc: Pappardelle and Cremini chips
       price: 
       note: 
     - title: Halibut
-      desc: Oca, sunchoke, green garlic
+      desc: Oca, sunchoke, and green garlic
       price: 
       note: 
-    - title: Celery Root Carbonara
-      desc: Pappardelle, Cremini chips
+    - title: Lamb Leg
+      desc: Yubeshi, cauliflower, and tomato
       price: 
       note: 
   - title: Dessert
@@ -170,7 +170,7 @@ food:
       price: 
       note: 
     - title: Poached Pear
-      desc: Caramel ice cream, cranberries, lemon shortbread
+      desc: Caramel ice cream, cranberries, and lemon shortbread
       price: 
       note: 
 layout: yurtmenu
