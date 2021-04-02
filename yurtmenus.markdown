@@ -25,7 +25,7 @@ drinks:
     desc: Maker’s Mark, peach, bergamot, orange
     price: "$16"
     note: Camp is a peachy good time, so is this.<br>
-  - title: Strawberry Lemonad
+  - title: Strawberry Lemonade
     desc: "(Alcohol Free)"
     price: "$8"
     note: 
