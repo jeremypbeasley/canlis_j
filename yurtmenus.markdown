@@ -2,7 +2,7 @@
 title: Yurt Menu
 date: 2020-12-01 15:19:00 -08:00
 og_desc: Beverage Menu for the Yurt Village at Canlis
-og_photo: "/uploads/yurthead.png"
+og_photo: "/uploads/campy.jpg"
 drinks:
 - category-title: Cocktails
   items:
