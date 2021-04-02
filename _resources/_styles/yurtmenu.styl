@@ -1,3 +1,14 @@
+/* Colors */
+
+/* Dark Green */
+$color-primary = #2E4400
+/* Light Green */
+$color-secondary = #6B8700
+/* Yellow */
+$color-tertiary = #FF9F00
+/* Brown */
+$color-quaternary = #885932
+
 @media laptop {
   .yurthead {
     position: relative;
@@ -20,47 +31,58 @@
 }
 
 .yurt-cat-title {
-  font-family: 'OGSequel';
-  color: #1B5E65;
+  font-family: 'futuramaxicgbold';
+  color: $color-primary;
   font-size: 1.5rem;
   text-transform: uppercase;
   width: 100%;
   text-align: center;
-  border-bottom: 2px solid #1B5E65;
+  border-bottom: 2px solid $color-primary;
 }
 
 .yurt-sub-title {
-  font-family: 'OGSequel';
-  color: #79C2CB;
+  font-family: 'futuramaxicgbold';
+  color: $color-secondary;
   font-size: 1.5rem;
   text-transform: uppercase;
   width: 100%;
   text-align: left;
-  /* border-bottom: 2px solid #1B5E65; */
+  /* border-bottom: 2px solid $color-primary; */
 }
 
 .yurt-item-title {
-  font-family: 'OGSequel';
-  color: #1B5E65;
+  font-family: 'futuramaxicgbold';
+  color: $color-primary;
   font-size: 1.5rem;
+  line-height: 130%;
 }
 
 .yurt-item-price {
-  font-family: 'OGSequel';
-  color: #FBB040;
+  font-family: 'futuramaxicgbold';
+  color: $color-tertiary;
   font-size: 1.5rem;
+  line-height: 130%;
 }
 
-.yurt-item-desc,
-.yurt-item-note {
+.yurt-item-desc {
   font-family: 'futuramaxicgbold', HelveticaBold, Helvetica-Bold, sans-serif;
   font-size: 1rem;
-  color: #79C2CB;
+  line-height: 140%;
+  color: $color-secondary;
   text-transform: uppercase;
+  /* flex-basis: 100%; */
+}
+
+.yurt-item-note {
+  font-family: 'futuramaxicgbold', HelveticaBold, Helvetica-Bold, sans-serif;
+  color: $color-secondary;
+  font-size: 1rem;
+  text-transform: none;
+  line-height: 140%;
 }
 
 .yurt-fulllist {
-  background: #1B5E65;
+  background: $color-primary;
   padding: 18px 20px;
   color: white;
   border-radius: 40px;
@@ -71,8 +93,8 @@
 }
 
 .yurt-nav {
-  background: #FFB017;
-  font-family: 'OGSequel';
+  background: $color-tertiary;
+  font-family: 'futuramaxicgbold';
   color: white;
   font-size: 1.5rem;
   margin-top: -.5rem;
