@@ -6,57 +6,59 @@ og_photo: "/uploads/yurthead.png"
 drinks:
 - category-title: Cocktails
   items:
-  - title: Dagsmeja<br>
-    desc: Maker's Mark, Carpano Antica, genepe, maraschino, bitters
+  - title: Cane Pole Whistle<br>
+    desc: Agricole rhum, lime, Cherry Heering, sumac syrup, bitters
     price: "$18"
-    note: Swedish for "Day Power." Snow melting under the full power of the sun in
-      still freezing temperatures. A lush and aromatic Manhattan variant.<br>
-  - title: Norra Våren<br>
-    desc: Cognac, kummel, grapefruit, lingonberry
-    price: "$18"
-    note: Scandinavian spring in a glass. Bitterness and caraway yield to blossoming,
-      elegant lingonberry.<br>
+    note: If you have ever whittled a wooden whistle and it wouldn’t whistle try to
+      whittle a cane pole whistle instead.  Or sip on this Northwest adaptation of
+      the classic daiquiri.<br>
+  - title: Saddle Up<br>
+    desc: Rye, Punt e Mas, Damiana, bitters
+    price: "$16"
+    note: Cowboy up for a hootin and hollerin take on the classic manhattan.<br>
   - title: Bramble<br>
     desc: Gin, lemon, sugar, blackberry
     price: "$16"
     note: Famed British bartender Dick Bradsell first made this modern classic in
       1984. Tart and refreshing in celebration of the newness of springtime.<br>
-  - title: Deshler<br>
-    desc: Rye, Dubonnet, Curacao, bitters
-    price: "$18"
-    note: 'Created by Hugo Enssli of Hotel Wallick in NYC circa 1916. A classic, mildly
-      bitter cocktail from the turn of the century.<br> '
-  - title: Ôstara<br>
-    desc: Lingonberry, grapefruit, dill, celery
-    price: "$10"
-    note: An ancient Northern European goddess of spring. Ripe with latent youthfulness
-      of the next season.<br>(Alcohol Free)<br>
+  - title: Firefly Cooler<br>
+    desc: Maker’s Mark, peach, bergamot, orange
+    price: "$16"
+    note: Camp is a peachy good time, so is this.<br>
+  - title: Strawberry Lemonad
+    desc: "(Alcohol Free)"
+    price: "$8"
+    note: 
 - category-title: Beer
   items:
   - title: 'Snowdrift Cornice Barrel Aged Cider '
-    desc: "16.9 oz"
+    desc: 
     price: "$20"
-    note:
+    note: "(16.9 oz)"
   - title: Double Mountain Kolsch
-    desc: "16.9 oz "
+    desc: 
     price: "$10"
-    note:
+    note: "(16.9 oz) "
   - title: pFriem IPA
-    desc: "16 oz"
+    desc: 
     price: "$12"
-    note:
+    note: "(16 oz)"
   - title: Rodenbach Grand Cru "Red Ale"
-    desc: "12.7 oz"
+    desc: 
     price: "$14"
-    note:
+    note: "(12.7 oz)"
   - title: Scaldis Noël
-    desc: "12.7 oz "
+    desc: 
     price: "$18"
-    note:
+    note: "(12.7 oz) "
   - title: Black Raven Grandfather Raven Imperial Stout Woodinville
-    desc:  "22 oz"
+    desc: 
     price: "$20"
-    note:
+    note: "(22 oz)"
+  - title: Metier Trail Blazer Pale Ale
+    desc: 
+    price: "$10"
+    note: "(DRAFT 16 oz.) "
 - category-title: Wine
   subcategories:
   - title: Bubbles
@@ -64,114 +66,118 @@ drinks:
     - title: Sparkling Wine
       desc: 'NV BERLUCCHI, BRUT, FRANCIACORTA, ITA '
       price: "$18"
-      note:
+      note: 
     - title: Sparkling Wine
       desc: 2015 LYTLE-BARNETT, WILLAMETTE VALLEY, OR
       price: "$25"
-      note:
+      note: 
     - title: Champagne
       desc: NV CANLIS X MONCUIT, CUVÉE DU FRÉRE, GRAND CRU, FRA
       price: "$30"
-      note:
+      note: 
   - title: White
     items:
+    - title: Aligoté
+      desc: 2019 TRESOMM, VALLEE DE GUADALUPE, MEX
+      price: "$16"
+      note: 
     - title: Riesling
       desc: 2018 PETER LAUER, SENIOR, SAAR, DEU
       price: "$18"
-      note:
+      note: 
     - title: Sauvignon Blanc
       desc: '2017 TIARE, COLLIO, ITA '
       price: "$16"
-      note:
+      note: 
     - title: Chardonnay
       desc: '2018 SANDHI, STA. RITA HILLS, CA '
       price: "$20"
-      note:
+      note: 
     - title: Viognier
       desc: 2017 CHAPOUTIER, RHONE VALLEY, FRA
       price: "$18"
-      note:
+      note: 
     - title: Chardonnay
       desc: 2014 VOCORET, CHABLIS, BLANCHOT, GRAND CRU, FRA
       price: "$30"
-      note:
+      note: 
   - title: Red
     items:
     - title: Portuguese Red
-      desc: 2019 NIEPOORT, NAT COOL, BAGA PRT
+      desc: 2019 NIEPOORT, NAT COOL, BAGA, PRT
       price: "$16"
-      note:
+      note: 
     - title: Cabernet Franc
       desc: 2013 DOMAINE COLLIER, SAUMUR, FRA
       price: "$24"
-      note:
+      note: 
     - title: Pinot Noir
-      desc: 2017 SMOCKSHOP BAND, SPRING EPHEMERAL, COLUMBIA GORGE, WA
-      price: "$20"
-      note:
+      desc: 2014 PIERRE LABET, CLOS DU DESSUS, BEAUNE, BURGUNDY, FRA
+      price: "$22"
+      note: 
     - title: Syrah
-      desc: '2017 GUARDIAN CELLARS, COLUMBIA VALLEY, WA '
+      desc: 2015 DESTINY RIDGE, COLUMBIA VALLEY, WA
       price: "$17"
-      note:
+      note: 
     - title: Cabernet Sauvignon
       desc: 2018 LYDIAN CELLARS, CABERNET SAUVIGNON, COLUMBIA VALLEY, WA
       price: "$18"
-      note:
+      note: 
     - title: Red Blend
-      desc: 2010 PIROUETTE, COLUMBIA VALLEY, WA
-      price: "$40"
-      note:
+      desc: 2014 CONTINUUM, NAPA VALLEY, CA
+      price: "$45"
+      note: 
 food:
 - category-title: Dinner
   subcategories:
-  - title:
+  - title: 
     items:
     - title: Snacks
-      desc: Halibut spread, smoked salmon, rotating pickles, rotating crackers, and
-        liver mousse
-      price:
-      note:
+      desc: Tartar sandwich, ikura and chips, savory donuts, crab maki
+      price: 
+      note: 
   - title: First Course
     items:
     - title: Amberjack
-      desc: Ajo blanco, ginger, and pickled radish
-      price:
-      note:
-    - title: Salsify
-      desc: Salsify with buttermilk and rosemary
-      price:
-      note:
-    - title: Foie Gras
-      desc: Spiced muffin, Morel mushrooms, and pea shoots
-      price:
-      note:
+      desc: Chilacoyote, shiso, hoja santa
+      price: 
+      note: 
+    - title: Raviolo
+      desc: Ricotta, nettles, egg
+      price: 
+      note: 
+    - title: Foie
+      desc: Spiced pancake, morels, pea shoots
+      price: 
+      note: 
   - title: Second Course
     items:
-    - title: Pork Collar
-      desc: Grilled pork collar with cabbage, mushroom, and apple
-      price:
-      note:
-    - title: 'Celery Root Carbonara '
-      desc: Pappardelle and Cremini chips
-      price:
-      note:
-    - title: Halibut
-      desc: Oca, sunchoke, and green garlic
-      price:
-      note:
+    - title: Ribeye
+      desc: Leeks, watercress, beef jus
+      price: 
+      note: 
+    - title: 'Celery Root '
+      desc: Pine nuts, koji, parsley
+      price: 
+      note: 
     - title: Lamb Leg
-      desc: Yubeshi, cauliflower, and tomato
-      price:
-      note:
+      desc: Yubeshi, cauliflower, tomato
+      price: 
+      note: 
+    - title: Halibut
+      desc: Daikon, Fiddlehead ferns, sake green garlic
+      price: 
+      note: 
   - title: Dessert
     items:
-    - title: Spiced Crème Brûlée
-      desc: Cara cara orange and pistachio chip
-      price:
-      note:
-    - title: Poached Pear
-      desc: Caramel ice cream, cranberries, and lemon shortbread
-      price:
-      note:
+    - title: Avocado Coconut
+      desc: Swirled sorbet, lime, amaranth, passionfruit
+      price: 
+      note: 
+    - title: Sheep Cheese
+      desc: Cheesecake, grapefruit, fennel, rye
+      price: 
+      note: 
 layout: yurtmenu
 ---
+
