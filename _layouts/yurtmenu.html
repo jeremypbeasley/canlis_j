@@ -16,7 +16,7 @@
       {% endif %}
       {% if drinks-category.category-title == "Wine" %}
         <div class="mb4 mt5">
-          <span class="yurt-sub-title mb4">Full List</span>
+          <div class="yurt-sub-title mb4">Full List</div>
         </div>
         <div class="mb7 mt2">
           <div class="">Our award-winning cellar is entirely at your disposal.</div>
@@ -28,18 +28,16 @@
       <!-- CATEGORIES WITH SUBS -->
       {% for subcategory in drinks-category.subcategories %}
         <div class="mb6 mt5">
-          <span class="yurt-sub-title mb4">{{ subcategory.title }}</span>
+          <div class="yurt-sub-title mb4">{{ subcategory.title }}</div>
         </div>
         {% if subcategory.items %}
           {% for item in subcategory.items %}
-            <div class="mb3">
-              <div class="yurt-item-title mb">
-                {{ item.title }}
-                {% if item.note %}
-                  <span class="yurt-item-note">{{ item.note }}</span>
-                {% endif %}
-                <span class="yurt-item-price">{{ item.price }}</span>
-              </div>
+            <div class="mb3 flex">
+              <div class="yurt-item-title mb1 mr1">{{ item.title }}</div>
+              {% if item.note %}
+                <div class="yurt-item-note mt2">{{ item.note }}</div>
+              {% endif %}
+              <div class="yurt-item-price">{{ item.price }}</div>
               <div class="yurt-item-desc mt1">{{ item.desc }}</div>
             </div>
           {% endfor %}
@@ -47,14 +45,12 @@
       {% endfor %}
       <!-- CATEGORIES WITHOUT SUBS -->
       {% for item in drinks-category.items %}
-      <div class="mb3">
-        <div class="yurt-item-title mb1">
-          {{ item.title }}
-          {% if item.note %}
-            <span class="yurt-item-note">{{ item.note }}</span>
-          {% endif %}
-          <span class="yurt-item-price">{{ item.price }}</span>
-        </div>
+      <div class="mb3 flex">
+        <div class="yurt-item-title mb1 mr1">{{ item.title }}</div>
+        <div class="yurt-item-price mb1 mr1">{{ item.price }}</div>
+        {% if item.note %}
+          <div class="yurt-item-note mb2">{{ item.note }}</div>
+        {% endif %}
         <div class="yurt-item-desc">{{ item.desc }}</div>
       </div>
       {% endfor %}
@@ -71,9 +67,9 @@
     {% endif %}
     {% if food-category.category-title == "Wine" %}
       <div class="mb4 mt5">
-        <span class="yurt-sub-title mb4">Full List</span>
+        <div class="yurt-sub-title mb2">Full List</div>
       </div>
-      <div class="mb7 mt2">
+      <div class="mb9 mt0">
         <div class="">Our award-winning cellar is entirely at your disposal.</div>
         <div class="mt4">
           <a class="yurt-fulllist mt4 NoLine" href="https://canlis.com/uploads/winelist.pdf" target="_blank">See the full list</a>
@@ -83,7 +79,7 @@
     <!-- CATEGORIES WITH SUBS -->
     {% for subcategory in food-category.subcategories %}
       <div class="mb6 mt5">
-        <span class="yurt-sub-title mb4">{{ subcategory.title }}</span>
+        <div class="yurt-sub-title mb4">{{ subcategory.title }}</div>
       </div>
       {% if subcategory.items %}
         {% for item in subcategory.items %}
@@ -91,9 +87,9 @@
             <div class="yurt-item-title mb">
               {{ item.title }}
               {% if item.note %}
-                <span class="yurt-item-note">{{ item.note }}</span>
+                <div class="yurt-item-note mt2">{{ item.note }}</div>
               {% endif %}
-              <span class="yurt-item-price">{{ item.price }}</span>
+              <div class="yurt-item-price">{{ item.price }}</div>
             </div>
             <div class="yurt-item-desc mt1">{{ item.desc }}</div>
           </div>
@@ -106,9 +102,9 @@
       <div class="yurt-item-title mb1">
         {{ item.title }}
         {% if item.note %}
-          <span class="yurt-item-note">{{ item.note }}</span>
+          <div class="yurt-item-note mt2">{{ item.note }}</div>
         {% endif %}
-        <span class="yurt-item-price">{{ item.price }}</span>
+        <div class="yurt-item-price">{{ item.price }}</div>
       </div>
       <div class="yurt-item-desc">{{ item.desc }}</div>
     </div>
@@ -121,18 +117,15 @@
   <div>
     <div class="yurt-cat-title pt2 pb4 mb5">Chilly?</div>
     <div class="mb7 mt2">
-      <span class="yurt-item-note">We'd be happy to provide a blanket upon request. Just ask your server.</span>
+      <div class="yurt-item-note">We'd be happy to provide a blanket upon request. Just ask your server.</div>
     </div>
   </div>
   <div class="flex AlignCenter">
-    <p class="mb1">Decor and uniforms provided by our partners</p>
+    <p class="mb1">Staff uniforms provided by our friends at Eddie Bauer.</p>
   </div>
   <div class="flex AlignCenter mb4">
     <a class="NoLine" href="https://www.eddiebauer.com/" target="_blank">
       <img src="/uploads/eddie-bauer-logo.png" width="150"/>
-    </a>
-    <a class="NoLine mr3" href="https://www.wsssm.org/" target="_blank">
-      <img src="/uploads/wsssm_logo6.png" width="150"/>
     </a>
   </div>
 </div>

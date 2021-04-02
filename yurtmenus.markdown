@@ -34,29 +34,29 @@ drinks:
 - category-title: Beer
   items:
   - title: 'Snowdrift Cornice Barrel Aged Cider '
-    desc: 
+    desc: "16.9 oz"
     price: "$20"
-    note: "(16.9 oz)"
+    note:
   - title: Double Mountain Kolsch
-    desc: 
+    desc: "16.9 oz "
     price: "$10"
-    note: "(16.9 oz) "
+    note:
   - title: pFriem IPA
-    desc: 
+    desc: "16 oz"
     price: "$12"
-    note: "(16 oz)"
+    note:
   - title: Rodenbach Grand Cru "Red Ale"
-    desc: 
+    desc: "12.7 oz"
     price: "$14"
-    note: "(12.7 oz)"
+    note:
   - title: Scaldis Noël
-    desc: 
+    desc: "12.7 oz "
     price: "$18"
-    note: "(12.7 oz) "
+    note:
   - title: Black Raven Grandfather Raven Imperial Stout Woodinville
-    desc: 
+    desc:  "22 oz"
     price: "$20"
-    note: "(22 oz)"
+    note:
 - category-title: Wine
   subcategories:
   - title: Bubbles
@@ -64,115 +64,114 @@ drinks:
     - title: Sparkling Wine
       desc: 'NV BERLUCCHI, BRUT, FRANCIACORTA, ITA '
       price: "$18"
-      note: 
+      note:
     - title: Sparkling Wine
       desc: 2015 LYTLE-BARNETT, WILLAMETTE VALLEY, OR
       price: "$25"
-      note: 
+      note:
     - title: Champagne
       desc: NV CANLIS X MONCUIT, CUVÉE DU FRÉRE, GRAND CRU, FRA
       price: "$30"
-      note: 
+      note:
   - title: White
     items:
     - title: Riesling
       desc: 2018 PETER LAUER, SENIOR, SAAR, DEU
       price: "$18"
-      note: 
+      note:
     - title: Sauvignon Blanc
       desc: '2017 TIARE, COLLIO, ITA '
       price: "$16"
-      note: 
+      note:
     - title: Chardonnay
       desc: '2018 SANDHI, STA. RITA HILLS, CA '
       price: "$20"
-      note: 
+      note:
     - title: Viognier
       desc: 2017 CHAPOUTIER, RHONE VALLEY, FRA
       price: "$18"
-      note: 
+      note:
     - title: Chardonnay
       desc: 2014 VOCORET, CHABLIS, BLANCHOT, GRAND CRU, FRA
       price: "$30"
-      note: 
+      note:
   - title: Red
     items:
     - title: Portuguese Red
       desc: 2019 NIEPOORT, NAT COOL, BAGA PRT
       price: "$16"
-      note: 
+      note:
     - title: Cabernet Franc
       desc: 2013 DOMAINE COLLIER, SAUMUR, FRA
       price: "$24"
-      note: 
+      note:
     - title: Pinot Noir
       desc: 2017 SMOCKSHOP BAND, SPRING EPHEMERAL, COLUMBIA GORGE, WA
       price: "$20"
-      note: 
+      note:
     - title: Syrah
       desc: '2017 GUARDIAN CELLARS, COLUMBIA VALLEY, WA '
       price: "$17"
-      note: 
+      note:
     - title: Cabernet Sauvignon
       desc: 2018 LYDIAN CELLARS, CABERNET SAUVIGNON, COLUMBIA VALLEY, WA
       price: "$18"
-      note: 
+      note:
     - title: Red Blend
       desc: 2010 PIROUETTE, COLUMBIA VALLEY, WA
       price: "$40"
-      note: 
+      note:
 food:
 - category-title: Dinner
   subcategories:
-  - title: 
+  - title:
     items:
     - title: Snacks
       desc: Halibut spread, smoked salmon, rotating pickles, rotating crackers, and
         liver mousse
-      price: 
-      note: 
+      price:
+      note:
   - title: First Course
     items:
     - title: Amberjack
       desc: Ajo blanco, ginger, and pickled radish
-      price: 
-      note: 
+      price:
+      note:
     - title: Salsify
       desc: Salsify with buttermilk and rosemary
-      price: 
-      note: 
+      price:
+      note:
     - title: Foie Gras
       desc: Spiced muffin, Morel mushrooms, and pea shoots
-      price: 
-      note: 
+      price:
+      note:
   - title: Second Course
     items:
     - title: Pork Collar
       desc: Grilled pork collar with cabbage, mushroom, and apple
-      price: 
-      note: 
+      price:
+      note:
     - title: 'Celery Root Carbonara '
       desc: Pappardelle and Cremini chips
-      price: 
-      note: 
+      price:
+      note:
     - title: Halibut
       desc: Oca, sunchoke, and green garlic
-      price: 
-      note: 
+      price:
+      note:
     - title: Lamb Leg
       desc: Yubeshi, cauliflower, and tomato
-      price: 
-      note: 
+      price:
+      note:
   - title: Dessert
     items:
     - title: Spiced Crème Brûlée
       desc: Cara cara orange and pistachio chip
-      price: 
-      note: 
+      price:
+      note:
     - title: Poached Pear
       desc: Caramel ice cream, cranberries, and lemon shortbread
-      price: 
-      note: 
+      price:
+      note:
 layout: yurtmenu
 ---
-

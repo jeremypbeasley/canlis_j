@@ -4754,42 +4754,52 @@ input[type=submit] {
 /* margin-top: -35px; */
 }
 .yurt-cat-title {
-  font-family: 'OGSequel';
-  color: #1b5e65;
+  font-family: 'futuramaxicgbold';
+  color: #2e4400;
   font-size: 1.5rem;
   text-transform: uppercase;
   width: 100%;
   text-align: center;
-  border-bottom: 2px solid #1b5e65;
+  border-bottom: 2px solid #2e4400;
 }
 .yurt-sub-title {
-  font-family: 'OGSequel';
-  color: #79c2cb;
+  font-family: 'futuramaxicgbold';
+  color: #6b8700;
   font-size: 1.5rem;
   text-transform: uppercase;
   width: 100%;
   text-align: left;
-/* border-bottom: 2px solid #1B5E65; */
+/* border-bottom: 2px solid $color-primary; */
 }
 .yurt-item-title {
-  font-family: 'OGSequel';
-  color: #1b5e65;
+  font-family: 'futuramaxicgbold';
+  color: #2e4400;
   font-size: 1.5rem;
+  line-height: 130%;
 }
 .yurt-item-price {
-  font-family: 'OGSequel';
-  color: #fbb040;
+  font-family: 'futuramaxicgbold';
+  color: #ff9f00;
   font-size: 1.5rem;
+  line-height: 130%;
 }
-.yurt-item-desc,
-.yurt-item-note {
+.yurt-item-desc {
   font-family: 'futuramaxicgbold', HelveticaBold, Helvetica-Bold, sans-serif;
   font-size: 1rem;
-  color: #79c2cb;
+  line-height: 140%;
+  color: #6b8700;
   text-transform: uppercase;
+/* flex-basis: 100%; */
+}
+.yurt-item-note {
+  font-family: 'futuramaxicgbold', HelveticaBold, Helvetica-Bold, sans-serif;
+  color: #6b8700;
+  font-size: 1rem;
+  text-transform: none;
+  line-height: 140%;
 }
 .yurt-fulllist {
-  background: #1b5e65;
+  background: #2e4400;
   padding: 18px 20px;
   color: #fff;
   border-radius: 40px;
@@ -4799,8 +4809,8 @@ input[type=submit] {
   font-size: 1rem;
 }
 .yurt-nav {
-  background: #ffb017;
-  font-family: 'OGSequel';
+  background: #ff9f00;
+  font-family: 'futuramaxicgbold';
   color: #fff;
   font-size: 1.5rem;
   margin-top: -0.5rem;
