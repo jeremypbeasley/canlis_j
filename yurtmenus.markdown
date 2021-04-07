@@ -133,7 +133,7 @@ food:
   - title: 
     items:
     - title: Snacks
-      desc: Tartar sandwich, ikura and chips, savory donuts, crab maki
+      desc: Tartare sandwich, ikura and chips, savory donuts, crab maki
       price: 
       note: 
   - title: First Course
