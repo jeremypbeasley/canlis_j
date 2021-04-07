@@ -15,7 +15,7 @@ concepts:
 - title: Canlis Family Meal
   image: "/uploads/IMG_4201%202.JPG"
   desc: 'Three-course meals designed for the home and cooked to order, with ready-made
-    cocktails or wines from our cellar. This week: Taiwanese "Bento Box"'
+    cocktails or wines from our cellar. This week: Taiwanese "Bento Box". '
   block_link: https://www.exploretock.com/canlis/
   buttons:
   - label: 'Reserve '
