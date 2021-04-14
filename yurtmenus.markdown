@@ -93,20 +93,12 @@ drinks:
       desc: '2018 SANDHI, STA. RITA HILLS, CA '
       price: "$20"
       note: 
-    - title: Viognier
-      desc: 2017 CHAPOUTIER, RHONE VALLEY, FRA
-      price: "$18"
-      note: 
     - title: Chardonnay
       desc: 2014 VOCORET, CHABLIS, BLANCHOT, GRAND CRU, FRA
       price: "$30"
       note: 
   - title: Red
     items:
-    - title: Portuguese Red
-      desc: 2019 NIEPOORT, NAT COOL, BAGA, PRT
-      price: "$16"
-      note: 
     - title: Cabernet Franc
       desc: 2013 DOMAINE COLLIER, SAUMUR, FRA
       price: "$24"
@@ -114,6 +106,10 @@ drinks:
     - title: Pinot Noir
       desc: 2014 PIERRE LABET, CLOS DU DESSUS, BEAUNE, BURGUNDY, FRA
       price: "$22"
+      note: 
+    - title: Portugal Red
+      desc: '2019 NIEPOORT, NAT COOL, BAGA, PRT '
+      price: "$16"
       note: 
     - title: Syrah
       desc: 2015 DESTINY RIDGE, COLUMBIA VALLEY, WA
@@ -146,7 +142,7 @@ food:
       desc: Ricotta, nettles, egg
       price: 
       note: 
-    - title: Foie
+    - title: Foie Gras
       desc: Spiced pancake, morels, pea shoots
       price: 
       note: 
