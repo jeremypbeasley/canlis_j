@@ -12,6 +12,14 @@ concepts:
   buttons:
   - label: 'Reserve '
     link: "/camp"
+- title: Canlis Family Meal To-go
+  image: "/uploads/canlis_concept_familymeal.jpg"
+  desc: Four-coursed meals designed for the home and cooked to order, with ready-made
+    cocktails or wines from our cellar.
+  block_link: https://www.exploretock.com/canlis/
+  buttons:
+  - label: Reserve
+    link: https://www.exploretock.com/canlis/
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
 og_desc: Seattle's landmark fine-dining destination for 69 years and recent home to
