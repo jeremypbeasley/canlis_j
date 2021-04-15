@@ -104,8 +104,8 @@ drinks:
       price: "$24"
       note: 
     - title: Pinot Noir
-      desc: 2014 PIERRE LABET, CLOS DU DESSUS, BEAUNE, BURGUNDY, FRA
-      price: "$22"
+      desc: 2014 PHILIPPE GARREY, LA CHASSIÈRE, MERCUREY, PREMIER CRU, BURGUNDY, FRA
+      price: "$23"
       note: 
     - title: Portugal Red
       desc: '2019 NIEPOORT, NAT COOL, BAGA, PRT '
@@ -160,7 +160,7 @@ food:
       desc: Yubeshi, cauliflower, tomato
       price: 
       note: 
-    - title: Halibut
+    - title: Salmon
       desc: Daikon, Fiddlehead ferns, sake green garlic
       price: 
       note: 
