@@ -97,6 +97,12 @@ drinks:
       desc: 2014 VOCORET, CHABLIS, BLANCHOT, GRAND CRU, FRA
       price: "$30"
       note: 
+  - title: Rosé
+    items:
+    - title: Rosé
+      desc: '2019 áMaurice, Rosé, Walla Walla Valley, WA '
+      price: "$15"
+      note: 
   - title: Red
     items:
     - title: Cabernet Franc
@@ -112,11 +118,11 @@ drinks:
       price: "$16"
       note: 
     - title: Syrah
-      desc: 2015 DESTINY RIDGE, COLUMBIA VALLEY, WA
+      desc: 2015 W. T. VINTNERS, DESTINY RIDGE, COLUMBIA VALLEY, WA
       price: "$17"
       note: 
     - title: Cabernet Sauvignon
-      desc: 2018 LYDIAN CELLARS, CABERNET SAUVIGNON, COLUMBIA VALLEY, WA
+      desc: 2018 LYDIAN CELLARS, COLUMBIA VALLEY, WA
       price: "$18"
       note: 
     - title: Red Blend
