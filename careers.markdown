@@ -10,7 +10,7 @@ section1:
   desc: |-
     We’re honored you are interested in joining our team. To help that process, we recommend you read most of this entire website to figure out what makes us tick. We recommend thinking about how working here will help you become more of who you want to become, not what you want to become. We recommend taking the advice of your mother — whatever it was she said, try to remember — it’s going to help you get a job here.
 
-    To enquire about current employment opportunities, please email Anthea Gundersen at [canlis@canlis.com](mailto:canlis@canlis.com).
+    To enquire about current employment opportunities, please email Anthea Gundersen at [work@canlis.com](mailto:work@canlis.com).
 section2:
   title: Philosophy matters
   desc: The only way we can continue to develop the Canlis experience in a way that
