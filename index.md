@@ -13,7 +13,7 @@ concepts:
   - label: 'Reserve '
     link: "/camp"
 - title: Mother's Day
-  image: "/uploads/Canlis-Mothers-Day-Insta.jpg"
+  image: "/uploads/moms.jpg"
   desc: 'It’s time to celebrate Mom! Order a brunch kit, or celebrate with dinner
     in the Yurt Village - both go on sale here tomorrow (Wednesday) at 12pm. '
   block_link: 
