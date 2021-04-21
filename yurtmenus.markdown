@@ -137,7 +137,7 @@ food:
   - title: First Course
     items:
     - title: Amberjack
-      desc: Chilacoyote, shiso, hoja santa
+      desc: Chilacayote, shiso, hoja santa
       price: 
       note: 
     - title: Foie Gras
