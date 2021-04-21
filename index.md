@@ -18,8 +18,10 @@ concepts:
     in the Yurt Village - both go on sale here tomorrow (Wednesday) at 12pm. '
   block_link: 
   buttons:
-  - label: 
-    link: 
+  - label: Brunch Kits
+    link: https://www.exploretock.com/canlis/
+  - label: Dinner
+    link: https://resy.com/cities/sea/canlis
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
 og_desc: Seattle's landmark fine-dining destination for 69 years and recent home to
