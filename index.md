@@ -12,6 +12,14 @@ concepts:
   buttons:
   - label: 'Reserve '
     link: "/camp"
+- title: Mother's Day
+  image: "/uploads/Canlis-Mothers-Day-Insta.jpg"
+  desc: 'It’s time to celebrate Mom! Order a brunch kit, or celebrate with dinner
+    in the Yurt Village - both go on sale here tomorrow (Wednesday) at 12pm. '
+  block_link: 
+  buttons:
+  - label: 
+    link: 
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
 og_desc: Seattle's landmark fine-dining destination for 69 years and recent home to
