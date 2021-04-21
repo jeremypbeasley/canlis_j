@@ -105,10 +105,6 @@ drinks:
       note: 
   - title: Red
     items:
-    - title: Cabernet Franc
-      desc: 2013 DOMAINE COLLIER, SAUMUR, FRA
-      price: "$24"
-      note: 
     - title: Pinot Noir
       desc: 2014 PHILIPPE GARREY, LA CHASSIÈRE, MERCUREY, PREMIER CRU, BURGUNDY, FRA
       price: "$23"
@@ -142,10 +138,6 @@ food:
     items:
     - title: Amberjack
       desc: Chilacoyote, shiso, hoja santa
-      price: 
-      note: 
-    - title: Raviolo
-      desc: Ricotta, nettles, egg
       price: 
       note: 
     - title: Foie Gras
