@@ -144,6 +144,10 @@ food:
       desc: Spiced pancake, morels, pea shoots
       price: 
       note: 
+    - title: Raviolo
+      desc: Ricotta, nettles, egg
+      price: 
+      note: 
   - title: Second Course
     items:
     - title: Ribeye

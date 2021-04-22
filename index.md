@@ -21,7 +21,7 @@ concepts:
   - label: Brunch Kits
     link: https://www.exploretock.com/canlis/
   - label: Dinner
-    link: https://resy.com/cities/sea/canlis
+    link: https://resy.com/cities/sea/canlis?date=2021-05-09&seats=5
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
 og_desc: Seattle's landmark fine-dining destination for 69 years and recent home to
