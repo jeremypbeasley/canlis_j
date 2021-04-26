@@ -100,7 +100,8 @@ drinks:
   - title: Rosé
     items:
     - title: Rosé
-      desc: '2019 áMaurice, Rosé, Walla Walla Valley, WA '
+      desc: 2019 Clos Cibonne Rosé, Tentations, Grand Cru Classé, Côtes de Provence,
+        FRA
       price: "$15"
       note: 
   - title: Red
@@ -112,10 +113,6 @@ drinks:
     - title: Portugal Red
       desc: '2019 NIEPOORT, NAT COOL, BAGA, PRT '
       price: "$16"
-      note: 
-    - title: Syrah
-      desc: 2015 W. T. VINTNERS, DESTINY RIDGE, COLUMBIA VALLEY, WA
-      price: "$17"
       note: 
     - title: Cabernet Sauvignon
       desc: 2018 LYDIAN CELLARS, COLUMBIA VALLEY, WA
@@ -162,7 +159,7 @@ food:
       desc: Yubeshi, cauliflower, tomato
       price: 
       note: 
-    - title: Salmon
+    - title: Halibut
       desc: Daikon, Fiddlehead ferns, sake green garlic
       price: 
       note: 

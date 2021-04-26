@@ -3,16 +3,14 @@ title: Home
 is_alert_shown: false
 alert_text: 
 concepts:
-- title: Mother's Day
+- title: Mother’s Day Brunch-in-a-Box Kit
   image: "/uploads/moms.jpg"
-  desc: 'It’s time to celebrate Mom! Order a brunch kit, or celebrate with dinner
-    in the Yurt Village. '
+  desc: For those looking to show mom the appreciation she deserves. Easily feeds
+    4 or will last 2 people well into the week.
   block_link: 
   buttons:
-  - label: Brunch Kits
-    link: https://www.exploretock.com/canlis/
-  - label: Dinner
-    link: https://resy.com/cities/sea/canlis?date=2021-05-09&seats=5
+  - label: Reserve
+    link: https://www.exploretock.com/canlis/experience/276872/
 - title: Camp Canlis
   image: "/uploads/campy.jpg"
   desc: 'Calling all campers! Cooped up at home? Cabin fever cramping your style?
