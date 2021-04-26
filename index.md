@@ -7,7 +7,7 @@ concepts:
   image: "/uploads/moms.jpg"
   desc: For those looking to show mom the appreciation she deserves. Easily feeds
     4 or will last 2 people well into the week.
-  block_link: 
+  block_link: https://www.exploretock.com/canlis/experience/276872/
   buttons:
   - label: Reserve
     link: https://www.exploretock.com/canlis/experience/276872/
