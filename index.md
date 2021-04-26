@@ -1,7 +1,7 @@
 ---
 title: Home
 is_alert_shown: false
-alert_text:
+alert_text: 
 concepts:
 - title: Mother’s Day Brunch-in-a-Box Kit
   image: "/uploads/moms.jpg"
@@ -16,11 +16,11 @@ concepts:
   desc: 'Calling all campers! Cooped up at home? Cabin fever cramping your style?
     Put a little Spring in your step and get on down to Canlis, where the eatin’ is
     easy and the livin’ is good. '
-  block_link: ""
+  block_link: ''
   buttons:
-  - label: 'Canteen  Tickets'
-    link: "https://www.exploretock.com/canlis/experience/private/bca46d25-40b7-421a-9d6d-70fcef470746"
-  - label: 'More info'
+  - label: Canteen  Tickets
+    link: https://www.exploretock.com/canlis/experience/private/bca46d25-40b7-421a-9d6d-70fcef470746
+  - label: More info
     link: "/camp"
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
@@ -28,3 +28,4 @@ og_desc: Seattle's landmark fine-dining destination for 70 years and recent home
   multi-disciplinary pandemic pivots designed to serve our city.
 layout: covid-home
 ---
+
