@@ -1,0 +1,66 @@
+/* Colors */
+
+.canteen {
+  max-width: 325px;
+  background: #F0F0DF;
+  margin: 0 auto;
+  font-family: HelveticaNeue-Medium;
+  font-size: 25px;
+}
+
+.canteen h1 {
+  font-family: Pinewood;
+  color: green;
+  font-size: 79px;
+  text-transform: uppercase;
+  line-height: 90%;
+}
+
+.canteen-section {
+  border-bottom: 1px dashed green;
+}
+
+.canteen-small {
+  font-size: .6em;
+}
+
+.jesus {
+  transform: rotate(-10deg);
+  margin-top: 2em;
+  margin-bottom: 3em;
+  h2 {
+    font-family: Pinewood;
+    color: white;
+    font-size: 79px;
+    color: green;
+    line-height: 90%;
+  }
+  div, img {
+    position: relative;
+    z-index: 99999;
+    max-width: 80%
+  }
+}
+
+.jesus .burst {
+  background: url(/uploads/burst.svg) no-repeat;
+  background-size: cover;
+  animation: rotation 20s infinite linear;
+  width: 120vw;
+  height: 120vw;
+  position: absolute;
+  top: -10%;
+  left: -20%;
+  z-index: 0;
+  max-width: 500px;
+  max-height: 500px;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
