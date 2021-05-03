@@ -51,10 +51,6 @@ drinks:
     desc: 
     price: "$18"
     note: "(12.7 oz) "
-  - title: Black Raven Grandfather Raven Imperial Stout Woodinville
-    desc: 
-    price: "$20"
-    note: "(22 oz)"
   - title: Metier Trail Blazer Pale Ale
     desc: 
     price: "$10"
@@ -82,8 +78,8 @@ drinks:
       price: "$16"
       note: 
     - title: Riesling
-      desc: 2018 PETER LAUER, SENIOR, SAAR, DEU
-      price: "$18"
+      desc: 2019 Brand, Trocken, Pfalz, DEU
+      price: "$15"
       note: 
     - title: Sauvignon Blanc
       desc: '2017 TIARE, COLLIO, ITA '
@@ -114,6 +110,10 @@ drinks:
       desc: '2019 NIEPOORT, NAT COOL, BAGA, PRT '
       price: "$16"
       note: 
+    - title: Syrah
+      desc: 2015 W.T. Vintners, Destiny Ridge Vineyard, Horse Heaven Hills, WA
+      price: "$17"
+      note: 
     - title: Cabernet Sauvignon
       desc: 2018 LYDIAN CELLARS, COLUMBIA VALLEY, WA
       price: "$18"
@@ -128,7 +128,7 @@ food:
   - title: 
     items:
     - title: Snacks
-      desc: Tartare sandwich, ikura and chips, savory donuts, crab maki
+      desc: Corn bunny, ikura and chips, salmon rilette, crab maki
       price: 
       note: 
   - title: First Course
@@ -159,14 +159,14 @@ food:
       desc: Yubeshi, cauliflower, tomato
       price: 
       note: 
-    - title: Halibut
-      desc: Daikon, Fiddlehead ferns, sake green garlic
+    - title: Salmon
+      desc: 'Tatsoi, apple, daikon, buttermilk '
       price: 
       note: 
   - title: Dessert
     items:
-    - title: Avocado Coconut
-      desc: Swirled sorbet, lime, amaranth, passionfruit
+    - title: Honey Lavender
+      desc: Hazelnut, Orange, Viola
       price: 
       note: 
     - title: Sheep Cheese
