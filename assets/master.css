@@ -2351,6 +2351,9 @@ img {
 .justify-content-center {
   justify-content: center;
 }
+.justify-content-space-between {
+  justify-content: space-between;
+}
 .AlignTop {
   align-items: flex-start;
   display: flex;
@@ -2404,6 +2407,9 @@ img {
 }
 .color-tock-blue {
   color: #1b1ba3;
+}
+.uppercase {
+  text-transform: uppercase;
 }
 .unselectable {
   -webkit-user-select: none;
@@ -5016,4 +5022,87 @@ input[type=submit] {
 }
 .signup .response a {
   color: #f9a31a;
+}
+.canteen {
+  max-width: 325px;
+  background: #f0f0df;
+  margin: 0 auto;
+  font-family: HelveticaNeue-Medium;
+  font-size: 25px;
+}
+.canteen h1 {
+  font-family: Pinewood;
+  color: #008000;
+  font-size: 79px;
+  text-transform: uppercase;
+  line-height: 90%;
+}
+.canteen-section {
+  border-bottom: 1px dashed #008000;
+}
+.canteen-small {
+  font-size: 0.6em;
+}
+.jesus {
+  transform: rotate(-10deg);
+  margin-top: 2em;
+  margin-bottom: 3em;
+}
+.jesus h2 {
+  font-family: Pinewood;
+  color: #fff;
+  font-size: 79px;
+  color: #008000;
+  line-height: 90%;
+}
+.jesus div,
+.jesus img {
+  position: relative;
+  z-index: 99999;
+  max-width: 80%;
+}
+.jesus .burst {
+  background: url("/uploads/burst.svg") no-repeat;
+  background-size: cover;
+  animation: rotation 20s infinite linear;
+  width: 120vw;
+  height: 120vw;
+  position: absolute;
+  top: -10%;
+  left: -20%;
+  z-index: 0;
+  max-width: 500px;
+  max-height: 500px;
+}
+@-moz-keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+@-webkit-keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+@-o-keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
 }
