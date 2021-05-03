@@ -73,10 +73,6 @@ drinks:
       note: 
   - title: White
     items:
-    - title: Aligoté
-      desc: 2019 TRESOMM, VALLEE DE GUADALUPE, MEX
-      price: "$16"
-      note: 
     - title: Riesling
       desc: 2019 Brand, Trocken, Pfalz, DEU
       price: "$15"
@@ -90,8 +86,12 @@ drinks:
       price: "$20"
       note: 
     - title: Chardonnay
-      desc: 2014 VOCORET, CHABLIS, BLANCHOT, GRAND CRU, FRA
-      price: "$30"
+      desc: 2017 Pattes Loup, Chablis, Burgundy, FRA
+      price: "$28"
+      note: 
+    - title: Biancu Gentile
+      desc: 2013 Yves Leccia, Ile de Beauté, Corsica, FRA
+      price: "$17"
       note: 
   - title: Rosé
     items:
@@ -106,13 +106,13 @@ drinks:
       desc: 2014 PHILIPPE GARREY, LA CHASSIÈRE, MERCUREY, PREMIER CRU, BURGUNDY, FRA
       price: "$23"
       note: 
-    - title: Portugal Red
-      desc: '2019 NIEPOORT, NAT COOL, BAGA, PRT '
-      price: "$16"
+    - title: Dolcetto
+      desc: 2017 Cavallotto, Alba, Piedmont, ITA
+      price: "$15"
       note: 
-    - title: Syrah
-      desc: 2015 W.T. Vintners, Destiny Ridge Vineyard, Horse Heaven Hills, WA
-      price: "$17"
+    - title: Grenache + Mourvèdre
+      desc: 2018 St. Damien, Gigondas, Vielles Vignes, Rhône Valley, FRA
+      price: "$20"
       note: 
     - title: Cabernet Sauvignon
       desc: 2018 LYDIAN CELLARS, COLUMBIA VALLEY, WA
@@ -141,7 +141,7 @@ food:
       desc: Spiced pancake, morels, pea shoots
       price: 
       note: 
-    - title: Raviolo
+    - title: 'Asparagus '
       desc: Ricotta, nettles, egg
       price: 
       note: 

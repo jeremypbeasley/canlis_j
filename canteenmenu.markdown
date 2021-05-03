@@ -5,3 +5,4 @@ og_desc: Canlis Camp Canteen
 og_photo: "/uploads/campy.jpg"
 layout: canteen
 ---
+
