@@ -6,6 +6,7 @@
   margin: 0 auto;
   font-family: HelveticaNeue-Medium;
   font-size: 25px;
+  margin-top: 3em;
 }
 
 .canteen h1 {
@@ -63,4 +64,47 @@
   to {
     transform: rotate(359deg);
   }
+}
+
+.canteen-nav-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+.canteen-nav {
+  background: $color-tertiary;
+  font-family: HelveticaNeue-Medium;
+  color: white;
+  text-transform: uppercase;
+  font-size: 1em;
+  margin-top: -.5rem;
+  margin-bottom: 30em;
+  background: green;
+  position: absolute;
+  top: 2em;
+  width: 100%;
+  left: 0;
+  transform: rotate(-5deg);
+  /* margin-top: -5rem;
+  margin-bottom: 5rem; */
+  border: 10px dashed green;
+  animation-name: blinking;
+  animation-duration: .5s;
+  animation-iteration-count: 100;
+}
+
+@keyframes blinking {
+  100% {
+    border-color: #ffcd5f;
+  }
+}
+
+.canteen-nav li {
+  opacity: .7;
+  cursor: pointer;
+}
+
+.canteen-nav .active {
+  opacity: 1;
+  border-bottom: 3px solid white;
 }
