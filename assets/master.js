@@ -13629,7 +13629,7 @@ $(document).ready(function() {
 
   $('#menu-food').hide();
 
-  $("#menu-drinks-trigger").click(function() {
+  $(".yurtmenu #menu-drinks-trigger").click(function() {
     $(".yurt-nav ul li").removeClass("active");
     $(this).addClass("active");
     // $(this).addClass("active");
@@ -13638,7 +13638,7 @@ $(document).ready(function() {
     console.log("show drinks!")
   });
 
-  $("#menu-food-trigger").click(function() {
+  $(".yurtmenu #menu-food-trigger").click(function() {
     $(".yurt-nav ul li").removeClass("active");
     $(this).addClass("active");
     $('#menu-drinks').hide();
