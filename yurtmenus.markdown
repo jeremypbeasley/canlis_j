@@ -142,7 +142,7 @@ food:
       price: 
       note: 
     - title: 'Asparagus '
-      desc: Ricotta, nettles, egg
+      desc: Hazelnut, pickled asparagus, chive
       price: 
       note: 
   - title: Second Course
