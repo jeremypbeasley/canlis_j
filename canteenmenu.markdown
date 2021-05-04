@@ -8,7 +8,8 @@ drinks:
 - category-title: Cocktails
   items:
   - title: Rope Swing
-    desc: Sparkling wine, vodka, st. germain, lemon juice, strawberry syrup, soda (Pitcher for $45)
+    desc: Sparkling wine, vodka, st. germain, lemon juice, strawberry syrup, soda
+      (Pitcher for $45)
     price: "$14"
   - title: Bramble
     desc: Sipsmith Gin, lemon, sugar, blackeberry syrup
@@ -21,7 +22,8 @@ drinks:
     desc: Maker's Mark Bourbon, sugar, bitters
     price: "$13"
   - title: Big Island Iced Tea
-    desc: "Sipsmith Gin, Makers Mark Bourbon, Plantation 3-star Rum, passion fruit, lime, sweet tea, soda. (Pitcher for $50)"
+    desc: Sipsmith Gin, Makers Mark Bourbon, Plantation 3-star Rum, passion fruit,
+      lime, sweet tea, soda. (Pitcher for $50)
     price: "$15"
   - title: Grande Margarita
     desc: A good time for all with a liter of Pacifico. Serves 8.
@@ -32,14 +34,14 @@ drinks:
     price: "$8"
 - category-title: Canned Drinks
   items:
-  - title: 'Old Westminster "Piquette"'
+  - title: Old Westminster "Piquette"
     price: "$12"
   - title: Ramona Blood Orange Spritz
-    desc:
+    desc: 
     price: "$9"
 - category-title: Non-Alcoholic
   items:
-  - title: 'Sweet Tea'
+  - title: Sweet Tea
     price: "$4"
   - title: Mexican Coke
     price: "$5"
@@ -53,24 +55,24 @@ drinks:
     price: "$8"
 - category-title: Beer
   items:
-  - title: 'Metier Trail Blazer Pale Ale'
+  - title: Metier Trail Blazer Pale Ale
     desc: "(Pitcher for $26)"
     price: "$8"
   - title: Reuben's Crispy Shifty Kellerbier
-    desc:
+    desc: 
     price: "$9"
   - title: Shiner Bock
-    desc:
+    desc: 
     price: "$7"
   - title: E9 IPA
-    desc:
+    desc: 
     price: "$11"
 - category-title: Wine
   subcategories:
   - title: Sparkling White
     items:
     - title: Berlucchi
-      desc: 'Brut, Franciacorta, ITA'
+      desc: Brut, Franciacorta, ITA
       price: "$16"
   - title: Rosé
     items:
@@ -90,11 +92,10 @@ drinks:
     - title: Portuguese Red
       desc: 2019 Niepoort, Nat Cool, Baga, PRT
       price: "$15"
-      note:
+      note: 
     - title: Syrah
-      desc: 'W.T. Vintners, Destiny Ridge Vineyard, Horse Heaven Hills, WA'
+      desc: W.T. Vintners, Destiny Ridge Vineyard, Horse Heaven Hills, WA
       price: "$16"
-      note:
-
+      note: 
 ---
 
