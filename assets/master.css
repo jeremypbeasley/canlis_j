@@ -1658,6 +1658,8 @@ table {
          url('_fonts/ApercuMono.ttf') format('truetype');
 }
 
+/* COVID */
+
 @font-face {
     font-family: 'OGSequel';
     src: url('_fonts/OGJTypeDesignSequel100Wide85.eot');
@@ -1676,6 +1678,26 @@ table {
          url('_fonts/futuramaxicgbold.woff') format('woff'),
          url('_fonts/futuramaxicgbold.ttf') format('truetype'),
          url('_fonts/futuramaxicgbold.svg#futuramaxicgbold') format('svg');
+}
+
+@font-face {
+    font-family: 'futuramaxicgbold';
+    src: url('_fonts/futuramaxicgbold.eot');
+    src: url('_fonts/futuramaxicgbold.eot') format('embedded-opentype'),
+         url('_fonts/futuramaxicgbold.woff2') format('woff2'),
+         url('_fonts/futuramaxicgbold.woff') format('woff'),
+         url('_fonts/futuramaxicgbold.ttf') format('truetype'),
+         url('_fonts/futuramaxicgbold.svg#futuramaxicgbold') format('svg');
+}
+
+@font-face {
+    font-family: 'Pinewood';
+    src: url('_fonts/PinewoodgmE1.eot');
+    src: url('_fonts/PinewoodgmE1.eot') format('embedded-opentype'),
+         url('_fonts/PinewoodgmE1.woff2') format('woff2'),
+         url('_fonts/PinewoodgmE1.woff') format('woff'),
+         url('_fonts/PinewoodgmE1.ttf') format('truetype'),
+         url('_fonts/PinewoodgmE1.svg#PinewoodgmE1') format('svg');
 }
 
 html {
@@ -5032,7 +5054,7 @@ input[type=submit] {
   margin-top: 3em;
 }
 .canteen h1 {
-  font-family: Pinewood;
+  font-family: "Pinewood";
   color: #008000;
   font-size: 79px;
   text-transform: uppercase;
@@ -5050,7 +5072,7 @@ input[type=submit] {
   margin-bottom: 3em;
 }
 .jesus h2 {
-  font-family: Pinewood;
+  font-family: "Pinewood";
   color: #fff;
   font-size: 79px;
   color: #008000;
