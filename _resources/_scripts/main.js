@@ -82,7 +82,6 @@ $(document).ready(function() {
   // Yurt Menu
 
   $('#menu-food').hide();
-  $("#menu-drinks-trigger").addClass("active");
 
   $("#menu-drinks-trigger").click(function() {
     $(".yurt-nav ul li").removeClass("active");
@@ -98,6 +97,26 @@ $(document).ready(function() {
     $(this).addClass("active");
     $('#menu-drinks').hide();
     $('#menu-food').show();
+    console.log("show food!")
+  });
+
+  // Canteen menu
+
+  $('#canteen-menu-drinks').hide();
+
+  $(".canteen-nav #menu-drinks-trigger").click(function() {
+    $(".canteen-nav ul li").removeClass("active");
+    $(this).addClass("active");
+    $('#canteen-menu-drinks').show();
+    $('#canteen-menu-food').hide();
+    console.log("show drinks!")
+  });
+
+  $(".canteen-nav #menu-food-trigger").click(function() {
+    $(".canteen-nav ul li").removeClass("active");
+    $(this).addClass("active");
+    $('#canteen-menu-drinks').hide();
+    $('#canteen-menu-food').show();
     console.log("show food!")
   });
 
