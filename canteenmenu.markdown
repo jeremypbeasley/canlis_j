@@ -3,7 +3,6 @@ title: Canteen Menu
 date: 2020-12-01 15:19:00 -08:00
 og_desc: Canlis Camp Canteen
 og_photo: "/uploads/campy.jpg"
-layout: canteen
 drinks:
 - category-title: Cocktails
   items:
@@ -15,9 +14,6 @@ drinks:
     desc: Sipsmith Gin, lemon, sugar, blackeberry syrup
     price: "$15"
     note: Cowboy up for a hootin and hollerin take on the classic manhattan.
-  - title: Bramble
-    desc: Gin, lemon, sugar, blackberry
-    price: "$16"
   - title: Maker's Mark Old Fashioned
     desc: Maker's Mark Bourbon, sugar, bitters
     price: "$13"
@@ -97,5 +93,6 @@ drinks:
       desc: W.T. Vintners, Destiny Ridge Vineyard, Horse Heaven Hills, WA
       price: "$16"
       note: 
+layout: canteen
 ---
 
