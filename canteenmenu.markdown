@@ -13,7 +13,7 @@ drinks:
   - title: Bramble
     desc: Sipsmith Gin, lemon, sugar, blackeberry syrup
     price: "$15"
-    note: Cowboy up for a hootin and hollerin take on the classic manhattan.
+    note: 
   - title: Maker's Mark Old Fashioned
     desc: Maker's Mark Bourbon, sugar, bitters
     price: "$13"
@@ -21,9 +21,9 @@ drinks:
     desc: Sipsmith Gin, Makers Mark Bourbon, Plantation 3-star Rum, passion fruit,
       lime, sweet tea, soda. (Pitcher for $50)
     price: "$15"
-  - title: Grande Margarita
-    desc: A good time for all with a liter of Pacifico. Serves 8.
-    price: "$150"
+  - title: Margarita
+    desc: El Tesoro Blanco, Pierre Frerrand Curacao, lime, sugar, spicy tamarind salt
+    price: "$16"
   - title: Shot of Maker's Mark
     price: "$8"
   - title: Shot of El Tesoro Tequila
