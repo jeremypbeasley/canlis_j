@@ -103,7 +103,7 @@ drinks:
   - title: Red
     items:
     - title: Pinot Noir
-      desc: 2014 PHILIPPE GARREY, LA CHASSIÈRE, MERCUREY, PREMIER CRU, BURGUNDY, FRA
+      desc: '2018 Grape Ink, Premier Cuvée, Willamette Valley, OR '
       price: "$23"
       note: 
     - title: Dolcetto
