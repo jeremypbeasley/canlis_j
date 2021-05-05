@@ -5046,12 +5046,15 @@ input[type=submit] {
   color: #f9a31a;
 }
 .canteen {
-  max-width: 325px;
   background: #f0f0df;
+  overflow-x: hidden;
+}
+.canteen-content {
+  max-width: 325px;
   margin: 0 auto;
   font-family: HelveticaNeue-Medium;
   font-size: 25px;
-  margin-top: 3em;
+  margin-top: 5em;
 }
 .canteen h1 {
   font-family: "Pinewood";
@@ -5069,6 +5072,7 @@ input[type=submit] {
 .jesus {
   transform: rotate(-10deg);
   margin-top: 2em;
+  margin-left: 1em;
   margin-bottom: 3em;
 }
 .jesus h2 {
@@ -5100,18 +5104,19 @@ input[type=submit] {
 .canteen-nav-container {
   width: 100%;
   overflow: hidden;
+  background: #ffc0cb;
 }
 .canteen-nav {
   background: #ff9f00;
   font-family: HelveticaNeue-Medium;
   color: #fff;
   text-transform: uppercase;
-  font-size: 1em;
+  font-size: 2em;
   margin-top: -0.5rem;
   margin-bottom: 30em;
   background: #008000;
   position: absolute;
-  top: 2em;
+  top: 0.5em;
   width: 100%;
   left: 0;
   transform: rotate(-5deg);
@@ -5120,7 +5125,7 @@ input[type=submit] {
   border: 10px dashed #008000;
   animation-name: blinking;
   animation-duration: 0.5s;
-  animation-iteration-count: 100;
+  animation-iteration-count: infinite;
 }
 .canteen-nav li {
   opacity: 0.7;

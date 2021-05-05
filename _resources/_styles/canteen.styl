@@ -1,12 +1,16 @@
 /* Colors */
 
 .canteen {
-  max-width: 325px;
   background: #F0F0DF;
+  overflow-x: hidden;
+}
+
+.canteen-content {
+  max-width: 325px;
   margin: 0 auto;
   font-family: HelveticaNeue-Medium;
   font-size: 25px;
-  margin-top: 3em;
+  margin-top: 5em;
 }
 
 .canteen h1 {
@@ -28,6 +32,7 @@
 .jesus {
   transform: rotate(-10deg);
   margin-top: 2em;
+  margin-left: 1em;
   margin-bottom: 3em;
   h2 {
     font-family: "Pinewood";
@@ -69,6 +74,7 @@
 .canteen-nav-container {
   width: 100%;
   overflow: hidden;
+  background: pink;
 }
 
 .canteen-nav {
@@ -76,12 +82,12 @@
   font-family: HelveticaNeue-Medium;
   color: white;
   text-transform: uppercase;
-  font-size: 1em;
+  font-size: 2em;
   margin-top: -.5rem;
   margin-bottom: 30em;
   background: green;
   position: absolute;
-  top: 2em;
+  top: .5em;
   width: 100%;
   left: 0;
   transform: rotate(-5deg);
@@ -90,7 +96,7 @@
   border: 10px dashed green;
   animation-name: blinking;
   animation-duration: .5s;
-  animation-iteration-count: 100;
+  animation-iteration-count: infinite;
 }
 
 @keyframes blinking {
