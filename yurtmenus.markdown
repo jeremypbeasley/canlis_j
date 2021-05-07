@@ -96,8 +96,7 @@ drinks:
   - title: Rosé
     items:
     - title: Rosé
-      desc: 2019 Clos Cibonne Rosé, Tentations, Grand Cru Classé, Côtes de Provence,
-        FRA
+      desc: La Pianelle, Al Posto Del Fiori, ITA
       price: "$15"
       note: 
   - title: Red

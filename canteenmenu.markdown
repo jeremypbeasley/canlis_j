@@ -22,7 +22,7 @@ drinks:
       lime, sweet tea, soda. (Pitcher for $50)
     price: "$15"
   - title: Margarita
-    desc: El Tesoro Blanco, Pierre Frerrand Curacao, lime, sugar, spicy tamarind salt
+    desc: El Tesoro Blanco, Pierre Ferrand Curacao, lime, sugar, spicy tamarind salt
     price: "$16"
   - title: Shot of Maker's Mark
     price: "$8"
@@ -72,8 +72,8 @@ drinks:
       price: "$16"
   - title: Rosé
     items:
-    - title: Clos Cibonne Rosé
-      desc: 2019 Grand Cru Classé, Côtes du Provence, FRA
+    - title: Westmount Rosé
+      desc: Willamette Valley, OR
       price: "$15"
   - title: Whites
     items:
