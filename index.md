@@ -1,7 +1,7 @@
 ---
 title: Home
 is_alert_shown: false
-alert_text:
+alert_text: 
 concepts:
 - title: Camp Canlis
   image: "/uploads/campy.jpg"
@@ -12,16 +12,18 @@ concepts:
   buttons:
   - label: Learn more
     link: "/camp"
-- title: "Camp Canlis, Care Packages"
+- title: Camp Canlis, Care Packages
   image: "/uploads/carep.jpg"
-  desc: 'A grand box of all our favorite things, tied up with string and mailed to the doorstep of someone you love.'
-  block_link: "https://canlis.squarespace.com/home/p/camp-canlis-care-package"
+  desc: A grand box of all our favorite things, tied up with string and mailed to
+    the doorstep of someone you love.
+  block_link: https://canlis.squarespace.com/home/p/camp-canlis-care-package
   buttons:
   - label: Order
-    link: "https://canlis.squarespace.com/home/p/camp-canlis-care-package"
+    link: https://canlis.squarespace.com/home/p/camp-canlis-care-package
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
 og_desc: Seattle's landmark fine-dining destination for 70 years and recent home to
   multi-disciplinary pandemic pivots designed to serve our city.
 layout: covid-home
 ---
+
