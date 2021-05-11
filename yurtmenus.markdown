@@ -127,7 +127,8 @@ food:
   - title: 
     items:
     - title: Snacks
-      desc: Corn bunny, ikura and chips, salmon rillettes, crab maki
+      desc: 'Corn bunny, ikura and chips, salmon rillettes, daikon cake with preserved
+        scallop '
       price: 
       note: 
   - title: First Course
