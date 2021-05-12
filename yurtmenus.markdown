@@ -110,7 +110,7 @@ drinks:
       price: "$15"
       note: 
     - title: Grenache + Mourvèdre
-      desc: 2018 St. Damien, Gigondas, Vielles Vignes, Rhône Valley, FRA
+      desc: 2018 Arnoux et Fils, Gigondas, Rhône Valley, FRA
       price: "$20"
       note: 
     - title: Cabernet Sauvignon
