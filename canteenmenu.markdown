@@ -72,8 +72,8 @@ drinks:
       price: "$16"
   - title: Rosé
     items:
-    - title: Westmount Rosé
-      desc: Willamette Valley, OR
+    - title: 2017 La Bastide Blanche
+      desc: Bandol, FRA
       price: "$15"
   - title: Whites
     items:
