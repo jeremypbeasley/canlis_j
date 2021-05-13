@@ -24,7 +24,7 @@ cache:
     and our four-course dining experience. After dinner, enjoy Cognac and a behind-the-scenes
     tour of the restaurant to include our wine cellar and perhaps a secret or two
     . Additional beverages are not included. 21+ only.\n\n\nPrepaid reservations for
-    2-4. \n$300 per person\n\n\n[Reserve now](https://www.exploretock.com/canlis/experience/73868/the-office)"
+    2-4. \n$300 per person\n\n\n[Reserve now](https://www.exploretock.com/canlis/)"
   photo: "/uploads/cache.png"
   photos:
   - "/uploads/privateevents_cache.jpg"
@@ -55,4 +55,3 @@ outro:
     Download the Private Dining Packet [here](https://canlis.com/uploads/2020%20Private%20Dining%20Packet-ebc6fc.pdf).
 layout: privateevents
 ---
-

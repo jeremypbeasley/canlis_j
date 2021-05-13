@@ -1,7 +1,7 @@
 {% include head.html %}
+
 <div class="Intro">
-  <h1 class="Display1 ShowDesktop">{{ page.headline }}</h1>
-  <h1 class="Display1 ShowMobile">{{ page.headline_mobile }}</h1>
+  <h1 class="Display1">{{ page.headline }}</h1>
 </div>
 <div class="row AlignCenter tall">
   <div class="column col-xs-12 col-md-7">
@@ -57,11 +57,9 @@
 <div class="row AlignCenter PrivateEventsOutro tall">
   <div class="column col-xs-12 col-md-6 col-md-offset-2">
     <h2 class="Display1 mb6">{{ page.outro.headline }}</h2>
+    <script src="https://api.tripleseat.com/v1/leads/ts_script.js?lead_form_id=17712&public_key=0a5b7bc28d470e968cc1c0a2c834135bf9660e03"></script>
   </div>
   <div class="column col-xs-12 col-md-4">
-    <p><a id="eventButton">Book your event online.</a></p>
-    <script type="text/javascript" src="https://gatherhere.com/js/leadform.js" id="gather-loader" data-locationid="crdd1mo0" data-trigger="eventButton"></script>
-    {{ page.outro.desc | markdownify}}
   </div>
 </div>
 
