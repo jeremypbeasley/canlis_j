@@ -9,7 +9,7 @@
   </nav>
 </div>
 
-<div class="canteen-content p4 flex">
+<div class="canteen-content flex">
   <div id="canteen-menu-drinks">
       <div id="menu-drinks">
       {% for drinks-category in page.drinks %}
@@ -83,8 +83,8 @@
               </div>
             {% endif %}
             {% if item.desc %}
-              <div class="mb1 canteen-small mt1">
-                {{ item.desc }}
+              <div class="mb1 canteen-small mt3">
+                {{ item.desc | markdownify }}
               </div>
             {% endif %}
           </div>

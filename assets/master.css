@@ -5046,27 +5046,42 @@ input[type=submit] {
   color: #f9a31a;
 }
 .canteen {
-  background: #f0f0df;
+/* background: #F0F0DF; */
   overflow-x: hidden;
 }
 .canteen-content {
-  max-width: 375px;
-  margin: 0 auto;
+/* max-width: 375px; */
+/* margin: 20px; */
   font-family: HelveticaNeue-Medium;
   font-size: 25px;
   margin-top: 5em;
 }
 .canteen h1 {
+  font-family: HelveticaNeue-Medium;
   font-family: "Pinewood";
-  font-size: 45px;
+  font-size: 60px;
   text-transform: uppercase;
   line-height: 90%;
 }
 .canteen-section {
-  border-bottom: 1px dashed #008000;
+  border: 5px dashed #008000;
+  box-shadow: 8px 8px 0px 0px #008000;
+  padding: 30px;
+  margin: 20px;
+  margin-top: -10px;
+  background: #fff;
+  transform: rotate(3deg);
+  animation-name: blinking;
+  animation-duration: 0.5s;
+  animation-iteration-count: infinite;
 }
-.canteen-small {
-  font-size: 0.6em;
+.canteen-section:nth-child(odd) {
+  transform: rotate(-2deg);
+}
+.canteen-small,
+.canteen-small p {
+  font-size: 0.8em;
+  font-family: "Times New Roman";
 }
 .jesus {
   transform: rotate(-10deg);
