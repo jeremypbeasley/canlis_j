@@ -5096,6 +5096,10 @@ input[type=submit] {
   font-size: 0.8em;
   font-family: "Baskerville-SemiBoldItalic", "Times New Roman";
 }
+.canteen-small p {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
 .jesus {
   transform: rotate(-10deg);
   margin-top: 2em;
