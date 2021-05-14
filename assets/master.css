@@ -5196,6 +5196,12 @@ input[type=submit] {
 .color-green {
   color: #008000;
 }
+.color-white {
+  color: #fff;
+}
+.color-creme {
+  color: #f3e8bc;
+}
 .marquee {
   position: relative;
   width: 100vw;
