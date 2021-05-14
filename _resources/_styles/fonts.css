@@ -76,3 +76,13 @@
          url('_fonts/PinewoodgmE1.ttf') format('truetype'),
          url('_fonts/PinewoodgmE1.svg#PinewoodgmE1') format('svg');
 }
+
+@font-face {
+    font-family: 'HoboStd';
+    src: url('_fonts/HoboStd.eot');
+    src: url('_fonts/HoboStd.eot') format('embedded-opentype'),
+         url('_fonts/HoboStd.woff2') format('woff2'),
+         url('_fonts/HoboStd.woff') format('woff'),
+         url('_fonts/HoboStd.ttf') format('truetype'),
+         url('_fonts/HoboStd.svg#HoboStd') format('svg');
+}
