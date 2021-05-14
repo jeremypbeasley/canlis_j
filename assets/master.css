@@ -1700,6 +1700,16 @@ table {
          url('_fonts/PinewoodgmE1.svg#PinewoodgmE1') format('svg');
 }
 
+@font-face {
+    font-family: 'HoboStd';
+    src: url('_fonts/HoboStd.eot');
+    src: url('_fonts/HoboStd.eot') format('embedded-opentype'),
+         url('_fonts/HoboStd.woff2') format('woff2'),
+         url('_fonts/HoboStd.woff') format('woff'),
+         url('_fonts/HoboStd.ttf') format('truetype'),
+         url('_fonts/HoboStd.svg#HoboStd') format('svg');
+}
+
 html {
   font-size: 13px;
   font-family: typeface-body, serif;
@@ -5045,12 +5055,6 @@ input[type=submit] {
 .signup .response a {
   color: #f9a31a;
 }
-.canteen {
-/* background: #F0F0DF; */
-  overflow-x: hidden;
-  width: 100%;
-  max-width: 375px;
-}
 .canteen-content {
 /* margin: 20px; */
   overflow-x: hidden;
@@ -5058,12 +5062,11 @@ input[type=submit] {
   padding-top: 30px;
   font-family: HelveticaNeue-Medium;
   font-size: 25px;
-  margin-top: 5em;
+  margin-top: 4em;
 }
 .canteen h1 {
-  font-family: HelveticaNeue-Medium;
-  font-family: "Pinewood";
-  font-size: 60px;
+  font-family: "HoboStd";
+  font-size: 50px;
   text-transform: uppercase;
   line-height: 90%;
 }
@@ -5074,19 +5077,19 @@ input[type=submit] {
   margin: 20px;
   margin-top: -10px;
   background: #fff;
-  transform: rotate(3deg);
+  transform: rotate(2deg);
   animation-name: blinking;
   animation-duration: 0.5s;
   animation-iteration-count: infinite;
 }
-.canteen-section:nth-child(odd) {
+.canteen-section:nth-child(even) {
   transform: rotate(-2deg);
   margin-left: 20px;
 }
 .canteen-small,
 .canteen-small p {
   font-size: 0.8em;
-  font-family: "Times New Roman";
+  font-family: "Baskerville-SemiBoldItalic", "Times New Roman";
 }
 .jesus {
   transform: rotate(-10deg);
@@ -5127,7 +5130,7 @@ input[type=submit] {
   max-width: 375px;
 }
 .canteen-nav {
-  max-width: 375px;
+  max-width: 325px;
   background: #ff9f00;
   font-family: HelveticaNeue-Medium;
   color: #fff;
@@ -5137,16 +5140,36 @@ input[type=submit] {
   margin-bottom: 30em;
   background: #008000;
   position: absolute;
-  top: 0.5em;
+  top: 90px;
   width: 100%;
   left: 0;
   transform: rotate(-5deg);
+  z-index: 999;
 /* margin-top: -5rem;
   margin-bottom: 5rem; */
   border: 5px dashed #008000;
   animation-name: blinking;
   animation-duration: 0.5s;
   animation-iteration-count: infinite;
+}
+.canteen-nav-bottom {
+  max-width: 195px;
+  background: #ff9f00;
+  font-family: HelveticaNeue-Medium;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 2em;
+  margin-top: -0.5rem;
+  margin-bottom: 30em;
+  background: Gold;
+  padding: 10px;
+  color: #008000;
+  position: absolute;
+  top: 160px;
+  width: 100%;
+  left: 160px;
+  z-index: 99999;
+  transform: rotate(5deg);
 }
 .canteen-nav li {
   opacity: 0.7;
@@ -5158,6 +5181,27 @@ input[type=submit] {
 }
 .color-green {
   color: #008000;
+}
+.marquee {
+  position: relative;
+  width: 100vw;
+  max-width: 100%;
+  height: 100px;
+  overflow-x: hidden;
+  font-family: "Baskerville-SemiBoldItalic", "Times New Roman";
+  font-weight: bold;
+  color: #008000;
+  background: transparent;
+  font-size: 30px;
+  margin-top: 20px;
+  transform: rotate(5deg);
+  z-index: 0;
+}
+.track {
+  position: absolute;
+  white-space: nowrap;
+  will-change: transform;
+  animation: marquee 250s linear infinite;
 }
 @-moz-keyframes rotation {
   from {
@@ -5191,23 +5235,35 @@ input[type=submit] {
     transform: rotate(359deg);
   }
 }
-@-moz-keyframes blinking {
-  100% {
-    border-color: #ffcd5f;
+@-moz-keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
   }
 }
-@-webkit-keyframes blinking {
-  100% {
-    border-color: #ffcd5f;
+@-webkit-keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
   }
 }
-@-o-keyframes blinking {
-  100% {
-    border-color: #ffcd5f;
+@-o-keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
   }
 }
-@keyframes blinking {
-  100% {
-    border-color: #ffcd5f;
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
   }
 }
