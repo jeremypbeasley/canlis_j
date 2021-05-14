@@ -5048,10 +5048,14 @@ input[type=submit] {
 .canteen {
 /* background: #F0F0DF; */
   overflow-x: hidden;
+  width: 100%;
+  max-width: 375px;
 }
 .canteen-content {
-/* max-width: 375px; */
 /* margin: 20px; */
+  overflow-x: hidden;
+  width: 100%;
+  padding-top: 30px;
   font-family: HelveticaNeue-Medium;
   font-size: 25px;
   margin-top: 5em;
@@ -5077,6 +5081,7 @@ input[type=submit] {
 }
 .canteen-section:nth-child(odd) {
   transform: rotate(-2deg);
+  margin-left: 20px;
 }
 .canteen-small,
 .canteen-small p {
@@ -5119,8 +5124,10 @@ input[type=submit] {
   width: 100%;
   overflow: hidden;
   background: #ffc0cb;
+  max-width: 375px;
 }
 .canteen-nav {
+  max-width: 375px;
   background: #ff9f00;
   font-family: HelveticaNeue-Medium;
   color: #fff;
@@ -5136,7 +5143,7 @@ input[type=submit] {
   transform: rotate(-5deg);
 /* margin-top: -5rem;
   margin-bottom: 5rem; */
-  border: 10px dashed #008000;
+  border: 5px dashed #008000;
   animation-name: blinking;
   animation-duration: 0.5s;
   animation-iteration-count: infinite;
