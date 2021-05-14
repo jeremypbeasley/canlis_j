@@ -6,10 +6,10 @@ og_photo: "/uploads/campy.jpg"
 food:
 - category-title: Plates
   items:
-  - title: 1 MEAT
+  - title: 1 MEAT 🥩
     price: "$22.95"
     desc:
-  - title: 2 MEATS
+  - title: 2 MEATS 🥩🥩
     price: "$32.95"
     desc:
   - title: "Brisket, Pulled Pork, Andouille Sausage, or Jackfruit ( ⇦ Not Meat)"
@@ -20,7 +20,7 @@ food:
     desc: "*all plates include two sides and a slice of bread ⇩"
 - category-title: Sides
   items:
-  - title: "Coleslaw, Dills, BBQ Beans, Jalapeño Potato Chips"
+  - title: "Coleslaw, Dills, BBQ Beans, 🌶️ Jalapeño Potato Chips"
     price:
     desc:
 - category-title: "& More"
@@ -31,14 +31,14 @@ food:
   - title: Corn Bread
     price: "$7.95"
     desc: "with honey butter"
-  - title: Mixed Nuts
+  - title: Mixed Nuts 🥜
     price: "$6.00"
     desc:
 - category-title: Specials
   items:
   - title: Jesus take the wheel
     price: "$48"
-    desc: "Priced per person. A sampling of all the meats, all the sides, cornbread, cobbler, and pecan pie. Must be ordered by the entire table!"
+    desc: "Priced per person. A sampling of all the meats, all the sides, cornbread, cobbler, and pecan pie. Must be ordered by the entire table!<br> <img src='https://canlis.com/uploads/mandancing.gif'/>"
 - category-title: Sweets
   items:
   - title: RHUBARB COBBLER
