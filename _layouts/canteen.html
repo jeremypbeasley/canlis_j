@@ -1,117 +1,121 @@
 {% include yurthead.html %}
 
-<div class="canteen-nav-container">
-  <nav class="canteen-nav justify-content-center">
-    <ul class="flex justify-content-center">
-      <li id="menu-food-trigger" class="m2 active">Food</li>
-      <li id="menu-drinks-trigger" class="m2">Drinks</li>
-    </ul>
-  </nav>
-  <div class="canteen-nav-bottom justify-content-center">
-    <div class="">🏕️ WELCOME</div>
-  </div>
-</div>
+<div class="canteen-board">
 
-{% if page.marquee-msg %}
-<div class="marquee">
-  <div class="track">
-    <div class="content">{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}</div>
+  <div class="canteen-nav-container">
+    <nav class="canteen-nav justify-content-center">
+      <ul class="flex justify-content-center">
+        <li id="menu-food-trigger" class="m2 active">Food</li>
+        <li id="menu-drinks-trigger" class="m2">Drinks</li>
+      </ul>
+    </nav>
+    <div class="canteen-nav-bottom justify-content-center">
+      <div>🏕️ WELCOME</div>
+    </div>
   </div>
-</div>
-{% endif %}
 
-<div class="canteen-content flex">
-  <div id="canteen-menu-drinks">
-      <div id="menu-drinks">
-      {% for drinks-category in page.drinks %}
-        <div class="canteen-section mb4">
-          {% if drinks-category.category-title %}
-            <h1 class="color-green">{{ drinks-category.category-title }}</h1>
-          {% endif %}
-          <!-- WINE ONLY -->
-          {% if drinks-category.category-title == "Wine" %}
-            <div class="mb4 mt5">
-              <div class="mb4 uppercase op50">Full List</div>
-            </div>
-            <div class="mb5 mt2">
-              <div class="canteen-small">Our award-winning cellar is entirely at your disposal.</div>
-              <div class="">
-                <a class="mt4 canteen-small NoLine color-green" href="https://canlis.com/uploads/winelist.pdf" target="_blank">See the full list</a>
+  {% if page.marquee-msg %}
+  <div class="marquee">
+    <div class="track">
+      <div class="content">{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}{{ page.marquee-msg }}</div>
+    </div>
+  </div>
+  {% endif %}
+
+  <div class="canteen-content flex">
+    <div id="canteen-menu-drinks">
+        <div id="menu-drinks">
+        {% for drinks-category in page.drinks %}
+          <div class="canteen-section mb4">
+            {% if drinks-category.category-title %}
+              <h1 class="color-green">{{ drinks-category.category-title }}</h1>
+            {% endif %}
+            <!-- WINE ONLY -->
+            {% if drinks-category.category-title == "Wine" %}
+              <div class="mb4 mt5">
+                <div class="mb4 uppercase op50">Full List</div>
               </div>
-            </div>
-          {% endif %}
-          <!-- CATEGORIES WITH SUBS -->
-          {% for subcategory in drinks-category.subcategories %}
-            <div class="mb6 mt5">
-              <div class="mb4 uppercase op50">{{ subcategory.title }}</div>
-            </div>
-            {% if subcategory.items %}
-              {% for item in subcategory.items %}
-                <div class="mb3 flex">
-                  <div class="mr1 uppercase">{{ item.title }}</div>
-                  {% if item.note %}
-                    <div class="mt2">{{ item.note }}</div>
-                  {% endif %}
-                  <div class="mr1">{{ item.price }}</div>
-                  <div class="mt1 canteen-small">{{ item.desc }}</div>
+              <div class="mb5 mt2">
+                <div class="canteen-small">Our award-winning cellar is entirely at your disposal.</div>
+                <div class="">
+                  <a class="mt4 canteen-small NoLine color-green" href="https://canlis.com/uploads/winelist.pdf" target="_blank">See the full list</a>
                 </div>
-              {% endfor %}
-            {% endif %}
-          {% endfor %}
-          <!-- CATEGORIES WITHOUT SUBS -->
-          {% for item in drinks-category.items %}
-          <div class="mb3 mt3 flex">
-            <div class="mr1 uppercase">{{ item.title }}</div>
-            <div class="mb1 mr1">{{ item.price }}</div>
-            {% if item.note %}
-              <div class="mb2">{{ item.note }}</div>
-            {% endif %}
-            <div class="canteen-small">{{ item.desc }}</div>
-          </div>
-          {% endfor %}
-        </div>
-      {% endfor %}
-      </div>
-  </div>
-
-  <div id="canteen-menu-food">
-    {% for food-category in page.food %}
-    <div class="canteen-section mb3 pb3 pt3">
-      {% if food-category.category-title %}
-        <h1 class="color-green">{{ food-category.category-title }}</h1>
-      {% endif %}
-      {% if food-category.items %}
-        {% for item in food-category.items %}
-          <div class="flex justify-content-space-between mb1 mt3">
-            {% if item.title %}
-              <div class="flex-column uppercase">
-                {{ item.title }}
               </div>
             {% endif %}
-            {% if item.price %}
-              <div class="flex-column uppercase">
-                {{ item.price }}
+            <!-- CATEGORIES WITH SUBS -->
+            {% for subcategory in drinks-category.subcategories %}
+              <div class="mb6 mt5">
+                <div class="mb4 uppercase op50">{{ subcategory.title }}</div>
               </div>
-            {% endif %}
-            {% if item.desc %}
-              <div class="mb1 canteen-small mt3">
-                {{ item.desc | markdownify }}
-              </div>
-            {% endif %}
+              {% if subcategory.items %}
+                {% for item in subcategory.items %}
+                  <div class="mb3 flex">
+                    <div class="mr1 uppercase">{{ item.title }}</div>
+                    {% if item.note %}
+                      <div class="mt2">{{ item.note }}</div>
+                    {% endif %}
+                    <div class="mr1">{{ item.price }}</div>
+                    <div class="mt1 canteen-small">{{ item.desc }}</div>
+                  </div>
+                {% endfor %}
+              {% endif %}
+            {% endfor %}
+            <!-- CATEGORIES WITHOUT SUBS -->
+            {% for item in drinks-category.items %}
+            <div class="mb3 mt3 flex">
+              <div class="mr1 uppercase">{{ item.title }}</div>
+              <div class="mb1 mr1">{{ item.price }}</div>
+              {% if item.note %}
+                <div class="mb2">{{ item.note }}</div>
+              {% endif %}
+              <div class="canteen-small">{{ item.desc }}</div>
+            </div>
+            {% endfor %}
           </div>
         {% endfor %}
-      {% endif %}
-    </div> <!-- end canteen-section -->
-    {% endfor %}
-  </div>
+        </div>
+    </div>
 
-  <div class="canteen-footer">
-    <!-- <center class="mt2 mb4">
-      <div class="canteen-small mt2">Happy Campin' Since 1950</div>
-    </center> -->
-    <center>
-      <img src="/uploads/horse.gif"/>
-    </center>
+    <div id="canteen-menu-food">
+      {% for food-category in page.food %}
+      <div class="canteen-section mb3 pb3 pt3">
+        {% if food-category.category-title %}
+          <h1 class="color-green">{{ food-category.category-title }}</h1>
+        {% endif %}
+        {% if food-category.items %}
+          {% for item in food-category.items %}
+            <div class="flex justify-content-space-between mb1 mt3">
+              {% if item.title %}
+                <div class="flex-column uppercase">
+                  {{ item.title }}
+                </div>
+              {% endif %}
+              {% if item.price %}
+                <div class="flex-column uppercase">
+                  {{ item.price }}
+                </div>
+              {% endif %}
+              {% if item.desc %}
+                <div class="mb1 canteen-small mt3">
+                  {{ item.desc | markdownify }}
+                </div>
+              {% endif %}
+            </div>
+          {% endfor %}
+        {% endif %}
+      </div> <!-- end canteen-section -->
+      {% endfor %}
+    </div>
+
+    <div class="canteen-footer">
+      <!-- <center class="mt2 mb4">
+        <div class="canteen-small mt2">Happy Campin' Since 1950</div>
+      </center> -->
+      <center>
+        <img src="/uploads/horse.gif"/>
+      </center>
+    </div>
+
   </div>
 
 </div>
