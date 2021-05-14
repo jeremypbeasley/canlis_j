@@ -1,5 +1,11 @@
 /* Colors */
 
+.canteen-board {
+  max-width: 400px;
+  margin: 0 auto;
+  position: relative;
+}
+
 .canteen {
   /* background: #F0F0DF; */
   /* overflow-x: hidden;
@@ -126,7 +132,7 @@
   font-family: HelveticaNeue-Medium;
   color: white;
   text-transform: uppercase;
-  font-size: 2em;
+  font-size: 2rem;
   margin-top: -.5rem;
   margin-bottom: 30em;
   background: Gold;
@@ -138,6 +144,12 @@
   left: 160px;
   z-index: 99999;
   transform: rotate(5deg);
+}
+
+@media laptop {
+  .canteen-nav-bottom {
+    max-width: 215px;
+  }
 }
 
 /* @keyframes blinking {
