@@ -41,9 +41,9 @@ section6:
 photo1: "/uploads/careersphoto_01.jpg"
 photo2: "/uploads/careersphoto_02.jpg"
 photo3: "/uploads/176476125_160762739287727_5315110664197499088_n.jpg"
-photo4: "/uploads/careersphoto_04.jpg"
+photo4: "/uploads/120036678_100910721761950_1280251195107471695_n.jpg"
 photo5: "/uploads/careersphoto_05.jpg"
-photo6: "/uploads/120036678_100910721761950_1280251195107471695_n.jpg"
+photo6: "/uploads/careersphoto_04.jpg "
 layout: careers
 ---
 
