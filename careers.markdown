@@ -20,10 +20,11 @@ section2:
     humility inherent in learning. We want you to have this...or at least to desperately
     want to have this. It is a requirement for employment.
 section3:
-  title: Benefits
-  desc: Medical, dental, vision, 401k, profit sharing, staff meals, dining privileges,
-    employee educational scholarships, superb team environment, closed Sundays and
-    major holidays...oh, and we'll never serve brunch.
+  title: Pay & Benefits
+  desc: Pay starts at $20/hr. Medical, dental, vision, 401k, profit sharing, staff
+    meals, dining privileges, employee educational scholarships, and a superb team
+    environment are provided. We're closed Sundays and major holidays...oh, and we'll
+    never serve brunch.
 section4:
   title: Our Mission
   desc: The mission of our restaurant is to live out and grow the idea that it's worth
