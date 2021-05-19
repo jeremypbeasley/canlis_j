@@ -96,7 +96,7 @@ drinks:
   - title: Rosé
     items:
     - title: Rosé
-      desc: La Pianelle, Al Posto Del Fiori, ITA
+      desc: 2015 Gros Noré, Bandol, FRA
       price: "$15"
       note: 
   - title: Red
@@ -110,7 +110,7 @@ drinks:
       price: "$15"
       note: 
     - title: Grenache + Mourvèdre
-      desc: 2018 Arnoux et Fils, Gigondas, Rhône Valley, FRA
+      desc: Grenache Blend, 2018 Saint Galet, Châteaunef-du-Pape, Rhône Valley, FRA
       price: "$20"
       note: 
     - title: Cabernet Sauvignon
