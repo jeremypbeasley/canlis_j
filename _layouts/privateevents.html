@@ -16,27 +16,12 @@
 <div class="row AlignCenter tall">
   <div class="column col-xs-12 col-md-8">
     <div class="PrivateEventsGallery RightFacing">
-      {% for i in page.cache.photos limit:1 %}
-        <div class="PrivateEventsGalleryItem slide" style="background-image:url({{ i }})"></div>
-      {% endfor %}
-    </div>
-  </div>
-  <div class="column col-xs-12 col-md-4 first-md">
-    <div class="Divider mb6"></div>
-    <h2 class="Display2 mb5 mt6 d-mt0">{{ page.cache.title }}</h2>
-    <p class="Caption mb3">{{ page.cache.capacity }}</p>
-    {{ page.cache.desc | markdownify}}
-  </div>
-</div>
-<div class="row AlignCenter tall">
-  <div class="column col-xs-12 col-md-8">
-    <div class="PrivateEventsGallery LeftFacing">
       {% for i in page.executiveroom.photos limit:1 %}
         <div class="PrivateEventsGalleryItem slide" style="background-image:url({{ i }})"></div>
       {% endfor %}
     </div>
   </div>
-  <div class="column col-xs-12 col-md-4">
+  <div class="column col-xs-12 col-md-4 first-md">
     <div class="Divider mb6"></div>
     <h2 class="Display2 mb5 mt6 d-mt0">{{ page.executiveroom.title }}</h2>
     <p class="Caption mb3">{{ page.executiveroom.capacity }}</p>
