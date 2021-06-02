@@ -5,7 +5,7 @@ headline: One of the best wine<Br> lists in the world.
 headline_mobile: One of the best wine lists in the world.
 wine_photo_1: "/uploads/cellar2.jpg"
 wine_photo_2: "/uploads/wine2.jpg"
-wine_title: Wine & Spirits Director,<Br> Nelson Daquip
+wine_title: Awards & History
 wine_body_col1: |-
   Canlis became a world-class wine destination in 1997, the first year of its twenty-three consecutive Wine Spectator Magazine Grand Awards. The restaurant is one of a handful in the world to be trusted with the honor for that length of time. In 2017, Canlis took home the James Beard award for <a href="https://seattle.eater.com/2017/5/2/15517450/james-beard-award-2017-canlis-wine" target="_blank">Outstanding Wine Program</a>. Since then, it has helped train four Master Sommeliers and nine advanced sommeliers. We’ve produced wines with Alois Kracher, Buty, Jean Milan, Hirsch, and Guiborat & Fils. We’ve routinely played hosts to the best winemakers and wineries in the world, like Château Latour, Grace Family, Penfolds, Cayuse, Piero Antinori, Angelo Gaja and Maria López de Heredia.
 
@@ -18,16 +18,10 @@ wine_body_col2: "The wine program at Canlis is founded on a team of educated win
   the right wine for your evening.\n\nAll our wine is available for retail sale and
   delivery."
 wine_staff:
-- name: Nelson Daquip
-  title: Wine & Spirits Director
 - name: Elton Nichols
   title: Vice Director
 - name: James MacWilliams
   title: Head Barman
-- name: Paul Coker
-  title: Cellar Master
-- name: Emily Edeen
-  title: Sommelier
 - name: José Castillo
   title: Barman
 lounge_title: The Lounge
@@ -41,4 +35,3 @@ og_desc: One of the best wine lists in the world.
 og_photo: "/uploads/cellar2.jpg"
 layout: wine
 ---
-
