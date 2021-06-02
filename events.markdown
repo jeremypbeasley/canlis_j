@@ -55,4 +55,3 @@ outro:
     Download the Private Dining Packet [here](https://canlis.com/uploads/2020%20Private%20Dining%20Packet-ebc6fc.pdf).
 layout: privateevents
 ---
-

@@ -1,8 +1,10 @@
 {% include head.html %}
-<div class="Intro">
-  <h1 class="Display1 ShowDesktop">{{ page.headline }}</h1>
-  <h1 class="Display1 ShowMobile">{{ page.headline_mobile }}</h1>
+<div class="Intro ShowDesktop">
+  <h1 class="Display1">{{ page.headline }}</h1>
 </div>
+<!-- <div class="Intro ShowMobile">
+  <h1 class="Display1 ShowMobile">{{ page.headline_mobile }}</h1>
+</div> -->
 
 {% for person in page.staff %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
