@@ -33,18 +33,31 @@
 
 // HOME
 
+.Welcome img {
+  max-width: 200px;
+}
+
+@media laptop {
+  .Welcome {
+    width: 50vw;
+    max-width: 400px;
+  }
+}
+
 .HomeIntro {
   margin-bottom: -6vw;
-  background-image: url(/uploads/exterior2.jpg);
+  justify-content: center;
+  background-image: url(/uploads/anthea_bw.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 500%;
   background-position: center center;
 }
 
 @media laptop {
   .HomeIntro {
     margin-bottom: 10vw;
-    background-image: none;
+    height: 100vh;
+    background-size: cover;
   }
 }
 
@@ -116,11 +129,11 @@
   transform-origin: top left;
   display: none;
 }
-@media laptop {
+/* @media laptop {
   .AddressSidebar {
     display: block;
   }
-}
+} */
 
 .AddressSidebar.Inverted, .AddressSidebar.Inverted a {
   color: white;
@@ -146,20 +159,35 @@
 @media laptop {
   .HomePhoto1 {
     position: relative;
-    width: 66vw;
+    width: 59vw;
     margin-left: 0;
   }
 }
 .HomePhoto2 {
   position: relative;
   width: 100vw;
-  max-width: 1000vw;
   margin-left: -6.5vw;
+  max-width: 1000vw;
 }
 @media laptop {
   .HomePhoto2 {
     position: relative;
-    width: 70vw;
+    width: 49vw;
+    margin-left: 0;
+  }
+}
+
+.HomePhoto3 {
+  position: relative;
+  width: 100vw;
+  margin-left: -6.5vw;
+  max-width: 1000vw;
+}
+@media laptop {
+  .HomePhoto3 {
+    position: relative;
+    width: 40vw;
+    margin-left: -10vw;
   }
 }
 .HomePhoto4, .HomePhoto5, .HomePhoto6 {
@@ -210,7 +238,7 @@
     background: color-background;
     padding: 5vw 5vw 3vw 5vw;
     margin-top: 27vw;
-    margin-left: -10%;
+    margin-left: 15vw;
     position: relative;
     z-index: 999;
     border: 1px solid black;
@@ -976,5 +1004,3 @@
     padding: 18vw 0 15vw 0;
   }
 } */
-
-
