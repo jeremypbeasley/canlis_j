@@ -2,18 +2,9 @@
 title: Media
 date: 2020-03-12 16:25:00 -07:00
 items:
-- title: Drive On Thru, Logo (JPG)
-  thumbnail: "/uploads/canlis_concept_02.jpg"
-  link: "/uploads/canlis_concept_02.jpg"
-- title: Drive On Thru, Feature Photo (JPG)
-  thumbnail: "/uploads/nelson4.jpg"
-  link: "/uploads/nelson4.jpg"
 - title: Exterior 01 (JPG)
   thumbnail: "/uploads/moonrise_01.jpg"
   link: "/uploads/moonrise_01.jpg"
-- title: Brady Williams (JPG)
-  thumbnail: "/uploads/086A3775-2.jpg"
-  link: "/uploads/086A3775-2.jpg"
 - title: Exterior 02 (JPG)
   thumbnail: "/uploads/tree.jpg"
   link: "/uploads/tree.jpg"
