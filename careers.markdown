@@ -1,8 +1,7 @@
 ---
 title: Careers
 date: 2016-12-19 21:13:00 -08:00
-headline: Striving to be the <i>best restaurant<br> in America</i> and having a <br>damn
-  good time along the way.
+headline: Striving to be the <i>best <br>restaurant in America</i> and<br> having a very good<br> time along the way.
 headline_mobile: Striving to be the <i>best restaurant in America</i> and have a damn
   good time along the way.
 section1:
@@ -12,39 +11,26 @@ section1:
 
     To enquire about current employment opportunities, please email Anthea Gundersen at [work@canlis.com](mailto:work@canlis.com).
 section2:
-  title: Philosophy matters
-  desc: The only way we can continue to develop the Canlis experience in a way that
-    fits with our mission and values is to invest in our people. We hire learners
-    and we are learners ourselves. Canlis is a place where employees are nurtured
-    and grown. Only then can they truly serve. Additionally, there is a particular
-    humility inherent in learning. We want you to have this...or at least to desperately
-    want to have this. It is a requirement for employment.
+  title: You Matter
+  desc: It might be different here from the last place you worked. Canlis is a place where employees are nurtured and grown. The standards here aren’t any lower and the job is not any easier. We just don't compromise one another for the sake of getting our work done. It’s not cool, and it turns out to be super counterproductive. We hire learners and we are learners ourselves. There is a humility inherent to this approach and we want you to have this…or at least to desperately want to have this. It is a requirement for employment.
 section3:
   title: Pay & Benefits
-  desc: Pay starts at $20/hr. Medical, dental, vision, 401k, profit sharing, staff
-    meals, dining privileges, employee educational scholarships, and a superb team
-    environment are provided. We're closed Sundays and major holidays...oh, and we'll
-    never serve brunch.
+  desc: Pay starts at $20/hr. We offer medical, dental, vision, a really legit 401k program and profit sharing. We eat like royalty, don’t work Sundays or major holidays, and celebrate taking time off. Oh, and we’ll never serve brunch.
 section4:
   title: Our Mission
-  desc: The mission of our restaurant is to live out and grow the idea that it's worth
-    putting other people first.
+  desc: To inspire all people to turn toward one another.
 section5:
   title: Our Vision
-  desc: 'Our vision for what it would look like if we carry out the mission perfectly:
-    Canlis strives to be the best restaurant in America. Our people are growing emotionally,
-    relationally, and professionally. We serve one another in a way that makes people
-    feel valued and restored.'
+  desc: "Our vision for what it would look like if we carry out the mission perfectly: Canlis strives to be the best restaurant in America. Our people are growing emotionally, relationally, and professionally. We serve one another in a way that makes people feel valued and restored."
 section6:
   title: Our Values
-  desc: We value trustworthiness, generosity, and other-centered-ness.
+  desc: We value trustworthiness, generosity, and other centeredness.
 photo1: "/uploads/careersphoto_01.jpg"
 photo2: "/uploads/careersphoto_02.jpg"
-photo3: "/uploads/176476125_160762739287727_5315110664197499088_n.jpg"
+photo3: "/uploads/truck.jpg"
 photo4: "/uploads/120036678_100910721761950_1280251195107471695_n.jpg"
 photo5: "/uploads/careersphoto_05.jpg"
-photo6: "/uploads/careersphoto_04.jpg "
+photo6: "/uploads/slide.jpg "
 og_photo: "/uploads/120036678_100910721761950_1280251195107471695_n.jpg"
 layout: careers
 ---
-
