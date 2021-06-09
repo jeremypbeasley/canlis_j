@@ -10,11 +10,11 @@ collections:
     output: true
 name: Canlis
 global_nav:
-- title: "Our Story"
+- title: Our Story
   slug: story
-- title: "Wine & Spirits"
+- title: Wine & Spirits
   slug: drinks
-- title: "Careers"
+- title: Careers
   slug: careers
 email: jeremy@jeremypbeasley.com
 description: Seattle's landmark fine-dining destination for 70 years and recent home
@@ -25,7 +25,7 @@ dress_code: Go big. Dress up. Make a statement. You're beautiful, let it show! W
   are a dress-respectful restaurant. No casual or athletic attire please. Men will
   feel most comfortable in a suit or sport coat.
 reservations_link: https://www.exploretock.com/canlis
-baseurl:
+baseurl: 
 url: http://canlis.com
 twitter_username: canlis
 github_username: jeremypbeasley
