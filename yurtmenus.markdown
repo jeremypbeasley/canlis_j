@@ -110,8 +110,8 @@ drinks:
       price: "$15"
       note: 
     - title: Grenache Blend
-      desc: 2017 Domaine Raspail-Ay, Gigondas, Rhône Valley, FRA
-      price: "$27"
+      desc: 2018 Saint Galet, Châteauneuf-du-Pape, Rhône Valley, FRA
+      price: "$20"
       note: 
     - title: Cabernet Sauvignon
       desc: 2018 LYDIAN CELLARS, COLUMBIA VALLEY, WA

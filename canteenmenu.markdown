@@ -22,7 +22,8 @@ food:
     desc: "*all plates include two sides and a slice of bread ⇩"
 - category-title: Sides
   items:
-  - title: "Coleslaw, Dills, BBQ Beans, \U0001F336️ Jalapeño Potato Chips"
+  - title: "Summer Squash, Coleslaw, Dills, BBQ Beans, \U0001F336️ Jalapeño Potato
+      Chips"
     price: 
     desc: 
 - category-title: "& More"
@@ -139,8 +140,8 @@ drinks:
       desc: 2019 Niepoort, Nat Cool, Baga, PRT
       price: "$15"
       note: 
-    - title: Cabernet Sauvignon
-      desc: 2018 LYDIAN CELLARS, COLUMBIA VALLEY, WA
+    - title: Grenache blend
+      desc: 2018 Saint Galet, Châteauneuf-du-Pape, Rhône Valley, FRA
       price: "$16"
       note: 
 layout: canteen
