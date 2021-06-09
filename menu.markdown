@@ -2,7 +2,8 @@
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 135
-disclaimer: Executive Chef, Aisha Ibrahim, and her team are currently developing the new dinner menu.
+disclaimer: Executive Chef, Aisha Ibrahim, and her team are currently developing the
+  new dinner menu.
 course_1:
 - title: Chioggia Beets
   desc: Amazake yogurt and hibiscus
@@ -52,3 +53,4 @@ plates:
   plate8: "/uploads/plate_lamb.png"
 layout: menu
 ---
+

@@ -79,12 +79,11 @@ drinks:
     price: "$8"
   - title: Shot of El Tesoro Tequila
     price: "$8"
-- category-title: Canned Drinks
+- category-title: Funky Canned Drinks
   items:
-  - title: Old Westminster "Piquette"
+  - title: Old Westminster "Skin-Contact" Piquette Wine Spritzer
     price: "$12"
   - title: Ramona Blood Orange Spritz
-    desc: 
     price: "$9"
 - category-title: Non-Alcoholic
   items:
@@ -123,14 +122,14 @@ drinks:
       price: "$16"
   - title: Rosé
     items:
-    - title: 2017 La Bastide Blanche
-      desc: Bandol, FRA
+    - title: 2019 Republic of Pink
+      desc: Central Coast, CA
       price: "$15"
   - title: Whites
     items:
-    - title: Aligoté
-      desc: 2019 Tresomm, Vallee de Guadalupe, MEX
-      price: "$15"
+    - title: Sauvignon Blanc
+      desc: 2017 Fortress, North Coast, CA
+      price: "$14"
     - title: Chardonnay
       desc: 2016 Sixto, Moxee, WA
       price: "$16"
@@ -140,8 +139,8 @@ drinks:
       desc: 2019 Niepoort, Nat Cool, Baga, PRT
       price: "$15"
       note: 
-    - title: Syrah
-      desc: W.T. Vintners, Destiny Ridge Vineyard, Horse Heaven Hills, WA
+    - title: Cabernet Sauvignon
+      desc: 2018 LYDIAN CELLARS, COLUMBIA VALLEY, WA
       price: "$16"
       note: 
 layout: canteen

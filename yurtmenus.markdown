@@ -68,7 +68,7 @@ drinks:
       price: "$25"
       note: 
     - title: Champagne
-      desc: NV CANLIS X MONCUIT, CUVÉE DU FRÉRE, GRAND CRU, FRA
+      desc: NV CANLIS X MONCUIT, CUVÉE DU FRèRE, GRAND CRU, FRA
       price: "$30"
       note: 
   - title: White
@@ -78,8 +78,8 @@ drinks:
       price: "$15"
       note: 
     - title: Sauvignon Blanc
-      desc: '2017 TIARE, COLLIO, ITA '
-      price: "$16"
+      desc: 2020 Cloudy Bay, Marlborough, NZL
+      price: "$18"
       note: 
     - title: Chardonnay
       desc: '2018 SANDHI, STA. RITA HILLS, CA '
@@ -96,22 +96,22 @@ drinks:
   - title: Rosé
     items:
     - title: Rosé
-      desc: 2015 Gros Noré, Bandol, FRA
-      price: "$15"
+      desc: 2019 Ronchi di Cialla, Rosato, Venezia Giulia, ITA
+      price: "$16"
       note: 
   - title: Red
     items:
     - title: Pinot Noir
-      desc: '2018 Grape Ink, Premier Cuvée, Willamette Valley, OR '
-      price: "$23"
+      desc: NV Illicit 7, Crunchy Red Fruit X W.T. Vintners
+      price: "$22"
       note: 
     - title: Dolcetto
       desc: 2017 Cavallotto, Alba, Piedmont, ITA
       price: "$15"
       note: 
-    - title: Grenache + Mourvèdre
-      desc: Grenache Blend, 2018 Saint Galet, Châteaunef-du-Pape, Rhône Valley, FRA
-      price: "$20"
+    - title: Grenache Blend
+      desc: 2017 Domaine Raspail-Ay, Gigondas, Rhône Valley, FRA
+      price: "$27"
       note: 
     - title: Cabernet Sauvignon
       desc: 2018 LYDIAN CELLARS, COLUMBIA VALLEY, WA
@@ -126,22 +126,6 @@ drinks:
     - title: Domaine de Rancy Rivesaltes
       desc: 
       price: "$16"
-      note: 
-    - title: 
-      desc: 
-      price: 
-      note: 
-    - title: 
-      desc: 
-      price: 
-      note: 
-    - title: 
-      desc: 
-      price: 
-      note: 
-    - title: 
-      desc: 
-      price: 
       note: 
 food:
 - category-title: Dinner
@@ -160,7 +144,7 @@ food:
       price: 
       note: 
     - title: Foie Gras
-      desc: Spiced pancake, morels, pea shoots
+      desc: morels, spruce
       price: 
       note: 
     - title: 'Asparagus '
@@ -169,16 +153,16 @@ food:
       note: 
   - title: Second Course
     items:
-    - title: Ribeye
-      desc: Leeks, watercress, beef jus
+    - title: New York Strip
+      desc: Spring onions, leeks, watercress, beef jus
       price: 
       note: 
-    - title: 'Celery Root '
-      desc: Pine nuts, koji, parsley
+    - title: Sunchoke
+      desc: Pine nuts, koji
       price: 
       note: 
-    - title: Lamb Leg
-      desc: Yubeshi, cauliflower, tomato
+    - title: Rack of Lamb
+      desc: Yubeshi, broccoli, tomato
       price: 
       note: 
     - title: Salmon
@@ -191,8 +175,8 @@ food:
       desc: Hazelnut, Orange, Viola
       price: 
       note: 
-    - title: Sheep Cheese
-      desc: Cheesecake, grapefruit, fennel, rye
+    - title: Rhubarb
+      desc: Einkorn shortbread, yogurt mousse, elderflower
       price: 
       note: 
 layout: yurtmenu
