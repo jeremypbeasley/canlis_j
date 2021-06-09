@@ -44,29 +44,21 @@ staff:
 - name: Aisha Ibrahim
   title: Executive Chef
   photo: "/uploads/staff_aisha.jpg"
-  bio: 'Born in Southern California, Brady spent his younger days pursuing a professional
-    hockey career. A serious injury would change those plans, and he returned home
-    to find his first job in the kitchen – working at his grandparent’s neighborhood
-    diner. In 2012, he was selected as the Chef de Cuisine at FT33 in Dallas, opening
-    the restaurant under chef Matt McCallister, before moving to Brooklyn, where he
-    worked under chef Carlo Mirarchi as the Executive Sous Chef at Roberta’s and the
-    two-Michelin-starred Blanca.<Br><Br>In 2015, Brady joined Canlis as its sixth-ever
-    Executive Chef. Since then, he has garnered a number of local and national awards,
-    including a perfect, 4-star review from the Seattle Times. He was also named a
-    Finalist for Rising Star Chef of the Year by the James Beard Foundation for 2017,
-    recognizing him as one of the country''s top, young culinary talents. In 2018,
-    Brady was named as one of Food & Wine''s Best New Chefs, and in 2019, took home
-    a James Beard Award for Best Chef: Northwest.'
-- name: Kyle Johnson
-  title: Director of Service
-  photo: "/uploads/staff_kyle.jpg"
-  bio: A native of Colorado, Kyle moved to Germany as a Rotary International exchange
-    student at the age of 16 before attaining degrees in Economics and International
-    Relations at Seattle Pacific University. His first professional move took him
-    to India, working in micro finance. In 2010 Kyle joined the team at Canlis as
-    a newcomer to the industry. Within four years, and having worked every position
-    in the dining room, he became the youngest Service Director in the restaurant’s
-    history. And why not? He’s succeeded in creating the warmest hospitality experience
-    in fine dining—a task he hardly considers to be work at all.
+  bio: After having grown up in the restaurant business, Brian Canlis spent eight
+    years studying and working abroad in England, Austria, and Spain before finishing
+    a hotel sciences degree at Cornell University. Commissioned as an Air Force Officer
+    in 2001, he led his Services team in winning the coveted Hennessy Award for the
+    Air Force’s best food and dining experience. Just prior to his promotion to Captain,
+    Brian was transferred to Washington D.C. to help lead a protocol team that played
+    host to world leaders and international heads of state. (There’s a good chance
+    you saw him saluting the President on CNN.) <Br><br>In 2005, he returned to Seattle
+    to join his brother Mark in leading Canlis restaurant into the 21st century. As
+    third generation owners, Brian and Mark have continued to strengthen the restaurant's
+    legacy as one of the finest in the country. Brian has been featured on No Reservations
+    with Anthony Bourdain, as a guest judge on Top Chef, and has spoken extensively
+    on strategic leadership and customer service. Brian has hosted the country's preeminent
+    event on hospitality, The Welcome Conference, in New York City since 2015. He
+    currently lives in Magnolia with his wife [Mackenzie](http://www.mackenziecanlis.com/)
+    and their two tiny adorable children.
 layout: people
 ---

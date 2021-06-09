@@ -72,14 +72,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <a href="/" class="Logo mb10 Caption NoLine">Logo</a>
 <div class="GlobalNav Unselectable ShowDesktop">
   <ul class="Open">
-     <li class="Caption"><a class="NavLink" href="{{ site.reservations_link }}" target="_blank">Reservations</a></li>
-    <li class="Caption"><a class="NavLink" href="https://giftcards.canlis.com/">Gift Cards</a></li>
-    <li class="Caption">—</li>
-    <li class="Caption"><a class="NavLink" href="/menu">Food</a></li>
-    <li class="Caption"><a class="NavLink" href="/drinks">Wine & Spirits</a></li>
-    <li class="Caption"><a class="NavLink" href="/story">Our Story</a></li>
-    <li class="Caption"><a class="NavLink" href="/people">People</a></li>
-    <li class="Caption"><a class="NavLink" href="/careers">Careers</a></li>
+    <li class="Caption">
+      <a class="NavLink" href="{{ site.reservations_link }}" target="_blank">Reservations</a>
+    </li>
+    <li class="Caption">
+      <a class="NavLink" href="https://giftcards.canlis.com/">Gift Cards</a>
+    </li>
+    <li class="Caption color-white">—</li>
+    {% for item in site.global_nav %}
+      <li class="Caption">
+        <a class="NavLink" href="{{ item.slug }}">{{ item.title }}</a>
+      </li>
+    {% endfor %}
   </ul>
   <ul class="SocialNav">
     <!-- <li><a href="http://twitter.com/canlis" target="_blank" class="Twitter NoLine">Twitter</a></li> -->
@@ -98,19 +102,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="GlobalNavInside AlignCenter">
     <ul class="Open">
       <li class="Caption"><a class="NavLink" href="{{ site.reservations_link }}" target="_blank">Reservations</a></li>
-       <li class="Caption"><a class="NavLink" href="https://giftcards.canlis.com/">Gift Cards</a></li>
-      <li class="Caption">
-        <a class="NavLink" href="/careers">Careers</a>
-      </li>
-      <li class="Caption">
-        <a class="NavLink" href="/careers">Careers</a>
-      </li>
-      <li class="Caption">
-        <a class="NavLink" href="https://giftcards.canlis.com/" target="_blank">Gift Cards</a>
-      </li>
-      <li class="Caption">
-        <a class="NavLink" href="https://canlis.squarespace.com/" target="_blank">Merch</a>
-      </li>
+      <li class="Caption"><a class="NavLink" href="https://giftcards.canlis.com/">Gift Cards</a></li>
+      <li class="Caption color-white">—</li>
+      {% for item in site.global_nav %}
+        <li class="Caption">
+          <a class="NavLink" href="{{ item.slug }}">{{ item.title }}</a>
+        </li>
+      {% endfor %}
     </ul>
     <ul class="SocialNav">
       <!-- <li><a href="http://twitter.com/canlis" target="_blank" class="Twitter NoLine">Twitter</a></li> -->

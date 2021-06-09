@@ -1,53 +1,51 @@
 {% include head.html %}
 
-<div class="HomeVideoBg"></div>
-
 <!-- <video id="bgvid" class="ShowDesktop" playsinline autoplay muted loop>
 <source src="{{ page.intro_video }}" type="video/mp4">
 </video> -->
 
 <div class="HomeIntro Intro flex align-center">
-    <div class="Welcome mt10 pt10 color-white ml10"/>
-      <p class="Display2">After a year of harebrained schemes turned restaurants, experiences, and lifelong memories, we invite you, once again, back into our dining room.</p>
-      <p class="Display2 mb0">Welcome, please stay a while.</p>
-        <img src="/uploads/fam_sig_white.png"/>
+    <div class="Welcome mt10 d-mt10 d-pt10 color-white d-ml10"/>
+      <p class="Display2 text-align-center">After a year of loss, invention, and the overwhelming support from the city we love, we invite you back inside the Canlis dining room.</p>
+      <p class="Display2 mb0 text-align-center">Welcome, please stay a while.</p>
+        <center><img src="/uploads/fam_sig_white.png"/></center>
     </div>
 </div>
 <div class="AddressSidebar Caption"><a class="NoLine FancyLink" href="https://www.google.com/maps/dir/''/Canlis+Seattle,+WA+98109/@47.6430677,-122.4168205,12z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x54901505379f7045:0xd1009d4ff183b6c6!2m2!1d-122.3467808!2d47.643089" target="_blank">2576 Aurora Avenue N. Seattle, WA</a><!-- 約束を守る --></div>
-<div class="row AlignCenter tall">
-  <div class="column col-xs-12 col-md-4 first-md">
+<div class="row AlignCenter tall mt10">
+  <div class="column col-xs-12 col-md-4 first-xs">
     <div class="Divider mb6"></div>
-    <p class="Caption op50 mb2 mt6 d-mt0">{{ page.section1_label }}</p>
-    <h2 class="Display2">
-    {{ page.section1_body }}</h2>
-  <!-- <p class="Caption mt5 lift"><a class="FancyLink" href="https://www.exploretock.com/canlis" target="_blank">Make a reservation</a></p> -->
+    <p class="Caption op50 mb2 mt6 d-mt0">An Invitation</p>
+    <h2 class="Display2 mb10 d-mb0"> The opportunity to meet and serve you is one we don’t take lightly. Not for the past 70 years at least. Come spend an evening. Our favorite thing in the world is taking care of others, and few places can do it quite like we can.</h2>
   </div>
   <div class="column col-xs-12 col-md-7 first-xs">
-    <img class="HomePhoto1" alt="" src="{{ page.section1_photo }}">
+    <img class="HomePhoto1" alt="" src="uploads/kris.jpg">
   </div>
 </div>
 <div class="row AlignCenter tall">
-  <div class="column col-xs-12 col-md-8">
-    <img class="HomePhoto2" src="{{ page.section2_photo }}" alt="">
+  <div class="column col-xs-12 col-md-7 first-md">
+    <img class="HomePhoto2" src="/uploads/kevin.jpg">
   </div>
-  <div class="column col-xs-12 col-md-4">
+  <div class="column col-xs-12 col-md-4 first-xs">
+    <div class="Divider mb6"></div>
+    <p class="Caption op50 mb2 mt6 d-mt0">The Space</p>
+    <h2 class="Display2">This storied building was first designed by Roland Terry in 1950. Both Jim Cutler and George Suyama have helped develop it into an iconic expression of modern design. It continues to delight guests from all over the world with its natural light and stunning views of Seattle, Lake Union, and the Cascade mountain range.</h2>
+    <p class="mt4 mb10 d-mb0"><i>Winner of the 2019 James Beard Design Icon Award</i></p>
+  </div>
+
+</div>
+<div class="row AlignCenter tall">
+  <div class="column col-xs-12 col-md-6">
     <div class="PortraitCard">
+      <div class="Divider mb10 ShowMobile"></div>
       <p class="Caption op50 mb2 mt6 d-mt0">Introducing</p>
-      <h1 class="Display2">{{ page.section2_body }}</h1>
-      <p class="mt2">Aisha and and her team are developing the new Canlis dinner menu. We can't wait to share it with you.</p>
-      <p class="mt2"><a href="{{ page.section2_link }}">Read more</a></p>
-      <!-- <p class="Caption mt5 lift"><a href="{{ page.section2_link }}" target="_blank" class="FancyLink">Read more</a></p> -->
+      <h1 class="Display2 mb5">Executive Chef, <Br>Aisha Ibrahim</h1>
+      <p class="mt2 pb0">"Aisha was drawn to Seattle for the unparalleled quality of ingredients from the forests, fisheries and farms of the Pacific Northwest. She plans to spend her time at Canlis exploring the region’s Indigenous ingredients, the nuances of its microseasons and the city’s historic role as a gateway to Asia."<Br><Br><i>Elizabeth G. Dunn, New York Times</i></p>
+      <p class="mt0 mb10 d-mb0"><a href="https://www.nytimes.com/2021/05/03/dining/canlis-chef-aisha-ibrahim.html">Read more</a></p>
     </div>
   </div>
-</div>
-<div class="row AlignCenter tall">
-  <div class="column col-xs-12 col-md-4 first-md">
-    <div class="Divider mb6"></div>
-    <p class="Caption op50 mb2 mt6 d-mt0">{{ page.section3_label }}</p>
-    <h2 class="Display2">{{ page.section3_body }}</h2>
-  </div>
-  <div class="column col-xs-12 col-md-7 first-xs">
-    <img class="HomePhoto1" src="{{ page.section3_photo }}">
+  <div class="column col-xs-12 col-md-6">
+    <img class="HomePhoto3" src="/uploads/P1299163.jpg" alt="">
   </div>
 </div>
 
@@ -69,8 +67,38 @@
 <div class="row">
   <div class="column col-xs-12">
     <div class="LinkToStory">
-      <h2 class="Display1">Make a <a href="https://www.exploretock.com/canlis/" target="_blank" class="NoLine">reservation</a></h2>
+      <h2 class="Display1 mb10 d-mb0">Make a <a href="https://www.exploretock.com/canlis/" target="_blank" class="NoLine">reservation</a>.</h2>
     </div>
+  </div>
+</div>
+
+<div class="flex flex-center">
+  <div class="p0 mt1 mb4 d-mb5 CenterText">
+    Get early access and a peek behind the scenes.<br>
+    <i><a href="http://eepurl.com/c-wXyz">Sign up for the Canlis Newsletter</a>.</i> <span class="spam_starburst"><svg height="23px" version="1.1" viewbox="0 0 23 23" width="23px" xmlns="http://www.w3.org/2000/svg">
+    <title>✹</title>
+    <g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1">
+      <g id="Artboard-Copy-39" transform="translate(-1252.000000, -540.000000)">
+        <text fill="#000000" font-family="GTSectra-Book, GT Sectra" font-size="15" font-weight="300" id="Get-early-access-to" letter-spacing="0.375" line-spacing="23">
+          <tspan x="1001" y="528">
+            G
+          </tspan>
+          <tspan x="1012.505" y="528">
+            et early access to dinner and tickets.
+          </tspan>
+          <tspan font-family="GTSectra-BookItalic, GT Sectra" font-style="italic" x="1001" y="551">
+            Sign up for
+          </tspan>
+          <tspan font-family="GTSectra-BookItalic, GT Sectra" font-style="italic" text-decoration="underline" x="1073.345" y="551">
+            The Weekly SPAM
+          </tspan>
+          <tspan font-family="GTSectra-BookItalic, GT Sectra" font-style="italic" x="1182.305" y="551">
+            .
+          </tspan>
+        </text>
+        <polygon fill="#F99B9B" fill-rule="nonzero" id="✹" points="1263.83789 562.509766 1265.27855 556.94603 1269.34539 561.025103 1267.82971 555.506357 1273.36722 557.006016 1269.28537 552.956937 1274.83789 551.502267 1269.28537 550.062595 1273.36722 546.013515 1267.82971 547.513174 1269.34539 541.994428 1265.27855 546.073501 1263.83789 540.509766 1262.39724 546.073501 1258.33039 541.994428 1259.84608 547.513174 1254.30856 546.013515 1258.40542 550.062595 1252.83789 551.502267 1258.40542 552.956937 1254.30856 557.006016 1259.84608 555.506357 1258.33039 561.025103 1262.39724 556.94603"></polygon>
+      </g>
+    </g></svg></span>
   </div>
 </div>
 
