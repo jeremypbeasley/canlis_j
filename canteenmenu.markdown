@@ -22,8 +22,7 @@ food:
     desc: "*all plates include two sides and a slice of bread ⇩"
 - category-title: Sides
   items:
-  - title: "Summer Squash, Coleslaw, Dills, BBQ Beans, \U0001F336️ Jalapeño Potato
-      Chips"
+  - title: "Coleslaw, Dills, BBQ Beans, \U0001F336️ Jalapeño Potato Chips"
     price: 
     desc: 
 - category-title: "& More"
@@ -37,6 +36,9 @@ food:
     desc: with honey butter
   - title: "Mixed Nuts \U0001F95C"
     price: "$6.00"
+    desc: 
+  - title: Summer Squash
+    price: "$7.95"
     desc: 
 - category-title: Specials
   items:
