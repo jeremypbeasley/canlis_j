@@ -3,7 +3,6 @@ title: Canteen Menu
 date: 2020-12-01 15:19:00 -08:00
 og_desc: Canlis Camp Canteen
 og_photo: "/uploads/campy.jpg"
-bar_msg: "Please order at the bar."
 marquee-msg: 'Welcome to the Canteen: where the sweet, sweet smells of premium meats
   wash over us like friendship, love, and everything good about summer. '
 food:
