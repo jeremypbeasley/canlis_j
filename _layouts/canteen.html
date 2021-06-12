@@ -14,6 +14,8 @@
     </div>
   </div>
 
+
+
   {% if page.marquee-msg %}
   <div class="marquee">
     <div class="track">
@@ -23,6 +25,9 @@
   {% endif %}
 
   <div class="canteen-content flex">
+    <div class="bar-msg text-align-center mb7  color-green">
+      <span>{{ page.bar_msg }}</span>
+    </div>
     <div id="canteen-menu-drinks">
         <div id="menu-drinks">
         {% for drinks-category in page.drinks %}
