@@ -5249,10 +5249,10 @@ input[type=submit] {
   will-change: transform;
   animation: marquee 250s linear infinite;
 }
-.bar-msg {
+.thebar-msg {
   width: 100%;
 }
-.bar-msg span {
+.thebar-msg span {
   border-bottom: 3px solid #008000;
 }
 @-moz-keyframes rotation {
