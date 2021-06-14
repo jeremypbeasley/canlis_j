@@ -100,7 +100,7 @@ drinks:
     price: "$4"
   - title: Topo Chico
     price: "$4"
-  - title: Blackberry Lemonade
+  - title: Strawberry Lemonade
     price: "$8"
 - category-title: Beer
   items:
