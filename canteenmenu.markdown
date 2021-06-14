@@ -131,7 +131,7 @@ drinks:
   - title: Whites
     items:
     - title: Sauvignon Blanc
-      desc: 2017 Fortress, North Coast, CA
+      desc: 2019 Tiare, Collio, ITA
       price: "$14"
     - title: Chardonnay
       desc: 2016 Sixto, Moxee, WA
