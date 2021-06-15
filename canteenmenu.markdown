@@ -43,9 +43,6 @@ food:
     price: "$48"
     desc: Priced per person. A sampling of all the meats, all the sides, cornbread,
       cobbler, and pecan pie. Must be ordered by the entire table!<br> <img src='https://canlis.com/uploads/mandancing.gif'/>
-  - title: Baby Back Ribs (full rack)
-    price: "$26.95"
-    desc: Tomato salad and white bread
 - category-title: Sweets
   items:
   - title: RHUBARB COBBLER
