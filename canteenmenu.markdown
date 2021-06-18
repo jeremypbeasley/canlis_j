@@ -14,7 +14,8 @@ food:
   - title: "2 MEATS \U0001F969\U0001F969"
     price: "$32.95"
     desc: 
-  - title: Brisket, Pulled Pork, Andouille Sausage, or Jackfruit ( ⇦ Not Meat)
+  - title: Brisket, Pulled Pork, Fennel Mustard Chipotle Sausage, or Jackfruit ( ⇦
+      Not Meat)
     price: 
     desc: 
   - title: 
@@ -45,7 +46,7 @@ food:
       cobbler, and pecan pie. Must be ordered by the entire table!<br> <img src='https://canlis.com/uploads/mandancing.gif'/>
 - category-title: Sweets
   items:
-  - title: RHUBARB COBBLER
+  - title: Seasonal COBBLER
     price: "$7.95"
     desc: with Chantilly cream
   - title: PECAN PIE
@@ -101,7 +102,7 @@ drinks:
     price: "$8"
 - category-title: Beer
   items:
-  - title: Great Divide Orabelle Triple
+  - title: Metier Trail Blazer
     desc: "(Pitcher for $30)"
     price: "$10"
   - title: Reuben's Wolfsburg Helles Lager
@@ -128,7 +129,7 @@ drinks:
   - title: Whites
     items:
     - title: Sauvignon Blanc
-      desc: 2019 Tiare, Collio, ITA
+      desc: 2016 Livio Felluga, Collio, ITA
       price: "$14"
     - title: Chardonnay
       desc: 2016 Sixto, Moxee, WA
