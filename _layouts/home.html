@@ -4,6 +4,13 @@
 <source src="{{ page.intro_video }}" type="video/mp4">
 </video> -->
 
+<!-- Alert Bar -->
+{% if page.is_alert_shown == true %}
+  <div class="AlertBar Caption" style="background-color: {{ page.alert_color }}">
+    {{ page.alert_text}}
+  </div>
+{% endif %}
+
 <div class="HomeIntro Intro flex align-center">
     <div class="Welcome mt10 d-mt10 d-pt10 color-white d-ml10"/>
       <p class="Display2 text-align-center mb2">After a year of loss, invention, and the overwhelming support from the city we love, we invite you back inside the Canlis dining room.</p>
