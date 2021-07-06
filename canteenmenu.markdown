@@ -23,7 +23,7 @@ food:
     desc: "*all plates include two sides and a slice of bread ⇩"
 - category-title: Sides
   items:
-  - title: "Coleslaw, Dills, BBQ Beans, \U0001F336️ Jalapeño Potato Chips"
+  - title: "Coleslaw, Dills, BBQ Beans, \U0001F336️ Jalapeño Chipotle Potato Chips"
     price: 
     desc: 
 - category-title: "& More"
@@ -34,7 +34,7 @@ food:
       jalapeños, cheddar, and scallions
   - title: Corn Bread
     price: "$7.95"
-    desc: with honey butter
+    desc: with whipped butter
   - title: "Mixed Nuts \U0001F95C"
     price: "$6.00"
     desc: 
@@ -44,6 +44,9 @@ food:
     price: "$48"
     desc: Priced per person. A sampling of all the meats, all the sides, cornbread,
       cobbler, and pecan pie. Must be ordered by the entire table!<br> <img src='https://canlis.com/uploads/mandancing.gif'/>
+  - title: Grilled Corn on the Cob
+    price: "$6"
+    desc: 'Butter, Lime Mayo, Togarashi, Cotija '
 - category-title: Sweets
   items:
   - title: Seasonal COBBLER
@@ -52,9 +55,9 @@ food:
   - title: PECAN PIE
     price: "$7.95"
     desc: 
-  - title: VANILLA BEAN ICE CREAM SANDWICH ❄
-    price: "$5.95"
-    desc: 
+  - title: Peanut Butter Cookie Ice Cream Sandwich
+    price: "$6"
+    desc: Various ice cream flavors available
 drinks:
 - category-title: Cocktails
   items:
