@@ -30,13 +30,13 @@ course_3:
 - title: Porcini
   desc: Koshihikari rice, mushroom broth, summer pickles
 course_4:
-- title: 'Hazelnut "Tofu"'
+- title: Hazelnut "Tofu"
   desc: With raspberries, ginger, and lemon balm
 - title: smoked cacao Nougatine
   desc: With milk ice cream, pumpkin, and sunflower seed
 - title: soufflÉ
-  desc: Orange Curaçao, crème anglaise  
-- title: "saké baba"
+  desc: Orange Curaçao, crème anglaise
+- title: saké baba
   desc: A playful take on the classic, with saskatoon berries and shiso
 plates:
   plate1: "/uploads/plate_salad.jpg"
@@ -49,3 +49,4 @@ plates:
   plate8: "/uploads/plate_lamb.png"
 layout: menu
 ---
+
