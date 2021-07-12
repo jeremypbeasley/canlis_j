@@ -55,16 +55,9 @@ food:
   - title: PECAN PIE
     price: "$7.95"
     desc: 
-  - title: Peanut Butter Cookie Ice Cream Sandwich
-    price: "$6"
-    desc: Various ice cream flavors available
 drinks:
 - category-title: Cocktails
   items:
-  - title: Rope Swing
-    desc: Sparkling wine, vodka, st. germain, lemon juice, strawberry syrup, soda
-      (Pitcher for $45)
-    price: "$14"
   - title: Bramble
     desc: Sipsmith Gin, lemon, sugar, blackeberry syrup
     price: "$15"
