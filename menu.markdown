@@ -1,47 +1,43 @@
 ---
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
-menu_cost: 135
-disclaimer: Executive Chef, Aisha Ibrahim, and her team are currently developing the
-  new dinner menu.
+menu_cost: 155
 course_1:
-- title: Chioggia Beets
-  desc: Amazake yogurt and hibiscus
-- title: Caramelized Mussels
-  desc: Pine nut "green curry" with geoduck XO sauce
-- title: Chawanmushi
-  desc: Japanese egg custard with hedgehog mushroom and geoduck
-- title: Canlis Salad
-  desc: 'Our great grandmother’s recipe, with bacon, mint, and lemon '
+- title: Salmon*
+  desc: Hay-smoked and seared medium rare, with buckwheat
+- title: Artichoke Barigoule
+  desc: With green garlic and walnut
+- title: Mussels*
+  desc: Poached and chilled, with kohlrabi and bokchoy
+- title: dungeness crab salad*
+  desc: With cucumber and amazake
 course_2:
-- title: 'Grilled Carrots '
-  desc: Glazed in reduced blackberry jam with chorizo and clams
-- title: Haiga Rice
-  desc: 'In brown butter dashi with Dungeness crab, fried chili, and hazelnuts '
-- title: Fried Rabbit
-  desc: Yoshoku potatoes, buttermilk, and herbs from our garden
-- title: Broken Bean Stew
-  desc: 23 varieties of beans from the Bread Lab, with preserved and fresh vegetables
+- title: Sablefish*
+  desc: Cured and smoked, with squash and wildflower
+- title: Manila Clams*
+  desc: Poached, with spring onion and miso broth
+- title: Shaved Wagyu*
+  desc: With oyster emulsion and purslane
+- title: Canlis Salad
+  desc: The original with bacon, mint, and lemon
 course_3:
-- title: Sea Bream
-  desc: Stewed onions, horseradish, and flavors of oyakodon
-- title: Pork
-  desc: Green garlic, hazelnuts, and lemon
-- title: Lamb
-  desc: 'Dry-aged leg and belly, with fermented brussels sprouts, cauliflower, and
-    sweet potato '
-- title: Dry Aged Ribeye
-  desc: Gratin of potato and fermented cabbage, with sauce Pierre
+- title: Halibut*
+  desc: Poached, with sea lettuce and turnips
+- title: Duck*
+  desc: Duck breast, with endive, cherries, and pickled cat tail
+- title: Striploin*
+  desc: Prime beef with Walla Walla onion and rutabaga
+- title: Porcini
+  desc: Koshihikari rice, mushroom broth, summer pickles
 course_4:
-- title: Sweet Potato
-  desc: Japanese sweet potato with bee pollen garam, yuzu sherbet, and cocoa butter
-    cake
-- title: Soufflè
-  desc: Orange Curaçao, crème anglaise, and warm madeleines
-- title: Chocolate
-  desc: Warm dark chocolate mousse, smoked white chocolate ganache, and juniper oil
-- title: Aged Cheddar and Apple
-  desc: French toast, apple chutney, yogurt ice cream, and Petit Pomerol cheddar
+- title: 'Hazelnut "Tofu"'
+  desc: With raspberries, ginger, and lemon balm
+- title: smoked cacao Nougatine
+  desc: With milk ice cream, pumpkin, and sunflower seed
+- title: soufflÉ
+  desc: Orange Curaçao, crème anglaise  
+- title: "saké baba"
+  desc: A playful take on the classic, with saskatoon berries and shiso
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
@@ -53,4 +49,3 @@ plates:
   plate8: "/uploads/plate_lamb.png"
 layout: menu
 ---
-

@@ -1,11 +1,99 @@
 {% include head.html %}
 
 <div class="MenuIntro">
-  <div class="row">
-    <div class="column col-xs-12 col-md-4 col-md-offset-4">
-      <p>
-      Our Executive Chef, Aisha Ibrahim, and her team are currently developing the new dinner menu.
-      </p>
+  <div class="row row-no-padding">
+    <div class="column col-md-8 col-xs">
+      <h1 class="Display1 mb3">Choose four courses.</h1>
+      <p class="Caption">$155</p>
+    </div>
+  </div>
+</div>
+<div class="MenuSamples">
+  <div class="row row-no-padding">
+    <div class="column col-no-padding col-xs-12 col-md-6">
+      <img src="/uploads/menu_1.jpg"/>
+    </div>
+    <div class="column col-no-padding col-xs-12 col-md-6">
+      <img src="/uploads/menu_2.jpg"/>
+    </div>
+  </div>
+  <div class="row row-no-padding">
+    <div class="column col-no-padding col-xs-12 col-md-6">
+      <img src="/uploads/menu_3.jpg"/>
+    </div>
+    <div class="column col-no-padding col-xs-12 col-md-6">
+      <img src="/uploads/menu_4.jpg"/>
+    </div>
+  </div>
+</div>
+<div class="MenuSamples flex">
+  <div class="MenuSample">
+    <div class="row">
+      <div class="column col-xs-12">
+        <div class="Divider mt4 mb8"></div>
+        <div class="Caption mb5">First</div>
+        <!-- Menu Item -->
+        {% for item in page.course_1 %}
+        <div class="mb4">
+          <div class="mb1 Caption">{{ item.title }}</div>
+          <div>{{ item.desc }}</div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  <div class="MenuSample">
+    <div class="row">
+      <div class="column col-xs-12">
+        <div class="Divider mt4 mb8"></div>
+        <div class="Caption mb5">Second</div>
+        <!-- Menu Item -->
+        {% for item in page.course_2 %}
+        <div class="mb4">
+          <div class="mb1 Caption">{{ item.title }}</div>
+          <div>{{ item.desc }}</div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  <div class="MenuSample">
+    <div class="row">
+      <div class="column col-xs-12">
+        <div class="Divider mt4 mb8"></div>
+        <div class="Caption mb5">Third</div>
+        <!-- Menu Item -->
+        {% for item in page.course_3 %}
+        <div class="mb4">
+          <div class="mb1 Caption">{{ item.title }}</div>
+          <div>{{ item.desc }}</div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  <div class="MenuSample">
+    <div class="row">
+      <div class="column col-xs-12">
+        <div class="Divider mt4 mb8"></div>
+        <div class="Caption mb5">Fourth</div>
+        <!-- Menu Item -->
+        {% for item in page.course_4 %}
+        <div class="mb4">
+          <div class="mb1 Caption">{{ item.title }}</div>
+          <div>{{ item.desc }}</div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="MenuSample">
+  <div class="row mt10">
+    <div class="column col-xs-12 text-align-center">
+      <p>A 20% service charge will be added to your final bill and is retained by Canlis. No additional gratuity is expected.</p>
+      <p>* Eating raw or undercooked ingredients can increase your risk of foodborne illness. It may also increase your chances of having a great time.</p>
     </div>
   </div>
 </div>
