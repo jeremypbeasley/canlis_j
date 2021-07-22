@@ -35,9 +35,6 @@ food:
   - title: Corn Bread
     price: "$7.95"
     desc: with whipped butter
-  - title: "Mixed Nuts \U0001F95C"
-    price: "$6.00"
-    desc: 
 - category-title: Specials
   items:
   - title: Jesus take the wheel
@@ -69,6 +66,9 @@ drinks:
     desc: Sipsmith Gin, Makers Mark Bourbon, Plantation 3-star Rum, passion fruit,
       lime, sweet tea, soda. (Pitcher for $50)
     price: "$15"
+  - title: Rope Swing
+    desc: 'Sparkling wine, vodka, St. Germain, lemon juice, strawberry syrup, soda '
+    price: "$16"
   - title: Margarita
     desc: El Tesoro Blanco, Pierre Ferrand Curacao, lime, sugar, spicy tamarind salt
     price: "$16"
@@ -80,8 +80,6 @@ drinks:
   items:
   - title: Old Westminster "Skin-Contact" Piquette Wine Spritzer
     price: "$12"
-  - title: Ramona Blood Orange Spritz
-    price: "$9"
 - category-title: Non-Alcoholic
   items:
   - title: Sweet Tea
@@ -114,31 +112,31 @@ drinks:
   subcategories:
   - title: Sparkling White
     items:
-    - title: Berlucchi
-      desc: Brut, Franciacorta, ITA
+    - title: NV Berlucchi Brut
+      desc: Franciacorta, ITA
       price: "$16"
   - title: Rosé
     items:
-    - title: 2019 Republic of Pink
-      desc: Central Coast, CA
-      price: "$15"
+    - title: 2019 Idilico Rosado
+      desc: Yakima Valley, WA
+      price: "$14"
   - title: Whites
     items:
-    - title: Sauvignon Blanc
-      desc: 2016 Livio Felluga, Collio, ITA
+    - title: 2019 Andrew Rich Sauvignon Blanc
+      desc: Willamette Valley, OR
       price: "$14"
-    - title: Chardonnay
-      desc: 2016 Sixto, Moxee, WA
+    - title: 2017 Ponzi Reserve Chardonnay
+      desc: Willamette Valley, OR
       price: "$16"
   - title: Reds
     items:
-    - title: Portuguese Red
-      desc: 2019 Niepoort, Nat Cool, Baga, PRT
+    - title: 2019 Nat Cool Drink Me Baga
+      desc: Bairrada, PRT
       price: "$15"
       note: 
-    - title: Grenache blend
-      desc: 2018 Saint Galet, Châteauneuf-du-Pape, Rhône Valley, FRA
-      price: "$16"
+    - title: 2016 Bootleg Red Wine
+      desc: Napa County, CA
+      price: "$22"
       note: 
 layout: canteen
 ---
