@@ -14,8 +14,7 @@ food:
   - title: "2 MEATS \U0001F969\U0001F969"
     price: "$32.95"
     desc: 
-  - title: Brisket, Pulled Pork, Fennel Mustard Chipotle Sausage, or Jackfruit ( ⇦
-      Not Meat)
+  - title: Brisket, Pulled Pork, Andouille Sausage, or Jackfruit ( ⇦ Not Meat)
     price: 
     desc: 
   - title: 
@@ -63,8 +62,8 @@ drinks:
     desc: Maker's Mark Bourbon, sugar, bitters
     price: "$13"
   - title: Big Island Iced Tea
-    desc: Sipsmith Gin, Makers Mark Bourbon, Plantation 3-star Rum, passion fruit,
-      lime, sweet tea, soda. (Pitcher for $50)
+    desc: Sipsmith Gin, Makers Mark Bourbon, Plantation 3-star Rum, apricot, lime,
+      sweet tea, soda. (Pitcher for $50)
     price: "$15"
   - title: Rope Swing
     desc: 'Sparkling wine, vodka, St. Germain, lemon juice, strawberry syrup, soda '
@@ -96,7 +95,7 @@ drinks:
     price: "$8"
 - category-title: Beer
   items:
-  - title: Metier Trail Blazer
+  - title: Pfriem Jammy Pale Ale
     desc: "(Pitcher for $30)"
     price: "$10"
   - title: Reuben's Wolfsburg Helles Lager
