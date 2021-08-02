@@ -1,7 +1,7 @@
 ---
 title: Home
-is_alert_shown: true
-alert_text: New reservations open August 2nd at Noon.
+is_alert_shown: false
+alert_text: 
 alert_color: "#D8D9CD"
 concepts:
 - title: Camp Canlis
