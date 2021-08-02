@@ -1,7 +1,7 @@
 ---
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
-menu_cost: 155
+menu_cost: 165
 course_1:
 - title: Salmon*
   desc: Hay-smoked and seared medium rare, with buckwheat
@@ -49,4 +49,3 @@ plates:
   plate8: "/uploads/plate_lamb.png"
 layout: menu
 ---
-
