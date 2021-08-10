@@ -23,11 +23,11 @@ course_2:
 course_3:
 - title: Halibut*
   desc: Poached, with seat lettuce and turnips
-- title: Duck*
-  desc: With endive and pickled cattail
+- title: Pork Collar*
+  desc: With endive, cherries, and pickled cattail
 - title: Striploin*
   desc: Prime beef with Walla Walla onion and rutabaga
-- title: Morel and King Trumpet
+- title: Porcini and King Trumpet
   desc: Koshihikari rice, mushroom broth, summer pickles
 course_4:
 - title: Hazelnut "Tofu"
