@@ -3201,26 +3201,27 @@ footer a {
 }
 .Welcome img {
   max-width: 200px;
+  width: 50vw;
 }
 @media (min-width: 62em) {
   .Welcome {
-    width: 50vw;
     max-width: 400px;
   }
 }
 .HomeIntro {
   margin-bottom: -6vw;
   justify-content: center;
-  background-image: url("/uploads/anthea_bw.jpg");
+  background-image: url("/uploads/kevin1.jpg");
   background-repeat: no-repeat;
-  background-size: 500%;
-  background-position: center center;
+  background-size: 360%;
+  background-position: 80% center;
 }
 @media (min-width: 62em) {
   .HomeIntro {
     margin-bottom: 10vw;
     height: 100vh;
     background-size: cover;
+    background-position: center center;
   }
 }
 .HomeLogo {
@@ -3304,8 +3305,8 @@ footer a {
 }
 .HomePhoto1 {
   position: relative;
-  width: 100vw;
-  margin-left: -6.5vw;
+  width: 102vw;
+  margin-left: -5vw;
   max-width: 1000vw;
 }
 @media (min-width: 62em) {
@@ -3317,8 +3318,8 @@ footer a {
 }
 .HomePhoto2 {
   position: relative;
-  width: 100vw;
-  margin-left: -6.5vw;
+  width: 102vw;
+  margin-left: -5vw;
   max-width: 1000vw;
 }
 @media (min-width: 62em) {
@@ -3330,8 +3331,8 @@ footer a {
 }
 .HomePhoto3 {
   position: relative;
-  width: 100vw;
-  margin-left: -6.5vw;
+  width: 102vw;
+  margin-left: -5vw;
   max-width: 1000vw;
 }
 @media (min-width: 62em) {
@@ -3341,27 +3342,23 @@ footer a {
     margin-left: -10vw;
   }
 }
-.HomePhoto4,
-.HomePhoto5,
-.HomePhoto6 {
-  max-width: 10000vw;
-  width: 100vw;
-  margin-left: -6.5vw;
-}
 @media (min-width: 62em) {
   .HomePhoto4 {
     position: relative;
-    width: 60vw;
+    width: 50vw;
+    max-width: 50vw;
     margin-left: 0;
+    margin-top: -15vw;
   }
+}
+.HomePhoto4,
+.HomePhoto5 {
+  margin-top: -4vw;
 }
 @media (min-width: 62em) {
   .HomePhoto5 {
-    position: relative;
-    margin-top: -5%;
-    z-index: 70;
-    margin-left: 0;
-    width: 100%;
+    width: 45vw;
+    margin-top: 15vw;
   }
 }
 .HomePhoto6 {
@@ -3389,7 +3386,7 @@ footer a {
     background: #fcfbfa;
     padding: 5vw 5vw 3vw 5vw;
     margin-top: 27vw;
-    margin-left: 15vw;
+    margin-left: 10vw;
     position: relative;
     z-index: 999;
     border: 1px solid #000;

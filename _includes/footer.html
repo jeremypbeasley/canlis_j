@@ -33,7 +33,7 @@
 <script src="/assets/master.js"></script>
 
 <!-- Ensure the logo, navigation, and address are inverted (white) only on the home page due to dark background video -->
-{% if page.layout == 'home' %}
+{% if page.layout == 'home' or page.layout == 'home_fall_2021' %}
   <script>
     $(".GlobalNav.ShowDesktop").addClass("Inverted");
     $(".AddressSidebar").addClass("Inverted");
