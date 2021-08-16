@@ -3,7 +3,7 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 165
 course_1:
-- title: Albacore*
+- title: Sockeye*
   desc: Hay-smoked and seared medium rare, with buckwheat
 - title: Artichoke Barigoule
   desc: With green garlic and walnut
@@ -22,7 +22,7 @@ course_2:
   desc: The original with bacon, mint, and lemon
 course_3:
 - title: Halibut*
-  desc: Poached, with seat lettuce and turnips
+  desc: Baked, with sea lettuce and turnips
 - title: Pork Collar*
   desc: With endive, cherries, and pickled cattail
 - title: Striploin*
