@@ -86,3 +86,13 @@
          url('_fonts/HoboStd.ttf') format('truetype'),
          url('_fonts/HoboStd.svg#HoboStd') format('svg');
 }
+
+@font-face {
+    font-family: 'HelveticaNeueMedium';
+    src: url('_fonts/HelveticaNeueMedium_22555.eot');
+    src: url('_fonts/HelveticaNeueMedium_22555.eot') format('embedded-opentype'),
+         url('_fonts/HelveticaNeueMedium_22555.woff2') format('woff2'),
+         url('_fonts/HelveticaNeueMedium_22555.woff') format('woff'),
+         url('_fonts/HelveticaNeueMedium_22555.ttf') format('truetype'),
+         url('_fonts/HelveticaNeueMedium_22555.svg#HelveticaNeueMedium_22555') format('svg');
+}

@@ -1906,7 +1906,7 @@ li {
   font-size: 0.9rem;
   text-transform: uppercase;
   letter-spacing: 0.05rem;
-  font-family: HelveticaNeue-Medium, "ApercuMono", Andale Mono, monospaced;
+  font-family: HelveticaNeue-Medium, "HelveticaNeueMedium", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 62em) {
   .Caption {
@@ -1914,7 +1914,7 @@ li {
   }
 }
 .typeface-tertiary {
-  font-family: HelveticaNeue-Medium, "ApercuMono", Andale Mono, monospaced;
+  font-family: HelveticaNeue-Medium, "HelveticaNeueMedium", Helvetica, Arial, sans-serif;
 }
 html {
   min-height: 100%;
@@ -4528,7 +4528,7 @@ input[type=submit] {
   text-align: center;
   color: #000;
   transition: all 200ms ease-out;
-  font-family: HelveticaNeue-Medium, "ApercuMono", Andale Mono, monospaced;
+  font-family: HelveticaNeue-Medium, "HelveticaNeueMedium", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 62em) {
   .TockButton {
