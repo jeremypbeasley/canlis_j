@@ -1,8 +1,0 @@
----
-title: Gift Cards
-date: 2016-11-10 10:10:00 -08:00
-headline: 'The perfect gift for someone you really care for. '
-headline_mobile: 'The perfect gift for someone you really care for. '
-layout: giftcards
----
-
