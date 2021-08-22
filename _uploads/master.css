@@ -1623,91 +1623,101 @@ table {
 
 @font-face {
     font-family: 'GTSectraDisplayLight';
-    src: url('_fonts/GT-Sectra-Display-Light.eot');
-    src: url('_fonts/GT-Sectra-Display-Light.eot') format('embedded-opentype'),
-         url('_fonts/GT-Sectra-Display-Light.woff') format('woff'),
-         url('_fonts/GT-Sectra-Display-Light.ttf') format('truetype');
+    src: url('/uploads/GT-Sectra-Display-Light.eot');
+    src: url('/uploads/GT-Sectra-Display-Light.eot') format('embedded-opentype'),
+         url('/uploads/GT-Sectra-Display-Light.woff') format('woff'),
+         url('/uploads/GT-Sectra-Display-Light.ttf') format('truetype');
 }
 @font-face {
     font-family: 'GTSectraDisplayLightItalic';
-    src: url('_fonts/GT-Sectra-Display-Light-Italic.eot');
-    src: url('_fonts/GT-Sectra-Display-Light-Italic.eot') format('embedded-opentype'),
-        url('_fonts/GT-Sectra-Display-Light-Italic.woff') format('woff'),
-        url('_fonts/GT-Sectra-Display-Light-Italic.ttf') format('truetype');
+    src: url('/uploads/GT-Sectra-Display-Light-Italic.eot');
+    src: url('/uploads/GT-Sectra-Display-Light-Italic.eot') format('embedded-opentype'),
+        url('/uploads/GT-Sectra-Display-Light-Italic.woff') format('woff'),
+        url('/uploads/GT-Sectra-Display-Light-Italic.ttf') format('truetype');
 }
 @font-face {
     font-family: 'GTSectraBook';
-    src: url('_fonts/GT-Sectra-Book.eot');
-    src: url('_fonts/GT-Sectra-Book.eot') format('embedded-opentype'),
-         url('_fonts/GT-Sectra-Book.woff') format('woff'),
-         url('_fonts/GT-Sectra-Book.ttf') format('truetype');
+    src: url('/uploads/GT-Sectra-Book.eot');
+    src: url('/uploads/GT-Sectra-Book.eot') format('embedded-opentype'),
+         url('/uploads/GT-Sectra-Book.woff') format('woff'),
+         url('/uploads/GT-Sectra-Book.ttf') format('truetype');
 }
 @font-face {
     font-family: 'GTSectraBookItalic';
-    src: url('_fonts/GT-Sectra-Book-Italic.eot');
-    src: url('_fonts/GT-Sectra-Book-Italic.eot') format('embedded-opentype'),
-         url('_fonts/GT-Sectra-Book-Italic.woff') format('woff'),
-         url('_fonts/GT-Sectra-Book-Italic.ttf') format('truetype');
+    src: url('/uploads/GT-Sectra-Book-Italic.eot');
+    src: url('/uploads/GT-Sectra-Book-Italic.eot') format('embedded-opentype'),
+         url('/uploads/GT-Sectra-Book-Italic.woff') format('woff'),
+         url('/uploads/GT-Sectra-Book-Italic.ttf') format('truetype');
 }
 @font-face {
     font-family: 'ApercuMono';
-    src: url('_fonts/ApercuMono.eot');
-    src: url('_fonts/ApercuMono.eot') format('embedded-opentype'),
-         url('_fonts/ApercuMono.woff2') format('woff2'),
-         url('_fonts/ApercuMono.woff') format('woff'),
-         url('_fonts/ApercuMono.ttf') format('truetype');
+    src: url('/uploads/ApercuMono.eot');
+    src: url('/uploads/ApercuMono.eot') format('embedded-opentype'),
+         url('/uploads/ApercuMono.woff2') format('woff2'),
+         url('/uploads/ApercuMono.woff') format('woff'),
+         url('/uploads/ApercuMono.ttf') format('truetype');
 }
 
 /* COVID */
 
 @font-face {
     font-family: 'OGSequel';
-    src: url('_fonts/OGJTypeDesignSequel100Wide85.eot');
-    src: url('_fonts/OGJTypeDesignSequel100Wide85.eot') format('embedded-opentype'),
-         url('_fonts/OGJTypeDesignSequel100Wide85.woff2') format('woff2'),
-         url('_fonts/OGJTypeDesignSequel100Wide85.woff') format('woff'),
-         url('_fonts/OGJTypeDesignSequel100Wide85.ttf') format('truetype'),
-         url('_fonts/OGJTypeDesignSequel100Wide85.svg#OGJTypeDesignSequel100Wide85') format('svg');
+    src: url('/uploads/OGJTypeDesignSequel100Wide85.eot');
+    src: url('/uploads/OGJTypeDesignSequel100Wide85.eot') format('embedded-opentype'),
+         url('/uploads/OGJTypeDesignSequel100Wide85.woff2') format('woff2'),
+         url('/uploads/OGJTypeDesignSequel100Wide85.woff') format('woff'),
+         url('/uploads/OGJTypeDesignSequel100Wide85.ttf') format('truetype'),
+         url('/uploads/OGJTypeDesignSequel100Wide85.svg#OGJTypeDesignSequel100Wide85') format('svg');
 }
 
 @font-face {
     font-family: 'futuramaxicgbold';
-    src: url('_fonts/futuramaxicgbold.eot');
-    src: url('_fonts/futuramaxicgbold.eot') format('embedded-opentype'),
-         url('_fonts/futuramaxicgbold.woff2') format('woff2'),
-         url('_fonts/futuramaxicgbold.woff') format('woff'),
-         url('_fonts/futuramaxicgbold.ttf') format('truetype'),
-         url('_fonts/futuramaxicgbold.svg#futuramaxicgbold') format('svg');
+    src: url('/uploads/futuramaxicgbold.eot');
+    src: url('/uploads/futuramaxicgbold.eot') format('embedded-opentype'),
+         url('/uploads/futuramaxicgbold.woff2') format('woff2'),
+         url('/uploads/futuramaxicgbold.woff') format('woff'),
+         url('/uploads/futuramaxicgbold.ttf') format('truetype'),
+         url('/uploads/futuramaxicgbold.svg#futuramaxicgbold') format('svg');
 }
 
 @font-face {
     font-family: 'futuramaxicgbold';
-    src: url('_fonts/futuramaxicgbold.eot');
-    src: url('_fonts/futuramaxicgbold.eot') format('embedded-opentype'),
-         url('_fonts/futuramaxicgbold.woff2') format('woff2'),
-         url('_fonts/futuramaxicgbold.woff') format('woff'),
-         url('_fonts/futuramaxicgbold.ttf') format('truetype'),
-         url('_fonts/futuramaxicgbold.svg#futuramaxicgbold') format('svg');
+    src: url('/uploads/futuramaxicgbold.eot');
+    src: url('/uploads/futuramaxicgbold.eot') format('embedded-opentype'),
+         url('/uploads/futuramaxicgbold.woff2') format('woff2'),
+         url('/uploads/futuramaxicgbold.woff') format('woff'),
+         url('/uploads/futuramaxicgbold.ttf') format('truetype'),
+         url('/uploads/futuramaxicgbold.svg#futuramaxicgbold') format('svg');
 }
 
 @font-face {
     font-family: 'Pinewood';
-    src: url('_fonts/PinewoodgmE1.eot');
-    src: url('_fonts/PinewoodgmE1.eot') format('embedded-opentype'),
-         url('_fonts/PinewoodgmE1.woff2') format('woff2'),
-         url('_fonts/PinewoodgmE1.woff') format('woff'),
-         url('_fonts/PinewoodgmE1.ttf') format('truetype'),
-         url('_fonts/PinewoodgmE1.svg#PinewoodgmE1') format('svg');
+    src: url('/uploads/PinewoodgmE1.eot');
+    src: url('/uploads/PinewoodgmE1.eot') format('embedded-opentype'),
+         url('/uploads/PinewoodgmE1.woff2') format('woff2'),
+         url('/uploads/PinewoodgmE1.woff') format('woff'),
+         url('/uploads/PinewoodgmE1.ttf') format('truetype'),
+         url('/uploads/PinewoodgmE1.svg#PinewoodgmE1') format('svg');
 }
 
 @font-face {
     font-family: 'HoboStd';
-    src: url('_fonts/HoboStd.eot');
-    src: url('_fonts/HoboStd.eot') format('embedded-opentype'),
-         url('_fonts/HoboStd.woff2') format('woff2'),
-         url('_fonts/HoboStd.woff') format('woff'),
-         url('_fonts/HoboStd.ttf') format('truetype'),
-         url('_fonts/HoboStd.svg#HoboStd') format('svg');
+    src: url('/uploads/HoboStd.eot');
+    src: url('/uploads/HoboStd.eot') format('embedded-opentype'),
+         url('/uploads/HoboStd.woff2') format('woff2'),
+         url('/uploads/HoboStd.woff') format('woff'),
+         url('/uploads/HoboStd.ttf') format('truetype'),
+         url('/uploads/HoboStd.svg#HoboStd') format('svg');
+}
+
+@font-face {
+    font-family: 'HelveticaNeueMedium';
+    src: url('/uploads/HelveticaNeueMedium_22555.eot');
+    src: url('/uploads/HelveticaNeueMedium_22555.eot') format('embedded-opentype'),
+         url('/uploads/HelveticaNeueMedium_22555.woff2') format('woff2'),
+         url('/uploads/HelveticaNeueMedium_22555.woff') format('woff'),
+         url('/uploads/HelveticaNeueMedium_22555.ttf') format('truetype'),
+         url('/uploads/HelveticaNeueMedium_22555.svg#HelveticaNeueMedium_22555') format('svg');
 }
 
 html {
@@ -1944,7 +1954,7 @@ img {
 .Logo {
   width: 7rem;
   height: 1.5rem;
-  background-image: url("_img/canlis_logo_new.svg");
+  background-image: url("/uploads/canlis_logo_new.svg");
   background-repeat: no-repeat;
   text-indent: -9999999px;
   background-size: 100%;
@@ -1972,7 +1982,7 @@ img {
   }
 }
 .LogoWhite {
-  background-image: url("_img/canlis_logo_new_white.svg");
+  background-image: url("/uploads/canlis_logo_new_white.svg");
 }
 .LogoCenter {
   top: 0;
@@ -2083,15 +2093,15 @@ img {
   border-bottom: none;
 }
 .SocialNav li a.Instagram {
-  background-image: url("/assets/_img/socialicon_insta_light.svg");
+  background-image: url("/uploads/socialicon_insta_light.svg");
 }
 @media (min-width: 62em) {
   .SocialNav li a.Instagram {
-    background-image: url("/assets/_img/socialicon_insta.svg");
+    background-image: url("/uploads/socialicon_insta.svg");
   }
 }
 .Inverted .SocialNav li a.Instagram {
-  background-image: url("/assets/_img/socialicon_insta_light.svg");
+  background-image: url("/uploads/socialicon_insta_light.svg");
 }
 .NavHamburger {
   position: absolute;
@@ -3439,102 +3449,6 @@ footer a {
   padding: 10vw 0;
   text-align: center;
 }
-.PrivateEventsPhoto3 {
-  position: relative;
-  max-width: 100000vw;
-  margin-left: -6.5vw;
-  width: 100vw;
-}
-@media (min-width: 62em) {
-  .PrivateEventsPhoto3 {
-    width: 130vw;
-    margin-left: -85vw;
-    margin-top: -3vw;
-  }
-}
-.PrivateEventsGallery {
-  width: 100vw;
-  height: 133vw;
-  background: #000;
-  margin-left: -6.5vw;
-  cursor: pointer;
-}
-@media (min-width: 62em) {
-  .PrivateEventsGallery {
-    width: 60vw;
-    height: 86vw;
-  }
-  .PrivateEventsGallery.LeftFacing {
-    margin-left: -6.5vw;
-  }
-  .PrivateEventsGallery.RightFacing {
-    margin-left: 3.5vw;
-  }
-}
-.PrivateEventsGalleryItem {
-  width: 100vw;
-  height: 133vw;
-  background-position: center center;
-  background-size: cover;
-  transition: all 200ms ease-out;
-}
-@media (min-width: 62em) {
-  .PrivateEventsGalleryItem {
-    width: 60vw;
-    height: 86vw;
-  }
-}
-.PrivateEventsGalleryItem,
-.PrivateEventsGalleryItem:focus,
-.PrivateEventsGalleryItem:active {
-  outline: none;
-}
-.PrivateEventsPhoto4 {
-  position: relative;
-  width: 100vw;
-  max-width: 100000vw;
-  margin-left: -6.5vw;
-}
-@media (min-width: 62em) {
-  .PrivateEventsPhoto4 {
-    width: 90vw;
-    margin-right: -53vw;
-    margin-left: 0;
-  }
-}
-.PrivateEventsPhoto5 {
-  position: relative;
-  width: 100vw;
-  max-width: 100000vw;
-  margin-left: -6.5vw;
-}
-@media (min-width: 62em) {
-  .PrivateEventsPhoto5 {
-    width: 90vw;
-    margin-left: -45vw;
-  }
-}
-.PrivateEventsPhoto6 {
-  position: relative;
-  width: 100vw;
-  max-width: 100000vw;
-  margin-left: -6.5vw;
-}
-@media (min-width: 62em) {
-  .PrivateEventsPhoto6 {
-    width: 110vw;
-    margin-right: -53vw;
-    margin-left: 0;
-  }
-}
-@media (min-width: 62em) {
-  .PrivateEventsPenthousePhoto {
-    margin-top: 6vw;
-  }
-}
-.PrivateEventsOutro {
-  margin: 15vw 5vw;
-}
 .StoryContainer {
   margin-top: 50vw;
 }
@@ -4075,7 +3989,7 @@ body.Invert .Intro {
   background-color: transparent;
 }
 body.Invert .Logo {
-  background-image: url("_img/canlislogo_light.svg");
+  background-image: url("/uploads/canlislogo_light.svg");
 }
 body.Invert .GlobalFooter,
 body.Invert .GlobalFooter a {
