@@ -7,6 +7,6 @@ headline: |-
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;private<Br>
     &nbsp;&nbsp;&nbsp;dining suites.<Br>
 headline_mobile: Seattle's premiere private dining suites.
-
 layout: privateevents
 ---
+
