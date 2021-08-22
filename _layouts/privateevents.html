@@ -3,49 +3,63 @@
 <div class="Intro">
   <h1 class="Display1">{{ page.headline }}</h1>
 </div>
-<div class="row AlignCenter tall">
-  <div class="column col-xs-12 col-md-7">
-    <img class="PrivateEventsPhoto3" src="{{ page.intro.photo }}">
+<div class="row">
+  <div class="column col-xs-12 col-md-12">
+    <img class="PrivateEventsPhoto3" src="/uploads/kevin_exec.jpg">
   </div>
-  <div class="column col-xs-12 col-md-5">
-    <div class="Divider mb6"></div>
-    <p class="Caption mb2 mt6 d-mt0">{{ page.intro.label }}</p>
-    {{ page.intro.desc | markdownify}}
+  <div class="column col-xs-12 col-md-4  col-md-offset-2">
+    <div class="Display2 mt10 mb4"><i>The Executive Room</i></div>
+    <p class="Display2">Over 400 square feet of warmth and comfort. This private space is on our main level and features a fireplace and North and East views of Lake Union and the Cascade Mountains through 10’ high windows.</p>
   </div>
-</div>
-<div class="row AlignCenter tall">
-  <div class="column col-xs-12 col-md-8">
-    <div class="PrivateEventsGallery RightFacing">
-      {% for i in page.executiveroom.photos limit:1 %}
-        <div class="PrivateEventsGalleryItem slide" style="background-image:url({{ i }})"></div>
-      {% endfor %}
-    </div>
-  </div>
-  <div class="column col-xs-12 col-md-4 first-md">
-    <div class="Divider mb6"></div>
-    <h2 class="Display2 mb5 mt6 d-mt0">{{ page.executiveroom.title }}</h2>
-    <p class="Caption mb3">{{ page.executiveroom.capacity }}</p>
-    {{ page.executiveroom.desc | markdownify}}
+  <div class="column col-xs-12 col-md-4 ">
+    <div class="Divider d-mt10 mb6"></div>
+    <p>Seated dinner capacity, 6 - 24 <br>
+      Cocktail reception capacity, 12 - 30</p>
+    <p class="mt0 mb10 d-mb0"><a href="/uploads/canlis_privateevents.pdf">Download Packet (PDF)</a></p>
   </div>
 </div>
-<div class="row AlignCenter tall">
-  <div class="column col-xs-12 col-md-4 col-md-offset-4">
-    <div class="Divider mb6"></div>
-    <h2 class="Display2 mb5 mt6 d-mt0">{{ page.penthouse.title }}</h2>
-    <p class="Caption mb3">{{ page.penthouse.capacity }}</p>
-    {{ page.penthouse.desc | markdownify}}
+
+<div class="row">
+  <div class="column col-xs-12 col-md-12">
+    <img class="PrivateEventsPhoto3 " src="/uploads/kevin_pent3.jpg">
+  </div>
+  <div class="column col-xs-12 col-md-4 col-md-offset-2">
+    <div class="Display2 mt10 mb4"><i>The Penthouse</i></div>
+    <p class="Display2">Originally built as our grandfather’s residence,
+the Penthouse sits above our dining room and is approximately 1500 square feet. It features a full service bar, dining room views, wrap-around views of Lake Union and the Cascade Mountains, and a baby grand piano.</p>
+  </div>
+  <div class="column col-xs-12 col-md-4">
+    <div class="Divider d-mt10 mb6"></div>
+    <p>Seated dinner capacity, 25 - 80 <br>
+      Cocktail reception capacity, 25 - 110</p>
+    <p class="mt0 mb10 d-mb0"><a href="/uploads/canlis_privateevents.pdf">Download Packet (PDF)</a></p>
   </div>
 </div>
-{% for i in page.penthouse.photos limit:1 %}
-  <img class="PrivateEventsPenthousePhoto" src="{{ i }}"/>
-{% endfor %}
-<div class="row AlignCenter PrivateEventsOutro tall">
+
+<div class="row">
+  <div class="column col-xs-12">
+    <div class="Divider"></div>
+  </div>
+  <div class="column col-xs-12 col-md-2 col-md-offset-2 mt10 pdf_preview">
+    <a class="NoLine" target="_blank" href="/uploads/canlis_privateevents.pdf"><img class="" src="/uploads/pdf_preview.png"/></a>
+  </div>
+  <div class="column col-xs-12 col-md-4">
+    <div class="Caption mt10 mb4">More info</div>
+    <p>Many questions may be answered by our private events packet. Download it <a target="_blank" href="/uploads/canlis_privateevents.pdf">here</a>.</p>
+    <div class="Caption mb4">Contact</div>
+    <p class="mb1">
+      Please direct private events inquiries to Maren Patrick, <a href="mailto:maren@canlis.com">maren@canlis.com</a>.
+    </p>
+  </div>
+</div>
+
+<!-- <div class="row AlignCenter PrivateEventsOutro tall">
   <div class="column col-xs-12 col-md-6 col-md-offset-2">
     <h2 class="Display1 mb6">{{ page.outro.headline }}</h2>
     <script src="https://api.tripleseat.com/v1/leads/ts_script.js?lead_form_id=17712&public_key=0a5b7bc28d470e968cc1c0a2c834135bf9660e03"></script>
   </div>
   <div class="column col-xs-12 col-md-4">
   </div>
-</div>
+</div> -->
 
 {% include footer.html %}
