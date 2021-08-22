@@ -6,19 +6,21 @@
       <div class="Caption mb4">Dress Code</div>
       <p>We love being Seattle’s dressy restaurant. We recommend  a suit or sport coat for men, and ask that no casual attire or shorts be worn. On this night, you can’t be overdressed, so go big and have fun with it.</p>
     </div>
-    <div class="column col-xs-12 col-md-3">
-        <div class="Caption mb4">Newsletter</div>
-        <p class="mb0 pb0">Get early access and a peek behind the scenes.</p>
-        <i><a href="http://eepurl.com/c-wXyz">Sign up for the Canlis Newsletter</a>.</i>
+    <div class="column col-xs-12 col-md-4">
+        <div class="Caption mb4">Vaccine Policy</div>
+        <p class="mb0 pb0">We strongly encourage our guests to be vaccinated but will not require verification to enter our dining room at this time. Our service staff wear masks and local governance requires guests to wear masks while not eating. We will continue to update this policy as state and local mandates evolve. </p>
     </div>
     <div class="column col-xs-12 col-md-4">
-      &copy 1950 - {{ 'now' | date: "%Y" }} Canlis
+        <div class="Caption mb4">Newsletter</div>
+        <p class="mb0 pb0">Get early access and a peek behind the scenes.</p>
+        <i class="mb4"><a href="http://eepurl.com/c-wXyz">Sign up for the Canlis Newsletter</a>.</i>
+        <p>&copy 1950 - {{ 'now' | date: "%Y" }} Canlis</p>
     </div>
   </div>
 </footer>
 </div>
 <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
-<script src="/assets/master.js?version={{ 'now' | date: "%m%d%Y%H%M%S" }}"></script>
+<script src="/uploads/master.js?version={{ 'now' | date: "%m%d%Y%H%M%S" }}"></script>
 
 <!-- Ensure the logo, navigation, and address are inverted (white) only on the home page due to dark background video -->
 {% if page.layout == 'home' or page.layout == 'home_fall_2021' %}

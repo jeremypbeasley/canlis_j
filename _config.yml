@@ -27,7 +27,7 @@ dress_code: Go big. Dress up. Make a statement. You're beautiful, let it show! W
   are a dress-respectful restaurant. No casual or athletic attire please. Men will
   feel most comfortable in a suit or sport coat.
 reservations_link: https://www.exploretock.com/canlis
-baseurl: 
+baseurl:
 url: http://canlis.com
 twitter_username: canlis
 github_username: jeremypbeasley
@@ -39,25 +39,3 @@ exclude:
 - node_modules
 - package.json
 - README.md
-gems:
-- jekyll-assets
-assets:
-  cache: false
-  autowrite: true
-  prefix: "/assets"
-  digest: false
-  assets:
-  - "*.png"
-  - "*.jpg"
-  - "*.svg"
-  - "*.otf"
-  - "*.ttf"
-  - "*.woff"
-  - "*.woff2"
-  - "*.eot"
-  - master.css
-  - master.js
-  sources:
-  - assets/
-  - assets/_img
-  - assets/_fonts
