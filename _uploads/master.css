@@ -3119,6 +3119,13 @@ footer a {
     margin-bottom: 16px;
   }
 }
+.row.secondary {
+  margin-left: -1vw;
+}
+.row.secondary .column {
+  padding-left: 1vw;
+  padding-right: 1vw;
+}
 .column,
 .col-xs-12,
 .col-md,
