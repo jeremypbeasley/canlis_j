@@ -5,3 +5,6 @@ _site
 node_modules
 .asset-cache
 npm-debug.log
+jekyll-cache
+.jekyll-cache
+/.jekyll-cache
