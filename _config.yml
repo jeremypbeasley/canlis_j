@@ -16,6 +16,8 @@ global_nav:
   slug: story
 - title: Wine & Spirits
   slug: drinks
+- title: Private Events
+  slug: privateevents
 - title: Careers
   slug: careers
 email: jeremy@jeremypbeasley.com
