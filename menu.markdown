@@ -3,17 +3,17 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 165
 course_1:
-- title: Sockeye*
-  desc: Hay-smoked and seared medium rare, with buckwheat
-- title: Artichoke Barigoule
-  desc: With green garlic and walnut
+- title: Albacore*
+  desc: Hay-smoked, with plum and turnips
+- title: Eggplant
+  desc: With buckwheat, miso, and garlic scape
 - title: Mussels*
   desc: Poached and chilled, with kohlrabi and brassicas
-- title: dungeness crab salad*
+- title: Dungeness Crab Salad*
   desc: With cucumber and amazake
 course_2:
 - title: Sablefish*
-  desc: Cured and smoked, with squash and wildflower
+  desc: Grilled, with matsutake mushroom
 - title: Manila Clams*
   desc: Poached, with spring onion and miso broth
 - title: Shaved Wagyu*
@@ -21,23 +21,21 @@ course_2:
 - title: Canlis Salad
   desc: The original with bacon, mint, and lemon
 course_3:
-- title: Halibut*
-  desc: Baked, with sea lettuce and turnips
-- title: Pork Collar*
+- title: Salmon*
+  desc: Grilled, with miso and bone broth
+- title: Aged Duck*
   desc: With endive, cherries, and pickled cattail
 - title: Striploin*
   desc: Prime beef with Walla Walla onion and rutabaga
-- title: Porcini and King Trumpet
-  desc: Koshihikari rice, mushroom broth, summer pickles
+- title: Maitake
+  desc: Grilled and lightly smoked, with Walla Walla molasses
 course_4:
 - title: Hazelnut "Tofu"
-  desc: With raspberries, ginger, and lemon balm
-- title: smoked cacao Nougatine
+  desc: With raspberries, ginger, and sorrel
+- title: Smoked Cacao Nougatine
   desc: With milk ice cream, pumpkin, and sunflower seed
 - title: soufflÉ
   desc: Orange Curaçao, crème anglaise
-- title: saké baba
-  desc: A playful take on the classic, with saskatoon berries and shiso
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
