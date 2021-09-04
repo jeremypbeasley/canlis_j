@@ -1,5 +1,5 @@
 ---
-title: Private Events
+title: Events
 date: 2016-11-10 10:10:00 -08:00
 headline: |-
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Seattle's<Br>
