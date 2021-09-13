@@ -20,20 +20,10 @@ wine_staff:
   title: Wine
 - name: Elton Nichols
   title: Wine
-- name: Nathan Bihm
-  title: Wine
-- name: Martin Beally
-  title: Wine
-- name: Ali Lanoue
-  title: Wine
-- name: Dan McGarry
-  title: Wine
 - name: James MacWilliams
   title: Spirits
 - name: José Castillo
   title: Spirits
-- name: Kristoffer Gandenberger
-  title: Wine & Spirits
 lounge_title: The Lounge
 lounge_photo_1: "/uploads/lounge2.jpg"
 lounge_photo_2: "/uploads/bar_1.jpg"
@@ -45,4 +35,3 @@ og_desc: One of the best wine lists in the world.
 og_photo: "/uploads/cellar2.jpg"
 layout: wine
 ---
-
