@@ -3,9 +3,9 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 165
 course_1:
-- title: Albacore*
-  desc: Hay-smoked, with plum and turnips
-- title: Eggplant
+- title: Halibut*
+  desc: With plum and turnips
+- title: Eggplant Zurita
   desc: With buckwheat, miso, and garlic scape
 - title: Mussels*
   desc: Poached and chilled, with kohlrabi and brassicas
@@ -36,6 +36,8 @@ course_4:
   desc: With milk ice cream, pumpkin, and sunflower seed
 - title: soufflÉ
   desc: Orange Curaçao, crème anglaise
+- title: Peach & Riesling
+  desc: Peach caramel, yogurt sorbet, and Szechuan peppercorn
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"

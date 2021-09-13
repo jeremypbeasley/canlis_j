@@ -27,14 +27,12 @@ wine_staff:
 lounge_title: The Lounge
 lounge_photo_1: "/uploads/lounge2.jpg"
 lounge_photo_2: "/uploads/bar_1.jpg"
-lounge_body: In 1949, Seattle lifted its ban on restaurants offering liquor and issued
-  Canlis the first license to sell.  With a live piano nightly and the best barman
-  in town, a new era of the cocktail was born. Since then, as far as we’re concerned,
-  it’s only gotten better.
-
+lounge_body: |-
+  In 1949, Seattle lifted its ban on restaurants offering liquor and issued Canlis the first license to sell.  With a live piano nightly and the best barman in town, a new era of the cocktail was born. Since then, as far as we’re concerned, it’s only gotten better.
 
   Walk-ins welcome.
 og_desc: One of the best wine lists in the world.
 og_photo: "/uploads/cellar2.jpg"
 layout: wine
 ---
+
