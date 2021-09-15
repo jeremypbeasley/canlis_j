@@ -34,7 +34,8 @@ layout: story_full
 
 <p class="mb5 Display2">We took it, and it was like, “oh no...now what?”</p>
 
-<p class="mb5 Display2">Since then we’ve worked towards one goal: to live out and grow the idea that more often than not, it’s worth putting other people first. We’ve sought to understand what turning towards one another really looks like and in so doing, see if our restaurant would stand the test of time. In truth, there’s not been enough time to know one way or the other. Food & Wine Magazine once called Canlis “one of the 40 most important restaurants in the past 40 years.” We’ve humbly received 22 consecutive Wine Spectator Grand Awards. We’ve been nominated for 15 James Beard Awards and have even won a couple.  </p>
+<p class="mb5 Display2">Since then we’ve worked towards one goal: to live out and grow the idea that more often than not, it’s worth putting other people first. We’ve sought to understand what turning towards one another really looks like and in so doing, see if our restaurant would stand the test of time. It has endured three generations, seven decades, and now a worldwide pandemic. In truth though, there’s not been enough time to know one way or the other. Food & Wine Magazine once called Canlis “one of the 40 most important restaurants in the past 40 years.” We’ve humbly received 22 consecutive Wine Spectator Grand Awards. We’ve been nominated for 15 James Beard Awards and we've won three of them.
+</p>
 
 <p class="mb5 Display2">Once, this guest called and left a message saying I had really nice hands. Here’s the thing, praise comes in all forms. But the voice we trust most is that one inside calling us to love on our neighbors and serve them a really nice meal.</p>
 
