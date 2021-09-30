@@ -9,6 +9,11 @@ layout: default
 <p class="mb0 pb0">Tables become available 6 months in advance and can be made online through Tock. </p>
 <p class="mt3 mb2 pb0"><a class="Button NoLine Caption" href="https://www.exploretock.com/canlis/" target="_blank">Reserve on Tock</a></p>
 
+<div class="Caption mb4 mt4">Dietary Restrictions</div>
+<p class="mb2 pb0">To serve you as safely as we can, we ask that you indicate dietary restrictions when booking your reservation. Please take note: alliums, salt, soy sauce, sugar, and seaweed cannot be removed from the menu at this time. We will try our best to accommodate other allergies but do not modify dishes or recipes during service. </p>
+<p class="mb2 pb0">Set menus for vegetarian, vegan and gluten-free guests are always available. These menus are custom built by our kitchen team nightly and we are unable to share them ahead of time.</p>
+<p class="mb0 pb0">For those with more severe or complex dietary restrictions, please reach out directly to discuss if we can accommodate your needs.</p>
+
 <p class="Caption mt4">Attire</p>
 
 <p class="mb0 pb0">We’re a dressy restaurant. We recommend a suit or sport coat for men, and ask that no short sleeves, shorts, or casual attire of any kind be worn. At Canlis you can’t be overdressed, so go big, look good and have fun with it!</p>
@@ -18,11 +23,6 @@ layout: default
 
 <div class="Caption mb4 mt4">Children</div>
 <p class="mb0 pb0">All ages are welcome in our dining room but we ask that everyone be prepared for a lengthy dining experience. We do not allow tablets or phones to entertain children at the table. We will request devices used in this manner to be turned off. </p>
-
-<div class="Caption mb4 mt4">Dietary Restrictions</div>
-<p class="mb2 pb0">To serve you as safely as we can, we ask that you indicate dietary restrictions when booking your reservation. Please take note: alliums, salt, soy sauce, sugar, and seaweed cannot be removed from the menu at this time. We will try our best to accommodate other allergies but do not modify dishes or recipes during service. </p>
-<p class="mb2 pb0">Set menus for vegetarian, vegan and gluten-free guests are always available. These menus are custom built by our kitchen team nightly and we are unable to share them ahead of time.</p>
-<p class="mb0 pb0">For those with more severe or complex dietary restrictions, please reach out directly to discuss if we can accommodate your needs.</p>
 
 <div class="Caption mb4 mt4">Cancellations</div>
 <p class="mb0 pb0">If you need to cancel a reservation for any reason you may do so forty-eight hours in advance and we will issue a full refund of your deposit. The reservation becomes non-refundable two days prior to your booking.</p>
