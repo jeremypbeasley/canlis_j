@@ -10,7 +10,7 @@ layout: default
 <p class="mt3 mb2 pb0"><a class="Button NoLine Caption" href="https://www.exploretock.com/canlis/" target="_blank">Reserve on Tock</a></p>
 
 <div class="Caption mb4 mt4">Dietary Restrictions</div>
-<p class="mb2 pb0">To serve you as safely as we can, we ask that you indicate dietary restrictions when booking your reservation. Please take note: alliums, salt, soy sauce, sugar, and seaweed cannot be removed from the menu at this time. We will try our best to accommodate other allergies but do not modify dishes or recipes during service. </p>
+<p class="mb2 pb0">To serve you as safely as we can, we ask that you indicate dietary restrictions when booking your reservation. <i>Please take note:</i> alliums, salt, soy sauce, sugar, and seaweed cannot be removed from the menu at this time. We will try our best to accommodate other allergies but do not modify dishes or recipes during service. </p>
 <p class="mb2 pb0">Set menus for vegetarian, vegan and gluten-free guests are always available. These menus are custom built by our kitchen team nightly and we are unable to share them ahead of time.</p>
 <p class="mb0 pb0">For those with more severe or complex dietary restrictions, please reach out directly to discuss if we can accommodate your needs.</p>
 
