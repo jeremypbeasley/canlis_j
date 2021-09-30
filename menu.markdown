@@ -17,14 +17,14 @@ course_2:
 - title: Manila Clams*
   desc: Poached, with spring onion and miso broth
 - title: Shaved Wagyu*
-  desc: With oyster emulsion and purslane
+  desc: With oyster emulsion and ogo powder
 - title: Canlis Salad
   desc: The original with bacon, mint, and lemon
 course_3:
 - title: Salmon*
   desc: Grilled, with miso and bone broth
 - title: Aged Duck*
-  desc: With endive, cherries, and pickled cattail
+  desc: Winter Luxury pumpkin
 - title: Striploin*
   desc: Prime beef with Walla Walla onion and rutabaga
 - title: Maitake
@@ -35,7 +35,7 @@ course_4:
 - title: Smoked Cacao Nougatine
   desc: With milk ice cream, pumpkin, and sunflower seed
 - title: soufflÉ
-  desc: Orange Curaçao, crème anglaise
+  desc: Orange Curaçao and crème anglaise
 - title: Peach & Riesling
   desc: Peach caramel, yogurt sorbet, and Szechuan peppercorn
 plates:
