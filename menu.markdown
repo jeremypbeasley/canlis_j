@@ -23,7 +23,7 @@ course_2:
 course_3:
 - title: Salmon*
   desc: Grilled, with miso and bone broth
-- title: Aged Duck*
+- title: Pork Collar*
   desc: Winter Luxury pumpkin
 - title: Striploin*
   desc: Prime beef with Walla Walla onion and rutabaga
