@@ -1,7 +1,8 @@
 ---
 title: Home
 is_alert_shown: false
-alert_text: 
+intro_video: "/uploads/bgvideo.mp4"
+alert_text:
 alert_color: "#D8D9CD"
 concepts:
 - title: Camp Canlis
@@ -27,4 +28,3 @@ og_desc: Seattle's landmark fine-dining destination for 70 years and recent home
   multi-disciplinary pandemic pivots designed to serve our city.
 layout: home_fall_2021
 ---
-

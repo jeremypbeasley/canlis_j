@@ -13552,20 +13552,7 @@ $(document).ready(function() {
 
   $("#bgvid").fadeTo( 600, 1 );
 
-  var vid = document.getElementById("bgvid");
-  var pauseButton = document.querySelector("#polina button");
-
-  if (window.matchMedia('(prefers-reduced-motion)').matches) {
-      vid.removeAttribute("autoplay");
-      vid.pause();
-      pauseButton.innerHTML = "Paused";
-  }
-
-  function vidFade() {
-    vid.classList.add("stopfade");
-  }
-
-  // SK8R Feature
+  // Jose/Pepe SK8R Feature
 
   function sk8r() {
     $('.sk8r').addClass( "sk8r_starting" );
@@ -13580,7 +13567,7 @@ $(document).ready(function() {
     sk8r();
   });
 
-  // MOBILE NAV
+  // Mobile Nav
 
   $('.GlobalNav.ShowMobile').hide();
 
