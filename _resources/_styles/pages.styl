@@ -48,7 +48,7 @@
 .HomeIntro {
   margin-bottom: -6vw;
   justify-content: center;
-  background-image: url(/uploads/kevin1.jpg);
+  /* background-image: url(/uploads/kevin1.jpg); */
   background-repeat: no-repeat;
   background-size: 360%;
   background-position: 80% center;
@@ -99,7 +99,8 @@
   height: auto;
   z-index: -101;
   transform: translateX(-50%) translateY(-50%);
-  background: #000;
+  background: url(/uploads/exterior.jpg) center center;
+  background-size: cover;
 }
 
 #bgvid {
@@ -110,10 +111,8 @@
   min-height: 100%;
   width: auto;
   height: auto;
-  z-index: -100;
   transform: translateX(-50%) translateY(-50%);
   z-index: -100;
-  transition: 1s opacity;
   background: #131D1F;
   opacity: 0;
 }
@@ -123,6 +122,7 @@
     left: 50%;
   }
 }
+
 .AddressSidebar {
   position: absolute;
   left: 4vw;
