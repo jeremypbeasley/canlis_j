@@ -7,10 +7,16 @@ headline_mobile: Striving to be the <i>best restaurant in America</i> and have a
   good time along the way.
 section1:
   title: Working at Canlis
-  desc: |-
-    We’re honored you are interested in joining our team. To help that process, we recommend you read most of this entire website to figure out what makes us tick. We recommend thinking about how working here will help you become more of who you want to become, not what you want to become. We recommend taking the advice of your mother — whatever it was she said, try to remember — it’s going to help you get a job here.
-
-    To enquire about current employment opportunities, please email Anthea Gundersen at [work@canlis.com](mailto:work@canlis.com).
+  desc: "We’re honored you are interested in joining our team. To help that process,
+    we recommend you read most of this entire website to figure out what makes us
+    tick. We recommend thinking about how working here will help you become more of
+    who you want to become, not what you want to become. We recommend taking the advice
+    of your mother — whatever it was she said, try to remember — it’s going to help
+    you get a job here.\n\nTo enquire about employment opportunities, please email
+    Anthea Gundersen at [work@canlis.com](mailto:work@canlis.com).\n\nRoles we are
+    currently hiring for:<br>\nHost/Reservationist<br>\nBarista<br>\nExpeditor<br>\nChef
+    de Partie<br>\nExecutive Pastry Chef<br> \nBaker<br>\nDining Room Service Team
+    Members<br> "
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place
