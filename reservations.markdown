@@ -19,7 +19,7 @@ layout: default
 <p class="mb0 pb0">We’re a dressy restaurant. We recommend a suit or sport coat for men, and ask that no short sleeves, shorts, hats, or casual attire of any kind be worn. At Canlis you can’t be overdressed, so go big, look good and have fun with it!</p>
 
 <div class="Caption mb4 mt4">Vaccines</div>
-<p class="mb0 pb0">We strongly encourage our guests to be vaccinated but will not require verification until King County’s mandate goes into effect on October 25, 2021. Guests dining on or after this date will be required, upon arrival, to show a photo ID and either proof of full vaccination or proof of negative test in the last 72 hours. Our service staff wear masks and local governance requires guests to wear masks while not eating. We will continue to update this policy as state and local mandates evolve.</p>
+<p class="mb0 pb0">As of October 25th, we require verification per King County’s mandate. Guests are required, upon arrival, to show a photo ID and either proof of full vaccination or proof of negative test in the last 72 hours. Our service staff wear masks and local governance requires guests to wear masks while not eating. We will continue to update this policy as state and local mandates evolve.</p>
 
 <div class="Caption mb4 mt4">Children</div>
 <p class="mb0 pb0">All ages are welcome in our dining room but we ask that everyone be prepared for a lengthy dining experience. We do not allow tablets or phones to entertain children at the table. We will request devices used in this manner to be turned off. </p>

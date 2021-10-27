@@ -4,7 +4,7 @@ date: 2016-11-10 10:09:00 -08:00
 menu_cost: 165
 course_1:
 - title: Halibut*
-  desc: Plum and turnips
+  desc: Plum, daikon, and shiso
 - title: Eggplant Zurita
   desc: Buckwheat, miso, and garlic scape
 - title: Mussels*
@@ -22,13 +22,13 @@ course_2:
   desc: The original with bacon, mint, and lemon
 course_3:
 - title: Salmon*
-  desc: Grilled, with miso and bone broth
-- title: Aged Duck*
-  desc: Winter Luxury pumpkin
+  desc: Savoy cabbage and soy broth
+- title: Pork Collar*
+  desc: Rapini, kasu butter, and Winter Luxury pumpkin
 - title: Striploin*
-  desc: Prime beef with Walla Walla onion and rutabaga
+  desc: 'Crispy negi and celeriac '
 - title: Porcini and King Trumpet
-  desc: Grilled and lightly smoked, with Walla Walla molasses
+  desc: Grilled and lightly smoked, with koshihikari rice
 course_4:
 - title: Hazelnut "Tofu"
   desc: Kiwi berry, ginger, and sorrel
