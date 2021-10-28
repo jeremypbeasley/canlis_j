@@ -25,7 +25,7 @@ layout: default
 <p class="mb0 pb0">All ages are welcome in our dining room but we ask that everyone be prepared for a lengthy dining experience. We do not allow tablets or phones to entertain children at the table. We will request devices used in this manner to be turned off. </p>
 
 <div class="Caption mb4 mt4">Cancellations</div>
-<p class="mb0 pb0">If you need to cancel a reservation for any reason you may do so forty-eight hours in advance and we will issue a full refund of your deposit. The reservation becomes non-refundable two days prior to your booking.</p>
+<p class="mb0 pb0">If you need to cancel a reservation for any reason you may do so forty-eight hours in advance and we will issue a full refund of your deposit. The reservation becomes non-refundable two days prior to your booking. We cannot make exceptions for COVID-19 diagnoses. </p>
 
 <div class="Caption mb4 mt4">Other questions?</div>
 
