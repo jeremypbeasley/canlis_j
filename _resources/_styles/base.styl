@@ -24,6 +24,53 @@ img {
   max-width: 100%;
   // filter: grayscale(100%);
 }
+
+.AlertBarContainer {
+  width: 100%;
+  flex-direction: row;
+  position: fixed;
+  bottom: 6vw;
+  z-index: 9999;
+}
+
+@media laptop {
+  .AlertBarContainer {
+    bottom: 2vw;
+  }
+}
+
+.AlertBar {
+  background: pink;
+  padding: 13px 25px 13px 25px;
+  text-align: center;
+  border-radius: 100px;
+  z-index: 9999999;
+  box-shadow: 2px 10px 12px 0px rgba(0,0,0,0.11);
+  transition: 200ms ease;
+  animation-name: popup;
+  animation-duration: 300ms;
+  animation-timing-function: ease-out;
+  animation-delay: 1s;
+  animation-iteration-count: once;
+  animation-fill-mode: forwards;
+  transform: translateY(100px);
+  opacity: 0;
+  &:hover {
+    transform: translateY(-5px);
+  }
+}
+
+@keyframes popup {
+  0% {
+    transform: translateY(100px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}
+
 .Logo {
   width: 7rem;
   height: 1.5rem;
@@ -135,6 +182,7 @@ img {
 }
 .GlobalNav li, .GlobalNav li a {
   border: 0px;
+  text-decoration: none;
   text-align: right;
   //transition: 200ms all ease-out;
 }
@@ -197,9 +245,12 @@ img {
   z-index: 100;
   width: 10em;
   cursor: pointer;
-}
-.NavHamburger.Open {
-  background-position: bottom center;
+  &.Open {
+    background-position: bottom center;
+  }
+  &.AlertOpen {
+    top: 15vw;
+  }
 }
 @media laptop {
   .NavHamburger {
@@ -216,7 +267,6 @@ img {
 .NavHamburger div span {
   float: right;
   margin-right: -.25em;
-  //border-bottom: 1px solid color-brand-dark;
 }
 .NavHamburger div span:after {
   content: "";
