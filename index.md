@@ -2,15 +2,15 @@
 title: Home
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: Thanksgiving Kits available Monday at Noon 🦃
+alert_text: "Thanksgiving Kits available Monday at Noon \U0001F983"
 alert_link: https://www.exploretock.com/canlis/
 alert_color: "#D8D9CD"
 concepts:
 - title: Camp Canlis
   image: "/uploads/campy.jpg"
-  desc: 'Calling all campers! Cooped up at home? Cabin fever cramping your style?
-    Put a little Spring in your step and get on down to Canlis, where the eatin’ is
-    easy and the livin’ is good.'
+  desc: Calling all campers! Cooped up at home? Cabin fever cramping your style? Put
+    a little Spring in your step and get on down to Canlis, where the eatin’ is easy
+    and the livin’ is good.
   block_link: "/camp"
   buttons:
   - label: Learn more
@@ -29,3 +29,4 @@ og_desc: Seattle's landmark fine-dining destination for 70 years and recent home
   multi-disciplinary pandemic pivots designed to serve our city.
 layout: home_fall_2021
 ---
+
