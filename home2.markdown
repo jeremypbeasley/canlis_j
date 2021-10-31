@@ -1,7 +1,7 @@
 ---
 title: Home
-is_alert_shown: false
-alert_text: testing
+is_alert_shown: true
+alert_text: "\U0001F4E6 Pre-order your Thanksgiving Kit starting Monday at Noon! \U0001F983"
 alert_color: "#D8D9CD"
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
