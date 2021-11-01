@@ -2,15 +2,15 @@
 title: Home
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: Our Thanksgiving kits are available now.  🦃
+alert_text: Our Thanksgiving kits are available now. 🦃
 alert_link: https://www.exploretock.com/canlis/experience/304956/
 alert_color: "#D8D9CD"
 concepts:
 - title: Camp Canlis
   image: "/uploads/campy.jpg"
-  desc: 'Calling all campers! Cooped up at home? Cabin fever cramping your style?
-    Put a little Spring in your step and get on down to Canlis, where the eatin’ is
-    easy and the livin’ is good.'
+  desc: Calling all campers! Cooped up at home? Cabin fever cramping your style? Put
+    a little Spring in your step and get on down to Canlis, where the eatin’ is easy
+    and the livin’ is good.
   block_link: "/camp"
   buttons:
   - label: Learn more
