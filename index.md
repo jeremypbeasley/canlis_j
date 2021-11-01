@@ -2,7 +2,7 @@
 title: Home
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: Our Thanksgiving kits are available now. 🦃
+alert_text: "Our Thanksgiving kits are available now. \U0001F983"
 alert_link: https://www.exploretock.com/canlis/experience/304956/
 alert_color: "#D8D9CD"
 concepts:
@@ -29,3 +29,4 @@ og_desc: Seattle's landmark fine-dining destination for 70 years and recent home
   multi-disciplinary pandemic pivots designed to serve our city.
 layout: home_fall_2021
 ---
+
