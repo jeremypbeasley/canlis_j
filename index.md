@@ -2,8 +2,8 @@
 title: Home
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: Thanksgiving Kits available Monday at Noon 🦃
-alert_link: https://www.exploretock.com/canlis/
+alert_text: Our Thanksgiving kits are available now.  🦃
+alert_link: https://www.exploretock.com/canlis/experience/304956/
 alert_color: "#D8D9CD"
 concepts:
 - title: Camp Canlis
