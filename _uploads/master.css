@@ -1939,6 +1939,10 @@ img {
   position: fixed;
   bottom: 6vw;
   z-index: 9999;
+  transition: 200ms ease;
+}
+.AlertBarContainer:hover {
+  transform: translateY(-5px);
 }
 @media (min-width: 62em) {
   .AlertBarContainer {
@@ -1961,9 +1965,6 @@ img {
   animation-fill-mode: forwards;
   transform: translateY(100px);
   opacity: 0;
-}
-.AlertBar:hover {
-  transform: translateY(-5px);
 }
 .Logo {
   width: 7rem;
