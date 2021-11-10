@@ -30,14 +30,14 @@ course_3:
 - title: Porcini and King Trumpet
   desc: Grilled and lightly smoked, with koshihikari rice
 course_4:
-- title: Warm Apple Cake
-  desc: Madrona bark, kombu ice cream, and our barrel-aged rye
 - title: Smoked Cacao Nougatine
   desc: Milk ice cream, pumpkin, and sunflower seed
 - title: soufflÉ
   desc: Orange Curaçao and crème anglaise
 - title: Peach & Riesling
   desc: Peach caramel, yogurt sorbet, and Szechuan peppercorn
+- title: Warm Apple Cake
+  desc: Madrona bark, kombu ice cream, and our barrel-aged rye
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"

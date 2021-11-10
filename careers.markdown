@@ -14,9 +14,8 @@ section1:
     of your mother — whatever it was she said, try to remember — it’s going to help
     you get a job here.\n\nTo enquire about employment opportunities, please email
     Anthea Gundersen at [work@canlis.com](mailto:work@canlis.com).\n\nRoles we are
-    currently hiring for:<br>\nHost/Reservationist<br>\nBarista<br>\nExpeditor<br>\nChef
-    de Partie<br>\nExecutive Pastry Chef<br> \nBaker<br>\nDining Room Service Team
-    Members<br> "
+    currently hiring for:<br>\nChef de Partie<br>\nBaker<br>\nDining Room Service
+    Team Members<br> "
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place
