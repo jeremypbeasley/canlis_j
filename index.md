@@ -2,9 +2,9 @@
 title: Home
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: "Our Thanksgiving kits are available now. \U0001F983"
+alert_text: "Thanksgiving Dinner At Home, now available \U0001F983"
 alert_link: https://www.exploretock.com/canlis/experience/304956/
-alert_color: "#D8D9CD"
+alert_color: "#FFB81C"
 concepts:
 - title: Camp Canlis
   image: "/uploads/campy.jpg"
