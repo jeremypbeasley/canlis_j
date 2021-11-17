@@ -4,10 +4,4 @@ date: 2020-11-24 16:56:00 -08:00
 layout: default
 ---
 
-Click <a href="https://youtu.be/RhzFSeV5XQI">here</a> to watch How To Cook A Turkey or you'll be redirected shortly.  
-
-<script>
-
-window.location = "https://youtu.be/RhzFSeV5XQI";
-
-</script>
+New video tutorial coming soon. Video will post here at Noon on Tuesday, November 23rd. 

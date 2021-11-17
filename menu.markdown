@@ -27,8 +27,8 @@ course_3:
   desc: Rapini, kasu butter, and Winter Luxury pumpkin
 - title: Striploin*
   desc: 'Crispy negi and celeriac '
-- title: Porcini and King Trumpet
-  desc: Grilled and lightly smoked, with koshihikari rice
+- title: Chanterelle and King Trumpet
+  desc: Roasted and lightly smoked, with koshihikari rice
 course_4:
 - title: Smoked Cacao Nougatine
   desc: Milk ice cream, pumpkin, and sunflower seed
