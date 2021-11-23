@@ -7,3 +7,8 @@ layout: default
 <p class="mt3 mb2 pb0"><a class="Button NoLine Caption" href="https://www.youtube.com/watch?v=bdRa4RmDICw&ab_channel=CanlisRestaurant" target="_blank">Watch on Youtube</a></p>
 
 
+<script>
+
+window.location = "https://www.youtube.com/watch?v=bdRa4RmDICw&ab_channel=CanlisRestaurant";
+
+</script>
