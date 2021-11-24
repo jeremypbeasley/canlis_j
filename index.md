@@ -2,8 +2,8 @@
 title: Home
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: "Thanksgiving Dinner At Home, now available \U0001F983"
-alert_link: https://www.exploretock.com/canlis/experience/304956/
+alert_text: "Learn how to cook a turkey with Brian and Aisha \U0001F3A5"
+alert_link: "/turkey"
 alert_color: "#FFB81C"
 concepts:
 - title: Camp Canlis
