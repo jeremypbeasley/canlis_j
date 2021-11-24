@@ -20,11 +20,11 @@ layout: default
 
 <h1 class="Display2 mb2">Make your own brine sachet</h1>
 
-<p class="mb5">No kit required! Use your own turkey, make your own sachet at home, and follow along with the instructions and video above.</p>
+<p class="mb2">No kit required! Use your own turkey, make your own sachet at home, and follow along with the instructions and video above.</p>
 
-<p class="mb5">Place the following ingredients into a large tea bag, tie and secure tightly. Follow the kit instructions above. </p>
+<p class="mb2">Place the following ingredients into a large tea bag, tie and secure tightly. Follow the kit instructions above. </p>
 
-<p class="mb5">
+<p class="mb2">
 1 ¼ cups Salt (280g)<br>
 1 cup Sugar (200g)<br>
 6 tbsp. Rosemary (10g)<br>
