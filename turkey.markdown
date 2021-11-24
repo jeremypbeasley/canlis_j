@@ -18,7 +18,7 @@ layout: default
 
 <div class="Divider mb10"></div>
 
-<h1 class="Display2 mb2">Make your own brine sachet</h1>
+<h1 class="Display2 mb6">Make your own brine sachet</h1>
 
 <p class="mb2">No kit required! Use your own turkey, make your own sachet at home, and follow along with the instructions and video above.</p>
 
