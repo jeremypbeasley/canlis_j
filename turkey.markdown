@@ -1,6 +1,7 @@
 ---
 title: How To Cook A Turkey
 date: 2020-11-24 16:56:00 -08:00
+og_image: "/uploads/turk.jpg"
 layout: default
 ---
 
