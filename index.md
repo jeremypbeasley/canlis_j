@@ -1,6 +1,6 @@
 ---
 title: Home
-is_alert_shown: true
+is_alert_shown: false
 intro_video: "/uploads/bgvideo.mp4"
 alert_text: "Learn how to cook a turkey with Brian and Aisha \U0001F3A5"
 alert_link: "/turkey"
