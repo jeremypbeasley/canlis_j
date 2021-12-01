@@ -1,5 +1,6 @@
 ---
 title: The Last Dance Party Of The Decade
+layout: events
 date: 2018-07-28 19:17:00 -07:00
 image: "/uploads/jihan.jpg"
 event_time: Dec 31 2O19
