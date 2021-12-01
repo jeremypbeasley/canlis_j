@@ -1,7 +1,7 @@
 ---
 title: Space Prom
+date: 2021-12-31 18:17:00 -08:00
 layout: events
-date: 2021-12-31 19:17:00 -07:00
 image: "/uploads/dave.jpg"
 event_time: Dec 31st, 2021
 rsvp_button:
