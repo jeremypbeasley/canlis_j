@@ -1,13 +1,14 @@
 ---
 title: Space Prom
 date: 2021-12-31 18:17:00 -08:00
-layout: events
 image: "/uploads/dave.jpg"
 event_time: Dec 31st, 2021
 rsvp_button:
   has_button: false
   url: https://www.exploretock.com/canlis
   button_label: Get Tickets
+og_photo: "/uploads/dave.jpg"
+layout: events
 ---
 
 <hr class="mb3 mt0">
