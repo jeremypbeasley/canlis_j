@@ -3,8 +3,8 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 165
 course_1:
-- title: Halibut*
-  desc: Plum, daikon, and shiso
+- title: Kanpachi*
+  desc: Huckleberry, daikon, and shiso
 - title: Eggplant Zurita
   desc: Buckwheat, miso, and garlic scape
 - title: Mussels*
@@ -23,8 +23,8 @@ course_2:
 course_3:
 - title: Salmon*
   desc: Savoy cabbage and soy broth
-- title: Pork Collar*
-  desc: Rapini, kasu butter, and Winter Luxury pumpkin
+- title: Duck*
+  desc: Kale, kasu butter, and Winter Luxury pumpkin
 - title: Striploin*
   desc: 'Crispy negi and celeriac '
 - title: Chanterelle and King Trumpet
@@ -34,8 +34,8 @@ course_4:
   desc: Milk ice cream, pumpkin, and sunflower seed
 - title: soufflÉ
   desc: Orange Curaçao and crème anglaise
-- title: Peach & Riesling
-  desc: Peach caramel, yogurt sorbet, and Szechuan peppercorn
+- title: Pear & Riesling
+  desc: Reserved peach caramel, yogurt sorbet, and Szechuan peppercorn
 - title: Warm Apple Cake
   desc: Madrona bark, kombu ice cream, and our barrel-aged rye
 plates:

@@ -14,11 +14,11 @@ wine_body_col2: "The wine program at Canlis is founded on a team of educated win
   for which Canlis is famous. There is also one very juicy wine list. We look forward
   to sharing the world of wine with you. \n\nWe invite you to download the list and
   enjoy a good read, or skip it all together and let us do the work of finding the
-  right wine for your evening"
+  right wine for your evening\n\nCorkage Policy: We happily open up to two bottles
+  for $10 per person, per 750ml bottle. We ask that whatever you choose to bring in,
+  that it is not something already on our wine list."
 wine_staff:
 - name: Linda Milagros Violago
-  title: Wine
-- name: Elton Nichols
   title: Wine
 - name: James MacWilliams
   title: Spirits
