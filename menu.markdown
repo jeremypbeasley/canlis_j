@@ -5,8 +5,8 @@ menu_cost: 165
 course_1:
 - title: Kanpachi*
   desc: Huckleberry, daikon, and shiso
-- title: Eggplant Zurita
-  desc: Buckwheat, miso, and garlic scape
+- title: Bitter Green Salad
+  desc: Blood orange and weathervane scallop
 - title: Mussels*
   desc: Poached and chilled, with kohlrabi and brassicas
 - title: Dungeness Crab Salad*
@@ -21,8 +21,8 @@ course_2:
 - title: Canlis Salad
   desc: The original with bacon, mint, and lemon
 course_3:
-- title: Salmon*
-  desc: Savoy cabbage and soy broth
+- title: Sea Bream*
+  desc: Savoy cabbage and koji butter sauce
 - title: Duck*
   desc: Kale, kasu butter, and Winter Luxury pumpkin
 - title: Striploin*
@@ -32,8 +32,6 @@ course_3:
 course_4:
 - title: Smoked Cacao Nougatine
   desc: Milk ice cream, pumpkin, and sunflower seed
-- title: soufflÉ
-  desc: Orange Curaçao and crème anglaise
 - title: Pear & Riesling
   desc: Reserved peach caramel, yogurt sorbet, and Szechuan peppercorn
 - title: Warm Apple Cake
