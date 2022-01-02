@@ -1,6 +1,7 @@
 ---
 title: Photo Booth
 date: 2020-03-13 16:19:00 -07:00
+og_photo: "/uploads/A2.jpg"
 layout: default
 ---
 
