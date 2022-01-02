@@ -2,6 +2,7 @@
 title: Photo Booth
 date: 2020-03-13 16:19:00 -07:00
 og_photo: "/uploads/A2.jpg"
+og_desc: "New Year's Eve Staff Party, 2021 \U0001F919"
 layout: default
 ---
 
