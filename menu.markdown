@@ -5,8 +5,6 @@ menu_cost: 165
 course_1:
 - title: Kanpachi*
   desc: Huckleberry, daikon, and shiso
-- title: Bitter Green Salad
-  desc: Blood orange and weathervane scallop
 - title: Mussels*
   desc: Poached and chilled, with kohlrabi and brassicas
 - title: Dungeness Crab Salad*
@@ -18,8 +16,6 @@ course_2:
   desc: Poached, with spring onion and miso broth
 - title: Shaved Wagyu*
   desc: Oyster emulsion and ogo powder
-- title: Canlis Salad
-  desc: The original with bacon, mint, and lemon
 course_3:
 - title: Sea Bream*
   desc: Savoy cabbage and koji butter sauce
@@ -27,7 +23,7 @@ course_3:
   desc: Kale, kasu butter, and Winter Luxury pumpkin
 - title: Striploin*
   desc: 'Crispy negi and celeriac '
-- title: Chanterelle and King Trumpet
+- title: Maitake and King Trumpet
   desc: Roasted and lightly smoked, with koshihikari rice
 course_4:
 - title: Smoked Cacao Nougatine

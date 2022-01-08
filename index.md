@@ -1,8 +1,8 @@
 ---
 title: Home
-is_alert_shown: false
+is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: "Learn how to cook a turkey with Brian and Aisha \U0001F3A5"
+alert_text: 'Out of an abundance of caution, we will be closed this Friday and Saturday. '
 alert_link: "/turkey"
 alert_color: "#FFB81C"
 concepts:
