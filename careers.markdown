@@ -10,13 +10,14 @@ section1:
   desc: |-
     We’re honored you are interested in joining our team. To help that process, we recommend you read most of this entire website to figure out what makes us tick. We recommend thinking about how working here will help you become more of who you want to become, not what you want to become. We recommend taking the advice of your mother — whatever it was she said, try to remember — it’s going to help you get a job here.
 
-    To enquire about employment opportunities, please email Anthea Gundersen at [work@canlis.com](mailto:work@canlis.com).
+    To apply, please send a resume and cover letter to Anthea Gundersen at [work@canlis.com](mailto:work@canlis.com).
 
     Roles we are currently hiring for:<br>
+    Dining Room Manager <br>
     Line Cooks<br>
     AM Prep Cooks<br>
     Private Dining Cooks<br>
-    Barista<br>
+    Dining Room Service Team<br>
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place
