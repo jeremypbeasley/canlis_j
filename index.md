@@ -4,7 +4,7 @@ is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
 alert_text: 'Out of an abundance of caution, we will be closed this Friday and Saturday. '
 alert_link: "/turkey"
-alert_color: "#FFB81C"
+alert_color: "#ebddbf"
 concepts:
 - title: Camp Canlis
   image: "/uploads/campy.jpg"
