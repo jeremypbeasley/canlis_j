@@ -1,6 +1,6 @@
 ---
 title: Home
-is_alert_shown: true
+is_alert_shown: false
 intro_video: "/uploads/bgvideo.mp4"
 alert_text: Out of an abundance of caution, we will be closed this Friday and Saturday.
   We hope to see you next week.
