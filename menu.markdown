@@ -1,37 +1,28 @@
 ---
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
-menu_cost: 165
+menu_cost: 185
+menu_description: "We are currently serving an eight course tasting menu. If you prefer to experience our four course menu, we suggest making a reservation sometime after March 1st."
+menu_date: "January 19th, 2022"
 course_1:
-- title: Kanpachi*
-  desc: Huckleberry, daikon, and shiso
-- title: Mussels*
-  desc: Poached and chilled, with kohlrabi and brassicas
-- title: Dungeness Crab Salad*
-  desc: Cucumber and amazake
-course_2:
-- title: Sablefish*
-  desc: Grilled, with matsutake mushroom
-- title: Manila Clams*
-  desc: Poached, with spring onion and miso broth
-- title: Shaved Wagyu*
-  desc: Oyster emulsion and ogo powder
-course_3:
-- title: Sea Bream*
-  desc: Savoy cabbage and koji butter sauce
-- title: Duck*
-  desc: Kale, kasu butter, and Winter Luxury pumpkin
-- title: Striploin*
-  desc: 'Crispy negi and celeriac '
-- title: Maitake and King Trumpet
-  desc: Roasted and lightly smoked, with koshihikari rice
-course_4:
+- title: Kanpachi
+  desc: Kohlrabi, Shiso
+- title: Chawanmushi
+  desc: Smoked Maitake and Lion'S Mane Mushroom
+- title: Canlis Salad
+  desc: The Original. Bacon, Mint, Lemon
+- title: Soy Custard
+  desc: Uni, Ikura, Dungeness Crab, Plum Consommé
+- title: Sea Bream
+  desc: Chanterelle, Geoduck, Ginger
+- title: Duck
+  desc: Bitter Chicory, Celeriac, Blood Orange
+- title: Dry Aged Striploin or Gold Select American Wagyu +38
+  desc: Walla Walla Onion, Kasu Butter, Onion Broth
+- title: Pear
+  desc: Riesling, Yogurt Sorbet, Szechuan Pepper
 - title: Smoked Cacao Nougatine
-  desc: Milk ice cream, pumpkin, and sunflower seed
-- title: Pear & Riesling
-  desc: Reserved peach caramel, yogurt sorbet, and Szechuan peppercorn
-- title: Warm Apple Cake
-  desc: Madrona bark, kombu ice cream, and our barrel-aged rye
+  desc: Milk Ice Cream
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
@@ -43,4 +34,3 @@ plates:
   plate8: "/uploads/plate_lamb.png"
 layout: menu
 ---
-
