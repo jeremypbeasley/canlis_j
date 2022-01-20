@@ -3547,9 +3547,6 @@ footer a {
   margin-bottom: -12vw;
   align-items: center;
 }
-.MenuIntro h1 {
-  align-self: center;
-}
 @media (min-width: 62em) {
   .MenuIntro {
     min-height: 90vh;
