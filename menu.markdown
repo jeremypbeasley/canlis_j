@@ -2,8 +2,10 @@
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
 menu_cost: 185
-menu_description: "We are currently serving an eight course tasting menu. If you prefer to experience our four course menu, we suggest making a reservation sometime after March 1st."
-menu_date: "January 19th, 2022"
+menu_description: We are currently serving an eight course tasting menu. If you prefer
+  to experience our four course menu, we suggest making a reservation sometime after
+  March 1st.
+menu_date: January 19th, 2022
 course_1:
 - title: Kanpachi
   desc: Kohlrabi, Shiso
@@ -34,3 +36,4 @@ plates:
   plate8: "/uploads/plate_lamb.png"
 layout: menu
 ---
+
