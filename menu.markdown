@@ -5,16 +5,15 @@ menu_cost: 185
 menu_description: We are currently serving an eight course tasting menu. If you prefer
   to experience our four course menu, we suggest making a reservation sometime after
   March 1st.
-menu_date: January 19th, 2022
 course_1:
 - title: Kanpachi
   desc: Kohlrabi, Shiso
 - title: Chawanmushi
-  desc: Smoked Maitake and Lion'S Mane Mushroom
+  desc: Smoked Maitake and Lion's Mane Mushroom
 - title: Canlis Salad
   desc: The Original. Bacon, Mint, Lemon
 - title: Soy Custard
-  desc: Uni, Ikura, Dungeness Crab, Plum Consommé
+  desc: Ikura, Dungeness Crab, Plum Consommé
 - title: Sea Bream
   desc: Chanterelle, Geoduck, Ginger
 - title: Duck
@@ -34,6 +33,7 @@ plates:
   plate6: "/uploads/plate_cherry.jpg"
   plate7: "/uploads/plate_oyster.png"
   plate8: "/uploads/plate_lamb.png"
+menu_date: 2022-01-01 00:00:00 -08:00
 layout: menu
 ---
 
