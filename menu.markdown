@@ -33,7 +33,7 @@ plates:
   plate6: "/uploads/plate_cherry.jpg"
   plate7: "/uploads/plate_oyster.png"
   plate8: "/uploads/plate_lamb.png"
-menu_date: "“—“"
+menu_date: "—"
 layout: menu
 ---
 
