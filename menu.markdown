@@ -33,7 +33,7 @@ plates:
   plate6: "/uploads/plate_cherry.jpg"
   plate7: "/uploads/plate_oyster.png"
   plate8: "/uploads/plate_lamb.png"
-menu_date: 2022-01-01 00:00:00 -08:00
+menu_date: 2022-01-18 16:00:00 -08:00
 layout: menu
 ---
 
