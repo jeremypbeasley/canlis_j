@@ -14,11 +14,11 @@ course_1:
   desc: grilled nori, meyer lemon, kale
 course_2:
 - title: Sea Bream
-  desc: chantrelles, ginger
+  desc: chanterelles, ginger
 - title: Striploin
   desc: Walla Walla onions, mochi
 - title: Pumpkin
-  desc: Koshihikari rice, pumpkin consommé, pickles
+  desc: Koshihikari rice, pumpkin broth, pickles
 course_3:
 - title: Smoked Cacao
   desc: nougatine, milk ice cream
