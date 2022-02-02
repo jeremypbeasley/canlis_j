@@ -3577,13 +3577,6 @@ footer a {
   width: 100%;
 }
 @media (min-width: 62em) {
-  .MenuSample {
-    width: calc(50% - 10vw);
-    margin: 5vw 5vw 0 5vw;
-/* background: pink; */
-  }
-}
-@media (min-width: 62em) {
   .WineHeadline {
     margin-top: 18vh;
     margin-bottom: 5vw;

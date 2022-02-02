@@ -1,29 +1,29 @@
 ---
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
-menu_cost: 185
-menu_description: We are currently serving an eight course tasting menu. If you prefer
-  to experience our four course menu, we suggest making a reservation sometime after
-  March 1st.
+menu_cost: 165
+menu_description: We're serving a multi-course dining experience where you choose three of the courses (and we like to surprise you with several others).
 course_1:
-- title: Kanpachi
-  desc: Kohlrabi, Shiso
-- title: Chawanmushi
-  desc: Smoked Maitake and Lion's Mane Mushroom
-- title: Canlis Salad
-  desc: The Original. Bacon, Mint, Lemon
-- title: Soy Custard
-  desc: Ikura, Dungeness Crab, Plum Consommé
-- title: Sea Bream
-  desc: Chanterelle, Geoduck, Ginger
+- title: Sablefish
+  desc: dashi, geoduck, wild onion
 - title: Duck
-  desc: Bitter Chicory, Celeriac, Blood Orange
-- title: Dry Aged Striploin or Gold Select American Wagyu +38
-  desc: Walla Walla Onion, Kasu Butter, Onion Broth
-- title: Pear
-  desc: Riesling, Yogurt Sorbet, Szechuan Pepper
-- title: Smoked Cacao Nougatine
-  desc: Milk Ice Cream
+  desc: bitter chicory, celeriac, blood orange
+- title: Sunchoke
+  desc: grilled nori, meyer lemon, kale
+course_2:
+- title: Sea Bream
+  desc: chantrelles, ginger
+- title: Striploin
+  desc: Walla Walla onions, mochi
+- title: Pumpkin
+  desc: Koshihikari rice, pumpkin consommé, pickles
+course_3:
+- title: Smoked Cacao
+  desc: nougatine, milk ice cream
+- title: Dark Chocolate Sorbet
+  desc: hazlenut, sea salt
+- title: Apple
+  desc: rye, kombu ice cream
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
@@ -36,4 +36,3 @@ plates:
 menu_date: "—"
 layout: menu
 ---
-
