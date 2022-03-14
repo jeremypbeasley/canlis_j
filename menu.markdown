@@ -11,12 +11,12 @@ course_1:
 - title: Duck
   desc: bitter chicory, celeriac, blood orange
 - title: Sunchoke
-  desc: grilled nori, meyer lemon, kale
+  desc: grilled nori, meyer lemon, wild leek
 course_2:
 - title: Sea Bream
-  desc: chanterelles, ginger
+  desc: Yellowfoot chanterelles, ginger
 - title: Striploin
-  desc: Walla Walla onions, mochi
+  desc: Walla Walla onions, wild rice
 - title: Pumpkin
   desc: Koshihikari rice, pumpkin broth, pickles
 course_3:
