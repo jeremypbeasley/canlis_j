@@ -19,7 +19,7 @@ layout: default
 
 <p class="Caption mt4">Attire</p>
 
-<p class="mb0 pb0">We’re a dressy restaurant. We recommend a suit or sport coat for men, and ask that no short sleeves, shorts, hats, or casual attire of any kind be worn. At Canlis you can’t be overdressed, so go big, look good and have fun with it!</p>
+<p class="mb0 pb0">We’re a very dressy restaurant. We recommend a suit or sport coat for men, and ask that no short sleeves, shorts, hats, or casual attire of any kind be worn. At Canlis you can’t be overdressed, so go big, look good and have fun with it!</p>
 
 <div class="Caption mb4 mt4">Vaccines</div>
 <p class="mb0 pb0">As of March 1st, we will no longer be requiring proof of vaccination. Our service staff wears masks and local governance requires guests to wear masks while not eating. We will continue to update this policy as state and local mandates evolve.</p>
