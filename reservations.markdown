@@ -25,7 +25,7 @@ layout: default
 <p class="mb0 pb0">As of March 1st, we will no longer be requiring proof of vaccination. Our service staff wears masks and local governance requires guests to wear masks while not eating. We will continue to update this policy as state and local mandates evolve.</p>
 
 <div class="Caption mb4 mt4">Children</div>
-<p class="mb0 pb0">All ages are welcome in our dining room but we ask that everyone be prepared for a lengthy dining experience. We do not allow tablets or phones to entertain children at the table. We will request devices used in this manner to be turned off. </p>
+<p class="mb0 pb0">All ages are welcome in our dining room but we ask that children be prepared for a lengthy dining experience. Children prone to draw attention to themselves should stay home. We do not allow tablets or phones to entertain children at the table and we will request devices used in this manner to be turned off. Dining as a family is a part of the fabric of this place, but it is an art best practiced long before your reservation. For the communal sake of our dining room please choose wisely. </p>
 
 <div class="Caption mb4 mt4">Cancellations</div>
 <p class="mb0 pb0">If you need to cancel a reservation for any reason you may do so forty-eight hours in advance and we will issue a full refund of your deposit. The reservation becomes non-refundable two days prior to your booking. We cannot make exceptions for COVID-19 diagnoses. </p>
