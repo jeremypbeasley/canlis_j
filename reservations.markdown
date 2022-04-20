@@ -22,13 +22,13 @@ layout: default
 <p class="mb0 pb0">We’re a very dressy restaurant. We recommend a suit or sport coat for men, and ask that no short sleeves, shorts, hats, or casual attire of any kind be worn. At Canlis you can’t be overdressed, so go big, look good and have fun with it!</p>
 
 <div class="Caption mb4 mt4">Vaccines</div>
-<p class="mb0 pb0">As of March 1st, we will no longer be requiring proof of vaccination. Our service staff wears masks and local governance requires guests to wear masks while not eating. We will continue to update this policy as state and local mandates evolve.</p>
+<p class="mb0 pb0">As of March 1st, we will no longer be requiring proof of vaccination/negative COVID-19 test. Our restaurant is following the local governance, and no longer requires guests or our staff to be masked. We will continue to update this policy as state and local mandates evolve.</p>
 
 <div class="Caption mb4 mt4">Children</div>
 <p class="mb0 pb0">All ages are welcome in our dining room but we ask that children be prepared for a lengthy dining experience. Children prone to draw attention to themselves should stay home. We do not allow tablets or phones to entertain children at the table and we will request devices used in this manner to be turned off. Dining as a family is a part of the fabric of this place, but it is an art best practiced long before your reservation. For the communal sake of our dining room please choose wisely. </p>
 
 <div class="Caption mb4 mt4">Cancellations</div>
-<p class="mb0 pb0">If you need to cancel a reservation for any reason you may do so forty-eight hours in advance and we will issue a full refund of your deposit. The reservation becomes non-refundable two days prior to your booking. We cannot make exceptions for COVID-19 diagnoses. </p>
+<p class="mb0 pb0">If you need to cancel a reservation for any reason you may do so forty-eight hours in advance and we will issue a full refund of your deposit. The reservation becomes non-refundable two days prior to your booking. Reservations changing to a smaller party size do not receive a refunded deposit. To recoup the deposit for a reservation decreasing in size you may cancel the reservation outside the 48-hour window and rebook a smaller table if one is available.  </p>
 
 <div class="Caption mb4 mt4">Other questions?</div>
 
