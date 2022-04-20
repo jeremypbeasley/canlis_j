@@ -7,14 +7,14 @@ menu_description: We're serving a multi-course dining experience where you choos
   three of the courses (and we like to surprise you with several others).
 course_1:
 - title: Sablefish
-  desc: dashi, geoduck, wild onion
+  desc: dashi, abalone, daikon
 - title: Duck
   desc: bitter chicory, celeriac, blood orange
 - title: Sunchoke
   desc: grilled nori, meyer lemon, wild leek
 course_2:
 - title: Sea Bream
-  desc: Yellowfoot chanterelles, ginger
+  desc: parsnip, ginger
 - title: Striploin
   desc: Walla Walla onions, wild rice
 - title: Pumpkin

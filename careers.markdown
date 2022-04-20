@@ -13,10 +13,9 @@ section1:
     To apply, please send a resume and cover letter to Anthea Gundersen at [work@canlis.com](mailto:work@canlis.com).
 
     Roles we are currently hiring for:<br>
-    Dining Room Manager <br>
+    Executive Assistant and Director of Special Projects<br>
     Line Cooks<br>
-    AM Prep Cooks<br>
-    Private Dining Cooks<br>
+    Pastry Cooks<br>
     Dining Room Service Team<br>
     Valet<br>
 section2:
