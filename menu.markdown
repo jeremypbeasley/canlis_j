@@ -6,24 +6,24 @@ menu_cost: 165
 menu_description: We're serving a multi-course dining experience where you choose
   three of the courses (and we like to surprise you with several others).
 course_1:
-- title: Sablefish
-  desc: dashi, abalone, daikon
+- title: Halibut
+  desc: dashi, goeduck, turnip
 - title: Duck
-  desc: bitter chicory, celeriac, blood orange
+  desc: green garlic, spinach, fermented berries
 - title: Sunchoke
-  desc: grilled nori, meyer lemon, wild leek
+  desc: roasted koji, Meyer lemon, wild leek
 course_2:
 - title: Sea Bream
-  desc: parsnip, ginger
+  desc: parsnip, ginger, caviar
 - title: Striploin
   desc: Walla Walla onions, wild rice
-- title: Pumpkin
-  desc: Koshihikari rice, pumpkin broth, pickles
+- title: Morel Mushroom
+  desc: Koshihikari rice, mushroom broth, pickles
 course_3:
 - title: Smoked Cacao
   desc: nougatine, milk ice cream
 - title: Dark Chocolate Sorbet
-  desc: hazlenut, sea salt
+  desc: koji, spruce tips
 - title: Apple
   desc: rye, kombu ice cream
 plates:
