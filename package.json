@@ -16,7 +16,7 @@
     "grunt-contrib-watch": "^1.1.0",
     "grunt-exec": "^1.0.1",
     "jquery": "^3.3.1",
-    "jquery-validation": "^1.15.0",
+    "jquery-validation": "^1.19.4",
     "normalize-css": "latest",
     "slick-carousel": "latest",
     "smoothstate": "latest",
