@@ -9,7 +9,7 @@ course_1:
 - title: Halibut
   desc: dashi, goeduck, turnip
 - title: Duck
-  desc: green garlic, spinach, fermented berries
+  desc: green garlic, bok choi, fermented berries
 - title: Sunchoke
   desc: roasted koji, Meyer lemon, wild leek
 course_2:
@@ -24,8 +24,6 @@ course_3:
   desc: nougatine, milk ice cream
 - title: Dark Chocolate Sorbet
   desc: koji, spruce tips
-- title: Apple
-  desc: rye, kombu ice cream
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"

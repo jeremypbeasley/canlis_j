@@ -16,7 +16,8 @@ section1:
     Line Cooks<br>
     Pastry Cooks<br>
     Dining Room Service Team<br>
-    Valet<br>
+    Barista<br>
+    Host<br>
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place
