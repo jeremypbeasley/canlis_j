@@ -14,10 +14,10 @@ section1:
 
     Roles we are currently hiring for:<br>
     Line Cooks<br>
-    Pastry Cooks<br>
+    AM Prep Cooks<br>
+    Private Event Cooks<br>
+    Host/Hostess<br>
     Dining Room Service Team<br>
-    Barista<br>
-    Host<br>
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place
@@ -29,10 +29,10 @@ section2:
     have this. It is a requirement for employment.
 section3:
   title: Pay & Benefits
-  desc: Pay starts at $20/hr. We offer medical/dental/vision healthcare (cost covered
-    50% by employer) and a really legit 401k and profit sharing program. We eat like
-    royalty, don’t work Sundays or major holidays, and celebrate taking time off.
-    Oh, and we’ll never serve brunch.
+  desc: Pay starts at a minimum of $21/hr. We offer medical/dental/vision healthcare
+    (cost covered 50% by employer) and a really legit 401k and profit sharing program.
+    We eat like royalty, don’t work Sundays or major holidays, and celebrate taking
+    time off. Oh, and we’ll never serve brunch.
 section4:
   title: Our Mission
   desc: To inspire all people to turn toward one another.
