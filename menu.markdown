@@ -7,23 +7,25 @@ menu_description: We're serving a multi-course dining experience where you choos
   three of the courses (and we like to surprise you with several others).
 course_1:
 - title: Halibut
-  desc: dashi, goeduck, turnip
-- title: Duck
-  desc: green garlic, bok choi, fermented berries
-- title: Sunchoke
-  desc: roasted koji, Meyer lemon, wild leek
+  desc: dashi, goeduck, matsutake
+- title: Pork
+  desc: walnut, plum, buckwheat
+- title: Eggplant Zurita
+  desc: caviar, oyster, ogo
 course_2:
-- title: Sea Bream
-  desc: parsnip, ginger, caviar
+- title: Salmon
+  desc: parsnip, ginger
 - title: Striploin
   desc: Walla Walla onions, wild rice
-- title: Morel Mushroom
+- title: Maitake and King Trumpet
   desc: Koshihikari rice, mushroom broth, pickles
 course_3:
 - title: Smoked Cacao
   desc: nougatine, milk ice cream
 - title: Dark Chocolate Sorbet
   desc: koji, spruce tips
+- title: Apulum Garden
+  desc: grapes, roasted barley ice cream, toffee
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
