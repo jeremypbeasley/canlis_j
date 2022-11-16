@@ -16,7 +16,8 @@ section1:
     Line Cooks<br>
     AM Prep Cooks<br>
     Private Event Cooks<br>
-    Host/Hostess<br>
+    Dishwashers<br>
+    Valet<br>
     Dining Room Service Team<br>
 section2:
   title: You Matter

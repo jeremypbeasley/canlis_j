@@ -17,8 +17,8 @@ course_2:
   desc: parsnip, ginger
 - title: Striploin
   desc: Walla Walla onions, wild rice
-- title: Maitake and King Trumpet
-  desc: Koshihikari rice, mushroom broth, pickles
+- title: Hen of the Woods
+  desc: oat, chestnut porridge
 course_3:
 - title: Smoked Cacao
   desc: nougatine, milk ice cream
