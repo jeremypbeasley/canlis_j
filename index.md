@@ -2,9 +2,8 @@
 title: Home
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: Tickets for Space Prom go on sale at Noon PST. <a href="https://www.exploretock.com/canlis"
-  target="_blank">Buy on Tock</a>
-alert_link: https://www.exploretock.com/canlis
+alert_text: Sorry, tickets for Space Prom are sold out.
+alert_link: 
 alert_color: "#F7941C"
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
