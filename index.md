@@ -1,11 +1,11 @@
 ---
 title: Home
-is_alert_shown: false
+is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: Out of an abundance of caution, we will be closed this Friday and Saturday.
-  We hope to see you next week.
-alert_link: "/turkey"
-alert_color: "#ebddbf"
+alert_text: Tickets for Space Prom go on sale at Noon PST. <a href="https://www.exploretock.com/canlis"
+  target="_blank">Buy on Tock</a>
+alert_link: https://www.exploretock.com/canlis
+alert_color: "#F7941C"
 concepts:
 - title: Camp Canlis
   image: "/uploads/campy.jpg"
