@@ -2,9 +2,10 @@
 title: Home
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: Sorry, tickets for Space Prom are sold out.
-alert_link: 
-alert_color: "#F7941C"
+alert_text: Sorry, tickets for Space Prom are sold out. Follow us on Instagram for
+  updates.
+alert_link: https://www.instagram.com/canlisrestaurant/
+alert_color: "#d7ecda"
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
 og_desc: Seattle's landmark fine-dining destination for 70 years and recent home to
