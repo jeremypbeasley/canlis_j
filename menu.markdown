@@ -6,17 +6,17 @@ menu_cost: 165
 menu_description: We're serving a multi-course dining experience where you choose
   three of the courses (and we like to surprise you with several others).
 course_1:
-- title: Halibut
-  desc: dashi, goeduck, matsutake
+- title: Sablefish
+  desc: hazelnut, cabbage, yuzu
 - title: Pork
-  desc: walnut, plum, buckwheat
-- title: Eggplant Zurita
-  desc: caviar, oyster, ogo
+  desc: celeriac, plum, buckwheat
+- title: Winter Squash
+  desc: alliums, miso, caviar
 course_2:
-- title: Salmon
-  desc: parsnip, ginger
+- title: Sea Bream Teriyaki
+  desc: turnip, Tsuyahime rice, ginger
 - title: Striploin
-  desc: Walla Walla onions, wild rice
+  desc: coulotte, kosho, carrot
 - title: Hen of the Woods
   desc: oat, chestnut porridge
 course_3:
@@ -25,7 +25,7 @@ course_3:
 - title: Dark Chocolate Sorbet
   desc: koji, spruce tips
 - title: Apulum Garden
-  desc: grapes, roasted barley ice cream, toffee
+  desc: quince, grapes, roasted barley ice cream
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
