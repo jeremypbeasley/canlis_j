@@ -16,6 +16,7 @@ section1:
     Line Cooks<br>
     AM Prep Cooks<br>
     Private Event Cooks<br>
+    Pastry Cooks <br>
     Dishwashers<br>
     Valet<br>
 section2:
