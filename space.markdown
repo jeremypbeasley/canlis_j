@@ -9,12 +9,12 @@ layout: default
 <p class="mb0 pb0">
 1. Tap the link below<br>
 2. Tap your video<br>
-3. Tap the download icon at top right<br>
+3. Tap the download icon, top right<br>
 4. Tap "Download"<br>
-5. Tap your downloads icon in bottom left (down arrow)<br>
+5. Tap your downloads icon, bottom left (down arrow)<br>
 6. Tap "Downloads"<br>
 7. Select your video<br>
-8. Tap the share icon in bottom right<br>
+8. Tap the share icon, bottom right<br>
 9. Tap "Save Video"<br>
 <br>
 If you get this far, please share on Instagram stories and tag us at @canlisrestaurant!
