@@ -1,6 +1,6 @@
 ---
 title: Home
-is_alert_shown: true
+is_alert_shown: false
 intro_video: "/uploads/bgvideo.mp4"
 alert_text: Sorry, tickets for Space Prom are sold out. Follow us on Instagram for
   updates.
