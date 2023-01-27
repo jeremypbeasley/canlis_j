@@ -41,7 +41,7 @@ section4:
   desc: To inspire all people to turn toward one another.
 section5:
   title: Our Vision
-  desc: 'Our Vision is our strategy to successfully accomplish the mission: We are
+  desc: 'The Vision is our strategy to successfully accomplish the mission: We are
     building the world’s most respected restaurant. Our people are flourishing, growing
     personally, emotionally, relationally, and professionally. We serve one another
     and our guests in a way that makes people feel valued and restored.'
