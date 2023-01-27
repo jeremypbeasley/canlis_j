@@ -32,18 +32,19 @@ section2:
 section3:
   title: Pay & Benefits
   desc: Pay starts at a minimum of $21/hr. We offer medical/dental/vision healthcare
-    (cost covered 50% by employer) and a really legit 401k and profit sharing program.
-    We eat like royalty, don’t work Sundays or major holidays, and celebrate taking
-    time off. Oh, and we’ll never serve brunch.
+    (cost covered 50% by employer, 75% after one year, 100% for all salary employees)
+    and a really legit 401k and profit sharing program. We eat like royalty, don’t
+    work Sundays, Mondays, or major holidays, and celebrate taking time off. Oh, and
+    we’ll never serve brunch.
 section4:
   title: Our Mission
   desc: To inspire all people to turn toward one another.
 section5:
   title: Our Vision
-  desc: 'Our vision for what it would look like if we carry out the mission perfectly:
-    Canlis strives to be the best restaurant in America. Our people are growing emotionally,
-    relationally, and professionally. We serve one another in a way that makes people
-    feel valued and restored.'
+  desc: 'Our Vision is our strategy to successfully accomplish the mission: We are
+    building the world’s most respected restaurant. Our people are flourishing, growing
+    personally, emotionally, relationally, and professionally. We serve one another
+    and our guests in a way that makes people feel valued and restored.'
 section6:
   title: Our Values
   desc: We value trustworthiness, generosity, and other centeredness.
