@@ -1,8 +1,8 @@
 ---
 title: Careers
 date: 2016-12-19 21:13:00 -08:00
-headline: Striving to be the <i>best <br>restaurant in America</i> and<br> having
-  a very good<br> time along the way.
+headline: Striving to be the <i>world's <br>most respected restaurant </i> and<br>
+  having a very good<br> time along the way.
 headline_mobile: Striving to be the <i>best restaurant in America</i> and have a damn
   good time along the way.
 section1:
@@ -13,6 +13,7 @@ section1:
     To apply, please send a resume and cover letter to Anthea Gundersen at [work@canlis.com](mailto:work@canlis.com).
 
     Roles we are currently hiring for:<br>
+    Dining Room Service Team<br>
     Line Cooks<br>
     AM Prep Cooks<br>
     Private Event Cooks<br>
