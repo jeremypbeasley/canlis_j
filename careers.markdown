@@ -1,7 +1,7 @@
 ---
 title: Careers
 date: 2016-12-19 21:13:00 -08:00
-headline: Striving to be the <i>world's <br>most respected restaurant </i> and<br>
+headline: Striving to be the <i>world's <br>most respected restaurant </i> <br> and
   having a very good<br> time along the way.
 headline_mobile: Striving to be the <i>best restaurant in America</i> and have a damn
   good time along the way.
