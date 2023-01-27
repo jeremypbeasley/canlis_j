@@ -8,17 +8,17 @@ menu_description: We're serving a multi-course dining experience where you choos
 course_1:
 - title: Sablefish
   desc: hazelnut, cabbage, yuzu
-- title: Pork
-  desc: celeriac, plum, buckwheat
 - title: Winter Squash
   desc: alliums, miso, caviar
+- title: Pork
+  desc: celeriac, plum, buckwheat
 course_2:
 - title: Sea Bream Teriyaki
-  desc: turnip, Tsuyahime rice, ginger
-- title: Striploin
-  desc: coulotte, kosho, carrot
+  desc: turnip, Tsuyahime rice, matsutake
 - title: Hen of the Woods
   desc: oat, chestnut porridge
+- title: 'Striploin '
+  desc: 'coulotte, kosho, carrot '
 course_3:
 - title: Smoked Cacao
   desc: nougatine, milk ice cream
