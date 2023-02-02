@@ -42,7 +42,7 @@ section4:
 section5:
   title: Our Vision
   desc: 'The Vision is our strategy to successfully accomplish the mission: We are
-    striving to be world’s most respected restaurant. Our people are flourishing,
+    striving to be the world’s most respected restaurant. Our people are flourishing,
     growing personally, emotionally, relationally, and professionally. We serve one
     another and our guests in a way that makes people feel valued and restored.'
 section6:
