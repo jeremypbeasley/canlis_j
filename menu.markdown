@@ -13,7 +13,7 @@ course_1:
 - title: Pork
   desc: celeriac, plum, buckwheat
 course_2:
-- title: Sea Bream Teriyaki
+- title: Mackerel Teriyaki
   desc: turnip, Tsuyahime rice, matsutake
 - title: Hen of the Woods
   desc: oat, chestnut porridge
@@ -24,8 +24,8 @@ course_3:
   desc: nougatine, milk ice cream
 - title: Dark Chocolate Sorbet
   desc: koji, spruce tips
-- title: Apulum Garden
-  desc: quince, grapes, roasted barley ice cream
+- title: Pear & Barley
+  desc: pear, walnut, roasted barley ice cream
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
