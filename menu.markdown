@@ -2,19 +2,19 @@
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
 og_photo: "/uploads/menuu.jpg"
-menu_cost: 165
+menu_cost: 175
 menu_description: We're serving a multi-course dining experience where you choose
   three of the courses (and we like to surprise you with several others).
 course_1:
-- title: Sablefish
-  desc: hazelnut, cabbage, yuzu
+- title: Sea Bream
+  desc: leeks, geoduck, dashi
 - title: Winter Squash
   desc: alliums, miso, caviar
 - title: Pork
   desc: celeriac, plum, buckwheat
 course_2:
-- title: Mackerel Teriyaki
-  desc: turnip, Tsuyahime rice, matsutake
+- title: Sablefish
+  desc: sunchoke, hazelnut, nori
 - title: Hen of the Woods
   desc: oat, chestnut porridge
 - title: 'Striploin '
@@ -24,8 +24,8 @@ course_3:
   desc: nougatine, milk ice cream
 - title: Dark Chocolate Sorbet
   desc: koji, spruce tips
-- title: Pear & Barley
-  desc: pear, walnut, roasted barley ice cream
+- title: Dired Persimmon
+  desc: devonshire cream, vermouth, yuzu
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
