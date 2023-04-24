@@ -2,7 +2,7 @@
 title: Home
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: 'Mother''s Day Kits available now. Get yours [here](https://www.exploretock.com/canlis/experience/405948/mothers-day-kit?date=2023-05-13&size=1&time=12%3A00). '
+alert_text: Mother's Day Kits available now. Get yours here.
 alert_link: https://www.exploretock.com/canlis/experience/405948/mothers-day-kit?date=2023-05-13&size=1&time=12%3A00
 alert_color: "#B3FFFD"
 og_title: Canlis Restaurant
