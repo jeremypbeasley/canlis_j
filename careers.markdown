@@ -13,8 +13,8 @@ section1:
     To apply, please send a resume and cover letter to Anthea Gundersen at [work@canlis.com](mailto:work@canlis.com).
 
     Roles we are currently hiring for:<br>
+    Bar Manager<br>
     Line Cooks<br>
-    AM Prep Cooks<br>
     Private Event Cooks<br>
     Pastry Cooks <br>
     Dishwashers<br>
