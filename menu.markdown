@@ -10,13 +10,13 @@ course_1:
   desc: leeks, geoduck, dashi
 - title: Winter Squash
   desc: alliums, miso, caviar
-- title: Pork
-  desc: celeriac, plum, buckwheat
+- title: Venison
+  desc: brassicas, alliums, miso
 course_2:
 - title: Sablefish
   desc: sunchoke, hazelnut, nori
-- title: Hen of the Woods
-  desc: oat, chestnut porridge
+- title: Mushroom Teriyaki
+  desc: Tsuyahime rice, spruce, pickles
 - title: 'Striploin '
   desc: 'coulotte, kosho, carrot '
 course_3:
@@ -24,7 +24,7 @@ course_3:
   desc: nougatine, milk ice cream
 - title: Dark Chocolate Sorbet
   desc: koji, spruce tips
-- title: Dired Persimmon
+- title: Dried Persimmon
   desc: devonshire cream, vermouth, yuzu
 plates:
   plate1: "/uploads/plate_salad.jpg"
