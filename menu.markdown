@@ -8,7 +8,7 @@ menu_description: We're serving a multi-course dining experience where you choos
 course_1:
 - title: Sea Bream
   desc: leeks, geoduck, dashi
-- title: Winter Squash
+- title: Squash
   desc: alliums, miso, caviar
 - title: Venison
   desc: brassicas, alliums, miso
