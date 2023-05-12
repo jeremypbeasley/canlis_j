@@ -38,6 +38,12 @@ items:
 - title: "—"
   thumbnail: "/uploads/Crab-2c9327.jpg"
   link: "/uploads/Crab-2c9327.jpg"
+- title: "—"
+  thumbnail: "/uploads/P1400694%20(1).JPG"
+  link: "/uploads/P1400694%20(1).JPG"
+- title: "—"
+  thumbnail: "/uploads/P1400731.JPG"
+  link: "/uploads/P1400731.JPG"
 og_desc: Assets and photographs for press and media.
 og_photo: "/uploads/canlis_logo_black_media.jpg"
 layout: media
