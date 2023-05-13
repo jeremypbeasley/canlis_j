@@ -1,6 +1,6 @@
 ---
 title: Home
-is_alert_shown: true
+is_alert_shown: false
 intro_video: "/uploads/bgvideo.mp4"
 alert_text: "\U0001F337 Mother's Day Kits available now. Get yours here."
 alert_link: https://www.exploretock.com/canlis/experience/405948/mothers-day-kit?date=2023-05-13&size=1&time=12%3A00
