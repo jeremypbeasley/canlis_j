@@ -6,24 +6,24 @@ menu_cost: 175
 menu_description: We're serving a multi-course dining experience where you choose
   three of the courses (and we like to surprise you with several others).
 course_1:
-- title: Sea Bream
+- title: Sablefish
   desc: leeks, geoduck, dashi
-- title: Squash
-  desc: alliums, miso, caviar
+- title: Artichoke
+  desc: wildflower, spinach, walnut
 - title: Venison
   desc: brassicas, alliums, miso
 course_2:
-- title: Sablefish
-  desc: sunchoke, hazelnut, nori
+- title: Halibut
+  desc: snap pea, kasu butter, nori
 - title: Mushroom Teriyaki
   desc: Tsuyahime rice, spruce, pickles
-- title: 'Striploin '
-  desc: 'coulotte, kosho, carrot '
+- title: 'Coulotte '
+  desc: Walla Walla onion, oyster, chive
 course_3:
 - title: Smoked Cacao
   desc: nougatine, milk ice cream
-- title: Dark Chocolate Sorbet
-  desc: koji, spruce tips
+- title: Strawberry
+  desc: rhubarb, white chocolate, kasu
 - title: Dried Persimmon
   desc: devonshire cream, vermouth, yuzu
 plates:
