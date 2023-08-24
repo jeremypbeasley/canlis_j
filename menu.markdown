@@ -7,16 +7,16 @@ menu_description: We're serving a multi-course dining experience where you choos
   three of the courses (and we like to surprise you with several others).
 course_1:
 - title: Sablefish
-  desc: leeks, geoduck, dashi
+  desc: hazelnut, corn, kombu
 - title: Artichoke
   desc: wildflower, spinach, walnut
-- title: Venison
-  desc: brassicas, alliums, miso
+- title: Duck
+  desc: summer squash, blueberry, dashi
 course_2:
 - title: Halibut
-  desc: snap pea, kasu butter, nori
-- title: Mushroom Teriyaki
-  desc: Tsuyahime rice, spruce, pickles
+  desc: snap pea, geoduck, nori
+- title: Eggplant Zurita
+  desc: Tsuyahime rice, cherry tomato, cucumber
 - title: 'Coulotte '
   desc: Walla Walla onion, oyster, chive
 course_3:

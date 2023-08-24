@@ -1,7 +1,6 @@
 ---
-title: Reservations
-date: 2020-03-13 16:19:00 -07:00
-layout: default
+title: Philanthropy
+date: 2023-08-24 08:57:00 -07:00
 ---
 
 <p class="Caption">Get a table</p>

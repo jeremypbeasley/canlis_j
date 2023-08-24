@@ -20,8 +20,6 @@ wine_body_col2: "The wine program at Canlis is founded on a team of educated win
 wine_staff:
 - name: Linda Milagros Violago
   title: Wine
-- name: James MacWilliams
-  title: Spirits
 - name: José Castillo
   title: Spirits
 lounge_title: The Lounge
