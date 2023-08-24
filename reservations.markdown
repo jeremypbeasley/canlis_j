@@ -19,7 +19,7 @@ layout: default
 
 <p class="Caption mt4">Attire</p>
 
-<p class="mb0 pb0">We’re a very dressy restaurant. We recommend a suit or sport coat for men, and ask that no short sleeves, shorts, hats, or casual attire of any kind be worn. At Canlis you can’t be overdressed, so go big, look good and have fun with it!</p>
+<p class="mb0 pb0">We’re a very dressy restaurant. We recommend a suit or sport coat for men, and ask that no T-shirts, shorts, hats, or casual attire of any kind be worn. At Canlis you can’t be overdressed, so go big, look good and have fun with it!</p>
 
 <div class="Caption mb4 mt4">Children</div>
 <p class="mb0 pb0">All ages are welcome in our dining room but we ask that children be prepared for a lengthy dining experience. Children prone to draw attention to themselves should stay home. We do not allow tablets or phones to entertain children at the table and we will request devices used in this manner to be turned off. Dining as a family is a part of the fabric of this place, but it is an art best practiced long before your reservation. For the communal sake of our dining room please choose wisely. </p>
