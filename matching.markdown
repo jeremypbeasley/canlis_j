@@ -1,6 +1,7 @@
 ---
 title: Matching Campaign
 date: 2023-08-24 08:57:00 -07:00
+layout: default
 ---
 
 <p class="Caption">Why do this?</p>
