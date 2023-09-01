@@ -21,7 +21,7 @@ layout: default
 
 <p class="Caption">Anything else to know?</p>
 
-<p class="mb2 pb2">We're happy to mail Matching Campaign gift cards to your organization. You can reach out to us at [giving@canlis.com](mailto:giving@canlis.com). After you’ve emailed us to order one, they will arrive beautifully packaged in a suede pouch tucked into a small box with a magnetic closure. Please note there is a $5 charge for packaging and shipping.</p>
+<p class="mb2 pb2">We're happy to mail Matching Campaign gift cards to your organization. Once ordered, they will arrive beautifully packaged in a suede pouch tucked into a small box with a magnetic closure. Please note there is a $5 charge for packaging and shipping.</p>
 
 <div class="Caption mb4 mt4">Inquiries</div>
 
