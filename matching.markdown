@@ -15,12 +15,14 @@ layout: default
 
 <p class="Caption">How does this work at Canlis?</p>
 
-<p class="mb2 pb2">Our family loves to feed people, so we have focused our in-kind donations on those organizations around Seattle dedicated to feeding the poor, hungry and homeless. When we are asked for donations by NPOs with feeding the poor as their mission, we’ve usually been able to send them a gift certificate providing Canlis goods and services. However, we are often approached by NPOs with other missions, and we’ve had to turn them down because there is only so much we can do. Now, we hope to be able to broaden our reach by referring them to Donor-aided matching</p>
-
 <p class="Caption">How will it work?</p>
 
-<p class="mb2 pb2">Let’s say we are approached by an NPO that has a mission to help education. We’ll send them a letter explaining that since our company’s giving focus is on the homeless and hungry, we’ll have to say “no” to their request – unless they can find a matching donor. They then find a donor interested in joining the NPO and Canlis as the third leg of the stool. That donor gives $100 to the NPO, which sends it to Canlis to purchase a gift certificate. We then double the face value of the purchase and send the NPO a $200 gift certificate. Our pledge is to do this for any charitable 501c3 in the city, for any amount up to $5000, and up to a total match of $500,000 over the next several years.</p>
+<p class="mb2 pb2">Let’s say we are approached by an NPO that has a mission to help education. We’ll send them a letter explaining that we’d have to say “no” to their request – unless they can find a matching donor. They then find a donor interested in joining the NPO and Canlis as the third leg of the stool. That donor gives $100 to the NPO, which sends it to Canlis to purchase a gift certificate. We then double the face value of the purchase and send the NPO a $200 gift certificate. Our pledge is to do this for any charitable 501c3 in the city, for any amount up to $5000, and up to a total match of $500,000 over the next several years.</p>
 
 <p class="Caption">Anything else to know?</p>
 
-<p class="mb2 pb2">We're happy to mail Matching Campaign gift cards to your organization. After you’ve called us to order one (or more), they will arrive beautifully packaged in a suede pouch tucked into a small box with a magnetic closure. Please note there is a $5 charge for packaging and shipping.</p>
+<p class="mb2 pb2">We're happy to mail Matching Campaign gift cards to your organization. You can reach out to us at [giving@canlis.com](mailto:giving@canlis.com). After you’ve emailed us to order one, they will arrive beautifully packaged in a suede pouch tucked into a small box with a magnetic closure. Please note there is a $5 charge for packaging and shipping.</p>
+
+<div class="Caption mb4 mt4">Inquiries</div>
+
+Please email us at [giving@canlis.com](mailto:giving@canlis.com).
