@@ -18,7 +18,6 @@ section1:
     Pastry Cooks <br>
     Dishwashers<br>
     Dining Room Service Team<br>
-    Baker<br>
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place

@@ -21,7 +21,9 @@ wine_staff:
 - name: Linda Milagros Violago
   title: Wine
 - name: José Castillo
-  title: Spirits
+  title: Head Barman
+- name: 'Alexandra Lanoue '
+  title: Assistant Wine Director
 lounge_title: The Lounge
 lounge_photo_1: "/uploads/lounge2.jpg"
 lounge_photo_2: "/uploads/bar_1.jpg"
