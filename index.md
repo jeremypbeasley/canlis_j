@@ -1,6 +1,6 @@
 ---
 title: Home
-is_alert_shown: true
+is_alert_shown: false
 intro_video: "/uploads/bgvideo.mp4"
 alert_text: 'Canlis will be closed Nov. 23-27 to spend time with our families and
   loved ones.  '
