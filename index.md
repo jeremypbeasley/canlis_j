@@ -2,8 +2,8 @@
 title: Home
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: "New Year’s Eve tickets go on sale this Friday at noon. \U0001F3F4‍☠️"
-alert_link: 
+alert_text: "New Year’s Eve tickets on sale now! Click here. \U0001F3F4‍☠️"
+alert_link: https://www.exploretock.com/canlis/event/450913
 alert_color: "#52b5a1"
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
