@@ -26,11 +26,11 @@
 <div class="row AlignCenter tall mt10">
   <div class="column col-xs-12 col-md-4 first-xs">
     <div class="Divider mb6"></div>
-    <p class="Caption op50 mb2 mt6 d-mt0">An Invitation</p>
-    <h2 class="Display2 mb10 d-mb0"> The opportunity to meet and serve you is one we don’t take lightly. Not for the past 71 years at least. Come spend an evening. Our favorite thing in the world is taking care of others, and few places can do it quite like we can.</h2>
+    <p class="Caption op50 mb2 mt6 d-mt0">{{ page.section_1_headline }}</p>
+    <h2 class="Display2 mb10 d-mb0">{{ page.section_1_body }}</h2>
   </div>
   <div class="column col-xs-12 col-md-7 first-xs">
-    <img class="HomePhoto1" alt="" src="uploads/kris.jpg">
+    <img class="HomePhoto1" alt="" src="{{ page.section_1_photo }}">
   </div>
 </div>
 <div class="row AlignCenter tall">
@@ -39,9 +39,9 @@
   </div>
   <div class="column col-xs-12 col-md-4 first-xs">
     <div class="Divider mb6"></div>
-    <p class="Caption op50 mb2 mt6 d-mt0">The Space</p>
-    <h2 class="Display2">This storied building was first designed by Roland Terry in 1950. Both Jim Cutler and George Suyama have helped develop it into an iconic expression of modern design. It continues to delight guests from all over the world with its natural light and stunning views of Seattle, Lake Union, and the Cascade mountain range.</h2>
-    <p class="mt4 mb10 d-mb0"><i>Winner of the 2019 James Beard Design Icon Award</i></p>
+    <p class="Caption op50 mb2 mt6 d-mt0">{{ page.section_2_headline }}</p>
+    <h2 class="Display2">{{ page.section_2_body }}</h2>
+    <p class="mt4 mb10 d-mb0"><i>{{ page.section_2_footnote }}</i></p>
   </div>
 
 </div>
@@ -49,20 +49,20 @@
   <div class="column col-xs-12 col-md-6">
     <div class="PortraitCard">
       <div class="Divider mb10 ShowMobile"></div>
-      <p class="Caption op50 mb2 mt6 d-mt0">Introducing</p>
-      <h1 class="Display2 mb5">Executive Chef, <Br>Aisha Ibrahim</h1>
-      <p class="mt2 pb0">"Aisha was drawn to Seattle for the unparalleled quality of ingredients from the forests, fisheries and farms of the Pacific Northwest. She plans to spend her time at Canlis exploring the region’s Indigenous ingredients, the nuances of its microseasons and the city’s historic role as a gateway to Asia."<Br><Br><i>Elizabeth G. Dunn, New York Times</i></p>
-      <p class="mt0 mb10 d-mb0"><a href="https://www.nytimes.com/2021/05/03/dining/canlis-chef-aisha-ibrahim.html">Read more</a></p>
+      <p class="Caption op50 mb2 mt6 d-mt0">{{ page.section_3_label }}</p>
+      <h1 class="Display2 mb5">{{ page.section_3_headline }}</h1>
+      <p class="mt2 pb0">{{ page.section_3_body }}<Br><Br><i>{{ page.section_3_author }}</i></p>
+      <p class="mt0 mb10 d-mb0"><a href="{{ page.section_3_link_url }}">{{ page.section_3_link_text }}</a></p>
     </div>
   </div>
   <div class="column col-xs-12 col-md-6">
-    <img class="HomePhoto3" src="/uploads/P1299163.jpg" alt="">
+    <img class="HomePhoto3" src="{{ page.section_3_photo }}" alt="">
   </div>
   <div class="column col-xs-12 col-md-6">
-    <img class="HomePhoto4" src="/uploads/menu_1.jpg" alt="">
+    <img class="HomePhoto4" src="{{ page.food_photo_1 }}" alt="">
   </div>
   <div class="column col-xs-12 col-md-6">
-    <img class="HomePhoto5" src="/uploads/menu_4.jpg" alt="">
+    <img class="HomePhoto5" src="{{ page.food_photo_2 }}" alt="">
   </div>
 </div>
 
