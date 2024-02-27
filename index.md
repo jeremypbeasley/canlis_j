@@ -23,7 +23,7 @@ section_2_body_small: Winner of the 2019 James Beard Design Icon Award
 section_2_link_text:
 section_2_link_url:
 section_2_photo: "/uploads/kevin1.jpg"
-section_3_label: Introducing
+section_3_label: In the press
 section_3_headline: Executive Chef, <Br>Aisha Ibrahim
 section_3_body: "Aisha was drawn to Seattle for the unparalleled quality of ingredients from the forests, fisheries and farms of the Pacific Northwest. She plans to spend her time at Canlis exploring the region’s Indigenous ingredients, the nuances of its microseasons and the city’s historic role as a gateway to Asia."
 section_3_body_small: Elizabeth G. Dunn, New York Times
