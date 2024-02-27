@@ -16,9 +16,8 @@ section1:
     Line Cooks<br>
     Private Event Cooks<br>
     Pastry Cooks <br>
-    Dishwashers<br>
     Dining Room Service Team<br>
-    Sommelier <br>
+    Barista<br>
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place
@@ -30,10 +29,10 @@ section2:
     have this. It is a requirement for employment.
 section3:
   title: Pay & Benefits
-  desc: Pay starts at a minimum of $21/hr. We offer medical/dental/vision healthcare
-    (we cover 75% for hourly employees,  100% for salary employees) and a really legit
-    401k and profit sharing program. We eat like royalty, don’t work Sundays, Mondays,
-    or major holidays, and celebrate taking time off. Oh, and we’ll never serve brunch.
+  desc: Pay starts at a minimum of $22/hr. We offer medical/dental/vision healthcare
+    (we cover 75% of the cost) and a really legit 401k and profit sharing program.
+    We eat like royalty, don’t work Sundays, Mondays, or major holidays, and celebrate
+    taking time off. Oh, and we’ll never serve brunch.
 section4:
   title: Our Mission
   desc: To inspire all people to turn toward one another.

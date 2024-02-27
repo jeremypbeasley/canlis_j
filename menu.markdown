@@ -22,10 +22,10 @@ course_2:
 course_3:
 - title: Smoked Cacao
   desc: nougatine, milk ice cream
-- title: 'Sweet Potato '
-  desc: 'mochi marshmallow, ginger, rye whiskey '
+- title: Vanilla Bean Parfait
+  desc: cherry sorbet, dark chocolate, hazelnut
 - title: Daburu Cheesecake
-  desc: Japanese plums, kasu
+  desc: kasu, winter strawberry
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
