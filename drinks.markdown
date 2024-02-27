@@ -20,10 +20,10 @@ wine_body_col2: "The wine program at Canlis is founded on a team of educated win
 wine_staff:
 - name: Linda Milagros Violago
   title: Wine
+- name: Alexandra Lanoue
+  title: Assistant Wine Director
 - name: José Castillo
   title: Head Barman
-- name: 'Alexandra Lanoue '
-  title: Assistant Wine Director
 lounge_title: The Lounge
 lounge_photo_1: "/uploads/lounge2.jpg"
 lounge_photo_2: "/uploads/bar_1.jpg"
@@ -35,4 +35,3 @@ og_desc: One of the best wine lists in the world.
 og_photo: "/uploads/cellar2.jpg"
 layout: wine
 ---
-
