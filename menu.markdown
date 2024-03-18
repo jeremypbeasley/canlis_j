@@ -6,15 +6,15 @@ menu_cost: 180
 menu_description: We're serving a multi-course dining experience where you choose
   three of the courses (and we like to surprise you with several others).
 disclaimer: |-
-  A 20% service charge will be added to your final bill and is retained by Canlis. No additional gratuity is expected.
+  A 20% service charge will be added to your final bill and is retained by Canlis. No gratuity is expected.
   * Eating raw or undercooked ingredients can increase your risk of foodborne illness. It may also increase your chances of having a great time.
 course_1:
 - title: Sablefish
   desc: matsutake, dulse udon, dashi
 - title: Porcini
   desc: koji, pear, leek
-- title: Duck
-  desc: celeriac, fig, black vinegar
+- title: Venison
+  desc: sesame, nori, pickled daikon
 course_2:
 - title: Escabeche Florita
   desc: sea bream, carrot, kosho, meyer lemon
