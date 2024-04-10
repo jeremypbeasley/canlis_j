@@ -33,7 +33,7 @@ course_3:
   desc: 
 - title: 'Canlis Salad '
   desc: The original! If you would like an additional course from our 1950 menu, these
-    are prepared table-side for the entire party. +$24 per person
+    are prepared tableside for the entire party. +$24 per person
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
