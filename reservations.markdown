@@ -6,7 +6,7 @@ layout: default
 
 <p class="Caption">Get a table</p>
 
-<p class="mb0 pb0">Tables become available 3 months in advance, and can be made online through Tock. </p>
+<p class="mb0 pb0">We are currently booking through the month of June. Reservations for July 2024 will be released on May 1st at noon (PDT). </p>
 <p class="mt3 mb2 pb0"><a class="Button NoLine Caption" href="https://www.exploretock.com/canlis/" target="_blank">Reserve on Tock</a></p>
 
 <div class="Caption mb4 mt4">Dietary Restrictions</div>

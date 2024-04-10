@@ -11,15 +11,15 @@ disclaimer: |-
 course_1:
 - title: Sablefish
   desc: matsutake, dulse udon, dashi
-- title: Porcini
-  desc: koji, pear, leek
+- title: Asparagus
+  desc: romesco, spring onion, rye
 - title: Venison
   desc: sesame, nori, pickled daikon
 course_2:
 - title: Escabeche Florita
   desc: sea bream, carrot, kosho, meyer lemon
-- title: 'Parsnip '
-  desc: cabbage, plum, smoked furikake
+- title: Porcini
+  desc: koji, pear, leek
 - title: American Wagyu
   desc: Tsuyahime rice, turnip, ramp
 course_3:
@@ -29,6 +29,11 @@ course_3:
   desc: cherry sorbet, dark chocolate, hazelnut
 - title: Daburu Cheesecake
   desc: kasu, winter strawberry
+- title: "—"
+  desc: 
+- title: 'Canlis Salad '
+  desc: The original! If you would like an additional course from our 1950 menu, these
+    are prepared table-side for the entire party. +$24 per person
 plates:
   plate1: "/uploads/plate_salad.jpg"
   plate2: "/uploads/fish.jpg"
