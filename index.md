@@ -12,7 +12,7 @@ og_desc: Seattle's landmark fine-dining destination for 70 years and recent home
 section_1_label: 
 section_1_headline: An Invitation
 section_1_body: The opportunity to meet and serve you is one we don’t take lightly.
-  Not for the past 73 years at least. Come spend an evening. Our favorite thing in
+  Not for the past 74 years at least. Come spend an evening. Our favorite thing in
   the world is taking care of others, and few places can do it quite like we can.
 section_1_body_small: 
 section_1_link_text: 

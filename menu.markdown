@@ -5,9 +5,10 @@ og_photo: "/uploads/menuu.jpg"
 menu_cost: 180
 menu_description: We're serving a multi-course dining experience where you choose
   three of the courses (and we like to surprise you with several others).
-disclaimer: |-
-  A 20% service charge will be added to your final bill and is retained by Canlis. No gratuity is expected.
-  * Eating raw or undercooked ingredients can increase your risk of foodborne illness. It may also increase your chances of having a great time.
+disclaimer: "A 20% service charge will be added to your final bill. 100% of this service
+  charge is retained by Canlis. \n* Eating raw or undercooked ingredients can increase
+  your risk of foodborne illness. It may also increase your chances of having a great
+  time."
 course_1:
 - title: Sablefish
   desc: matsutake, dulse udon, dashi
