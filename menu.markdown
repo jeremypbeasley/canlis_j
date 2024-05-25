@@ -19,8 +19,8 @@ course_1:
 course_2:
 - title: Escabeche Florita
   desc: sea bream, carrot, kosho, meyer lemon
-- title: Porcini
-  desc: koji, pear, leek
+- title: Mushroom Teriyaki
+  desc: ramp, mochi, kasu
 - title: American Wagyu
   desc: Tsuyahime rice, turnip, ramp
 course_3:
