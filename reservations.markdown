@@ -6,7 +6,7 @@ layout: default
 
 <p class="Caption">Get a table</p>
 
-<p class="mb0 pb0">We are currently booking through the month of August. Reservations for September 2024 will be released on July 1st at noon (PDT). Please note that we will be closed on Saturday and Sunday evenings for the Summer months.</p>
+<p class="mb0 pb0">From now until Labor Day we will be open Monday - Friday. We are currently booking through the month of August. Reservations for September 2024 will be released on July 1st at noon (PDT). </p>
 <p class="mt3 mb2 pb0"><a class="Button NoLine Caption" href="https://www.exploretock.com/canlis/" target="_blank">Reserve on Tock</a></p>
 
 <div class="Caption mb4 mt4">Dietary Restrictions</div>
