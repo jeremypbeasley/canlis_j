@@ -11,10 +11,10 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
   time."
 course_1:
 - title: Sablefish
-  desc: matsutake, dulse udon, dashi
+  desc: 'cabbage, yuzu, hazelnut '
 - title: Asparagus
   desc: romesco, spring onion, rye
-- title: Venison
+- title: Lamb
   desc: sesame, nori, pickled daikon
 course_2:
 - title: Escabeche Florita
