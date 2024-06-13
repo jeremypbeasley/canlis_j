@@ -11,7 +11,7 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
   time."
 course_1:
 - title: Sablefish
-  desc: 'cabbage, yuzu, hazelnut '
+  desc: hazelnut, yuzu, caviar
 - title: Asparagus
   desc: romesco, spring onion, rye
 - title: Lamb
