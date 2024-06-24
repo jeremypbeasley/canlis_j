@@ -17,8 +17,8 @@ course_1:
 - title: Lamb
   desc: sesame, nori, pickled daikon
 course_2:
-- title: Escabeche Florita
-  desc: sea bream, carrot, kosho, meyer lemon
+- title: Halibut
+  desc: smoked tomato, squid, tamari
 - title: Mushroom Teriyaki
   desc: ramp, mochi, kasu
 - title: American Wagyu
