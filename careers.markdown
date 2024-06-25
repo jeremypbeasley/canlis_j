@@ -15,7 +15,6 @@ section1:
     Roles we are currently hiring for:<br>
     Line Cooks / Pay Range: $22-$26/hour<br>
     Dining Room Service Team / Pay Range: $22-$50/hour<br>
-    Pastry Cooks / Pay Range: $22-$26/hour<br>
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place
