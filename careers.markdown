@@ -7,14 +7,16 @@ headline_mobile: Striving to be the <i>best restaurant in America</i> and have a
   good time along the way.
 section1:
   title: Working at Canlis
-  desc: |-
-    We’re honored you are interested in joining our team. To help that process, we recommend you read most of this entire website to figure out what makes us tick. We recommend thinking about how working here will help you become more of who you want to become, not what you want to become. We recommend taking the advice of your mother — whatever it was she said, try to remember — it’s going to help you get a job here.
-
-    To apply, please send a resume and cover letter to Andy Pelander at [work@canlis.com](mailto:work@canlis.com).
-
-    Roles we are currently hiring for:<br>
-    Line Cooks / Pay Range: $22-$26/hour<br>
-    Dining Room Service Team / Pay Range: $22-$50/hour<br>
+  desc: "We’re honored you are interested in joining our team. To help that process,
+    we recommend you read most of this entire website to figure out what makes us
+    tick. We recommend thinking about how working here will help you become more of
+    who you want to become, not what you want to become. We recommend taking the advice
+    of your mother — whatever it was she said, try to remember — it’s going to help
+    you get a job here.\n\nTo apply, please send a resume and cover letter to Andy
+    Pelander at [work@canlis.com](mailto:work@canlis.com).\n\nRoles we are currently
+    hiring for:<br>\nLine Cooks / Pay Range: $22-$26/hour<br>\nDining Room Service
+    Team / Pay Range: $22-$50/hour<br>\nAll positions include medical, dental, 401k,
+    vacation, and dining benefits. "
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place
