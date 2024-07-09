@@ -28,8 +28,8 @@ course_3:
   desc: nougatine, milk ice cream
 - title: Vanilla Bean Parfait
   desc: cherry sorbet, dark chocolate, hazelnut
-- title: Daburu Cheesecake
-  desc: kasu, winter strawberry
+- title: Maja Blanca
+  desc: peach, rum, corn, shiso
 - title: "—"
   desc: 
 - title: 'Canlis Salad '
