@@ -44,17 +44,3 @@ food_photo_2: "/uploads/menu_4.jpg"
 layout: home_fall_2021
 ---
 
-<style>
-
-.kenlis {
-display:none;
-position: absolute;
-width: 200px;
-height: 200px;
-border-radius: 100%;
-background: pink;
-}
-
-</style>
-
-<div class="kenlis">TEST</div>
