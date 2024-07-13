@@ -1,7 +1,7 @@
 ---
 title: Kenlis
 date: 2024-07-13 11:21:00 -07:00
-image: "/uploads/jihan.jpg"
+image: "/uploads/kenlisposter.png"
 rsvp_button:
   has_button: false
   url: https://www.canlis.com
