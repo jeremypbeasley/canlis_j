@@ -9,7 +9,6 @@ rsvp_button:
 layout: events
 ---
 
-<hr class="mb3 mt0">
 <p>Announcing KENLIS: Nothing big, just a giant blowout dance party at the Canlis dream house. Live music! Pink drinks! Roller skating! Horses!</p>
 
 <p>A two-night party, August 9th or 10th, 7pm-12am, 21+ only. $270 includes all the food, drink, and dancing you could hope for. Get all dolled up, pink goes with everything! Tickets on sale Monday at 2pm at canlis.com.</p>
@@ -55,16 +54,10 @@ border-radius: 5px;
 .EventsButton a:hover {
 background: #F200A3;
 color: white;
-
-@media only screen and (min-width: 48em) {
-.EventsIntro .col-sm-6, .EventsIntro .column {
--webkit-flex-basis: 100%;
--ms-flex-preferred-size: 100%;
-flex-basis: 100%;
-max-width: 100%;
-}
 }
 
+.EventsTitle {
+display: none;
 }
 
 </style>
