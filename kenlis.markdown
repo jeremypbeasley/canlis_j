@@ -32,3 +32,14 @@ layout: events
     Saturday Tickets 
   </a>
 </div>
+
+<style>
+
+body {
+background: #F985C6;
+font-family: helvetica;
+font-weight: bold;
+color: white;
+}
+
+</style>
