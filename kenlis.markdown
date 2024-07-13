@@ -65,4 +65,11 @@ color: white;
 display: none;
 }
 
+@media (min-width: 48em) {
+  .EventsIntro {
+    margin-top: 0;
+    max-width: 50vw;
+  }
+}
+
 </style>
