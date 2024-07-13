@@ -72,11 +72,15 @@ layout: home_fall_2021
   text-align: center;
   z-index: 9;
   border: 0;
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   transition: all 100ms ease-in-out;
   transform: scale(.8) rotate(-10deg);
   margin-top: -5px;
+  @media (min-width: 62em) {
+    width: 200px;
+    height: 200px;
+  }
 }
 
 .kenlis .text:hover {
@@ -85,10 +89,14 @@ layout: home_fall_2021
   
 .kenlis .burst {
   animation: 30s linear infinite rotate-con;
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
   background: url(https://canlis.com/uploads/burst3.png);
   background-size: cover;
+  @media (min-width: 62em) {
+    width: 200px;
+    height: 200px;
+  }
 }
 
 @keyframes rotate-con {
