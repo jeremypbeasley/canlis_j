@@ -34,8 +34,13 @@ layout: kenlis
 
 body {
 background: url(https://canlis.com/uploads/clouds.png) no-repeat bottom center #F985C6;
-background-size: cover;
+background-size: contain;
+background-attachment: fixed;
 color: white;
+}
+
+.GlobalFooter {
+display: none;
 }
 
 .TicketPrice {
