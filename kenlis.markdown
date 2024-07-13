@@ -67,9 +67,10 @@ display: none;
 
 @media (min-width: 48em) {
   .EventsIntro {
-    margin-top: 0;
-    width: 50vw;
-    margin-left: 25vw;
+    margin-top: 4vw;
+    width: 40vw;
+    margin-left: 30vw;
+    border-top: 0px;
   }
 }
 
