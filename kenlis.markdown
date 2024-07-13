@@ -59,6 +59,7 @@ font-size: 1.3em;
 font-family: "HelveticaNeue-Medium", "Helvetica Neue Medium", "Helvetica Neue", 
   Helvetica, Arial, "Lucida Grande", sans-serif;
 font-weight: bold;
+text-align: center
 }
 
 .EventsButton a {
@@ -82,9 +83,6 @@ color: white;
 display: none;
 }
 
-.EventsIntro, .EventsIntro p {
-text-align: center
-}
 
 @media (min-width: 48em) {
   .EventsIntro {
