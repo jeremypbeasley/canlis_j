@@ -52,4 +52,10 @@ color: #F200A3;
 border-radius: 5px;
 }
 
+.EventsButton a:hover {
+background: #F200A3;
+color: white;
+
+}
+
 </style>
