@@ -57,10 +57,10 @@ background: #F200A3;
 color: white;
 
 .EventsIntro .col-sm-6 {
--webkit-flex-basis: 50%;
--ms-flex-preferred-size: 50%;
-flex-basis: 50%;
-max-width: 50%;
+-webkit-flex-basis: 100%;
+-ms-flex-preferred-size: 100%;
+flex-basis: 100%;
+max-width: 100%;
 }
 
 }
