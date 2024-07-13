@@ -40,4 +40,16 @@ font-weight: bold;
 color: white;
 }
 
+.EventsButton a {
+border: 0px solid #F200A3;
+box-shadow: 5px 5px 0px 0px #F200A3;
+padding: 10px 15px;
+text-align: center;
+transition: all 200ms ease-out;
+background: white;
+text-decoration: none;
+color: #F200A3;
+border-radius: 5px;
+}
+
 </style>
