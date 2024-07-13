@@ -40,6 +40,10 @@ font-weight: bold;
 color: white;
 }
 
+.EventsIntro {
+font-size: 1.3em 
+}
+
 .EventsButton a {
 border: 0px solid #F200A3;
 box-shadow: 5px 5px 0px 0px #F200A3;
