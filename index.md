@@ -47,14 +47,61 @@ layout: home_fall_2021
 <style>
 
 .kenlis {
-display:none;
-position: absolute;
-width: 200px;
-height: 200px;
-border-radius: 100%;
-background: pink;
+  position: absolute;
+  top: 5vw;
+  left: 5vw;
+  width: 30vw;
+  height: 30vw;
+  text-decoration: none;
+  color: none;
+  transition: all 100ms ease-in-out;
+  @media (min-width: 62em) {
+    top: 1vw;
+    left: 1vw;
+    width: 10vw;
+    height: 10vw;
+  }
+}
+  
+.kenlis:hover {
+  transform: scale(1.05);
+  -webkit-filter: drop-shadow(15px 5px 5px rgba(0,0,0,.2));
+  filter: drop-shadow(15px 5px 5px rgba(0,0,0,.2));
+}
+  
+  
+.kenlis .text {
+  background: url(https://canlis.com/uploads/kenlis.png) no-repeat center center;
+  background-size: contain;
+  position: absolute;
+  text-align: center;
+  z-index: 9;
+  border: 0;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  transition: all 100ms ease-in-out;
+  transform: scale(.8) rotate(-10deg);
+  margin-top: -5px;
+}
+  
+.kenlis .burst {
+  animation: 30s linear infinite rotate-con;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  background: url(https://canlis.com/uploads/burst3.png);
+  background-size: cover;
+}
+
+@keyframes rotate-con {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(360deg);}
 }
 
 </style>
 
-<div class="kenlis">TEST</div>
+<a class="kenlis" href="/kenlis" aria-label="Get tickets to the Kenlis party!">
+  <div class="text"></div>
+  <div class="burst"></div>
+</a>
