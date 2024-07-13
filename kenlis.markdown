@@ -14,7 +14,7 @@ layout: kenlis
 
 <p>Announcing KENLIS: Nothing big, just a giant blowout dance party at the Canlis dream house. Live music! Pink drinks! Roller skating! Horses! A two-night party, August 9th or 10th, 7pm-12am, 21+ only. Get all dolled up, pink goes with everything!</p>
 
-<p>⁂Tickets go on sale at the links below at Noon on Monday⁂</p>
+<p>⁂ Tickets go on sale at the links below at Noon on Monday ⁂</p>
 
 <p class="TicketPrice mb5">$270 includes all the food, drink, and dancing you could hope for.</p>
 
