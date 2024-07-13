@@ -38,6 +38,11 @@ font-weight: bold;
 color: white;
 }
 
+.TicketPrice {
+border-top: 1px solid white;
+border-bottom: 1px solid white:
+padding: 0 2em;
+
 .EventsIntro {
 font-size: 1.3em 
 }
