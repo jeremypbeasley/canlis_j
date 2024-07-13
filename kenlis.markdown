@@ -10,7 +10,6 @@ layout: events
 ---
 
 <hr class="mb3 mt0">
-<div class="mb2 Display2">Friday, August 9th</div>
 <p>Announcing KENLIS: Nothing big, just a giant blowout dance party at the Canlis dream house. Live music! Pink drinks! Roller skating! Horses!</p>
 
 <p>A two-night party, August 9th or 10th, 7pm-12am, 21+ only. $270 includes all the food, drink, and dancing you could hope for. Get all dolled up, pink goes with everything! Tickets on sale Monday at 2pm at canlis.com.</p>
@@ -24,14 +23,13 @@ layout: events
     Friday Tickets
   </a>
 </div>
-<hr class="mb3 mt0">
-<div class="mb2 Display2">Saturday, August 10th</div>
-<p>$695 per ticket</p>
 <div class="EventsButton d-mb5 mb5 mt3 d-mt1">
   <a class="Caption" target="_blank" href="https://www.opentable.com/">
     Saturday Tickets 
   </a>
 </div>
+
+
 
 <style>
 
