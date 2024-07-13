@@ -65,6 +65,10 @@ color: white;
 display: none;
 }
 
+.EventsIntro, .EventsIntro p {
+text-align: center
+}
+
 @media (min-width: 48em) {
   .EventsIntro {
     margin-top: 4vw;
