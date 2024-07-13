@@ -16,7 +16,7 @@ layout: kenlis
 
 <p>⁂ Tickets go on sale at the links below at Noon on Monday ⁂</p>
 
-<p class="TicketPrice mb5">$270 includes all the food, drink, and dancing you could hope for.</p>
+<p class="TicketPrice mb5">$270 includes all the food, drink, and dancing you could hope for</p>
 
 <div class="EventsButton d-mb5 mb5 mt3 d-mt1">
   <a class="Caption mr4" target="_blank" href="https://www.opentable.com/">
