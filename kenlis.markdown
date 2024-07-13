@@ -56,11 +56,13 @@ border-radius: 5px;
 background: #F200A3;
 color: white;
 
-.EventsIntro .col-sm-6 {
+@media only screen and (min-width: 48em) {
+.EventsIntro .col-sm-6, .EventsIntro .column {
 -webkit-flex-basis: 100%;
 -ms-flex-preferred-size: 100%;
 flex-basis: 100%;
 max-width: 100%;
+}
 }
 
 }
