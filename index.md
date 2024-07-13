@@ -54,6 +54,7 @@ layout: home_fall_2021
   height: 30vw;
   text-decoration: none;
   color: none;
+  overflow: auto;
   transition: all 100ms ease-in-out;
   @media (min-width: 62em) {
     top: 1vw;
