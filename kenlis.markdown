@@ -27,9 +27,7 @@ layout: kenlis
   </a>
 </div>
 
-<p class="mt3">This party (and other fun efforts this month) will benefit breast cancer research and patient care at Fred Hutch Cancer Center and Susan G Komen - a dear cause to our family and staff.</p>
-
-<p class="mt3">This whole crazy idea is made possible by the generosity of OpenTable and San Pellegrino. Thank you!</p>
+<p class="mt3">This party (and other fun efforts this month) will benefit breast cancer research and patient care at Fred Hutch Cancer Center and Susan G Komen - a dear cause to our family and staff. This whole crazy idea is made possible by the generosity of OpenTable and San Pellegrino. Thank you!</p>
 
 
 
