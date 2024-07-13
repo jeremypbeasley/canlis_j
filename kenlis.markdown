@@ -34,8 +34,6 @@ layout: kenlis
 
 body {
 background: #F985C6;
-font-family: helvetica;
-font-weight: bold;
 color: white;
 }
 
@@ -47,7 +45,9 @@ display: block;
 }
 
 .EventsIntro {
-font-size: 1.3em 
+font-size: 1.3em;
+font-family: helvetica;
+font-weight: bold;
 }
 
 .EventsButton a {
