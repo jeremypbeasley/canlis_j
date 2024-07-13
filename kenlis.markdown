@@ -12,9 +12,9 @@ og_desc: " Nothing big, just a giant blowout dance party at the Canlis dream hou
 layout: kenlis
 ---
 
-<p>Announcing KENLIS: Nothing big, just a giant blowout dance party at the Canlis dream house. Live music! Pink drinks! Roller skating! Horses!</p>
+<p>Announcing KENLIS: Nothing big, just a giant blowout dance party at the Canlis dream house. Live music! Pink drinks! Roller skating! Horses! A two-night party, August 9th or 10th, 7pm-12am, 21+ only. Get all dolled up, pink goes with everything!</p>
 
-<p>A two-night party, August 9th or 10th, 7pm-12am, 21+ only. Get all dolled up, pink goes with everything!</p>
+<p>Tickets go on sale at the links below at Noon on Monday.</p>
 
 <p class="TicketPrice mb5">$270 includes all the food, drink, and dancing you could hope for.</p>
 
@@ -28,8 +28,6 @@ layout: kenlis
 </div>
 
 <p class="mt3">This party (and other fun efforts this month) will benefit breast cancer research and patient care at Fred Hutch Cancer Center and Susan G Komen - a dear cause to our family and staff. This whole crazy idea is made possible by the generosity of OpenTable and San Pellegrino.</p>
-
-
 
 <style>
 
