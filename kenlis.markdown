@@ -56,6 +56,13 @@ border-radius: 5px;
 background: #F200A3;
 color: white;
 
+.EventsIntro .col-sm-6 {
+-webkit-flex-basis: 50%;
+-ms-flex-preferred-size: 50%;
+flex-basis: 50%;
+max-width: 50%;
+}
+
 }
 
 </style>
