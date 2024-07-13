@@ -6,6 +6,9 @@ rsvp_button:
   has_button: false
   url: https://www.canlis.com
   button_label: Get tickets
+og_photo: "/uploads/kenlisposter.png"
+og_desc: " Nothing big, just a giant blowout dance party at the Canlis dream house.
+  Live music! Pink drinks! Roller skating! Horses!"
 layout: kenlis
 ---
 
