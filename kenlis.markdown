@@ -13,7 +13,7 @@ layout: kenlis
 
 <p>A two-night party, August 9th or 10th, 7pm-12am, 21+ only. Get all dolled up, pink goes with everything!</p>
 
-<p class="TicketPrice mb2">$270 includes all the food, drink, and dancing you could hope for.</p>
+<p class="TicketPrice mb5">$270 includes all the food, drink, and dancing you could hope for.</p>
 
 <div class="EventsButton d-mb5 mb5 mt3 d-mt1">
   <a class="Caption mr4" target="_blank" href="https://www.opentable.com/">
