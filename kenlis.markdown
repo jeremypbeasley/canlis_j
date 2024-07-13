@@ -33,7 +33,7 @@ layout: kenlis
 <style>
 
 body {
-background: #F985C6;
+background: url(https://canlis.com/uploads/clouds.png) no-repeat cover bottom center #F985C6;
 color: white;
 }
 
