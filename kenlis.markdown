@@ -40,8 +40,8 @@ color: white;
 }
 
 .TicketPrice {
-border-top: 1px solid white;
-border-bottom: 1px solid white;
+border-top: 2px solid #F200A3;
+border-bottom: 2px solid #F200A3;
 padding: 1em 0;
 display: block;
 }
