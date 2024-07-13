@@ -6,6 +6,7 @@ rsvp_button:
   has_button: false
   url: https://www.canlis.com
   button_label: Get tickets
+layout: events
 ---
 
 <hr class="mb3 mt0">
