@@ -78,6 +78,10 @@ layout: home_fall_2021
   transform: scale(.8) rotate(-10deg);
   margin-top: -5px;
 }
+
+.kenlis .text:hover {
+ transform: scale(.7) rotate(0deg);
+}
   
 .kenlis .burst {
   animation: 30s linear infinite rotate-con;
