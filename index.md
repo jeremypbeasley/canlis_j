@@ -94,7 +94,7 @@ layout: home_fall_2021
 
 </style>
 
-<a class="kenlis" href="/kenlis" aria-label="Get tickets to the Kenlis party!">
+<a class="kenlis" href="/kenlis">
   <div class="text"></div>
   <div class="burst"></div>
 </a>
