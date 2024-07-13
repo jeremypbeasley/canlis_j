@@ -46,7 +46,8 @@ display: block;
 
 .EventsIntro {
 font-size: 1.3em;
-font-family: helvetica;
+font-family: "HelveticaNeue-Medium", "Helvetica Neue Medium", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
 font-weight: bold;
 }
 
