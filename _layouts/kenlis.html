@@ -1,0 +1,32 @@
+{% include head.html %}
+
+<div class="EventsIntro">
+  <div class="row">
+    <div class="column col-xs-12">
+      <p class="Caption d-mb0">
+        {{ page.event_date | date: '%B %d, %Y' }}
+        </br>{{ page.event_time }}
+      </p>
+      {% if page.is_sold_out == true %}
+        <p class="Caption EventSoldOutLabel mb8">Sold Out</p>
+      {% endif %}
+      {% if page.rsvp_button.has_button == true and page.is_sold_out == false %}
+        <div class="EventsButton mb8 mt4">
+          <a class="Caption" href="{{ page.rsvp_button.url }}">
+            {{ page.rsvp_button.button_label }}
+          </a>
+        </div>
+      {% endif %}
+      <div class="mb2 contents">
+        {{ content }}
+      </div>
+    </div>
+    <div class="column col-xs-12">
+      <a target="_blank" href="{{ page.rsvp_button.url }}">
+        <img src="{{ page.image }}" class="EventsThumb"/>
+      </a>
+    </div>
+  </div>
+</div>
+
+{% include footer.html %}
