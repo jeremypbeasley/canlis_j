@@ -19,12 +19,10 @@ layout: kenlis
 <p class="TicketPrice mb5">$270 includes all the food, drink, and dancing you could hope for</p>
 
 <div class="EventsButton d-mb5 mb5 mt3 d-mt1">
-  <a class="Caption mr4" target="_blank" href="https://www.opentable.com/">
-    Friday Tickets
+  <a class="Caption mr4" target="_blank" href="https://www.opentable.com/r/kenlis-seattle">
+    Tickets on OpenTable
   </a>
-<a class="Caption" target="_blank" href="https://www.opentable.com/">
-    Saturday Tickets 
-  </a>
+
 </div>
 
 <p class="mt3">This party (and other fun efforts this month) will benefit breast cancer research and patient care at Fred Hutch Cancer Center and Susan G Komen - a dear cause to our family and staff. This whole crazy idea is made possible by the generosity of OpenTable and San Pellegrino.</p>
