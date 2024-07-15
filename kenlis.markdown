@@ -19,8 +19,12 @@ layout: kenlis
 <p class="TicketPrice mb5">$270 includes all the food, drink, and dancing you could hope for</p>
 
 <div class="EventsButton d-mb5 mb5 mt3 d-mt1">
-  <a class="Caption mr4" target="_blank" href="https://www.opentable.com/r/kenlis-seattle">
-    Tickets on OpenTable
+  <a class="Caption mr4" target="_blank" href="https://www.opentable.com/booking/experiences-availability?rid=1378345&restref=1378345&experienceId=324512&utm_source=external&utm_medium=referral&utm_campaign=shared&covers=2&dateTime=2024-08-09T19:00:00
+">
+    Friday Tickets 
+  </a>
+<a class="Caption" target="_blank" href="https://www.opentable.com/booking/experiences-availability?rid=1378345&restref=1378345&experienceId=324512&utm_source=external&utm_medium=referral&utm_campaign=shared&covers=2&dateTime=2024-08-10T19:00:00">
+    Saturday Tickets
   </a>
 
 </div>
