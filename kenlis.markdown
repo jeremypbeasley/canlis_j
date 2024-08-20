@@ -1,6 +1,7 @@
 ---
 title: Kenlis
 date: 2024-07-13 11:21:00 -07:00
+published: false
 image: "/uploads/kenlisposter.png"
 rsvp_button:
   has_button: false
