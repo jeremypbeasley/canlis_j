@@ -47,6 +47,7 @@ layout: home_fall_2021
 <style>
 
 .kenlis {
+ display:none;
   position: absolute;
   top: 5vw;
   left: 5vw;
