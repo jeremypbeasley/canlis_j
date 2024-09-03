@@ -6,7 +6,7 @@ layout: default
 
 <p class="Caption">Get a table</p>
 
-<p class="mb0 pb0">From now until Labor Day we will be open Monday - Friday. We will return to the Tuesday - Saturday schedule on Tuesday, September 3rd. We are currently booking through the month of October. Reservations for November 2024 will be released on September 1st at noon (PDT). </p>
+<p class="mb0 pb0"> Canlis is open Tuesday - Saturday evenings at 5:00pm. We are currently booking through the month of November. Reservations for December 2024 will be released on October 1st at noon (PDT).</p>
 <p class="mt3 mb2 pb0"><a class="Button NoLine Caption" href="https://www.exploretock.com/canlis/" target="_blank">Reserve on Tock</a></p>
 
 <div class="Caption mb4 mt4">Dietary Restrictions</div>
