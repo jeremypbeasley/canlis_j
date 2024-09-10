@@ -22,7 +22,7 @@ course_2:
 - title: Mushroom Teriyaki
   desc: ramp, mochi, kasu
 - title: American Wagyu
-  desc: Tsuyahime rice, turnip, ramp
+  desc: Tsuyahime rice, egg yolk, allium
 course_3:
 - title: Smoked Cacao
   desc: nougatine, milk ice cream
