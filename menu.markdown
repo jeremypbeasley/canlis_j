@@ -24,12 +24,12 @@ course_2:
 - title: American Wagyu
   desc: Tsuyahime rice, egg yolk, allium
 course_3:
-- title: Smoked Cacao
-  desc: nougatine, milk ice cream
+- title: Mille Feuille
+  desc: smoked pecan, frozen whip, molasses curd
 - title: Vanilla Bean Parfait
   desc: cherry sorbet, dark chocolate, hazelnut
 - title: Maja Blanca
-  desc: peach, rum, corn, shiso
+  desc: fig, rum, corn, shiso
 - title: "—"
   desc: 
 - title: 'Canlis Salad '
