@@ -29,7 +29,7 @@ course_3:
 - title: Vanilla Bean Parfait
   desc: cherry sorbet, dark chocolate, hazelnut
 - title: Maja Blanca
-  desc: fig, rum, corn, shiso
+  desc: fig, rum, corn
 - title: "—"
   desc: 
 - title: 'Canlis Salad '
