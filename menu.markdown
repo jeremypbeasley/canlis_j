@@ -26,8 +26,8 @@ course_2:
 course_3:
 - title: Mille Feuille
   desc: smoked pecan, frozen whip, molasses curd
-- title: Vanilla Bean Parfait
-  desc: cherry sorbet, dark chocolate, hazelnut
+- title: Whole Orange Cake
+  desc: cranberry sorbet, koji sorbet, Szechuan
 - title: Maja Blanca
   desc: fig, rum, corn
 - title: "—"
