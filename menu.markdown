@@ -24,12 +24,12 @@ course_2:
 - title: American Wagyu
   desc: Tsuyahime rice, egg yolk, allium
 course_3:
-- title: Mille Feuille
-  desc: smoked pecan, frozen whip, molasses curd
-- title: Whole Orange Cake
-  desc: cranberry sorbet, koji sorbet, Szechuan
-- title: Maja Blanca
-  desc: fig, rum, corn
+- title: Pecanlis Pie
+  desc: smoked pecan, frozen whip, molasses
+- title: Orange Cake
+  desc: cranberry and koji sorbets, Szechuan
+- title: Figgy Toffee Pudding
+  desc: mulled port and chocolate
 - title: "—"
   desc: 
 - title: 'Canlis Salad '
