@@ -12,8 +12,8 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
 course_1:
 - title: Sablefish
   desc: hazelnut, yuzu, caviar
-- title: Eggplant Zurita
-  desc: shigoku oyster, peppers, apple
+- title: Winter Squash
+  desc: nori, sesame, leek
 - title: Lamb
   desc: sesame, nori, pickled daikon
 course_2:
