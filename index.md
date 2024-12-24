@@ -4,7 +4,7 @@ is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
 alert_text: "✨ We are open Dec 27-31st ✨"
 alert_link: 
-alert_color: "#000000"
+alert_color: "#c0deb2"
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
 og_desc: Seattle's landmark fine-dining destination for 70 years and recent home to
