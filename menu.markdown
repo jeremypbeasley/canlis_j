@@ -10,7 +10,7 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
   your risk of foodborne illness. It may also increase your chances of having a great
   time."
 course_1:
-- title: Sablefish
+- title: Sturgeon
   desc: hazelnut, yuzu, caviar
 - title: Winter Squash
   desc: nori, sesame, leek
