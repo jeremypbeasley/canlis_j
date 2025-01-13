@@ -2,9 +2,9 @@
 title: Videos
 date: 2020-03-12 16:25:00 -07:00
 items:
-- title: Exterior 01 (JPG)
+- title: '4,300 Miles: A Canlis Story'
   thumbnail: "/uploads/moonrise_01.jpg"
-  link: "/uploads/moonrise_01.jpg"
+  link: https://www.youtube.com/watch?v=InJGai0RP7s&t=1s
 - title: Exterior 02 (JPG)
   thumbnail: "/uploads/tree.jpg"
   link: "/uploads/tree.jpg"
@@ -49,4 +49,3 @@ og_photo: "/uploads/canlis_logo_black_media.jpg"
 layout: media
 ---
 
-Assets and photographs for press and media. <br><br>If you can't find what you're looking for, please email Abby Lewis at [abby@canlis.com](mailto:abby@canlis.com).
