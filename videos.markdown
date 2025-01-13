@@ -5,9 +5,9 @@ items:
 - title: '4,300 Miles: A Canlis Story'
   thumbnail: "/uploads/Artboard222.jpg"
   link: https://www.youtube.com/watch?v=InJGai0RP7s&t=1s
-- title: Exterior 02 (JPG)
+- title: 'BECOMING: Helping employees discover who they want to be (Faith & Co)'
   thumbnail: "/uploads/tree.jpg"
-  link: "/uploads/tree.jpg"
+  link: https://www.youtube.com/watch?v=1ktTS9Msaj0
 - title: Canlis Logo (Black, JPG)
   thumbnail: "/uploads/canlis_logo_black_media.jpg"
   link: "/uploads/canlis_logo_black_media.jpg"
