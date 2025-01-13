@@ -6,7 +6,7 @@ items:
   thumbnail: "/uploads/Artboard222.jpg"
   link: https://www.youtube.com/watch?v=InJGai0RP7s&t=1s
 - title: 'BECOMING: Helping employees discover who they want to be (Faith & Co)'
-  thumbnail: "/uploads/tree.jpg"
+  thumbnail: "/uploads/Artboard%20Copy-c732f3.jpg"
   link: https://www.youtube.com/watch?v=1ktTS9Msaj0
 - title: Canlis Logo (Black, JPG)
   thumbnail: "/uploads/canlis_logo_black_media.jpg"
