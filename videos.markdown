@@ -1,5 +1,5 @@
 ---
-title: Media
+title: Videos
 date: 2020-03-12 16:25:00 -07:00
 items:
 - title: Exterior 01 (JPG)
