@@ -20,6 +20,9 @@ items:
 - title: 'I Know Your Name - Brian Canlis (Welcome Conference 2019) '
   thumbnail: "/uploads/Artboard%20Copy%205-24a82c.jpg"
   link: https://www.youtube.com/watch?v=iESB3VUPmOI
+- title: 'Tastemade: [Re]Generation | Canlis'
+  thumbnail: "/uploads/Artboard%20Copy%205-5eeb0d.jpg"
+  link: https://www.youtube.com/watch?v=X0XkVCnCyV0
 og_desc: Many years of videos, produced by us and our friends, telling the Canlis
   story from many different perspectives.
 og_photo: "/uploads/Artboard222.jpg"
