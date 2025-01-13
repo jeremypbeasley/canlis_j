@@ -11,6 +11,15 @@ items:
 - title: Inside Canlis Restaurant Seattle | Mark & Brian Canlis | STAUB
   thumbnail: "/uploads/Artboard%20Copy%202.jpg"
   link: https://www.youtube.com/watch?v=XvHCA8LbJY8
+- title: 'Welcome to School: A Canlis Community College Announcement '
+  thumbnail: "/uploads/Artboard%20Copy%203.jpg"
+  link: https://www.youtube.com/watch?v=Ust8onOrk6c
+- title: The Canlis Kids Show (Playlist)
+  thumbnail: "/uploads/Artboard%20Copy%204.jpg"
+  link: https://www.youtube.com/watch?v=THMvGNKyQPc
+- title: 'I Know Your Name - Brian Canlis (Welcome Conference 2019) '
+  thumbnail: "/uploads/Artboard%20Copy%205-24a82c.jpg"
+  link: https://www.youtube.com/watch?v=iESB3VUPmOI
 og_desc: Many years of videos, produced by us and our friends, telling the Canlis
   story from many different perspectives.
 og_photo: "/uploads/Artboard222.jpg"
