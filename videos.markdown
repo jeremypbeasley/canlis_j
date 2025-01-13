@@ -3,7 +3,7 @@ title: Videos
 date: 2020-03-12 16:25:00 -07:00
 items:
 - title: '4,300 Miles: A Canlis Story'
-  thumbnail: "/uploads/moonrise_01.jpg"
+  thumbnail: "/uploads/Artboard222.jpg"
   link: https://www.youtube.com/watch?v=InJGai0RP7s&t=1s
 - title: Exterior 02 (JPG)
   thumbnail: "/uploads/tree.jpg"
