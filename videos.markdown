@@ -2,6 +2,9 @@
 title: Videos
 date: 2020-03-12 16:25:00 -07:00
 items:
+- title: 10 Ways To Stay In Business (When You're Not In Business)
+  thumbnail: "/uploads/Artboard%20Copy%207.jpg"
+  link: https://youtu.be/aLjHQzE_xMo
 - title: '4,300 Miles: A Canlis Story'
   thumbnail: "/uploads/Artboard222.jpg"
   link: https://www.youtube.com/watch?v=InJGai0RP7s&t=1s
