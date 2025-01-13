@@ -8,44 +8,12 @@ items:
 - title: 'BECOMING: Helping employees discover who they want to be (Faith & Co)'
   thumbnail: "/uploads/Artboard%20Copy-c732f3.jpg"
   link: https://www.youtube.com/watch?v=1ktTS9Msaj0
-- title: Canlis Logo (Black, JPG)
-  thumbnail: "/uploads/canlis_logo_black_media.jpg"
-  link: "/uploads/canlis_logo_black_media.jpg"
-- title: Canlis Logo (White, JPG)
-  thumbnail: "/uploads/canlis_logo_white_media.jpg"
-  link: "/uploads/canlis_logo_white_media.jpg"
-- title: Canlis Logo (Black, Vector)
-  thumbnail: "/uploads/canlis_logo_white_media.jpg"
-  link: "/uploads/canlis_logo_white_media_pdf.pdf"
-- title: Canlis Logo (Black, PNG Transparent)
-  thumbnail: "/uploads/canlis_logo_white_media.jpg"
-  link: "/uploads/canlis_logo_white_media_pdf-(1).png"
-- title: Executive Chef Aisha Ibrahim
-  thumbnail: "/uploads/Chef.jpg"
-  link: "/uploads/Chef.jpg"
-- title: Executive Chef Aisha Ibrahim
-  thumbnail: "/uploads/Chef2.jpg"
-  link: "/uploads/Chef2.jpg"
-- title: "—"
-  thumbnail: "/uploads/Rolls.jpg"
-  link: "/uploads/Rolls.jpg"
-- title: "—"
-  thumbnail: "/uploads/Mushroom.jpg"
-  link: "/uploads/Mushroom.jpg"
-- title: "—"
-  thumbnail: "/uploads/Beef-225c02.jpg"
-  link: "/uploads/Beef-225c02.jpg"
-- title: "—"
-  thumbnail: "/uploads/Crab-2c9327.jpg"
-  link: "/uploads/Crab-2c9327.jpg"
-- title: "—"
-  thumbnail: "/uploads/P1400694%20(1).JPG"
-  link: "/uploads/P1400694%20(1).JPG"
-- title: "—"
-  thumbnail: "/uploads/P1400731-4014c4.JPG"
-  link: "/uploads/P1400731-4014c4.JPG"
-og_desc: Assets and photographs for press and media.
-og_photo: "/uploads/canlis_logo_black_media.jpg"
+- title: Inside Canlis Restaurant Seattle | Mark & Brian Canlis | STAUB
+  thumbnail: "/uploads/Artboard%20Copy%202.jpg"
+  link: https://www.youtube.com/watch?v=XvHCA8LbJY8
+og_desc: Many years of videos, produced by us and our friends, telling the Canlis
+  story from many different perspectives.
+og_photo: "/uploads/Artboard222.jpg"
 layout: media
 ---
 
