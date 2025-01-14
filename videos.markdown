@@ -26,6 +26,9 @@ items:
 - title: 'Tastemade: [Re]Generation | Canlis'
   thumbnail: "/uploads/Artboard%20Copy%205-5eeb0d.jpg"
   link: https://www.youtube.com/watch?v=X0XkVCnCyV0
+- title: Kenlis Party - Highlight Reel
+  thumbnail: "/uploads/Artboard%20Copy%208.jpg"
+  link: https://www.instagram.com/p/C_yvhtkiLpd/
 og_desc: Many years of videos, produced by us and our friends, telling the Canlis
   story from many different perspectives.
 og_photo: "/uploads/Artboard222.jpg"
