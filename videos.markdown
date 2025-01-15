@@ -18,7 +18,7 @@ items:
   thumbnail: "/uploads/Artboard%20Copy%203.jpg"
   link: https://www.youtube.com/watch?v=Ust8onOrk6c
 - title: The Canlis Kids Show (Playlist)
-  thumbnail: "/uploads/Artboard%20Copy%204.jpg"
+  thumbnail: "/uploads/bros.jpg"
   link: https://www.youtube.com/watch?v=THMvGNKyQPc
 - title: 'I Know Your Name - Brian Canlis (Welcome Conference 2019) '
   thumbnail: "/uploads/Artboard%20Copy%205-24a82c.jpg"
