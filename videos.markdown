@@ -6,7 +6,7 @@ items:
   thumbnail: "/uploads/Artboard%20Copy%207.jpg"
   link: https://youtu.be/aLjHQzE_xMo
 - title: '4,300 Miles: A Canlis Story'
-  thumbnail: "/uploads/Artboard222.jpg"
+  thumbnail: "/uploads/markdas.jpg"
   link: https://www.youtube.com/watch?v=InJGai0RP7s&t=1s
 - title: 'BECOMING: Helping employees discover who they want to be (Faith & Co)'
   thumbnail: "/uploads/Artboard%20Copy-c732f3.jpg"
