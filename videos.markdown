@@ -8,7 +8,7 @@ items:
 - title: '4,300 Miles: A Canlis Story'
   thumbnail: "/uploads/markdas.jpg"
   link: https://www.youtube.com/watch?v=InJGai0RP7s&t=1s
-- title: 'BECOMING: Helping employees discover who they want to be (Faith & Co)'
+- title: 'BECOMING: Helping Employees Discover Who They Want To Be'
   thumbnail: "/uploads/pensivestare.jpg"
   link: https://www.youtube.com/watch?v=1ktTS9Msaj0
 - title: Inside Canlis Restaurant Seattle | Mark & Brian Canlis | STAUB
