@@ -9,7 +9,7 @@ items:
   thumbnail: "/uploads/markdas.jpg"
   link: https://www.youtube.com/watch?v=InJGai0RP7s&t=1s
 - title: 'BECOMING: Helping employees discover who they want to be (Faith & Co)'
-  thumbnail: "/uploads/Artboard%20Copy-c732f3.jpg"
+  thumbnail: "/uploads/pensivestare.jpg"
   link: https://www.youtube.com/watch?v=1ktTS9Msaj0
 - title: Inside Canlis Restaurant Seattle | Mark & Brian Canlis | STAUB
   thumbnail: "/uploads/Artboard%20Copy%202.jpg"
