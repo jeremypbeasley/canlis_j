@@ -29,6 +29,9 @@ items:
 - title: Kenlis Party - Highlight Reel
   thumbnail: "/uploads/Artboard%20Copy%208.jpg"
   link: https://www.instagram.com/p/C_yvhtkiLpd/
+- title: How Seattle’s Most Famous Restaurant Does Teriyaki
+  thumbnail: "/uploads/chef-72943e.jpg"
+  link: https://www.youtube.com/watch?v=VY-hLR9UKcw
 og_desc: Many years of videos, produced by us and our friends, telling the Canlis
   story from many different perspectives.
 og_photo: "/uploads/Artboard222.jpg"
