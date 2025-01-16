@@ -21,7 +21,7 @@ items:
   thumbnail: "/uploads/kitchen.jpg"
   link: https://www.youtube.com/watch?v=THMvGNKyQPc
 - title: 'I Know Your Name - Brian Canlis (Welcome Conference 2019) '
-  thumbnail: "/uploads/Artboard%20Copy%205-24a82c.jpg"
+  thumbnail: "/uploads/slow.jpg"
   link: https://www.youtube.com/watch?v=iESB3VUPmOI
 - title: 'Tastemade: [Re]Generation | Canlis'
   thumbnail: "/uploads/Artboard%20Copy%205-5eeb0d.jpg"
