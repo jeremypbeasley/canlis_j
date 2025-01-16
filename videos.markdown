@@ -32,6 +32,9 @@ items:
 - title: How Seattle’s Most Famous Restaurant Does Teriyaki
   thumbnail: "/uploads/chef-72943e.jpg"
   link: https://www.youtube.com/watch?v=VY-hLR9UKcw
+- title: The Game's Not Up with Canlis
+  thumbnail: "/uploads/markkk.jpg"
+  link: https://www.youtube.com/watch?v=dQP-WCnt3_8
 og_desc: Many years of videos, produced by us and our friends, telling the Canlis
   story from many different perspectives.
 og_photo: "/uploads/Artboard222.jpg"
