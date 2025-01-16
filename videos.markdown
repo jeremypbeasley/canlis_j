@@ -35,6 +35,9 @@ items:
 - title: The Game's Not Up with Canlis
   thumbnail: "/uploads/markkk.jpg"
   link: https://www.youtube.com/watch?v=dQP-WCnt3_8
+- title: Aisha Ibrahim begins coveted executive chef role at Seattle's Canlis
+  thumbnail: "/uploads/kitchen222.jpg"
+  link: https://www.youtube.com/watch?v=PYFTceg-Zog
 og_desc: Many years of videos, produced by us and our friends, telling the Canlis
   story from many different perspectives.
 og_photo: "/uploads/Artboard222.jpg"
