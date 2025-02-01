@@ -17,8 +17,8 @@ course_1:
 - title: Lamb
   desc: sesame, nori, pickled daikon
 course_2:
-- title: Halibut
-  desc: smoked tomato, squid, tamari
+- title: Sea Bream
+  desc: Basque cider, chorizo, rutabaga
 - title: Mushroom Teriyaki
   desc: ramp, mochi, kasu
 - title: American Wagyu
