@@ -24,10 +24,10 @@ course_2:
 - title: American Wagyu
   desc: Tsuyahime rice, egg yolk, allium
 course_3:
-- title: Pecanlis Pie
-  desc: smoked pecan, frozen whip, molasses
-- title: Orange Cake
-  desc: cranberry and koji sorbets, Szechuan
+- title: Nula Pie
+  desc: hazelnut, chocolate, coffee
+- title: Citrus Parfait
+  desc: calamansi, kumquat, olive oil
 - title: Figgy Toffee Pudding
   desc: mulled port and chocolate
 - title: "—"
