@@ -11,18 +11,18 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
   time."
 course_1:
 - title: Sturgeon
-  desc: hazelnut, yuzu, caviar
+  desc: cultured cream, chive, rutabaga
 - title: Winter Squash
   desc: nori, sesame, leek
-- title: Lamb
-  desc: sesame, nori, pickled daikon
+- title: Duck
+  desc: daikon, endive, blood orange
 course_2:
 - title: Sea Bream
-  desc: Basque cider, chorizo, rutabaga
-- title: Mushroom Teriyaki
-  desc: ramp, mochi, kasu
+  desc: walla walla consume, black truffle
 - title: American Wagyu
-  desc: Tsuyahime rice, egg yolk, allium
+  desc: flank, jus
+- title: Cabbage
+  desc: smoked bean, shiitake
 course_3:
 - title: Nula Pie
   desc: hazelnut, chocolate, coffee
