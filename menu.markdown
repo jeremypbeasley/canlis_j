@@ -28,8 +28,8 @@ course_3:
   desc: hazelnut, chocolate, coffee
 - title: Citrus Parfait
   desc: calamansi, kumquat, olive oil
-- title: Figgy Toffee Pudding
-  desc: mulled port and chocolate
+- title: Apple Cruller
+  desc: brown butter, oat, rose
 - title: "—"
   desc: 
 - title: 'Canlis Salad '
