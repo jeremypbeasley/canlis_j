@@ -49,4 +49,4 @@ og_photo: "/uploads/canlis_logo_black_media.jpg"
 layout: media
 ---
 
-Assets and photographs for press and media. <br><br>If you can't find what you're looking for, please email Abby Lewis at [abby@canlis.com](mailto:abby@canlis.com).
+Assets and photographs for press and media. <br><br>If you can't find what you're looking for, please email Elisha Goldfarb at [elisha@canlis.com](mailto:elisha@canlis.com).
