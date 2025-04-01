@@ -6,7 +6,7 @@ layout: default
 
 <p class="Caption">Get a table</p>
 
-<p class="mb0 pb0"> Canlis is open Tuesday - Saturday evenings at 5:00pm. We are currently booking through the month of May. Reservations for June 2025 will be released on April 1st at noon. (PDT). </p>
+<p class="mb0 pb0"> Canlis is open Tuesday - Saturday evenings at 5:00pm. We are currently booking through the month of June. Reservations for July 2025 will be released on May 1st at noon. (PDT). </p>
 <p class="mt3 mb2 pb0"><a class="Button NoLine Caption" href="https://www.exploretock.com/canlis/" target="_blank">Reserve on Tock</a></p>
 
 <div class="Caption mb4 mt4">Dietary Restrictions</div>
