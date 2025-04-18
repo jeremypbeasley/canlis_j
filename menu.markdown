@@ -10,14 +10,14 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
   your risk of foodborne illness. It may also increase your chances of having a great
   time."
 course_1:
-- title: Sturgeon
+- title: Halibut
   desc: cultured cream, chive, rutabaga
 - title: Asparagus
   desc: crème fraîche, ramps, kombu
-- title: Duck
-  desc: daikon, endive, blood orange
+- title: Pork Belly
+  desc: brassica, pear, barley
 course_2:
-- title: Sea Bream
+- title: King Salmon
   desc: walla walla consume, black truffle
 - title: American Wagyu
   desc: flank, jus
