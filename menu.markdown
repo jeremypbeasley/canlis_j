@@ -18,7 +18,7 @@ course_1:
   desc: brassica, pear, barley
 course_2:
 - title: King Salmon
-  desc: walla walla consume, black truffle
+  desc: walla walla consume
 - title: American Wagyu
   desc: flank, jus
 - title: Cabbage
