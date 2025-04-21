@@ -30,15 +30,15 @@ section_2_link_text:
 section_2_link_url: 
 section_2_photo: "/uploads/kevin1.jpg"
 section_3_label: In the press
-section_3_headline: Executive Chef, <Br>Aisha Ibrahim
-section_3_body: Aisha was drawn to Seattle for the unparalleled quality of ingredients
-  from the forests, fisheries and farms of the Pacific Northwest. She plans to spend
-  her time at Canlis exploring the region’s Indigenous ingredients, the nuances of
-  its microseasons and the city’s historic role as a gateway to Asia.
-section_3_body_small: Elizabeth G. Dunn, New York Times
+section_3_headline: 'Canlis Ranked #2 Restaurant in America '
+section_3_body: 'In the Spring of 2025, Food & Wine Magazine reached out to more than
+  400 writers, chefs, and travel professionals to rank the best restaurants in America.
+  Canlis was ranked second! What an absolute honor to have a group of peers hold this
+  restaurant in such esteem.  '
+section_3_body_small: 
 section_3_link_text: Read more
-section_3_link_url: https://www.nytimes.com/2021/05/03/dining/canlis-chef-aisha-ibrahim.html
-section_3_photo: "/uploads/P1299163.jpg"
+section_3_link_url: https://www.foodandwine.com/top-united-states-restaurants-2025-11691726
+section_3_photo: "/uploads/P1400694%20(1).JPG"
 food_photo_1: "/uploads/menu_1.jpg"
 food_photo_2: "/uploads/menu_4.jpg"
 layout: home_fall_2021
