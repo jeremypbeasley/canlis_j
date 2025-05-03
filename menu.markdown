@@ -10,15 +10,15 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
   your risk of foodborne illness. It may also increase your chances of having a great
   time."
 course_1:
-- title: Halibut
-  desc: cultured cream, chive, rutabaga
+- title: King Salmon
+  desc: sunchoke, yogurt, meyer lemon
 - title: Asparagus
   desc: crème fraîche, ramps, kombu
 - title: Pork Belly
   desc: brassica, pear, barley
 course_2:
-- title: King Salmon
-  desc: walla walla consume
+- title: Halibut
+  desc: cultured cream, chive, rutabaga
 - title: American Wagyu
   desc: flank, jus
 - title: Cabbage
