@@ -23,9 +23,9 @@ items:
 - title: Executive Chef Aisha Ibrahim
   thumbnail: "/uploads/Chef.jpg"
   link: "/uploads/Chef.jpg"
-- title: Executive Chef Aisha Ibrahim
-  thumbnail: "/uploads/Chef2.jpg"
-  link: "/uploads/Chef2.jpg"
+- title: The Terry
+  thumbnail: "/uploads/Screenshot%202025-05-08%20at%2012.10.54%E2%80%AFPM.png"
+  link: "/uploads/Canlis_TheTerry_Large.pdf"
 - title: "—"
   thumbnail: "/uploads/Rolls.jpg"
   link: "/uploads/Rolls.jpg"
