@@ -20,9 +20,6 @@ items:
 - title: Canlis Logo (Black, PNG Transparent)
   thumbnail: "/uploads/canlis_logo_white_media.jpg"
   link: "/uploads/canlis_logo_white_media_pdf-(1).png"
-- title: Executive Chef Aisha Ibrahim
-  thumbnail: "/uploads/Chef.jpg"
-  link: "/uploads/Chef.jpg"
 - title: The Terry
   thumbnail: "/uploads/Screenshot%202025-05-08%20at%2012.10.54%E2%80%AFPM.png"
   link: "/uploads/Canlis_TheTerry_Large.pdf"
