@@ -19,10 +19,10 @@ course_1:
 course_2:
 - title: Halibut
   desc: cultured cream, chive, rutabaga
+- title: English Pea Flan
+  desc: morel, snap pea, mint
 - title: American Wagyu
   desc: flank, jus
-- title: Cabbage
-  desc: smoked bean, shiitake
 course_3:
 - title: Nula Pie
   desc: hazelnut, chocolate, coffee
