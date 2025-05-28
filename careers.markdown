@@ -14,10 +14,10 @@ section1:
     of your mother — whatever it was she said, try to remember — it’s going to help
     you get a job here.\n\nTo apply, please send a resume and cover letter to Andy
     Pelander at [work@canlis.com](mailto:work@canlis.com). Applications are reviewed
-    on Tuesdays and Fridays.\n\nRoles we are currently hiring for:<br>\nExecutive
-    Chef / Pay Range: $110-150k annually<br>\nPrep, Line, and Pastry Cooks / Pay Range:
-    $23-$26/hour<br>\nDining Room Service Team / Pay Range: $23-$50/hour<br>\nAll
-    positions include medical, dental, 401k, vacation, and dining benefits. "
+    on Wednesdays and Fridays.\n\nRoles we are currently hiring for:<br>\nPrep, Line,
+    and Pastry Cooks / Pay Range: $23-$26/hour<br>\nDining Room Service Team / Pay
+    Range: $23-$50/hour<br>\nAll positions include medical, dental, 401k, vacation,
+    and dining benefits. "
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place
