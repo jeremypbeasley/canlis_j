@@ -22,14 +22,14 @@ course_2:
 - title: English Pea Flan
   desc: morel, snap pea, mint
 - title: American Wagyu
-  desc: flank, jus
+  desc: kalbi, spring onion, sesame
 course_3:
 - title: Nula Pie
   desc: hazelnut, chocolate, coffee
 - title: Citrus Parfait
   desc: calamansi, kumquat, olive oil
-- title: Apple Cruller
-  desc: brown butter, oat, rose
+- title: Olive Oil Cake
+  desc: strawberry, buttermilk, shortbread
 - title: "—"
   desc: 
 - title: 'Canlis Salad '
