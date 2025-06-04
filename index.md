@@ -38,7 +38,7 @@ section_3_body: 'In the Spring of 2025, Food & Wine Magazine reached out to more
 section_3_body_small: 
 section_3_link_text: Read more
 section_3_link_url: https://www.foodandwine.com/top-united-states-restaurants-2025-11691726
-section_3_photo: "/uploads/P1400694%20(1).JPG"
+section_3_photo: "/uploads/flan.jpg"
 food_photo_1: "/uploads/menu_1.jpg"
 food_photo_2: "/uploads/menu_4.jpg"
 layout: home_fall_2021
