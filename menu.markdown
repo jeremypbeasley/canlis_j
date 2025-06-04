@@ -1,7 +1,7 @@
 ---
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
-og_photo: "/uploads/menuu.jpg"
+og_photo: "/uploads/pork.jpg"
 menu_cost: 180
 menu_description: We're serving a multi-course dining experience where you choose
   three of the courses (and we like to surprise you with several others).
