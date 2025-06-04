@@ -23,9 +23,24 @@ items:
 - title: The Terry (Black, Vector)
   thumbnail: "/uploads/Screenshot%202025-05-08%20at%2012.10.54%E2%80%AFPM.png"
   link: "/uploads/Canlis_TheTerry_Large.pdf"
-- title: 
-  thumbnail: 
-  link: 
+- title: Executive Chef, James Huffman
+  thumbnail: "/uploads/james.jpg"
+  link: "/uploads/james.jpg"
+- title: Wagyu wrapped oyster in the shell, with cheddar and caviar
+  thumbnail: "/uploads/oyster.jpg"
+  link: "/uploads/oyster.jpg"
+- title: 'Cured King salmon and sunchokes '
+  thumbnail: "/uploads/salmon.jpg"
+  link: "/uploads/salmon.jpg"
+- title: 'English pea flan with mint and morels '
+  thumbnail: "/uploads/flan.jpg"
+  link: "/uploads/flan.jpg"
+- title: 'Strawberries and olive oil cake '
+  thumbnail: "/uploads/strawberry.jpg"
+  link: "/uploads/strawberry.jpg"
+- title: Charred pork belly with pear consommé
+  thumbnail: "/uploads/pork.jpg"
+  link: "/uploads/pork.jpg"
 og_desc: Assets and photographs for press and media.
 og_photo: "/uploads/canlis_logo_black_media.jpg"
 layout: media
