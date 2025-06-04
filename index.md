@@ -39,8 +39,8 @@ section_3_body_small:
 section_3_link_text: Read more
 section_3_link_url: https://www.foodandwine.com/top-united-states-restaurants-2025-11691726
 section_3_photo: "/uploads/flan.jpg"
-food_photo_1: "/uploads/menu_1.jpg"
-food_photo_2: "/uploads/menu_4.jpg"
+food_photo_1: "/uploads/strawberry.jpg"
+food_photo_2: "/uploads/pork.jpg"
 layout: home_fall_2021
 ---
 
