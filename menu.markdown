@@ -12,8 +12,8 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
 course_1:
 - title: King Salmon
   desc: sunchoke, yogurt, meyer lemon
-- title: Asparagus
-  desc: crème fraîche, ramps, kombu
+- title: Summer Squash
+  desc: apricot, goat cheese, tarragon
 - title: Pork Belly
   desc: brassica, pear, barley
 course_2:
@@ -24,10 +24,10 @@ course_2:
 - title: American Wagyu
   desc: kalbi, spring onion, sesame
 course_3:
-- title: Nula Pie
-  desc: hazelnut, chocolate, coffee
+- title: Cherry Bomb
+  desc: hazelnut, chocolate, bing cherries
 - title: Citrus Parfait
-  desc: calamansi, kumquat, olive oil
+  desc: calamansi, yuzu, olive oil
 - title: Olive Oil Cake
   desc: strawberry, buttermilk, shortbread
 - title: "—"
