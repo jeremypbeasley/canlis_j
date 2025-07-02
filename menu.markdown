@@ -21,8 +21,8 @@ course_2:
   desc: cultured cream, chive, rutabaga
 - title: English Pea Flan
   desc: morel, snap pea, mint
-- title: American Wagyu
-  desc: kalbi, spring onion, sesame
+- title: Niman Ranch Kalbi Beef
+  desc: '"kalua" spring onion and sesame'
 course_3:
 - title: Cherry Bomb
   desc: hazelnut, chocolate, bing cherries
