@@ -9,13 +9,15 @@ layout: default
 <p class="mb0 pb0"> Canlis is open Tuesday - Saturday evenings at 5:00pm. We are currently booking through the month of September. Reservations for October 2025 will be released on August 1st at noon. (PDT). </p>
 <p class="mt3 mb2 pb0"><a class="Button NoLine Caption" href="https://www.exploretock.com/canlis/" target="_blank">Reserve on Tock</a></p>
 
-<div class="Caption mb4 mt4">Dietary Restrictions</div>
+<div class="Caption mb4 mt4">Food Allergies</div>
 
-<p class="mb2 pb0">To serve you as safely as we can, we ask that you indicate any serious dietary restrictions when booking your reservation. Please note that alliums, salt, soy, sugar, and seaweed cannot be removed from the menu at this time. We try our best to accommodate other allergies but do not modify dishes or recipes during service.</p>
+<p class="mb2 pb0">At Canlis, we understand and respect the importance of accommodating guests with food allergies or intolerances. While we take every precaution to honor dietary requirements and minimize the risk of cross-contact, we must inform you that our kitchen handles a wide variety of ingredients and despite our best efforts, we cannot guarantee that cross-contact with allergens has not occurred in our kitchen or before the ingredients arrived in our kitchen. We encourage guests with severe food allergies to exercise their discretion and inform our staff of their dietary needs. Our team will gladly provide information about the ingredients used in our dishes and offer alternative options whenever possible.</p>
 
-<p class="mb2 pb0">Set menus for vegetarian, vegan, gluten-free, and dairy-free guests are always available. These menus are built by our kitchen team nightly and we are unable to share them ahead of time.</p>
+<p class="mb2 pb0"> With this in mind, please be aware that consuming our food is done at your own risk, and Canlis cannot be held liable for any adverse reactions that may occur. The well-being of our staff and guests remains our highest priority–thank you for helping us do this well.</p>
 
-<p class="mb2 pb0">For those with severe or complex dietary restrictions, please reach out directly to discuss if we can accommodate your needs before booking a reservation.</p> 
+<div class="Caption mb4 mt4">Specific Dietary Requests/div>
+
+<p class="mb2 pb0">We are pleased to offer modifications for vegetarian, vegan, dairy-free, and gluten-free diets. Please note, however, that alliums, salt, sugar, and vinegar are integral to our menu and cannot be removed. Requests to avoid these ingredients may result in the omission of certain courses.</p>
 
 <p class="Caption mt4">Attire</p>
 
