@@ -15,7 +15,7 @@ layout: default
 
 <p class="mb2 pb0"> With this in mind, please be aware that consuming our food is done at your own risk, and Canlis cannot be held liable for any adverse reactions that may occur. The well-being of our staff and guests remains our highest priority–thank you for helping us do this well.</p>
 
-<div class="Caption mb4 mt4">Specific Dietary Requests/div>
+<div class="Caption mb4 mt4">Specific Dietary Requests</div>
 
 <p class="mb2 pb0">We are pleased to offer modifications for vegetarian, vegan, dairy-free, and gluten-free diets. Please note, however, that alliums, salt, sugar, and vinegar are integral to our menu and cannot be removed. Requests to avoid these ingredients may result in the omission of certain courses.</p>
 
