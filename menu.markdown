@@ -10,8 +10,8 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
   your risk of foodborne illness. It may also increase your chances of having a great
   time."
 course_1:
-- title: King Salmon
-  desc: sunchoke, yogurt, meyer lemon
+- title: Corn
+  desc: albacore tuna, green tomato, chili
 - title: Summer Squash
   desc: apricot, goat cheese, tarragon
 - title: Pork Belly
@@ -26,8 +26,8 @@ course_2:
 course_3:
 - title: Cherry Bomb
   desc: hazelnut, chocolate, bing cherries
-- title: Citrus Parfait
-  desc: calamansi, yuzu, olive oil
+- title: Blueberry Halo Halo
+  desc: buckwheat, leche flan, elderflower
 - title: Olive Oil Cake
   desc: strawberry, buttermilk, shortbread
 - title: "—"
