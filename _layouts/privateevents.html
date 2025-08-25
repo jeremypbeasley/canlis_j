@@ -2,12 +2,41 @@
 
 {{ page.content }}
 
+
+
+
 <div class="Intro">
   <h1 class="Display1">{{ page.headline }}</h1>
 </div>
+
+{% for room in page.course_1 %}
+  <h1>{{ room.title }}</h1>
+  {% for photo in room.photos %}
+    <img src="{{ room.photos.photo_1 }}" alt="">
+  {% endfor %}
+{% endfor %}
+
+
+<section id="image-carousel" class="splide" aria-label="Beautiful Images">
+  <div class="splide__track">
+    <ul class="splide__list">
+      <li class="splide__slide">
+        <img src="/uploads/kevin_exec.jpg" alt="">
+      </li>
+      <li class="splide__slide">
+        <img src="/uploads/kevin_exec.jpg" alt="">
+      </li>
+      <li class="splide__slide">
+        <img src="/uploads/kevin_exec.jpg" alt="">
+      </li>
+    </ul>
+  </div>
+</section>
+
+
 <div class="row">
   <div class="column col-xs-12 col-md-12">
-    <img class="PrivateEventsPhoto3" src="/uploads/kevin_exec.jpg">
+
   </div>
   <div class="column col-xs-12 col-md-4  col-md-offset-2">
     <div class="Display2 mt10 mb4"><i>The Executive Room</i></div>
@@ -20,6 +49,14 @@
     <p class="mt0 mb10 d-mb0"><a href="/uploads/canlis_privateevents.pdf">Download Packet (PDF)</a></p>
   </div>
 </div>
+
+
+
+<script>
+  document.addEventListener( 'DOMContentLoaded', function () {
+    new Splide( '#image-carousel' ).mount();
+  } );
+</script>
 
 <div class="row">
   <div class="column col-xs-12 col-md-12">
