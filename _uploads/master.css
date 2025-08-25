@@ -2296,6 +2296,20 @@ footer a {
   width: 100%;
   height: auto;
 }
+.splide__arrow {
+  background: none !important;
+  position: absolute;
+  transform: scale(0.8);
+}
+.splide__arrow--prev {
+  left: -3.5em;
+}
+.splide__arrow--next {
+  right: -3.5em;
+}
+.splide__arrow:focus-visible {
+  outline: none;
+}
 @-moz-keyframes popup {
   0% {
     transform: translateY(100px);
