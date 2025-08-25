@@ -7,53 +7,24 @@ headline: |-
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;private<Br>
     &nbsp;&nbsp;&nbsp;dining suites.<Br>
 headline_mobile: Seattle's premiere private dining suites.
-course_1:
-- title: King Salmon
-  desc: sunchoke, yogurt, meyer lemon
-  photos:
-  - title: "TITLE"
-    url: "/uploads/E8EDB6A1-DCCD-4178-B7DA-79A90D5B4300.JPG"
-  - title: "TITLE"
-    url: "/uploads/E94A3F01-AC5B-41E0-98FB-066B307B592E.JPG"
-  - title: "TITLE"
-    url: "/uploads/4DAA8BA2-DD11-4F26-A8C4-92890345F90C.JPG"
-- title: Summer Squash
-  desc: apricot, goat cheese, tarragon
-  photos:
-  - title: "TITLE"
-    url: "/uploads/E8EDB6A1-DCCD-4178-B7DA-79A90D5B4300.JPG"
-  - title: "TITLE"
-    url: "/uploads/E94A3F01-AC5B-41E0-98FB-066B307B592E.JPG"
-  - title: "TITLE"
-    url: "/uploads/4DAA8BA2-DD11-4F26-A8C4-92890345F90C.JPG"
-- title: Pork Belly
-photos:
-- title: "TITLE"
-  url: "/uploads/E8EDB6A1-DCCD-4178-B7DA-79A90D5B4300.JPG"
-- title: "TITLE"
-  url: "/uploads/E94A3F01-AC5B-41E0-98FB-066B307B592E.JPG"
-- title: "TITLE"
-  url: "/uploads/4DAA8BA2-DD11-4F26-A8C4-92890345F90C.JPG"
 rooms:
-  - room_1:
-    - title: ROOM ONE TITLE
-      desc: "Over 400 square feet of warmth and comfort. This private space is on our main level and features a fireplace and North and East views of Lake Union and the Cascade Mountains through 10’ high windows."
-      capacity: "Seated dinner capacity, 6 - 24
-  Cocktail reception capacity, 12 - 30"
-      packet_link: /uploads/canlis_privateevents.pdf
-      photos:
-        photo_1: "/uploads/E8EDB6A1-DCCD-4178-B7DA-79A90D5B4300.JPG"
-        photo_2: "/uploads/E94A3F01-AC5B-41E0-98FB-066B307B592E.JPG"
-        photo_3: "/uploads/4DAA8BA2-DD11-4F26-A8C4-92890345F90C.JPG"
-  - room_2:
-    - title: ROOM TWO TITLE
-      desc: "Over 400 square feet of warmth and comfort. This private space is on our main level and features a fireplace and North and East views of Lake Union and the Cascade Mountains through 10’ high windows."
-      capacity: "Seated dinner capacity, 6 - 24
-  Cocktail reception capacity, 12 - 30"
-      packet_link: /uploads/canlis_privateevents.pdf
-      photos:
-        photo_1: "/uploads/E8EDB6A1-DCCD-4178-B7DA-79A90D5B4300.JPG"
-        photo_2: "/uploads/E94A3F01-AC5B-41E0-98FB-066B307B592E.JPG"
-        photo_3: "/uploads/4DAA8BA2-DD11-4F26-A8C4-92890345F90C.JPG"
+- title: Penthouse
+  desc: "Originally built as our grandfather’s residence, the Penthouse sits above our dining room and is approximately 1500 square feet. It features a full service bar, dining room views, wrap-around views of Lake Union and the Cascade Mountains, and a baby grand piano."
+  capacity: "Seated dinner capacity, 25 - 80. Cocktail reception capacity, 25 - 110"
+  packet_link: /uploads/canlis_privateevents.pdf
+  photos:
+  - path: "/uploads/DSCF0691-2.jpg"
+  - path: "/uploads/DSCF0708-2.jpg"
+  - path: "/uploads/DSCF0765-2.jpg"
+  - path: "/uploads/DSCF0754.jpg"
+  - path: "/uploads/DSCF0750.jpg"
+- title: The Executive Room
+  desc: "Over 400 square feet of warmth and comfort. This private space is on our main level and features a fireplace and North and East views of Lake Union and the Cascade Mountains through 10’ high windows."
+  capacity: "Seated dinner capacity, 6 - 24. Cocktail reception capacity, 12 - 30"
+  packet_link: /uploads/canlis_privateevents.pdf
+  photos:
+  - path: "/uploads/DSCF0502-2.jpg"
+  - path: "/uploads/DSCF0520-2.jpg"
+  - path: "/uploads/DSCF0540-2.jpg"
 layout: privateevents
 ---

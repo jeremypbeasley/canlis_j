@@ -2,78 +2,38 @@
 
 {{ page.content }}
 
-
-
-
 <div class="Intro">
   <h1 class="Display1">{{ page.headline }}</h1>
 </div>
 
-{% for room in page.course_1 %}
-  <h1>{{ room.title }}</h1>
-  {% for photo in room.photos %}
-    <img src="{{ room.photos.photo_1 }}" alt="">
-  {% endfor %}
+
+{% for room in page.rooms %}
+  <div class="row">
+    <div class="column col-xs-12 col-md-12">
+      <section id="image-carousel" class="splide" aria-label="Beautiful Images">
+        <div class="splide__track">
+          <ul class="splide__list">
+            {% for photo in room.photos %}
+            <li class="splide__slide">
+                <img src="{{ photo.path }}" alt="">
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </section>
+    </div>
+    <div class="column col-xs-12 col-md-4 col-md-offset-2">
+      <div class="Display2 mt10 mb4"><i>{{ room.title }}</i></div>
+      <p class="Display2">{{ room.desc }}</p>
+    </div>
+    <div class="column col-xs-12 col-md-4">
+      <div class="Divider d-mt10 mb6"></div>
+      {{ room.capacity | markdownify }}
+      <p><a href="{{ room.packet_link }}" target="_blank">Download the packet</a></p>
+    </div>
+  </div>
 {% endfor %}
 
-
-<section id="image-carousel" class="splide" aria-label="Beautiful Images">
-  <div class="splide__track">
-    <ul class="splide__list">
-      <li class="splide__slide">
-        <img src="/uploads/kevin_exec.jpg" alt="">
-      </li>
-      <li class="splide__slide">
-        <img src="/uploads/kevin_exec.jpg" alt="">
-      </li>
-      <li class="splide__slide">
-        <img src="/uploads/kevin_exec.jpg" alt="">
-      </li>
-    </ul>
-  </div>
-</section>
-
-
-<div class="row">
-  <div class="column col-xs-12 col-md-12">
-
-  </div>
-  <div class="column col-xs-12 col-md-4  col-md-offset-2">
-    <div class="Display2 mt10 mb4"><i>The Executive Room</i></div>
-    <p class="Display2">Over 400 square feet of warmth and comfort. This private space is on our main level and features a fireplace and North and East views of Lake Union and the Cascade Mountains through 10’ high windows.</p>
-  </div>
-  <div class="column col-xs-12 col-md-4 ">
-    <div class="Divider d-mt10 mb6"></div>
-    <p>Seated dinner capacity, 6 - 24 <br>
-      Cocktail reception capacity, 12 - 30</p>
-    <p class="mt0 mb10 d-mb0"><a href="/uploads/canlis_privateevents.pdf">Download Packet (PDF)</a></p>
-  </div>
-</div>
-
-
-
-<script>
-  document.addEventListener( 'DOMContentLoaded', function () {
-    new Splide( '#image-carousel' ).mount();
-  } );
-</script>
-
-<div class="row">
-  <div class="column col-xs-12 col-md-12">
-    <img class="PrivateEventsPhoto3 " src="/uploads/kevin_pent3.jpg">
-  </div>
-  <div class="column col-xs-12 col-md-4 col-md-offset-2">
-    <div class="Display2 mt10 mb4"><i>The Penthouse</i></div>
-    <p class="Display2">Originally built as our grandfather’s residence,
-the Penthouse sits above our dining room and is approximately 1500 square feet. It features a full service bar, dining room views, wrap-around views of Lake Union and the Cascade Mountains, and a baby grand piano.</p>
-  </div>
-  <div class="column col-xs-12 col-md-4">
-    <div class="Divider d-mt10 mb6"></div>
-    <p>Seated dinner capacity, 25 - 80 <br>
-      Cocktail reception capacity, 25 - 110</p>
-    <p class="mt0 mb10 d-mb0"><a href="/uploads/canlis_privateevents.pdf">Download Packet (PDF)</a></p>
-  </div>
-</div>
 
 <div class="row">
   <div class="column col-xs-12">
@@ -100,13 +60,37 @@ palcon.init("14466f6b-4188-416b-9da9-61cb251cd321");</script>
   </div>
 </div>
 
-<!-- <div class="row AlignCenter PrivateEventsOutro tall">
-  <div class="column col-xs-12 col-md-6 col-md-offset-2">
-    <h2 class="Display1 mb6">{{ page.outro.headline }}</h2>
-    <script src="https://api.tripleseat.com/v1/leads/ts_script.js?lead_form_id=17712&public_key=0a5b7bc28d470e968cc1c0a2c834135bf9660e03"></script>
-  </div>
-  <div class="column col-xs-12 col-md-4">
-  </div>
-</div> -->
+<script>
+  var splides = document.querySelectorAll('.splide');
+// 1. query slider elements: are there any splide elements?
+if(splides.length){
+    // 2. process all instances
+    for(var i=0; i<splides.length; i++){
+        var splideElement = splides[i];
+        //3.1 if no options are defined by 'data-splide' attribute: take these default options
+        var splideDefaultOptions =
+        {
+            type   : 'slide',
+            rewind: true,
+            perPage: 1,
+            autoplay:false,
+            arrows:true,
+            pagination:true,
+            drag:true,
+            keyboard:true,
+            heightRatio: 0.75,
+            cover: true,
+        }
+        /**
+        * 3.2 if options are defined by 'data-splide' attribute: default options will we overridden
+        * see documentation: https://splidejs.com/guides/options/#by-data-attribute
+        **/
+
+        var splide = new Splide( splideElement, splideDefaultOptions );
+        // 3. mount/initialize this slider
+        splide.mount();
+    }
+}
+</script>
 
 {% include footer.html %}
