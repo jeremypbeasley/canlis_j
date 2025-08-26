@@ -10,8 +10,8 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
   your risk of foodborne illness. It may also increase your chances of having a great
   time."
 course_1:
-- title: King Salmon
-  desc: sunchoke, yogurt, meyer lemon
+- title: Corn
+  desc: albacore tuna, green tomato, chili
 - title: Summer Squash
   desc: apricot, goat cheese, tarragon
 - title: Pork Belly
@@ -26,8 +26,8 @@ course_2:
 course_3:
 - title: Cherry Bomb
   desc: hazelnut, chocolate, bing cherries
-- title: Citrus Parfait
-  desc: calamansi, yuzu, olive oil
+- title: Blueberry Halo Halo
+  desc: buckwheat, leche flan, elderflower
 - title: Olive Oil Cake
   desc: strawberry, buttermilk, shortbread
 - title: "—"
@@ -36,10 +36,10 @@ course_3:
   desc: The original! If you would like an additional course from our 1950 menu, these
     are prepared tableside for the entire party. +$20 per person
 plates:
-  plate1: "/uploads/E8EDB6A1-DCCD-4178-B7DA-79A90D5B4300.JPG"
-  plate2: "/uploads/E94A3F01-AC5B-41E0-98FB-066B307B592E.JPG"
-  plate3: "/uploads/4DAA8BA2-DD11-4F26-A8C4-92890345F90C.JPG"
-  plate4: "/uploads/CC30E773-1804-47ED-8971-957543924A7D.JPG"
+  plate1: "/uploads/4DAA8BA2-DD11-4F26-A8C4-92890345F90C.JPG"
+  plate2: "/uploads/CC30E773-1804-47ED-8971-957543924A7D.JPG"
+  plate3: "/uploads/E8EDB6A1-DCCD-4178-B7DA-79A90D5B4300.JPG"
+  plate4: "/uploads/E94A3F01-AC5B-41E0-98FB-066B307B592E.JPG"
 menu_date: "—"
 layout: menu
 ---
