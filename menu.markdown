@@ -31,7 +31,7 @@ course_3:
 - title: Olive Oil Cake
   desc: strawberry, buttermilk, shortbread
 - title: "—"
-  desc:
+  desc: 
 - title: 'Canlis Salad '
   desc: The original! If you would like an additional course from our 1950 menu, these
     are prepared tableside for the entire party. +$20 per person
@@ -43,3 +43,4 @@ plates:
 menu_date: "—"
 layout: menu
 ---
+
