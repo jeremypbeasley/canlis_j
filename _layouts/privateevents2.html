@@ -1,0 +1,96 @@
+{% include head.html %}
+
+{{ page.content }}
+
+<div class="Intro">
+  <h1 class="Display1">{{ page.headline }}</h1>
+</div>
+
+
+{% for room in page.rooms %}
+  <div class="row">
+    <div class="column col-xs-12 col-md-12">
+      <section id="image-carousel" class="splide" aria-label="Beautiful Images">
+        <div class="splide__track">
+          <ul class="splide__list">
+            {% for photo in room.photos %}
+            <li class="splide__slide">
+                <img src="{{ photo.path }}" alt="">
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </section>
+    </div>
+    <div class="column col-xs-12 col-md-4 col-md-offset-2">
+      <div class="Display2 mt10 mb4"><i>{{ room.title }}</i></div>
+      <p class="Display2">{{ room.desc }}</p>
+    </div>
+    <div class="column col-xs-12 col-md-4">
+      <div class="Divider d-mt10 mb6"></div>
+      {{ room.capacity | markdownify }}
+      <p><a href="{{ room.packet_link }}" target="_blank">Download the packet</a></p>
+    </div>
+  </div>
+{% endfor %}
+
+
+<div class="row">
+  <div class="column col-xs-12">
+    <div class="Divider"></div>
+  </div>
+  <div class="column col-xs-12 col-md-2 col-md-offset-2 mt10 pdf_preview">
+    <a class="NoLine" target="_blank" href="/uploads/canlis_privateevents.pdf"><img class="" src="/uploads/pdf_preview.png"/></a>
+  </div>
+  <div class="column col-xs-12 col-md-4">
+    <div class="Caption mt10 mb4">More info</div>
+    <p>Many questions may be answered by our packet. Download it <a target="_blank" href="/uploads/canlis_privateevents.pdf">here</a>.</p>
+    <div class="Caption mb4">Contact</div>
+    <p class="mb4">
+      Please direct inquiries to <a href="mailto:events@canlis.com">events@canlis.com</a>.
+    </p>
+
+    <script>(function(window,document){if(window.palcon){console.error("palcon embed already included");return}window.palcon={_c:[]};["init"].forEach((me=>window.palcon[me]=function(){window.palcon._c.push([me,arguments])}));var elt=document.createElement("script");elt.type="module";elt.async=true;elt.src=`https://widget.app.palomaparties.com/shim.js`;var before=document.getElementsByTagName("script")[0];before.parentNode.insertBefore(elt,before)})(window,document);
+palcon.init("14466f6b-4188-416b-9da9-61cb251cd321");</script>
+
+
+    <div class="mb4">
+      <button class="Button NoLine Caption paloma_button palconTrigger" style="margin:10px">Plan Your Event</button>
+    </div>
+  </div>
+</div>
+
+<script>
+  var splides = document.querySelectorAll('.splide');
+// 1. query slider elements: are there any splide elements?
+if(splides.length){
+    // 2. process all instances
+    for(var i=0; i<splides.length; i++){
+        var splideElement = splides[i];
+        //3.1 if no options are defined by 'data-splide' attribute: take these default options
+        var splideDefaultOptions =
+        {
+            type   : 'slide',
+            rewind: true,
+            perPage: 1,
+            autoplay:false,
+            arrows:true,
+            pagination:true,
+            drag:true,
+            keyboard:true,
+            heightRatio: 0.75,
+            cover: true,
+        }
+        /**
+        * 3.2 if options are defined by 'data-splide' attribute: default options will we overridden
+        * see documentation: https://splidejs.com/guides/options/#by-data-attribute
+        **/
+
+        var splide = new Splide( splideElement, splideDefaultOptions );
+        // 3. mount/initialize this slider
+        splide.mount();
+    }
+}
+</script>
+
+{% include footer.html %}
