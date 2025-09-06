@@ -24,8 +24,8 @@ course_2:
 - title: Niman Ranch Kalbi Beef
   desc: '"kalua" spring onion and sesame'
 course_3:
-- title: Cherry Bomb
-  desc: hazelnut, chocolate, bing cherries
+- title: Peach
+  desc: yogurt, white chocolate, honey
 - title: Blueberry Halo Halo
   desc: buckwheat, leche flan, elderflower
 - title: Olive Oil Cake
