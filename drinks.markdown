@@ -17,10 +17,8 @@ wine_body_col2: "The wine program at Canlis is founded on a team of educated win
   right wine for your evening\n\nCorkage Policy: We're happy to open two 750ml bottles
   per reservation, for $50 per bottle. We ask that the bottles not be on our list. "
 wine_staff:
-- name: Linda Milagros Violago
-  title: Wine
 - name: Alexandra Lanoue
-  title: Assistant Wine Director
+  title: Wine Director
 - name: José Castillo
   title: Head Barman
 lounge_title: The Lounge
