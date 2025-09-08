@@ -24,14 +24,14 @@ course_2:
 - title: Niman Ranch Kalbi Beef
   desc: '"kalua" spring onion and sesame'
 course_3:
-- title: Cherry Bomb
-  desc: hazelnut, chocolate, bing cherries
+- title: Peach
+  desc: yogurt, white chocolate, honey
 - title: Blueberry Halo Halo
   desc: buckwheat, leche flan, elderflower
 - title: Olive Oil Cake
   desc: strawberry, buttermilk, shortbread
 - title: "—"
-  desc:
+  desc: 
 - title: 'Canlis Salad '
   desc: The original! If you would like an additional course from our 1950 menu, these
     are prepared tableside for the entire party. +$20 per person
@@ -43,3 +43,4 @@ plates:
 menu_date: "—"
 layout: menu
 ---
+
