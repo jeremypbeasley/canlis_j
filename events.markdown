@@ -35,3 +35,4 @@ rooms:
   - path: "/uploads/7A9C119C-A261-48D6-ABBE-9A94D7E42A41.JPG"
 layout: privateevents2
 ---
+
