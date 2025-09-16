@@ -19,8 +19,8 @@ course_1:
 course_2:
 - title: Halibut
   desc: cultured cream, chive, rutabaga
-- title: English Pea Flan
-  desc: morel, snap pea, mint
+- title: Cauliflower Flan
+  desc: chanterelle, baby greens, mint
 - title: Niman Ranch Kalbi Beef
   desc: '"kalua" spring onion and sesame'
 course_3:
