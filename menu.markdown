@@ -12,8 +12,8 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
 course_1:
 - title: Corn
   desc: albacore tuna, green tomato, chili
-- title: Summer Squash
-  desc: apricot, goat cheese, tarragon
+- title: Winter Squash
+  desc: agrodolce, crème fraîche, fig
 - title: Pork Belly
   desc: brassica, pear, barley
 course_2:
@@ -21,15 +21,15 @@ course_2:
   desc: cultured cream, chive, rutabaga
 - title: Cauliflower Flan
   desc: chanterelle, baby greens, mint
-- title: Niman Ranch Kalbi Beef
+- title: Pure Country Kalbi Ribeye
   desc: '"kalua" spring onion and sesame'
 course_3:
 - title: Peach
   desc: yogurt, white chocolate, honey
 - title: Blueberry Halo Halo
   desc: buckwheat, leche flan, elderflower
-- title: Olive Oil Cake
-  desc: strawberry, buttermilk, shortbread
+- title: Pumpkin Spice Late Night
+  desc: espresso, chocolate, brown butter
 - title: "—"
   desc: 
 - title: 'Canlis Salad '
