@@ -14,11 +14,11 @@ course_1:
   desc: albacore tuna, green tomato, chili
 - title: Winter Squash
   desc: agrodolce, crème fraîche, fig
-- title: Pork Belly
-  desc: brassica, pear, barley
+- title: Duck
+  desc: quince, turnip, rosemary
 course_2:
 - title: Halibut
-  desc: cultured cream, chive, rutabaga
+  desc: eggplant, tomato, basil
 - title: Cauliflower Flan
   desc: chanterelle, baby greens, mint
 - title: Pure Country Kalbi Ribeye
