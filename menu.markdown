@@ -10,24 +10,24 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
   your risk of foodborne illness. It may also increase your chances of having a great
   time."
 course_1:
-- title: Corn
-  desc: albacore tuna, green tomato, chili
+- title: '"Chowder"'
+  desc: manila clams, geoduck, and kasu
 - title: Winter Squash
   desc: agrodolce, crème fraîche, fig
-- title: Duck
+- title: Pork Loin
   desc: quince, turnip, rosemary
 course_2:
-- title: Halibut
-  desc: eggplant, tomato, basil
-- title: Cauliflower Flan
-  desc: chanterelle, baby greens, mint
-- title: Pure Country Kalbi Ribeye
+- title: Sablefish
+  desc: barley, matsutake, and seaweed
+- title: Mayocoba Beans
+  desc: chanterelle, chicory, and habanada
+- title: Kalbi Ribeye
   desc: '"kalua" spring onion and sesame'
 course_3:
-- title: Peach
-  desc: yogurt, white chocolate, honey
 - title: Blueberry Halo Halo
   desc: buckwheat, leche flan, elderflower
+- title: Stone Fruit
+  desc: yogurt, white chocolate, honey
 - title: Pumpkin Spice Late Night
   desc: espresso, chocolate, brown butter
 - title: "—"
