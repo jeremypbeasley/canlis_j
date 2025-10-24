@@ -33,8 +33,8 @@ items:
   thumbnail: "/uploads/james.jpg"
   link: "/uploads/james.jpg"
 - title: Executive Chef, James Huffman
-  thumbnail: "/uploads/james02.jpg"
-  link: "/uploads/james02.jpg"
+  thumbnail: "/uploads/James02.jpg"
+  link: "/uploads/James02.jpg"
 - title: Tempura queen oyster mushroom, apple balsamic, garlic chive and kohlrabi,
     Dungeness crab, loveage
   thumbnail: "/uploads/bites.jpg"
