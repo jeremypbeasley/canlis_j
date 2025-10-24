@@ -14,7 +14,7 @@ course_1:
   desc: manila clams, geoduck, and kasu
 - title: Winter Squash
   desc: agrodolce, crème fraîche, fig
-- title: Pork Loin
+- title: Duck
   desc: quince, turnip, rosemary
 course_2:
 - title: Sablefish
