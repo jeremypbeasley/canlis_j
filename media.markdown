@@ -8,6 +8,9 @@ items:
 - title: Exterior 02 (JPG)
   thumbnail: "/uploads/tree.jpg"
   link: "/uploads/tree.jpg"
+- title: Exterior 03 (JPG)
+  thumbnail: "/uploads/exterior03.jpg"
+  link: "/uploads/exterior03.jpg"
 - title: Canlis Logo (Black, JPG)
   thumbnail: "/uploads/canlis_logo_black_media.jpg"
   link: "/uploads/canlis_logo_black_media.jpg"
