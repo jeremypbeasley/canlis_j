@@ -29,9 +29,12 @@ items:
 - title: Executive Chef, James Huffman
   thumbnail: "/uploads/james.jpg"
   link: "/uploads/james.jpg"
-- title: Wagyu wrapped oyster in the shell, with cheddar and caviar
-  thumbnail: "/uploads/oyster.jpg"
-  link: "/uploads/oyster.jpg"
+- title: Executive Chef, James Huffman
+  thumbnail: "/uploads/james02.jpg"
+  link: "/uploads/james02.jpg"
+- title: Wagyu wrapped oyster in the shell
+  thumbnail: "/uploads/oyster01.jpg"
+  link: "/uploads/oyster01.jpg"
 - title: 'Cured King salmon and sunchokes '
   thumbnail: "/uploads/salmon.jpg"
   link: "/uploads/salmon.jpg"
