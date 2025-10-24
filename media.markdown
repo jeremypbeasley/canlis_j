@@ -38,6 +38,9 @@ items:
 - title: Tempura queen oyster mushroom, apple balsamic and kohlrabi, Dungeness crab
   thumbnail: "/uploads/bites.jpg"
   link: "/uploads/bites.jpg"
+- title: Apple, cheddar, sturgeon caviar
+  thumbnail: "/uploads/caviar.jpg"
+  link: "/uploads/caviar.jpg"
 - title: Wagyu wrapped oyster in the shell
   thumbnail: "/uploads/oyster01.jpg"
   link: "/uploads/oyster01.jpg"
