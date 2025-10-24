@@ -73,8 +73,8 @@ items:
   thumbnail: "/uploads/lounge02.jpg"
   link: "/uploads/lounge02.jpg"
 - title: Pine Box
-  thumbnail: "/uploads/pinebox02jpg"
-  link: "/uploads/pinebox02jpg"
+  thumbnail: "/uploads/pinebox02.jpg"
+  link: "/uploads/pinebox02.jpg"
 - title: Orange You Glad
   thumbnail: "/uploads/orangeyouglad.jpg"
   link: "/uploads/orangeyouglad.jpg"
