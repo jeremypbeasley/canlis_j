@@ -52,8 +52,8 @@ items:
   thumbnail: "/uploads/pork.jpg"
   link: "/uploads/pork.jpg"
 - title: Kalbi, walla walla onion, beef jus
-  thumbnail: "/uploads/beef.jpg"
-  link: "/uploads/beef.jpg"
+  thumbnail: "/uploads/beef-f28a21.jpg"
+  link: "/uploads/beef-f28a21.jpg"
 - title: 'Strawberries and olive oil cake '
   thumbnail: "/uploads/strawberry.jpg"
   link: "/uploads/strawberry.jpg"
