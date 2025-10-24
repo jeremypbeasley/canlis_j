@@ -11,6 +11,9 @@ items:
 - title: Exterior 03 (JPG)
   thumbnail: "/uploads/exterior03.jpg"
   link: "/uploads/exterior03.jpg"
+- title: Exterior 04 (JPG)
+  thumbnail: "/uploads/exterior04.jpg"
+  link: "/uploads/exterior04.jpg"
 - title: Canlis Logo (Black, JPG)
   thumbnail: "/uploads/canlis_logo_black_media.jpg"
   link: "/uploads/canlis_logo_black_media.jpg"
@@ -47,6 +50,27 @@ items:
 - title: Charred pork belly with pear consommé
   thumbnail: "/uploads/pork.jpg"
   link: "/uploads/pork.jpg"
+- title: Penthouse 01 (JPG)
+  thumbnail: "/uploads/pent.jpg"
+  link: "/uploads/pent.jpg"
+- title: Penthouse 02 (JPG)
+  thumbnail: "/uploads/moonrise_02.jpg"
+  link: "/uploads/moonrise_02.jpg"
+- title: Lounge 01 (JPG)
+  thumbnail: "/uploads/lounge01.jpg"
+  link: "/uploads/lounge01.jpg"
+- title: Lounge 02 (JPG)
+  thumbnail: "/uploads/lounge02.jpg"
+  link: "/uploads/lounge02.jpg"
+- title: Pine Box
+  thumbnail: "/uploads/pinebox.jpg"
+  link: "/uploads/pinebox.jpg"
+- title: Orange You Glad
+  thumbnail: "/uploads/orangeyouglad.jpg"
+  link: "/uploads/orangeyouglad.jpg"
+- title: Wagner Remix
+  thumbnail: "/uploads/wagnerremix.jpg"
+  link: "/uploads/wagnerremix.jpg"
 og_desc: Assets and photographs for press and media.
 og_photo: "/uploads/canlis_logo_black_media.jpg"
 layout: media
