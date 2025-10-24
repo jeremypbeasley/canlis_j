@@ -47,6 +47,9 @@ items:
 - title: 'English pea flan with mint and morels '
   thumbnail: "/uploads/flan.jpg"
   link: "/uploads/flan.jpg"
+- title: Summer squash, nectarine, goat cheese
+  thumbnail: "/uploads/squash.jpg"
+  link: "/uploads/squash.jpg"
 - title: Charred pork belly with pear consommé
   thumbnail: "/uploads/pork.jpg"
   link: "/uploads/pork.jpg"
@@ -78,11 +81,8 @@ items:
   thumbnail: "/uploads/orangeyouglad.jpg"
   link: "/uploads/orangeyouglad.jpg"
 - title: Wagner Remix
-  thumbnail: "/uploads/wagnerremix2.jpg"
-  link: "/uploads/wagnerremix2.jpg"
-- title: Summer squash, nectarine, goat cheese
-  thumbnail: "/uploads/squash.jpg"
-  link: "/uploads/squash.jpg"
+  thumbnail: "/uploads/wagnerremix2.png"
+  link: "/uploads/wagnerremix2.png"
 og_desc: Assets and photographs for press and media.
 og_photo: "/uploads/canlis_logo_black_media.jpg"
 layout: media
