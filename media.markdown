@@ -35,8 +35,7 @@ items:
 - title: Executive Chef, James Huffman
   thumbnail: "/uploads/James02.jpg"
   link: "/uploads/James02.jpg"
-- title: Tempura queen oyster mushroom, apple balsamic, garlic chive and kohlrabi,
-    Dungeness crab, loveage
+- title: Tempura queen oyster mushroom, apple balsamic and kohlrabi, Dungeness crab
   thumbnail: "/uploads/bites.jpg"
   link: "/uploads/bites.jpg"
 - title: Wagyu wrapped oyster in the shell
