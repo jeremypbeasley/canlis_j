@@ -35,6 +35,10 @@ items:
 - title: Executive Chef, James Huffman
   thumbnail: "/uploads/james02.jpg"
   link: "/uploads/james02.jpg"
+- title: Tempura queen oyster mushroom, apple balsamic, garlic chive and kohlrabi,
+    Dungeness crab, loveage
+  thumbnail: "/uploads/bites.jpg"
+  link: "/uploads/bites.jpg"
 - title: Wagyu wrapped oyster in the shell
   thumbnail: "/uploads/oyster01.jpg"
   link: "/uploads/oyster01.jpg"
@@ -44,12 +48,18 @@ items:
 - title: 'English pea flan with mint and morels '
   thumbnail: "/uploads/flan.jpg"
   link: "/uploads/flan.jpg"
-- title: 'Strawberries and olive oil cake '
-  thumbnail: "/uploads/strawberry.jpg"
-  link: "/uploads/strawberry.jpg"
 - title: Charred pork belly with pear consommé
   thumbnail: "/uploads/pork.jpg"
   link: "/uploads/pork.jpg"
+- title: Kalbi, walla walla onion, beef jus
+  thumbnail: "/uploads/beef.jpg"
+  link: "/uploads/beef.jpg"
+- title: 'Strawberries and olive oil cake '
+  thumbnail: "/uploads/strawberry.jpg"
+  link: "/uploads/strawberry.jpg"
+- title: Cherry and hazelnut
+  thumbnail: "/uploads/cherry.jpg"
+  link: "/uploads/cherry.jpg"
 - title: Penthouse 01 (JPG)
   thumbnail: "/uploads/pent.jpg"
   link: "/uploads/pent.jpg"
