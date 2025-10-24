@@ -80,6 +80,9 @@ items:
 - title: Wagner Remix
   thumbnail: "/uploads/wagnerremix2.jpg"
   link: "/uploads/wagnerremix2.jpg"
+- title: Summer squash, nectarine, goat cheese
+  thumbnail: "/uploads/squash.jpg"
+  link: "/uploads/squash.jpg"
 og_desc: Assets and photographs for press and media.
 og_photo: "/uploads/canlis_logo_black_media.jpg"
 layout: media
