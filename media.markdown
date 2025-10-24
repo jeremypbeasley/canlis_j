@@ -73,14 +73,14 @@ items:
   thumbnail: "/uploads/lounge02.jpg"
   link: "/uploads/lounge02.jpg"
 - title: Pine Box
-  thumbnail: "/uploads/pinebox.jpg"
-  link: "/uploads/pinebox.jpg"
+  thumbnail: "/uploads/pinebox02jpg"
+  link: "/uploads/pinebox02jpg"
 - title: Orange You Glad
   thumbnail: "/uploads/orangeyouglad.jpg"
   link: "/uploads/orangeyouglad.jpg"
 - title: Wagner Remix
-  thumbnail: "/uploads/wagnerremix.jpg"
-  link: "/uploads/wagnerremix.jpg"
+  thumbnail: "/uploads/wagnerremix2.jpg"
+  link: "/uploads/wagnerremix2.jpg"
 og_desc: Assets and photographs for press and media.
 og_photo: "/uploads/canlis_logo_black_media.jpg"
 layout: media
