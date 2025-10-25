@@ -41,6 +41,9 @@ items:
 - title: Wagyu wrapped oyster in the shell
   thumbnail: "/uploads/oyster01.jpg"
   link: "/uploads/oyster01.jpg"
+- title: Cheddar, apples, caviar
+  thumbnail: "/uploads/caviar.jpg"
+  link: "/uploads/caviar.jpg"
 - title: 'Cured King salmon and sunchokes '
   thumbnail: "/uploads/salmon.jpg"
   link: "/uploads/salmon.jpg"
@@ -74,9 +77,15 @@ items:
 - title: Lounge 02 (JPG)
   thumbnail: "/uploads/lounge02.jpg"
   link: "/uploads/lounge02.jpg"
+- title: Pine Box
+  thumbnail: "/uploads/pinebox02.jpg"
+  link: "/uploads/pinebox02.jpg"
 - title: Orange You Glad
   thumbnail: "/uploads/orangeyouglad.jpg"
   link: "/uploads/orangeyouglad.jpg"
+- title: Wagner Remix
+  thumbnail: "/uploads/wagnerremix2.jpg"
+  link: "/uploads/wagnerremix2.jpg"
 og_desc: Assets and photographs for press and media.
 og_photo: "/uploads/canlis_logo_black_media.jpg"
 layout: media
