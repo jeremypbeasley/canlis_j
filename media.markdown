@@ -50,15 +50,24 @@ items:
 - title: 'English pea flan with mint and morels '
   thumbnail: "/uploads/flan.jpg"
   link: "/uploads/flan.jpg"
-- title: Summer squash, nectarine, goat cheese
+- title: Winter squash, agrodolce, crème fraîche, fig
   thumbnail: "/uploads/squash.jpg"
   link: "/uploads/squash.jpg"
+- title: Manila clams, geoduck, and kasu
+  thumbnail: "/uploads/chowder.jpg"
+  link: "/uploads/chowder.jpg"
 - title: Charred pork belly with pear consommé
   thumbnail: "/uploads/pork.jpg"
   link: "/uploads/pork.jpg"
+- title: Sablefish, Tibetan black barley, matsutake
+  thumbnail: "/uploads/sablefish.jpg"
+  link: "/uploads/sablefish.jpg"
 - title: Kalbi, walla walla onion, beef jus
   thumbnail: "/uploads/beef-f28a21.jpg"
   link: "/uploads/beef-f28a21.jpg"
+- title: Mayocoba beans, chanterelle, chicory
+  thumbnail: "/uploads/mayocoba.jpg"
+  link: "/uploads/mayocoba.jpg"
 - title: 'Strawberries and olive oil cake '
   thumbnail: "/uploads/strawberry.jpg"
   link: "/uploads/strawberry.jpg"
