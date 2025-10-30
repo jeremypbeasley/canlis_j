@@ -21,15 +21,15 @@ course_2:
   desc: barley, matsutake, and seaweed
 - title: Mayocoba Beans
   desc: chanterelle, chicory, and habanada
-- title: Kalbi Ribeye
-  desc: '"kalua" spring onion and sesame'
+- title: Pork Loin
+  desc: celeriac, brassica, and cranberry
 course_3:
 - title: Blueberry Halo Halo
-  desc: buckwheat, leche flan, elderflower
+  desc: buckwheat, leche flan, and elderflower
 - title: Stone Fruit
-  desc: yogurt, white chocolate, honey
+  desc: yogurt, white chocolate, and honey
 - title: Pumpkin Spice Late Night
-  desc: espresso, chocolate, brown butter
+  desc: espresso, chocolate, and brown butter
 - title: "—"
   desc: 
 - title: 'Canlis Salad '
