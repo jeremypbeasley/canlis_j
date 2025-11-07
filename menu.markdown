@@ -24,9 +24,9 @@ course_2:
 - title: Pork Loin
   desc: celeriac, brassica, and cranberry
 course_3:
-- title: Blueberry Halo Halo
-  desc: buckwheat, leche flan, and elderflower
-- title: Stone Fruit
+- title: Soufflé
+  desc: hazelnut and crème anglaise
+- title: Pluot
   desc: yogurt, white chocolate, and honey
 - title: Pumpkin Spice Late Night
   desc: espresso, chocolate, and brown butter
