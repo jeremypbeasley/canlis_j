@@ -33,7 +33,7 @@ section3:
     <br>
     Canlis offers all staff members a 401k program that matches 75% up to 8% of your pay. This is awesome. Ask around.<br>
     <br>
-    Canlis is closed Sundays, Mondays and most holidays<br>
+    Canlis is closed Sundays, Mondays, and most holidays<br>
     <br>
     Dining Privileges: Hourly employees dining at Canlis will receive 50% off all food and non-alcoholic beverages, starting as soon as they are hired. Additionally, after working at Canlis for at least 6 months - all employees receive a “dinner for two” (not including any alcohol ordered) continuing education credit each calendar year to dine at the restaurant. The dinner for two credit may not be carried over into the subsequent calendar year. Both the discount and the credit cannot be used on Friday/Saturday or the month of December.<br>
     <br>
