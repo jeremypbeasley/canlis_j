@@ -12,11 +12,11 @@ section1:
     tick. We recommend thinking about how working here will help you become more of
     who you want to become, not what you want to become. We recommend taking the advice
     of your mother — whatever it was she said, try to remember — it’s going to help
-    you get a job here.\n\nTo apply, please send a resume and cover letter to Andy
-    Pelander at [work@canlis.com](mailto:work@canlis.com). Applications are reviewed
-    on Wednesdays and Fridays.\n\nRoles we are currently hiring for:<br>\nExperienced
-    Line Cook – Starting Pay: $23/hour plus tips<br>\nAll positions include available
-    medical, dental, and life insurance, 401K, vacation, and dining benefits. "
+    you get a job here.\n\nTo apply, <b>please send a resume and cover</b> letter
+    to Andy Pelander at [work@canlis.com](mailto:work@canlis.com). Applications are
+    reviewed on Wednesdays and Fridays.\n\nRoles we are currently hiring for:<br>\n\n<b>Experienced
+    Line Cook</b> – Starting Pay: $23/hour plus tips<br>\n\nAll positions include
+    available medical, dental, and life insurance, 401K, vacation, and dining benefits. "
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place
