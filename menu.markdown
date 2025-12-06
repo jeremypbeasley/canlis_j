@@ -13,7 +13,7 @@ course_1:
 - title: '"Chowder"'
   desc: manila clams, geoduck, and kasu
 - title: Winter Squash
-  desc: agrodolce, crème fraîche, fig
+  desc: agrodolce, crème fraîche, asian pear
 - title: Duck
   desc: quince, turnip, rosemary
 course_2:
@@ -26,7 +26,7 @@ course_2:
 course_3:
 - title: Soufflé
   desc: hazelnut and crème anglaise
-- title: Pluot
+- title: Mandarin
   desc: yogurt, white chocolate, and honey
 - title: Pumpkin Spice Late Night
   desc: espresso, chocolate, and brown butter
