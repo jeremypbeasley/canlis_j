@@ -1,6 +1,6 @@
 ---
 title: Home
-is_alert_shown: false
+is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
 alert_text: "✨ Reservations are open Mondays and Sunday, December 28th ✨"
 alert_link: https://www.exploretock.com/canlis
