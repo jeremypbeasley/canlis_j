@@ -2,7 +2,8 @@
 title: Home
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: "✨ Reservations are open Mondays and Sunday, Dec. 28th ✨"
+alert_text: "✨ We’ve changed our hours for the holiday season and opened new reservations!
+  See more on Tock. "
 alert_link: https://www.exploretock.com/canlis
 alert_color: "#bde8db"
 og_title: Canlis Restaurant
