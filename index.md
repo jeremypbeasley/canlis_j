@@ -2,8 +2,8 @@
 title: Home
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: "\U0001F384 ✨ \U0001F381 Canlis is open Mondays for the holiday season.
-  See reservations on Tock. "
+alert_text: "\U0001F381 Canlis is open Mondays for the holiday season. See reservations
+  on Tock. "
 alert_link: https://www.exploretock.com/canlis
 alert_color: "#bde8db"
 og_title: Canlis Restaurant
