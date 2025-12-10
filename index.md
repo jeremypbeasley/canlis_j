@@ -2,10 +2,10 @@
 title: Home
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: "\U0001F381 Canlis is open Mondays for the holiday season. See reservations
-  on Tock. "
+alert_text: "✨ Canlis is open Mondays for the holiday season. Make your reservation
+  on Tock. ✨"
 alert_link: https://www.exploretock.com/canlis
-alert_color: "#bde8db"
+alert_color: "#a2b6ab"
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
 og_desc: Seattle's landmark fine-dining destination for 70 years and recent home to
