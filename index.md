@@ -2,9 +2,9 @@
 title: Home
 is_alert_shown: false
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: "✨ We are open Dec 27-31st ✨"
-alert_link: 
-alert_color: "#c0deb2"
+alert_text: "✨ Reservations are open Mondays and Sunday, December 28th ✨"
+alert_link: https://www.exploretock.com/canlis
+alert_color: "#bde8db"
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
 og_desc: Seattle's landmark fine-dining destination for 70 years and recent home to
