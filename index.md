@@ -2,10 +2,10 @@
 title: Home
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: "✨ Canlis is open Mondays: January 5th and 12th. Book your reservation
-  here. ✨"
+alert_text: "\U0001F38A Canlis is open Mondays: January 5th and 12th. Book your reservation
+  here. \U0001F38A"
 alert_link: https://www.exploretock.com/canlis
-alert_color: "#a2b6ab"
+alert_color: "#ffffff"
 og_title: Canlis Restaurant
 og_photo: "/uploads/moonrise_01.jpg"
 og_desc: Seattle's landmark fine-dining destination for 70 years and recent home to
