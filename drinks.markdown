@@ -1,8 +1,7 @@
 ---
 title: Wine & Spirits
 date: 2016-11-10 10:09:00 -08:00
-headline: The finest wine program in the Pacific Northwest by a mile.  - The New Wine
-  Review
+headline: One of the best wine lists in the world.
 wine_photo_1: "/uploads/FE3A012F-CC03-4EA2-A07B-3DE7BA6A3B45.JPG"
 wine_photo_2: "/uploads/wine2.jpg"
 wine_title: Awards & History
