@@ -2,8 +2,8 @@
 title: Wine & Spirits
 date: 2016-11-10 10:09:00 -08:00
 headline: One of the best wine lists in the world.
-wine_photo_1: "/uploads/cellar2.jpg"
-wine_photo_2: "/uploads/wine2.jpg"
+wine_photo_1: "/uploads/FE3A012F-CC03-4EA2-A07B-3DE7BA6A3B45.JPG"
+wine_photo_2: "/uploads/BCE403F4-D15B-4BB2-A230-EC1D332A6C9E.JPG"
 wine_title: Awards & History
 wine_body_col1: |-
   Canlis became a world-class wine destination in 1997, the first year of its 28 consecutive Wine Spectator Magazine Grand Awards. The restaurant is one of a handful in the world to be trusted with the honor for that length of time. In 2017, our wine program took home the James Beard award for <a href="https://seattle.eater.com/2017/5/2/15517450/james-beard-award-2017-canlis-wine" target="_blank">Outstanding Wine Program</a>. Since then, it has helped train four Master Sommeliers and nine advanced sommeliers. We’ve produced wines with Alois Kracher, Buty, Jean Milan, Hirsch, and Guiborat & Fils. We’ve routinely played hosts to the best winemakers and wineries in the world, like Château Latour, Grace Family, Penfolds, Cayuse, Piero Antinori, Angelo Gaja and Maria López de Heredia.
