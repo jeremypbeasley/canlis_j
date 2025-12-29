@@ -3,7 +3,7 @@ title: Home
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
 alert_text: "✨ Canlis is open Mondays: January 5th and 12th. Book your reservation
-  on Tock. ✨"
+  here. ✨"
 alert_link: https://www.exploretock.com/canlis
 alert_color: "#a2b6ab"
 og_title: Canlis Restaurant
