@@ -3498,6 +3498,13 @@ footer a {
   margin: 0;
   border-bottom: 1px solid #000;
 }
+@media (min-width: 62em) {
+  .BigPhoto_4 {
+    margin-left: -4.5vw;
+    width: 100vw;
+    max-width: 100vw;
+  }
+}
 .Portrait {
   max-width: 10000000px;
   margin-left: -6.5vw;
