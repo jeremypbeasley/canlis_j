@@ -17,7 +17,7 @@ course_1:
 - title: Duck
   desc: quince, turnip, rosemary
 course_2:
-- title: Sablefish
+- title: Sturgeon
   desc: barley, matsutake, and seaweed
 - title: Mayocoba Beans
   desc: chanterelle, chicory, and habanada
