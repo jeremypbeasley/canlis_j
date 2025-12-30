@@ -1,10 +1,15 @@
 {% include head.html %}
 
 <div class="Intro">
-  <h1 class="Display1">
+  <h1 class="Display1 Center">
     {{ page.headline }}
+    <p class="Caption mb5 mt5 Center op50">{{ page.headline_subhead }}</p>
   </h1>
 </div>
+<!-- <div class="Intro ShowMobile">
+  <h1 class="Display1 ShowMobile">{{ page.headline_mobile }}</h1>
+  <p class="Caption mb5 mt5 Center op50">{{ page.headline_mobile_subhead }}</p>
+</div> -->
 <div class="row tall">
   <div class="column col-xs-12 col-md-8">
     <img class="WinePhoto1" src="{{ page.wine_photo_1 }}">
@@ -27,43 +32,6 @@
     <p><a class="Caption NoLine" href="https://canlis.com/uploads/winelist.pdf">Wine List</a> (PDF Download)</p>
   </div>
 </div>
-<div class="row AlignTop tall">
-  <div class="column col-xs-12 col-md-3">
-    <h2 class="Display2">Our Team</h2>
-  </div>
-  <div class="column col-xs-12 col-md-8 col-md-offset-1">
-    <div class="row AlignTop nested">
-      <div class="sk8r_container">
-        <div class="sk8r_movement">
-          <div class="sk8r"></div>
-        </div>
-      </div>
-      <div class="Divider mb8"></div>
-      {% for i in page.wine_staff %}
-        <div class="column col-xs-6 col-md-4 wineStaff">
-          <p class="">{{ i.name }}<br>
-          <span><i>{{ i.title }}</i></span></p>
-        </div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
-<div class="row tall">
-  <div class="column col-xs-12 col-md-5">
-    <img class="LoungePhoto1" src="{{ page.lounge_photo_1 }}">
-  </div>
-  <div class="column col-xs-12 col-md-7">
-    <img class="LoungePhoto2" src="{{ page.lounge_photo_2 }}">
-  </div>
-</div>
-<div class="row">
-  <div class="column col-xs-12 col-md-5">
-    <h2 class="Display1 mb5">
-      {{ page.lounge_title }}
-    </h2>
-    {{ page.lounge_body | markdownify }}
-    <p><a class="Caption NoLine" href="https://canlis.com/uploads/barmenu.pdf">Lounge Menu</a> (PDF Download)</p>
-  </div>
-</div>
+
 
 {% include footer.html %}

@@ -14,8 +14,10 @@ global_nav:
   slug: menu
 - title: Our Story
   slug: story
-- title: Wine & Spirits
-  slug: drinks
+- title: Wine
+  slug: wine
+- title: The Lounge
+  slug: lounge
 - title: Events
   slug: events
 - title: Careers
@@ -29,7 +31,7 @@ dress_code: Go big. Dress up. Make a statement. You're beautiful, let it show! W
   are a dress-respectful restaurant. No casual or athletic attire please. Men will
   feel most comfortable in a suit or sport coat.
 reservations_link: "/reservations"
-baseurl: 
+baseurl:
 url: http://canlis.com
 twitter_username: canlis
 github_username: jeremypbeasley
