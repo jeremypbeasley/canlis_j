@@ -38,6 +38,9 @@ items:
 - title: Aisha Ibrahim begins coveted executive chef role at Seattle's Canlis
   thumbnail: "/uploads/kitchen222.jpg"
   link: https://www.youtube.com/watch?v=PYFTceg-Zog
+- title: How Canlis arrived at a surprise choice for its new executive chef
+  thumbnail: "/uploads/Screenshot%202025-12-29%20at%2011.08.12%E2%80%AFPM.png"
+  link: https://www.youtube.com/watch?v=1TtDNMEcoec
 og_desc: Many years of videos, produced by us and our friends, telling the Canlis
   story from many different perspectives.
 og_photo: "/uploads/Artboard222.jpg"
