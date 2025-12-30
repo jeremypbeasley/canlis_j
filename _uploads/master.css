@@ -3648,7 +3648,7 @@ footer a {
   }
 }
 .LoungePhoto1 {
-  margin-left: -6.5vw;
+  margin-left: -4.5vw;
   width: 100vw;
   max-width: 1000vw;
 }
@@ -3662,7 +3662,7 @@ footer a {
   }
 }
 .LoungePhoto2 {
-  margin-left: -6.5vw;
+  margin-left: -4.5vw;
   width: 100vw;
   margin-top: -10vw;
   max-width: 1000vw;
@@ -3676,9 +3676,10 @@ footer a {
   }
 }
 .LoungePhoto3 {
-  margin-left: -6.5vw;
+  margin-left: -4.5vw;
   width: 100vw;
   max-width: 1000vw;
+  margin-top: -10vw;
 }
 @media (min-width: 62em) {
   .LoungePhoto3 {
@@ -3690,7 +3691,7 @@ footer a {
   }
 }
 .LoungePhoto4 {
-  margin-left: -6.5vw;
+  margin-left: -4.5vw;
   width: 100vw;
   margin-top: -10vw;
   max-width: 1000vw;
@@ -3704,7 +3705,7 @@ footer a {
   }
 }
 .LoungePhoto5 {
-  margin-left: -6.5vw;
+  margin-left: -4.5vw;
   width: 100vw;
   margin-top: -10vw;
   max-width: 1000vw;
@@ -3718,7 +3719,7 @@ footer a {
   }
 }
 .LoungePhoto6 {
-  margin-left: -6.5vw;
+  margin-left: -4.5vw;
   width: 100vw;
   margin-top: -10vw;
   max-width: 1000vw;
@@ -3732,7 +3733,7 @@ footer a {
   }
 }
 .LoungePhoto7 {
-  margin-left: -6.5vw;
+  margin-left: -4.5vw;
   width: 100vw;
   margin-top: -10vw;
   max-width: 1000vw;
@@ -3746,7 +3747,7 @@ footer a {
   }
 }
 .LoungePhoto8 {
-  margin-left: -6.5vw;
+  margin-left: -4.5vw;
   width: 100vw;
   margin-top: -10vw;
   max-width: 1000vw;
