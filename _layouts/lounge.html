@@ -1,0 +1,50 @@
+{% include head.html %}
+
+<div class="Intro">
+  <h1 class="Display1 Center">
+    {{ page.headline}}
+  </h1>
+</div>
+<!-- <div class="Intro ShowMobile">
+  <h1 class="Display1 ShowMobile">{{ page.headline_mobile }}</h1>
+  <p class="Caption mb5 mt5 Center op50">{{ page.headline_mobile_subhead }}</p>
+</div> -->
+<div class="row">
+  <!-- <HR /> -->
+  <div class="column col-xs-12 col-md-4 col-md-offset-4">
+    <h2 class="Display2 mb5">
+    {{ page.lounge_body }}
+    </h2>
+
+    <p class="Caption mb0">
+      José Castillo
+    </p>
+    <p class="mb3">
+      <i>Head Barman</i>
+    </p>
+
+    <div class="Divider op20 mb5"></div>
+    <p><a class="Caption NoLine mb5" href="https://canlis.com/uploads/barmenu.pdf">Lounge Menu</a> (PDF Download)</p>
+  </div>
+</div>
+<div class="row tall">
+  <div class="column col-xs-12 col-md-5">
+    <img class="LoungePhoto1" src="{{ page.lounge_photo_1 }}">
+  </div>
+  <div class="column col-xs-12 col-md-7">
+    <img class="LoungePhoto2" src="{{ page.lounge_photo_2 }}">
+  </div>
+  <div class="column col-xs-12 col-md-5">
+    <img class="LoungePhoto3" src="{{ page.lounge_photo_3 }}">
+  </div>
+  <div class="column col-xs-12 col-md-5">
+    <img class="LoungePhoto4" src="{{ page.lounge_photo_4 }}">
+    <img class="LoungePhoto5" src="{{ page.lounge_photo_5 }}">
+  </div>
+  <div class="column col-xs-12 col-md-7">
+    <img class="LoungePhoto6" src="{{ page.lounge_photo_6 }}">
+  </div>
+</div>
+
+
+{% include footer.html %}
