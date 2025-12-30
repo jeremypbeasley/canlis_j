@@ -1908,6 +1908,9 @@ li {
 .typeface-tertiary {
   font-family: HelveticaNeue-Medium, "HelveticaNeueMedium", Helvetica, Arial, sans-serif;
 }
+.Center {
+  text-align: center;
+}
 html {
   min-height: 100%;
 }
@@ -3278,9 +3281,9 @@ footer a {
 }
 @media (min-width: 62em) {
   .Intro {
-    min-height: 90vh;
+    min-height: 70vh;
     margin: 0;
-    padding: 0;
+    padding: 20vw;
 /* margin-bottom: -8vw; */
   }
   .Intro.Tall {
@@ -3669,6 +3672,62 @@ footer a {
     width: 65vw;
     margin-top: 5vw;
     margin-left: -6.5vw;
+    max-width: 1000vw;
+  }
+}
+.LoungePhoto3 {
+  margin-left: -6.5vw;
+  width: 100vw;
+  max-width: 1000vw;
+}
+@media (min-width: 62em) {
+  .LoungePhoto3 {
+    width: 50vw;
+    max-width: 1000vw;
+    margin-top: 12vw;
+    margin-left: -6.5vw;
+    z-index: 3;
+  }
+}
+.LoungePhoto4 {
+  margin-left: -6.5vw;
+  width: 100vw;
+  margin-top: -10vw;
+  max-width: 1000vw;
+}
+@media (min-width: 62em) {
+  .LoungePhoto4 {
+    width: 65vw;
+    margin-top: -4vw;
+    margin-left: -6.5vw;
+    max-width: 1000vw;
+  }
+}
+.LoungePhoto5 {
+  margin-left: -6.5vw;
+  width: 100vw;
+  margin-top: -10vw;
+  max-width: 1000vw;
+}
+@media (min-width: 62em) {
+  .LoungePhoto5 {
+    width: 48vw;
+    margin-top: 5vw;
+    margin-left: 8vw;
+    max-width: 1000vw;
+  }
+}
+.LoungePhoto6 {
+  margin-left: -6.5vw;
+  width: 100vw;
+  margin-top: -10vw;
+  max-width: 1000vw;
+}
+@media (min-width: 62em) {
+  .LoungePhoto6 {
+    width: 48vw;
+    margin-left: 0vw;
+    margin-top: -30vw;
     max-width: 1000vw;
   }
 }
