@@ -3731,6 +3731,34 @@ footer a {
     max-width: 1000vw;
   }
 }
+.LoungePhoto7 {
+  margin-left: -6.5vw;
+  width: 100vw;
+  margin-top: -10vw;
+  max-width: 1000vw;
+}
+@media (min-width: 62em) {
+  .LoungePhoto7 {
+    width: 48vw;
+    margin-left: -20vw;
+    margin-top: 5vw;
+    max-width: 1000vw;
+  }
+}
+.LoungePhoto8 {
+  margin-left: -6.5vw;
+  width: 100vw;
+  margin-top: -10vw;
+  max-width: 1000vw;
+}
+@media (min-width: 62em) {
+  .LoungePhoto8 {
+    width: 48vw;
+    margin-left: 0vw;
+    margin-top: -30vw;
+    max-width: 1000vw;
+  }
+}
 .wineStaff {
   cursor: pointer;
 }
