@@ -1,7 +1,7 @@
 ---
 title: The Lounge
 date: 2016-11-10 10:09:00 -08:00
-headline: In 1949, Seattle lifted the ban on restaurants serving liquor...
+headline: In 1949, Seattle lifted the ban on restaurants serving liquor.
 lounge_title: The Lounge
 lounge_photo_1: "/uploads/lounge_00005.jpg"
 lounge_photo_2: "/uploads/lounge_00002.jpg"
