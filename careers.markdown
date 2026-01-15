@@ -14,9 +14,9 @@ section1:
     of your mother — whatever it was she said, try to remember — it’s going to help
     you get a job here.\n\nTo apply, <b>please send a resume and cover letter</b>
     to Andy Pelander at [work@canlis.com](mailto:work@canlis.com). Applications are
-    reviewed on Wednesdays and Fridays.\n\nRoles we are currently hiring for:<br>\n<b>Experienced
-    Line Cook</b> – Pay: $23-26/hour plus tips<br>\n\nAll positions include available
-    medical, dental, and life insurance, 401K, vacation, and dining benefits. "
+    reviewed on Wednesdays and Fridays.\n\nRoles we are currently hiring for:<br>\n<b>Pastry
+    Cook</b> – Pay: $23-26/hour plus tips<br>\n\nAll positions include available medical,
+    dental, and life insurance, 401K, vacation, and dining benefits. "
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place
