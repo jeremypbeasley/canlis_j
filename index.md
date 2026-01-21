@@ -1,6 +1,6 @@
 ---
 title: Home
-is_alert_shown: true
+is_alert_shown: false
 intro_video: "/uploads/bgvideo.mp4"
 alert_text: "\U0001F38A Canlis is open Mondays: January 5th and 12th. Book your reservation
   here. \U0001F38A"
