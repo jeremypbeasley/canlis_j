@@ -1,5 +1,5 @@
 ---
-title: Home
+title: A Seattle family-owned fine dining restaurant founded in 1950
 is_alert_shown: false
 intro_video: "/uploads/bgvideo.mp4"
 alert_text: "\U0001F38A Canlis is open Mondays: January 5th and 12th. Book your reservation
