@@ -14,8 +14,8 @@ course_1:
   desc: manila clams, geoduck, and kasu
 - title: Winter Squash
   desc: agrodolce, crème fraîche, asian pear
-- title: Duck
-  desc: quince, turnip, rosemary
+- title: Lamb Rack
+  desc: yogurt, fig leaf, chimichurri
 course_2:
 - title: Sturgeon
   desc: barley, matsutake, and seaweed
@@ -28,8 +28,8 @@ course_3:
   desc: hazelnut and crème anglaise
 - title: Mandarin
   desc: yogurt, white chocolate, and honey
-- title: Pumpkin Spice Late Night
-  desc: espresso, chocolate, and brown butter
+- title: Chocolate
+  desc: vanilla and port reduction
 - title: "—"
   desc: 
 - title: 'Canlis Salad '
