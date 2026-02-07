@@ -10,12 +10,12 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
   your risk of foodborne illness. It may also increase your chances of having a great
   time."
 course_1:
-- title: '"Chowder"'
-  desc: manila clams, geoduck, and kasu
+- title: Manila Clams
+  desc: " geoduck and kasu chowder"
 - title: Winter Squash
   desc: agrodolce, crème fraîche, asian pear
-- title: Lamb Rack
-  desc: yogurt, fig leaf, chimichurri
+- title: Parmesean
+  desc: agnolotti, guanciale, and arugula
 course_2:
 - title: Sturgeon
   desc: barley, matsutake, and seaweed
@@ -23,6 +23,8 @@ course_2:
   desc: chanterelle, chicory, and habanada
 - title: Pork Loin
   desc: celeriac, brassica, and cranberry
+- title: Lamb Rack
+  desc: yogurt, fig leaf, chimichurri
 course_3:
 - title: Soufflé
   desc: hazelnut and crème anglaise
