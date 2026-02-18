@@ -35,7 +35,6 @@ lounge_body: |-
 
   Walk-ins welcome.
 og_desc: One of the best wine lists in the world.
-og_photo: "/uploads/cellar2.jpg"
+og_photo: "/uploads/FE3A012F-CC03-4EA2-A07B-3DE7BA6A3B45.JPG"
 layout: wine
 ---
-

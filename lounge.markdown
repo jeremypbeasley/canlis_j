@@ -15,8 +15,6 @@ lounge_body: |-
   Canlis was issued the first license after prohibition. With a live piano nightly and the best barman in town, a new era of the cocktail was born. Since then, as far as we’re concerned, it’s only gotten better.
 
   Walk-ins welcome.
-og_photo: "/uploads/cellar2.jpg"
+og_photo: "/uploads/lounge_00002.jpg"
 layout: lounge
 ---
-
- 
