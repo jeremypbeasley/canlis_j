@@ -1,7 +1,8 @@
 ---
 title: Our Story
 date: 2016-11-10 10:08:00 -08:00
-og_desc: There are many stories. This one is ours.
+og_desc: Many years of videos, produced by us and our friends, telling the Canlis
+  story from many different perspectives.
 og_photo: "/uploads/Seattle_Outside.jpg"
 layout: story_full
 items:
@@ -32,6 +33,4 @@ items:
 - title: The Game's Not Up with Canlis
   thumbnail: "/uploads/markkk.jpg"
   link: https://www.youtube.com/watch?v=dQP-WCnt3_8
-og_desc: Many years of videos, produced by us and our friends, telling the Canlis
-  story from many different perspectives.
 ---
