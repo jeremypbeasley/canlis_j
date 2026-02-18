@@ -24,7 +24,7 @@ items:
 - title: 'I Know Your Name - Brian Canlis (Welcome Conference 2019) '
   thumbnail: "/uploads/slow.jpg"
   link: https://www.youtube.com/watch?v=iESB3VUPmOI
-- title: '1955 NBC/KOMO National Broadcast feat. Canlis'
+- title: 1955 NBC/KOMO National Broadcast feat. Canlis
   thumbnail: "/uploads/KOMOgrid.jpg"
   link: https://youtu.be/GYCB5Hxg0sc
 - title: Kenlis Party - Highlight Reel
@@ -34,3 +34,4 @@ items:
   thumbnail: "/uploads/markkk.jpg"
   link: https://www.youtube.com/watch?v=dQP-WCnt3_8
 ---
+
