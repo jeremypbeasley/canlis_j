@@ -1,9 +1,0 @@
----
-title: Donate
-date: 2020-05-29 12:22:00 -07:00
----
-
-
-<script type="text/javascript">
-    window.location.href = "https://foundation.wsu.edu/give/?fund=50d5e366-b61f-4c16-ba7f-93347f4f6f99&cat=idonate_colleges&area=idonate_agricultural_human_and_natural_resource_sciences&utm_source=agricultural-human-and-natural-resource-sciences&utm_medium=wsu-link&utm_campaign=mt-vernon-bread-lab-fund";
-</script>
