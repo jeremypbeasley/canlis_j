@@ -24,9 +24,9 @@ items:
 - title: 'I Know Your Name - Brian Canlis (Welcome Conference 2019) '
   thumbnail: "/uploads/slow.jpg"
   link: https://www.youtube.com/watch?v=iESB3VUPmOI
-- title: 'Tastemade: [Re]Generation | Canlis'
-  thumbnail: "/uploads/Artboard%20Copy%205-5eeb0d.jpg"
-  link: https://www.youtube.com/watch?v=X0XkVCnCyV0
+- title: '1955 NBC/KOMO National Broadcast feat. Canlis'
+  thumbnail: "/uploads/KOMOgrid.jpg"
+  link: https://youtu.be/GYCB5Hxg0sc
 - title: Kenlis Party - Highlight Reel
   thumbnail: "/uploads/Artboard%20Copy%208.jpg"
   link: https://www.instagram.com/p/C_yvhtkiLpd/
@@ -34,4 +34,3 @@ items:
   thumbnail: "/uploads/markkk.jpg"
   link: https://www.youtube.com/watch?v=dQP-WCnt3_8
 ---
-
