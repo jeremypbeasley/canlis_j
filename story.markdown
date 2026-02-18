@@ -34,4 +34,3 @@ items:
   thumbnail: "/uploads/markkk.jpg"
   link: https://www.youtube.com/watch?v=dQP-WCnt3_8
 ---
-
