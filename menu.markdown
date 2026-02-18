@@ -13,7 +13,7 @@ course_1:
 - title: Manila Clams
   desc: " geoduck and kasu chowder"
 - title: Winter Squash
-  desc: agrodolce, crème fraîche, asian pear
+  desc: agrodolce, crème fraîche, and asian pear
 - title: Parmesean
   desc: agnolotti, guanciale, and arugula
 course_2:
@@ -24,7 +24,7 @@ course_2:
 - title: Pork Loin
   desc: celeriac, brassica, and cranberry
 - title: Lamb Rack
-  desc: yogurt, fig leaf, chimichurri
+  desc: yogurt, fig leaf, and chimichurri
 course_3:
 - title: Soufflé
   desc: hazelnut and crème anglaise
