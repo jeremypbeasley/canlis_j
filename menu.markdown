@@ -25,6 +25,12 @@ course_2:
   desc: celeriac, brassica, and cranberry
 - title: Lamb Rack
   desc: yogurt, fig leaf, and chimichurri
+- title: or
+  desc: 
+- title: Meat and Potatoes
+  desc: |-
+    A course for the entire table. Dry aged Pure Country beef, Canlis potatoes with black truffle, Dungeness crab and sturgeon caviar.
+    +$65 per person; limited availability
 course_3:
 - title: Soufflé
   desc: hazelnut and crème anglaise
