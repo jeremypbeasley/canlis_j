@@ -28,9 +28,9 @@ course_2:
 - title: or
   desc: 
 - title: Meat and Potatoes
-  desc: |-
-    A course for the entire table. Dry aged Pure Country beef, Canlis potatoes with black truffle, Dungeness crab and sturgeon caviar.
-    +$65 per person; limited availability
+  desc: "A course for the entire table. \nDry aged Pure Country beef, Canlis potatoes
+    with black truffle, Dungeness crab and sturgeon caviar.\n+$65 per person; limited
+    availability"
 course_3:
 - title: Soufflé
   desc: hazelnut and crème anglaise
