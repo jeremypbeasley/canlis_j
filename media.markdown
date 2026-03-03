@@ -75,6 +75,9 @@ items:
 - title: Cherry and hazelnut  (Photo by Jeremy P.  Beasley)
   thumbnail: "/uploads/cherry.jpg"
   link: "/uploads/cherry.jpg"
+- title: Canlis Salad
+  thumbnail: "/uploads/plate_salad.jpg"
+  link: "/uploads/plate_salad.jpg"
 - title: Penthouse 01 (Photo by Kevin Scott)
   thumbnail: "/uploads/pent.jpg "
   link: "/uploads/pent.jpg"
@@ -96,6 +99,12 @@ items:
 - title: Wagner Remix (Photo by Jeremy P. Beasley)
   thumbnail: "/uploads/wagnerremix2.jpg"
   link: "/uploads/wagnerremix2.jpg"
+- title: Owner, Mark Canlis (Photo by Jeremy P. Beasley)
+  thumbnail: "/uploads/MarkCanlis2.jpg"
+  link: "/uploads/MarkCanlis2.jpg"
+- title: Owner, Mark Canlis (Photo by Jeremy P. Beasley)
+  thumbnail: "/uploads/MarkCanlis1.jpg"
+  link: "/uploads/MarkCanlis1.jpg"
 og_desc: Assets and photographs for press and media.
 og_photo: "/uploads/canlis_logo_black_media.jpg"
 layout: media
