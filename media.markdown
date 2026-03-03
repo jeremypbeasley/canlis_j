@@ -27,8 +27,8 @@ items:
   thumbnail: "/uploads/canlis_logo_white_media.jpg"
   link: "/uploads/canlis_logo_white_media_pdf-(1).png"
 - title: The Terry (Black, Vector)
-  thumbnail: "/uploads/Screenshot%202025-05-08%20at%2012.10.54%E2%80%AFPM.png"
-  link: "/uploads/Canlis_TheTerry_Large.pdf"
+  thumbnail: "/uploads/Screenshot%202026-03-03%20at%201.56.00%E2%80%AFPM.png"
+  link: "/uploads/Canlis_TheTerry_Large.png"
 - title: Executive Chef, James Huffman  (Photo by Jeremy P.  Beasley)
   thumbnail: "/uploads/james.jpg"
   link: "/uploads/james.jpg"
