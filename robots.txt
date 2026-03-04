@@ -6,6 +6,7 @@ Disallow: /
 
 User-agent: *
 Disallow: /private-events
+Disallow: /studio
 Allow: /
 Allow: /reservations
 Allow: /giftcards
