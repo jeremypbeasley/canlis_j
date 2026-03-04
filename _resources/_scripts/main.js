@@ -2,10 +2,6 @@ $(document).ready(function() {
 
   console.log("Main.js initialized")
 
-  // Muuri
-
-  var grid = new Muuri('.grid');
-
   // Drone video on home page
 
   $("#bgvid").fadeTo( 600, 1 );
