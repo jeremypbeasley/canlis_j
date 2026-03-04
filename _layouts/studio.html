@@ -16,8 +16,8 @@
   <div class="StudioGrid color-white">
   {% for item in page.items %}
     <div class="mb4">
-      <div class="mb1 Caption">{{ item.title }}</div>
-      <p class="mt2 mb4">{{ item.desc }}</p>
+      <p class="mb1">{{ item.title }}</p>
+      <!-- <p class="mt2 mb4">{{ item.desc }}</p> -->
       {% for photo in item.photos %}
       <div class="mb4">
         <img src="{{ photo.url }}" width="600">
