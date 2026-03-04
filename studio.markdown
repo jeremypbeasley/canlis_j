@@ -2,88 +2,92 @@
 title: Studio
 date: 2016-11-10 10:09:00 -08:00
 og_photo: "/uploads/pork.jpg"
-desc: "Our curiosity is always expanding, often collaborating with our favorite designers, craftspeople, and friends building a collection of objects that expand far beyond the dining room. Some objects support a party or an event, some are experiences in and of themselves. Some are strictly for our guests. Some are simply because we couldn’t resist making them. These are the ones we love most."
-
+desc: Our curiosity is always expanding, often collaborating with our favorite designers,
+  craftspeople, and friends building a collection of objects that expand far beyond
+  the dining room. Some objects support a party or an event, some are experiences
+  in and of themselves. Some are strictly for our guests. Some are simply because
+  we couldn’t resist making them. These are the ones we love most.
 items:
-- title: "Ant Farm"
-  desc: "Collaboration with Don Clark"
+- title: Ant Farm
+  desc: Collaboration with Don Clark
   photos:
-    - title: "XXXX"
-      url: "/uploads/antfarm.jpg"
-- title: "Wine Cradle"
-  desc: "Collaboration with Jordan Lake"
+  - title: XXXX
+    url: "/uploads/antfarm.jpg"
+- title: Wine Cradle
+  desc: Collaboration with Jordan Lake
   photos:
-    - title: "XXXX"
-      url: "/uploads/cradle.jpg"
-- title: "Hurricane"
-  desc:
+  - title: XXXX
+    url: "/uploads/cradle.jpg"
+- title: Hurricane
+  desc: 
   photos:
-    - title: "XXXX"
-      url: "/uploads/hurricane.jpg"
-- title: "Yurt Village Poster"
-  desc: "XXXX"
+  - title: XXXX
+    url: "/uploads/hurricane.jpg"
+- title: Yurt Village Poster
+  desc: XXXX
   photos:
-    - title: "XXXX"
-      url: "/uploads/poster_yurtvillage.jpg"
-- title: "Kenlis Fanny Pack"
-  desc: "XXXX"
+  - title: XXXX
+    url: "/uploads/poster_yurtvillage.jpg"
+- title: Kenlis Fanny Pack
+  desc: XXXX
   photos:
-    - title: "XXXX"
-      url: "/uploads/kenlisfannypack.jpg"
-- title: "The Unauthorized Canlis LEGO Set"
-  desc: "Collaboration with Invisible Creature"
+  - title: XXXX
+    url: "/uploads/kenlisfannypack.jpg"
+- title: The Unauthorized Canlis LEGO Set
+  desc: Collaboration with Invisible Creature
   photos:
-    - title: "XXXX"
-      url: "/uploads/lego.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+  - title: XXXX
+    url: "/uploads/lego.jpg"
+- title: XXXX
+  desc: XXXX
   photos:
-    - title: "XXXX"
-      url: "/uploads/matchbook_dana.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+  - title: XXXX
+    url: "/uploads/matchbook_dana.jpg"
+- title: XXXX
+  desc: XXXX
   photos:
-    - title: "XXXX"
-      url: "/uploads/mug_bagelshed.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+  - title: XXXX
+    url: "/uploads/mug_bagelshed.jpg"
+- title: XXXX
+  desc: XXXX
   photos:
-    - title: "XXXX"
-      url: "/uploads/poncho.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+  - title: XXXX
+    url: "/uploads/poncho.jpg"
+- title: XXXX
+  desc: XXXX
   photos:
-  - title: "XXXX"
+  - title: XXXX
     url: "/uploads/poster_hawaiiannights.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+- title: XXXX
+  desc: XXXX
   photos:
-    - title: "XXXX"
-      url: "/uploads/poster_kenlis.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+  - title: XXXX
+    url: "/uploads/poster_kenlis.jpg"
+- title: XXXX
+  desc: XXXX
   photos:
-    - title: "XXXX"
-      url: "/uploads/poster_spaceprom.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+  - title: XXXX
+    url: "/uploads/poster_spaceprom.jpg"
+- title: XXXX
+  desc: XXXX
   photos:
-  - title: "XXXX"
+  - title: XXXX
     url: "/uploads/poster_walt.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+- title: XXXX
+  desc: XXXX
   photos:
-    - title: "XXXX"
-      url: "/uploads/ramekin.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+  - title: XXXX
+    url: "/uploads/ramekin.jpg"
+- title: XXXX
+  desc: XXXX
   photos:
-    - title: "XXXX"
-      url: "/uploads/tvdinner.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+  - title: XXXX
+    url: "/uploads/tvdinner.jpg"
+- title: XXXX
+  desc: XXXX
   photos:
-    - title: "XXXX"
-      url: "/uploads/vinyl_walt.jpg"
+  - title: XXXX
+    url: "/uploads/vinyl_walt.jpg"
 layout: studio
 ---
+
