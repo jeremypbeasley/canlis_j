@@ -7,83 +7,188 @@ desc: "Our curiosity is always expanding, often collaborating with our favorite 
 items:
 - title: "Ant Farm"
   desc: "Collaboration with Don Clark"
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-    - title: "XXXX"
+    - title:
       url: "/uploads/antfarm.jpg"
+    - title:
+      url: "/uploads/poncho.jpg"
+    - title:
+      url: "/uploads/ramekin.jpg"
 - title: "Wine Cradle"
   desc: "Collaboration with Jordan Lake"
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-    - title: "XXXX"
+    - title:
       url: "/uploads/cradle.jpg"
+    - title:
+      url: "/uploads/vinyl_walt.jpg"
+    - title:
+      url: "/uploads/matchbook_dana.jpg"
 - title: "Hurricane"
-  desc:
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-    - title: "XXXX"
+    - title:
       url: "/uploads/hurricane.jpg"
 - title: "Yurt Village Poster"
-  desc: "XXXX"
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-    - title: "XXXX"
+    - title:
       url: "/uploads/poster_yurtvillage.jpg"
 - title: "Kenlis Fanny Pack"
-  desc: "XXXX"
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-    - title: "XXXX"
+    - title:
       url: "/uploads/kenlisfannypack.jpg"
 - title: "The Unauthorized Canlis LEGO Set"
   desc: "Collaboration with Invisible Creature"
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-    - title: "XXXX"
+    - title:
       url: "/uploads/lego.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+- title:
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-    - title: "XXXX"
+    - title:
       url: "/uploads/matchbook_dana.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+- title:
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-    - title: "XXXX"
+    - title:
       url: "/uploads/mug_bagelshed.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+- title:
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-    - title: "XXXX"
+    - title:
       url: "/uploads/poncho.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+- title:
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-  - title: "XXXX"
-    url: "/uploads/poster_hawaiiannights.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+    - title:
+      url: "/uploads/poster_hawaiiannights.jpg"
+- title:
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-    - title: "XXXX"
+    - title:
       url: "/uploads/poster_kenlis.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+- title:
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-    - title: "XXXX"
+    - title:
       url: "/uploads/poster_spaceprom.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+- title:
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-  - title: "XXXX"
-    url: "/uploads/poster_walt.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+    - title:
+      url: "/uploads/poster_walt.jpg"
+- title:
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-    - title: "XXXX"
+    - title:
       url: "/uploads/ramekin.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+- title:
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-    - title: "XXXX"
+    - title:
       url: "/uploads/tvdinner.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+- title:
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
   photos:
-    - title: "XXXX"
+    - title:
       url: "/uploads/vinyl_walt.jpg"
+
 layout: studio
 ---

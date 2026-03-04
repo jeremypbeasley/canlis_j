@@ -18,19 +18,32 @@
       {% for item in page.items %}
         <div class="item">
           <div class="item-content">
-            <!-- Safe zone, enter your custom markup -->
+            {% for photo in item.photos %}
             <div class="">
-              {% for photo in item.photos %}
-              <div class="">
-                <img src="{{ photo.url }}" width="600">
-              </div>
-              {% endfor %}
-              <p class="color-white mt2 mb0">
-                {{ item.title }}<br />
-                <span class="op50 color-white">{{ item.desc }}</span>
-              </p>
+              <img class="item__img" src="{{ photo.url }}" alt="Project title">
             </div>
-            <!-- Safe zone ends -->
+            {% endfor %}
+            <div class="item__overlay">
+              <div class="item__content">
+                <!-- <p class="Caption item__title">{{ item.title }}</p> -->
+                <p class="item__desc">{{ item.desc }} / ({{ item.year }}), ${{ item.price }}</p>
+                <div class="item__actions">
+                  {% if item.is_soldout %}
+                    <a class="btn"">Sold Out</a>
+                  {% else %}
+                    <a class="btn" href="/case-study/">Buy Now</a>
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="item-label pt4">
+            <p class="color-white mb0 mt0 pb0">
+            {{ item.title }}
+            <!-- <br />
+            <span class="op50 color-white">{{ item.desc }}
+            </span> -->
+            </p>
           </div>
         </div>
       {% endfor %}
