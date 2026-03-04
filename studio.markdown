@@ -5,13 +5,13 @@ og_photo: "/uploads/pork.jpg"
 desc: "Our curiosity is always expanding, often collaborating with our favorite designers, craftspeople, and friends building a collection of objects that expand far beyond the dining room. Some objects support a party or an event, some are experiences in and of themselves. Some are strictly for our guests. Some are simply because we couldn’t resist making them. These are the ones we love most."
 
 items:
-- title: "XXXX"
-  desc: "XXXX"
+- title: "Ant Farm"
+  desc: "Collaboration with Don Clark"
   photos:
     - title: "XXXX"
       url: "/uploads/antfarm.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+- title: "Wine Cradle"
+  desc: "Collaboration with Jordan Lake"
   photos:
     - title: "XXXX"
       url: "/uploads/cradle.jpg"

@@ -12,20 +12,33 @@
     </div>
   </div>
 
-  <!-- GRID -->
-  <div class="StudioGrid color-white">
-  {% for item in page.items %}
-    <div class="mb4">
-      <p class="mb1">{{ item.title }}</p>
-      <!-- <p class="mt2 mb4">{{ item.desc }}</p> -->
-      {% for photo in item.photos %}
-      <div class="mb4">
-        <img src="{{ photo.url }}" width="600">
+  <!-- MUURI BEGIN -->
+
+  <div class="grid">
+
+    {% for item in page.items %}
+      <div class="item">
+        <div class="item-content">
+          <!-- Safe zone, enter your custom markup -->
+          <div class="">
+            {% for photo in item.photos %}
+            <div class="">
+              <img src="{{ photo.url }}" width="600">
+            </div>
+            {% endfor %}
+            <p class="color-white mt2">
+              {{ item.title }}<br />
+              <span class="op50 color-white">{{ item.desc }}</span>
+            </p>
+          </div>
+          <!-- Safe zone ends -->
+        </div>
       </div>
-      {% endfor %}
-    </div>
-  {% endfor %}
+    {% endfor %}
+
   </div>
+
+  <!-- MUURI END -->
 
 </div>
 
