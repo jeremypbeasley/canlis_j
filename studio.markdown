@@ -15,23 +15,23 @@ items:
   photos:
     - title: "XXXX"
       url: "/uploads/cradle.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+- title: "Hurricane"
+  desc:
   photos:
     - title: "XXXX"
       url: "/uploads/hurricane.jpg"
-- title: "XXXX"
+- title: "Yurt Village Poster"
   desc: "XXXX"
   photos:
     - title: "XXXX"
       url: "/uploads/poster_yurtvillage.jpg"
-- title: "XXXX"
+- title: "Kenlis Fanny Pack"
   desc: "XXXX"
   photos:
     - title: "XXXX"
       url: "/uploads/kenlisfannypack.jpg"
-- title: "XXXX"
-  desc: "XXXX"
+- title: "The Unauthorized Canlis LEGO Set"
+  desc: "Collaboration with Invisible Creature"
   photos:
     - title: "XXXX"
       url: "/uploads/lego.jpg"

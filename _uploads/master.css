@@ -5306,7 +5306,7 @@ input[type=submit] {
 .StudioContainer {
   width: 100%;
   background: #242421;
-  border-radius: 20vw;
+  border-radius: 15vw;
   margin-top: 20vw;
 }
 .StudioIntro {
@@ -5314,12 +5314,11 @@ input[type=submit] {
 }
 .StudioGrid {
   width: 100%;
-  margin: 10vw;
-  min-height: 100vh;
+  margin: 5vw;
 }
 .grid {
   position: relative;
-  margin: 2.5vw;
+  margin: 0;
   min-height: 100vh;
 /* background: blue; */
 }
@@ -5328,7 +5327,7 @@ input[type=submit] {
   display: block;
   position: absolute;
   width: 26.5vw;
-  margin: 2.5vw;
+  margin: 2vw;
   z-index: 1;
 }
 .item.muuri-item-dragging {
