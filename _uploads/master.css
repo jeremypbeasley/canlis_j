@@ -5303,3 +5303,17 @@ input[type=submit] {
     transform: translateX(-50%);
   }
 }
+.StudioContainer {
+  width: 100%;
+  background: #242421;
+  border-radius: 20vw;
+  margin-top: 20vw;
+}
+.StudioIntro {
+  width: 100%;
+}
+.StudioGrid {
+  width: 100%;
+  margin: 10vw;
+  min-height: 100vh;
+}
