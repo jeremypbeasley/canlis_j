@@ -35,6 +35,7 @@
   width: 26.5vw;
   margin: 2vw;
   z-index: 1;
+  border-radius: 10px;
   overflow: hidden;        /* for overlay clipping */
   /* border-radius: 16px; */
 }
@@ -80,12 +81,12 @@
   inset: 0;
   display: grid;
   align-items: end;
-  padding: 16px;
+  padding: 8%;
   background: linear-gradient(
     to top,
     rgba(0,0,0,0.75),
-    rgba(0,0,0,0.15) 60%,
-    rgba(0,0,0,0)
+    rgba(0,0,0,0.35) 60%,
+    rgba(0,0,0,.25)
   );
 
   opacity: 0;
@@ -128,12 +129,12 @@
 
 .btn {
   appearance: none;
-  border: 1px solid rgba(255,255,255,0.35);
+  border: 0px solid rgba(255,255,255,0.35);
   background: rgba(255,255,255,0.18);
   color: white;
 
   padding: 8px 10px;
-  border-radius: 999px;
+  border-radius: 8px;
 
   text-decoration: none;
   font-size: 0.9rem;
@@ -173,4 +174,23 @@
   .item__overlay {
     transition: none;
   }
+}
+
+/* Splide inside Muuri item */
+.item .splide,
+.item .splide__track,
+.item .splide__list,
+.item .splide__slide {
+  height: 100%;
+}
+
+.item .splide__slide {
+  display: block;
+}
+
+.item .splide__slide .item__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }

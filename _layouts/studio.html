@@ -18,20 +18,31 @@
       {% for item in page.items %}
         <div class="item">
           <div class="item-content">
-            {% for photo in item.photos %}
-            <div class="">
-              <img class="item__img" src="{{ photo.url }}" alt="Project title">
-            </div>
-            {% endfor %}
+            {% if item.photos and item.photos.size > 1 %}
+              <div class="splide js-item-splide" data-interval="{{ item.photo_duration | default: 400 }}">
+                <div class="splide__track">
+                  <ul class="splide__list">
+                    {% for photo in item.photos %}
+                      <li class="splide__slide">
+                        <img class="item__img" src="{{ photo.url }}" alt="{{ item.title | escape }}">
+                      </li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              </div>
+            {% else %}
+              {% assign first = item.photos | first %}
+              <img class="item__img" src="{{ first.url }}" alt="{{ item.title | escape }}">
+            {% endif %}
             <div class="item__overlay">
               <div class="item__content">
                 <!-- <p class="Caption item__title">{{ item.title }}</p> -->
                 <p class="item__desc">{{ item.desc }} / ({{ item.year }}), ${{ item.price }}</p>
                 <div class="item__actions">
                   {% if item.is_soldout %}
-                    <a class="btn"">Sold Out</a>
+                    <span class="btn Caption">Sold Out</span>
                   {% else %}
-                    <a class="btn" href="/case-study/">Buy Now</a>
+                    <a class="btn Caption" href="{{ item.purchase_url }}">Buy Now</a>
                   {% endif %}
                 </div>
               </div>
@@ -39,10 +50,7 @@
           </div>
           <div class="item-label pt4">
             <p class="color-white mb0 mt0 pb0">
-            {{ item.title }}
-            <!-- <br />
-            <span class="op50 color-white">{{ item.desc }}
-            </span> -->
+              {{ item.title }}
             </p>
           </div>
         </div>

@@ -12,40 +12,10 @@ items:
   price: 45
   purchase_url:
   is_soldout: true
-  photo_duration: 400
+  photo_duration: 80
   photos:
     - title:
       url: "/uploads/antfarm.jpg"
-    - title:
-      url: "/uploads/poncho.jpg"
-    - title:
-      url: "/uploads/ramekin.jpg"
-- title: "Wine Cradle"
-  desc: "Collaboration with Jordan Lake"
-  year: 2020
-  type: "Apparel / Accessories"
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 400
-  photos:
-    - title:
-      url: "/uploads/cradle.jpg"
-    - title:
-      url: "/uploads/vinyl_walt.jpg"
-    - title:
-      url: "/uploads/matchbook_dana.jpg"
-- title: "Hurricane"
-  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
-  year: 2020
-  type: "Apparel / Accessories"
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 400
-  photos:
-    - title:
-      url: "/uploads/hurricane.jpg"
 - title: "Yurt Village Poster"
   desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
   year: 2020
@@ -57,6 +27,42 @@ items:
   photos:
     - title:
       url: "/uploads/poster_yurtvillage.jpg"
+- title: "Matchbooks"
+  desc: "Collaboration with Don Clark for Invisible Creature and Dana Tanamachi"
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 2000
+  photos:
+    - title:
+      url: "/uploads/matchbook_1.jpg"
+    - title:
+      url: "/uploads/matchbook_2.jpg"
+    - title:
+      url: "/uploads/matchbook_3.jpg"
+    - title:
+      url: "/uploads/matchbook_4.jpg"
+    - title:
+      url: "/uploads/matchbook_5.jpg"
+    - title:
+      url: "/uploads/matchbook_6.jpg"
+    - title:
+      url: "/uploads/matchbook_7.jpg"
+    - title:
+      url: "/uploads/matchbook_8.jpg"
+- title: "Hurricane"
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
+  year: 2020
+  type: "Apparel / Accessories"
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
+  photos:
+    - title:
+      url: "/uploads/hurricane.jpg"
 - title: "Kenlis Fanny Pack"
   desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
   year: 2020
@@ -79,17 +85,6 @@ items:
   photos:
     - title:
       url: "/uploads/lego.jpg"
-- title:
-  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
-  year: 2020
-  type: "Apparel / Accessories"
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 400
-  photos:
-    - title:
-      url: "/uploads/matchbook_dana.jpg"
 - title:
   desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore."
   year: 2020
