@@ -105,6 +105,9 @@ items:
 - title: Owner, Mark Canlis (Photo by Jeremy P. Beasley)
   thumbnail: "/uploads/MarkCanlis1.jpg"
   link: "/uploads/MarkCanlis1.jpg"
+- title: Pasta
+  thumbnail: 
+  link: 
 og_desc: Assets and photographs for press and media.
 og_photo: "/uploads/canlis_logo_black_media.jpg"
 layout: media
