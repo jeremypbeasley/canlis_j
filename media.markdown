@@ -106,8 +106,8 @@ items:
   thumbnail: "/uploads/MarkCanlis1.jpg"
   link: "/uploads/MarkCanlis1.jpg"
 - title: Pasta
-  thumbnail: 
-  link: 
+  thumbnail: "/uploads/01722994_VSCO.jpeg"
+  link: "/uploads/01722994_VSCO.jpeg"
 og_desc: Assets and photographs for press and media.
 og_photo: "/uploads/canlis_logo_black_media.jpg"
 layout: media
