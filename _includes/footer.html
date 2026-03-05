@@ -49,7 +49,81 @@
 <script src="https://cdn.jsdelivr.net/npm/web-animations-js@2.3.2/web-animations.min.js"></script>
 
 <script>
-var grid = new Muuri('.grid');
+
+  // INIT MUURI
+
+  window.grid = new Muuri('.grid', {
+    items: '.item',
+    layout: { fillGaps: true },
+    // THIS is the key:
+    dragEnabled: false,
+    layoutOnResize: true,
+    // Muuri will use this element for item dimensions
+    // (prevents measuring padding/label weirdness too)
+    itemPositioningClass: 'muuri-item-positioning'
+  });
+
+  // INIT SPLIDE
+
+  function refreshMuuriSoon() {
+  if (!window.grid) return;
+  // two RAFs makes this very reliable after DOM/CSS changes
+  requestAnimationFrame(() => {
+    requestAnimationFrame(() => {
+      window.grid.refreshItems().layout();
+    });
+  });
+}
+
+window.addEventListener('load', () => {
+  document.querySelectorAll('.js-item-splide').forEach((el) => {
+    if (el.dataset.mounted === 'true') return;
+
+    const interval = parseInt(el.dataset.interval || '400', 10);
+
+    const splide = new Splide(el, {
+      type: 'fade',
+      rewind: true,
+      arrows: false,
+      pagination: false,
+      autoplay: true,
+      interval,
+      speed: 600,
+    });
+
+    splide.on('mounted', () => {
+      // wait for images inside this splide to load, then refresh Muuri
+      const imgs = el.querySelectorAll('img');
+      let pending = imgs.length;
+
+      if (pending === 0) return refreshMuuriSoon();
+
+      imgs.forEach((img) => {
+        if (img.complete) {
+          pending -= 1;
+          if (pending === 0) refreshMuuriSoon();
+        } else {
+          img.addEventListener('load', () => {
+            pending -= 1;
+            if (pending === 0) refreshMuuriSoon();
+          }, { once: true });
+          img.addEventListener('error', () => {
+            pending -= 1;
+            if (pending === 0) refreshMuuriSoon();
+          }, { once: true });
+        }
+      });
+    });
+
+    splide.mount();
+    el.dataset.mounted = 'true';
+  });
+
+  // also refresh once after *all* carousels are inited
+  refreshMuuriSoon();
+});
+
+
 </script>
 
 </body>
