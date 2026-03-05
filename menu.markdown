@@ -21,8 +21,8 @@ course_2:
   desc: barley, matsutake, and seaweed
 - title: Mayocoba Beans
   desc: chanterelle, chicory, and habanada
-- title: Pork Loin
-  desc: celeriac, brassica, and cranberry
+- title: Duck
+  desc: turnip, mandarinquat, and rosemary
 - title: Lamb Rack
   desc: yogurt, fig leaf, and chimichurri
 - title: or
