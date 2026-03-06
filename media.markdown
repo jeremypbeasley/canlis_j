@@ -105,7 +105,7 @@ items:
 - title: Owner, Mark Canlis (Photo by Jeremy P. Beasley)
   thumbnail: "/uploads/MarkCanlis1.jpg"
   link: "/uploads/MarkCanlis1.jpg"
-- title: Pasta
+- title: Parmesan Angolotti (Photo by Jeremy P. Beasley)
   thumbnail: "/uploads/01722994_VSCO.jpeg"
   link: "/uploads/01722994_VSCO.jpeg"
 og_desc: Assets and photographs for press and media.
