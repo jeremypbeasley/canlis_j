@@ -19,8 +19,8 @@ course_1:
 course_2:
 - title: Sturgeon
   desc: barley, matsutake, and seaweed
-- title: Mayocoba Beans
-  desc: chanterelle, chicory, and habanada
+- title: Celeriac
+  desc: leek, koji, brassica, and hazelnut
 - title: Duck
   desc: turnip, mandarinquat, and rosemary
 - title: Lamb Rack
@@ -28,9 +28,8 @@ course_2:
 - title: or
   desc: 
 - title: Meat and Potatoes
-  desc: "A course for the entire table. \nDry aged Pure Country beef, Canlis potatoes
-    with black truffle, Dungeness crab and sturgeon caviar.\n+$65 per person; limited
-    availability"
+  desc: "A course for the entire table. \nDry aged Pure Country Ribeye, Canlis potatoes,
+    and Dungeness crab with sturgeon caviar.\n+$60 per person; limited availability"
 course_3:
 - title: Soufflé
   desc: hazelnut and crème anglaise
