@@ -117,7 +117,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/624325516_17984142377942108_7615374587499294023_n.jpg"
 - title: Camp Canlis Mug
   desc: A playful retreat where service began with the raising of a flag, a bugle
     call, and building a campfire. A little adventure, a lot of laughter, and dinner
@@ -130,7 +130,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240502_Canlis_140.jpg"
 - title: Camp Canlis Pendant
   desc: A playful retreat where service began with the raising of a flag, a bugle
     call, and building a campfire. A little adventure, a lot of laughter, and dinner
@@ -182,7 +182,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240502_Canlis_112.jpg"
 - title: Canlis Community College Pendant
   desc: A six-week experiment in learning and laughter, where guests enrolled in online
     classes about food, drinks, and the small joys of everyday life. Artwork by Don
@@ -663,7 +663,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/hurricane.jpg"
+    url: "/uploads/20241014_Canlis_228-bdfd1f.jpg"
 - title: Canlis Staff Apparel Beanie
   desc: 
   year: 2023
@@ -674,7 +674,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240502_Canlis_116-689580.jpg"
 - title: Canlis Staff Apparel Hoodie
   desc: 
   year: 2023
