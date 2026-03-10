@@ -35,7 +35,7 @@
       {% assign visible_items = page.items | where: "is_visible", true %}
 
       {% for item in visible_items %}
-        <div class="item {% if item.is_featured %}item--large{% endif %}">
+        <div class="item item--square {% if item.is_featured %}item--large{% endif %}">
           <div class="item-content">
 
             {% if item.photos and item.photos.size > 1 %}
@@ -72,7 +72,7 @@
 
           <div class="item-label">
             <p class="color-white mb0 mt0 pb0">
-              {{ item.title }}<br />
+              {{ forloop.index }}. {{ item.title }}<br />
               {% if item.partner %}
                 <span class="op50">
                   in collaboration with {{ item.partner }}

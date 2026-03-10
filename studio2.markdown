@@ -27,7 +27,7 @@ items:
   - title:
     url: /uploads/20241117_canlis_NWSS4036_web.jpg
   partner:
-  is_featured: false
+  is_featured: true
   is_visible: true
 - title: Canlis Crab Shack Seaman's Poncho
   desc: We traded white tablecloths for paper and mallets in a joyful ode to the crab
@@ -45,7 +45,7 @@ items:
   is_featured: false
   is_visible: true
 - title: Matchbooks
-  desc: In keeping a tradition, we've created beautiful matchbooks for guests to have following dinner.
+  desc: "In keeping a tradition, we've created beautiful matchbooks for guests to have following dinner. Artwork by Don Clark for Invisible Creature, Jordan Kay, Pam Wishbow, Kyler Martz, and Jonathan Ball"
   year: 2019 - 2025
   type: Matchbook
   price: 45
@@ -69,8 +69,7 @@ items:
     url: /uploads/matchbook_7.jpg
   - title:
     url: /uploads/matchbook_8.jpg
-  partner: "Don Clark for Invisible Creature, Jordan Kay, Pam
-  Wishbow, Kyler Martz, and Jonathan Ball"
+  partner:
   is_featured: false
   is_visible: true
 - title: Canlis Steak Knife
@@ -87,84 +86,7 @@ items:
   partner: Filson
   is_featured: false
   is_visible: true
-- title: Space Prom Poster
-  desc: A one-night cosmic dance where tuxedos, taffeta, and starlight collide somewhere
-    beyond Earth’s atmosphere. Poster design by Don Clark for Invisible Creature.
-  year: 2023
-  type: Print
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 400
-  photos:
-  - title:
-    url: /uploads/poster_spaceprom.jpg
-  partner:
-  is_featured: false
-  is_visible: true
-- title: The Canlis TV Dinner
-  desc: Canlis Frozen? You bet. This pandemic-era expirment turned out to be a big
-    hit among fans and regulars alike. Box design by Don Clark for Invisible Creature.
-  year: 2020
-  type: Uncategorized
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 400
-  photos:
-  - title:
-    url: /uploads/tvdinner.jpg
-  partner:
-  is_featured: false
-  is_visible: true
-- title: The Canlis Yurt Villiage Poster
-  desc: The parking lot transformed into a cozy village of private yurts, offering
-    warmth, food, and a little magic in the middle of a wintery pandemic. Poster design
-    by Don Clark for Invisible Creature.
-  year: 2020
-  type: Print
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 400
-  photos:
-  - title:
-    url: /uploads/poster_yurtvillage.jpg
-  partner:
-  is_featured: false
-  is_visible: true
-- title: The Canlis Ant Farm
-  desc:
-  year: 2022
-  type: Objects
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 3500
-  photos:
-  - title:
-    url: /uploads/8824f2cdb652ad892fa3341760fb6b4d5994b1f6-1500x1500.jpg
-  - title:
-    url: /uploads/9346f7132936a4dfa66bf0fd1f9d6d2e12b5b0d0-1500x1500.jpg
-  partner:
-  is_featured: false
-  is_visible: true
-- title: Canlis Salt Ramekins
-  desc: Local artisan and sculptor Dylan Andersen created a series of solid bronze
-    ramekins to accomopany our opening bread course. Rather than being carved out,
-    each is pressed into a bowl shape with around 50,000 lbs of hydraulic pressure.
-  year: 2024
-  type: Objects
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 400
-  photos:
-  - title:
-    url: /uploads/ramekin.jpg
-  partner: Dylan Andersen
-  is_featured: false
-  is_visible: true
+
 - title: 'Live Recordings at Canlis'
   desc: "Various vinyl releases by Walt Wagner, Danny Lowell, and Clay Wheeler"
   year:
@@ -183,6 +105,43 @@ items:
   partner:
   is_featured: false
   is_visible: true
+
+
+
+- title: Hawaiian Nights Tote
+  desc: An parking lot island escape where the pool was hot, the grills were hotter,
+    the drinks were cold, and the Seattle sunset did the rest. Tote design by Don
+    Clark for Invisible Creature.
+  year: 2019
+  type: Apparel / Accessories
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
+  photos:
+  - title:
+    url: /uploads/20240420_Canlis_188_web.jpg
+  partner:
+  is_featured: false
+  is_visible: true
+- title: The Canlis Ant Farm
+  desc:
+  year: 2022
+  type: Objects
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 3500
+  photos:
+  - title:
+    url: /uploads/8824f2cdb652ad892fa3341760fb6b4d5994b1f6-1500x1500.jpg
+  - title:
+    url: /uploads/9346f7132936a4dfa66bf0fd1f9d6d2e12b5b0d0-1500x1500.jpg
+  partner:
+  is_featured: false
+  is_visible: false
+
+
 - title: Canlis on the High Seas T-Shirt
   desc: The restaurant reimagined as a wandering vessel, sailing somewhere between
     fine dining and a tall tale. T-Shirt design by Brady Clark
@@ -213,6 +172,58 @@ items:
   partner:
   is_featured: false
   is_visible: true
+
+- title: Canlis Salt Ramekins
+  desc: Local artisan and sculptor Dylan Andersen created a series of solid bronze
+    ramekins to accomopany our opening bread course. Rather than being carved out,
+    each is pressed into a bowl shape with around 50,000 lbs of hydraulic pressure.
+  year: 2024
+  type: Objects
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
+  photos:
+  - title:
+    url: /uploads/ramekin.jpg
+  partner: Dylan Andersen
+  is_featured: true
+  is_visible: true
+- title: The Canlis TV Dinner
+  desc: Canlis Frozen? You bet. This pandemic-era expirment turned out to be a big
+    hit among fans and regulars alike. Box design by Don Clark for Invisible Creature.
+  year: 2020
+  type: Uncategorized
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
+  photos:
+  - title:
+    url: /uploads/tvdinner.jpg
+  partner:
+  is_featured: true
+  is_visible: true
+
+
+
+- title: Space Prom Poster
+  desc: A one-night cosmic dance where tuxedos, taffeta, and starlight collide somewhere
+    beyond Earth’s atmosphere. Poster design by Don Clark for Invisible Creature.
+  year: 2023
+  type: Print
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 400
+  photos:
+  - title:
+    url: /uploads/poster_spaceprom.jpg
+  partner:
+  is_featured: false
+  is_visible: true
+
+
 - title: Hawaiian Nights Poster
   desc: An parking lot island escape where the pool was hot, the grills were hotter,
     the drinks were cold, and the Seattle sunset did the rest. Poster design by Don
@@ -229,22 +240,22 @@ items:
   partner:
   is_featured: false
   is_visible: true
-- title: Hawaiian Nights Tote
-  desc: An parking lot island escape where the pool was hot, the grills were hotter,
-    the drinks were cold, and the Seattle sunset did the rest. Tote design by Don
-    Clark for Invisible Creature.
-  year: 2019
-  type: Apparel / Accessories
+- title: The Canlis Yurt Villiage Poster
+  desc: The parking lot transformed into a cozy village of private yurts, offering
+    warmth, food, and a little magic in the middle of a wintery pandemic. Poster design
+    by Don Clark for Invisible Creature.
+  year: 2020
+  type: Print
   price: 45
   purchase_url:
   is_soldout: true
   photo_duration: 400
   photos:
   - title:
-    url: /uploads/20240420_Canlis_188_web.jpg
+    url: /uploads/poster_yurtvillage.jpg
   partner:
   is_featured: false
-  is_visible: true
+  is_visible: true  
 - title: The Executive Mug
   desc: Artwork by Nathan Yoder
   year: 2024
@@ -273,7 +284,7 @@ items:
   - title:
     url: /uploads/lego.jpg
   partner:
-  is_featured: false
+  is_featured: true
   is_visible: true
 - title: Camp Canlis "Camper's Kit"
   desc: A playful retreat where service began with the raising of a flag, a bugle
@@ -323,21 +334,19 @@ items:
   partner: Filson
   is_featured: false
   is_visible: true
-- title: Canlis Community College Pendant
-  desc: A six-week experiment in learning and laughter, where guests enrolled in online
-    classes about food, drinks, and the small joys of everyday life. Artwork by Don
-    Clark for Invisible Creature.
-  year: 2020
-  type: Apparel / Accessories
+- title: Canlis Whiskey House
+  desc:
+  year: 2019
+  type: Objects
   price: 45
   purchase_url:
   is_soldout: true
   photo_duration: 400
   photos:
   - title:
-    url: /uploads/20240502_Canlis_124.jpg
+    url: /uploads/f0b20926c8fbae091204be7a1c4c133bc76d622c-3000x1900.jpg
   partner:
-  is_featured: false
+  is_featured: true
   is_visible: true
 - title: Canlis Snow Globe
   desc:
@@ -353,17 +362,20 @@ items:
   partner:
   is_featured: false
   is_visible: true
-- title: Canlis Whiskey House
-  desc:
-  year: 2019
-  type: Objects
+
+- title: Canlis Community College Pendant
+  desc: A six-week experiment in learning and laughter, where guests enrolled in online
+    classes about food, drinks, and the small joys of everyday life. Artwork by Don
+    Clark for Invisible Creature.
+  year: 2020
+  type: Apparel / Accessories
   price: 45
   purchase_url:
   is_soldout: true
   photo_duration: 400
   photos:
   - title:
-    url: /uploads/f0b20926c8fbae091204be7a1c4c133bc76d622c-3000x1900.jpg
+    url: /uploads/20240502_Canlis_124.jpg
   partner:
   is_featured: false
   is_visible: true
@@ -880,5 +892,5 @@ items:
   partner: Holy Mountain Brewing
   is_featured: false
   is_visible: true
-layout: studio
+layout: studio2
 ---
