@@ -617,7 +617,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/ab31fe87144256eb8dcb0b67d5608c4e9a7a77f7-1500x1500.jpg"
 - title: Canlis Whiskey House
   desc: 
   year: 2019
