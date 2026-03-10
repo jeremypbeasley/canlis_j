@@ -56,7 +56,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/High%20Seas.jpg"
 - title: Canlis Crab Shack Seaman's Poncho
   desc: We traded white tablecloths for paper and mallets in a joyful ode to the crab
     boil. Icon design by Don Clark for Invisible Creature.
@@ -321,7 +321,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/Midnight.jpg"
 - title: 'Midnight: Hawaii Poster'
   desc: A New Year’s Eve where the countdown arrived with island rhythms, tropical
     drinks, and the promise of midnight somewhere over the Pacific. Poster design
@@ -334,7 +334,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/Midnight%20Hawaii.jpg"
 - title: El Chato x Canlis Poster
   desc: Chef Álvaro Clavijo of Bogotá’s El Chato joined the Canlis kitchen for a one-night
     menu celebrating the bold ingredients and flavors of Colombia. Poster design by
@@ -347,7 +347,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/El%20Chato%20x%20Canlis.jpg"
 - title: Contra x Canlis Poster
   desc: Contra joined us from NYC for a special night with Chef Brady Williams.
   year: 2017
@@ -358,7 +358,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/Contra%20x%20Canlis.jpg"
 - title: Blanco x Canlis Poster
   desc: Guest chef dinner with Chef Brady Williams and Blanco's Carlo Mirarchi. Posted
     design by Jordan Butcher.
@@ -370,7 +370,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/Blanca%20x%20Canlis.jpg"
 - title: Momofuku Ko x Canlis Poster
   desc: Chef Sean Gray of Momofuku Ko joined Canlis chef Brady Williams for a one-night
     collaborative tasting menu that brought the energy of David Chang’s Michelin-starred
@@ -383,7 +383,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/Momofuku%20Ko%20x%20Canlis.jpg"
 - title: Milk Bar x Canlis Poster
   desc: Christina Tosi brought her cult-favorite New York bakery to the Canlis parking
     lot for a one-day ice-cream social and bake sale featuring cereal-milk soft serve,
@@ -396,7 +396,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/Milk%20Bar%20x%20Canlis.jpg"
 - title: Shake Shack x Canlis Poster
   desc: Our parking lot turned into a one-day summer festival of ShackBurgers, crab
     melts, live music, and long lines as Seattle got its first taste of the cult burger
@@ -409,7 +409,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/Shake%20Shack%20x%20Canlis.jpg"
 - title: Matchbooks
   desc: In keeping a tradition, we've created beautiful matchbooks for guests to have
     following dinner. Arwork by Don Clark for Invisible Creature, Jordan Kay, Pam
@@ -560,7 +560,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/Lone%20Bellow.jpg"
 - title: 'Live In The Lower Lot: Calexico'
   desc: Seattle got visited by the sounds of the American Southwest, weaving mariachi
     horns, desert rhythms, and cinematic storytelling right here in our parking lot.
@@ -573,7 +573,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/Calexico%20Concert.jpg"
 - title: Wooden Dome Boxes for Dinner Service
   desc: 
   year: 
