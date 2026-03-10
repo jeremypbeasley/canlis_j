@@ -1,13 +1,12 @@
 ---
 title: Studio
 date: 2016-11-10 10:09:00 -08:00
-og_photo: "/uploads/pork.jpg"
+og_photo: "/uploads/ogstudio.jpg"
 desc: Our curiosity is always expanding, often collaborating with our favorite designers,
   craftspeople, and friends building a collection of objects that expand far beyond
   the dining room. Some objects support a party or an event, some are experiences
   in and of themselves. Some are strictly for our guests. Some are simply because
   we couldn’t resist making them. These are the ones we love most.
-layout: studio
 items:
 - title: Space Prom Poster
   desc: A one-night cosmic dance where tuxedos, taffeta, and starlight collide somewhere
@@ -45,7 +44,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240502_Canlis_145.jpg"
 - title: Canlis on the High Seas Poster
   desc: The restaurant reimagined as a wandering vessel, sailing somewhere between
     fine dining and a tall tale. Poster design by Don Clark for Invisible Creature.
@@ -144,7 +143,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240502_Canlis_140.jpg"
 - title: Camp Canlis Scarf
   desc: A playful retreat where service began with the raising of a flag, a bugle
     call, and building a campfire. A little adventure, a lot of laughter, and dinner
@@ -209,7 +208,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240502_Canlis_234.jpg"
 - title: Canlis Community College Wool Ballcap
   desc: A six-week experiment in learning and laughter, where guests enrolled in online
     classes about food, drinks, and the small joys of everyday life. Artwork by Don
@@ -222,7 +221,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240420_Canlis_199_web.jpg"
 - title: Canlis Community College Beer Pong Kit
   desc: Design by Don Clark for Invisible Creature
   year: 2020
@@ -233,7 +232,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240420_Canlis_223_web.jpg"
 - title: The Bagel Shed Mug
   desc: Design by Don Clark for Invisible Creature
   year: 2020
@@ -244,7 +243,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/mug_bagelshed.jpg"
+    url: "/uploads/20240420_Canlis_138_web%20(1).jpg"
 - title: Kenlis Poster
   desc: A two-day plastic-fantastic party where the only rule was to show up with
     big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
@@ -270,7 +269,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20241117_canlis_NWSS4227_web.jpg"
 - title: Kenlis Trucker Cap
   desc: A two-day plastic-fantastic party where the only rule was to show up with
     big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
@@ -497,7 +496,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20241014_Canlis_106.jpg"
 - title: Canlis’ Map of Seattle’s Best
   desc: When guests come in from out of town, we proudly send them to the best spots
     in town. These are our current picks! Design by Don Clark for Invisible Creature.
@@ -509,7 +508,13 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20241117_canlis_NWSS4009_web%20(1).jpg"
+  - title: 
+    url: "/uploads/20241117_canlis_NWSS4026_web.jpg"
+  - title: 
+    url: "/uploads/20241117_canlis_NWSS4033_web.jpg"
+  - title: 
+    url: "/uploads/20241117_canlis_NWSS4036_web.jpg"
 - title: Clay at Canlis Vinyl
   desc: 
   year: 
@@ -520,7 +525,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240420_Canlis_013_web.jpg"
 - title: 'Wall Wagner, Reworks: Live at Canlis Vinyl'
   desc: 
   year: 
@@ -531,7 +536,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/vinyl_walt.jpg"
+    url: "/uploads/20240420_Canlis_001_web%20(1).jpg"
 - title: Danny Lowell, Solo at Canlis' Vinyl
   desc: 
   year: 
@@ -542,7 +547,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240420_Canlis_007_web.jpg"
 - title: 'Live In The Lower Lot: The Lone Bellow'
   desc: Grammy award winning, Lone Bellow, joined us for a night of soulful tunes,
     at-capacity hot tubs, and Chef James' top notch pizza throwing. Poster design
@@ -579,7 +584,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240420_Canlis_149_web.jpg"
 - title: ETXEKO
   desc: Cider —but way less annoying and far more sophisticated than the ones you
     drank when you were younger.
@@ -680,7 +685,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240502_Canlis_212.jpg"
 - title: Rainier Shine Candle
   desc: 
   year: 2024
@@ -715,5 +720,6 @@ items:
   photos:
   - title: 
     url: "/uploads/placeholder_studio.jpg"
+layout: studio
 ---
 
