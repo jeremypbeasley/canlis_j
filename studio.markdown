@@ -69,18 +69,6 @@ items:
   photos:
   - title: 
     url: "/uploads/poncho.jpg"
-- title: Canlis Crab Shack Bucket Hat
-  desc: We traded white tablecloths for paper and mallets in a joyful ode to the crab
-    boil. Icon design by Don Clark for Invisible Creature.
-  year: 2020
-  type: Apparel / Accessories
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  photo_duration: 400
-  photos:
-  - title: 
-    url: "/uploads/placeholder_studio.jpg"
 - title: Hawaiian Nights Poster
   desc: An parking lot island escape where the pool was hot, the grills were hotter,
     the drinks were cold, and the Seattle sunset did the rest. Poster design by Don
@@ -144,19 +132,6 @@ items:
   photos:
   - title: 
     url: "/uploads/20240502_Canlis_140.jpg"
-- title: Camp Canlis Scarf
-  desc: A playful retreat where service began with the raising of a flag, a bugle
-    call, and building a campfire. A little adventure, a lot of laughter, and dinner
-    in a yurt got us through that Spring! Artwork by Don Clark for Invisible Creature.
-  year: 2020
-  type: Apparel / Accessories
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  photo_duration: 400
-  photos:
-  - title: 
-    url: "/uploads/placeholder_studio.jpg"
 - title: Canlis Community College Pencil Bag
   desc: A six-week experiment in learning and laughter, where guests enrolled in online
     classes about food, drinks, and the small joys of everyday life. Artwork by Don
@@ -572,41 +547,6 @@ items:
   photos:
   - title: 
     url: "/uploads/20240420_Canlis_149_web.jpg"
-- title: ETXEKO
-  desc: Cider —but way less annoying and far more sophisticated than the ones you
-    drank when you were younger.
-  year: 2025
-  type: Beer / Cider
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  photo_duration: 400
-  photos:
-  - title: 
-    url: "/uploads/placeholder_studio.jpg"
-- title: One Pit Wonder
-  desc: Kriek-style genius, left in a barrel of locally sourced cherries for a year.
-  year: 2025
-  type: Beer / Cider
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  photo_duration: 400
-  photos:
-  - title: 
-    url: "/uploads/placeholder_studio.jpg"
-- title: The Other
-  desc: As dark and scary as talking to a stranger. Imperial stout aged in Bourbon
-    barrels.
-  year: 2025
-  type: Beer / Cider
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  photo_duration: 400
-  photos:
-  - title: 
-    url: "/uploads/placeholder_studio.jpg"
 - title: Canlis Snow Globe
   desc: 
   year: 2018
@@ -700,6 +640,66 @@ items:
   desc: T-Shirt Design by Julie Canlis
   year: 
   type: Apparel / Accessories
+  price: 45
+  purchase_url: 
+  is_soldout: true
+  photo_duration: 400
+  photos:
+  - title: 
+    url: "/uploads/placeholder_studio.jpg"
+- title: ETXEKO
+  desc: Cider —but way less annoying and far more sophisticated than the ones you
+    drank when you were younger.
+  year: 2025
+  type: Beer / Cider
+  price: 45
+  purchase_url: 
+  is_soldout: true
+  photo_duration: 400
+  photos:
+  - title: 
+    url: "/uploads/placeholder_studio.jpg"
+- title: Canlis Crab Shack Bucket Hat
+  desc: We traded white tablecloths for paper and mallets in a joyful ode to the crab
+    boil. Icon design by Don Clark for Invisible Creature.
+  year: 2020
+  type: Apparel / Accessories
+  price: 45
+  purchase_url: 
+  is_soldout: true
+  photo_duration: 400
+  photos:
+  - title: 
+    url: "/uploads/placeholder_studio.jpg"
+- title: Camp Canlis Scarf
+  desc: A playful retreat where service began with the raising of a flag, a bugle
+    call, and building a campfire. A little adventure, a lot of laughter, and dinner
+    in a yurt got us through that Spring! Artwork by Don Clark for Invisible Creature.
+  year: 2020
+  type: Apparel / Accessories
+  price: 45
+  purchase_url: 
+  is_soldout: true
+  photo_duration: 400
+  photos:
+  - title: 
+    url: "/uploads/placeholder_studio.jpg"
+- title: One Pit Wonder
+  desc: Kriek-style genius, left in a barrel of locally sourced cherries for a year.
+  year: 2025
+  type: Beer / Cider
+  price: 45
+  purchase_url: 
+  is_soldout: true
+  photo_duration: 400
+  photos:
+  - title: 
+    url: "/uploads/placeholder_studio.jpg"
+- title: The Other
+  desc: As dark and scary as talking to a stranger. Imperial stout aged in Bourbon
+    barrels.
+  year: 2025
+  type: Beer / Cider
   price: 45
   purchase_url: 
   is_soldout: true
