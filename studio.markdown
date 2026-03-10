@@ -106,7 +106,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240420_Canlis_188_web.jpg"
 - title: The Executive Mug
   desc: Artwork by Nathan Yoder
   year: 2024
@@ -157,19 +157,6 @@ items:
   photos:
   - title: 
     url: "/uploads/placeholder_studio.jpg"
-- title: Canlis Community College T-Shirt
-  desc: A six-week experiment in learning and laughter, where guests enrolled in online
-    classes about food, drinks, and the small joys of everyday life. Artwork by Don
-    Clark for Invisible Creature.
-  year: 2020
-  type: Apparel / Accessories
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  photo_duration: 400
-  photos:
-  - title: 
-    url: "/uploads/placeholder_studio.jpg"
 - title: Canlis Community College Pencil Bag
   desc: A six-week experiment in learning and laughter, where guests enrolled in online
     classes about food, drinks, and the small joys of everyday life. Artwork by Don
@@ -195,7 +182,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240502_Canlis_124.jpg"
 - title: Canlis Community College Jacket
   desc: A six-week experiment in learning and laughter, where guests enrolled in online
     classes about food, drinks, and the small joys of everyday life. Artwork by Don
@@ -282,7 +269,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20241117_canlis_NWSS4084_web.jpg"
 - title: Kenlis Fanny Pack
   desc: A two-day plastic-fantastic party where the only rule was to show up with
     big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
@@ -308,7 +295,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20241117_canlis_NWSS4144_web.jpg"
 - title: Midnight Poster
   desc: Canlis' first ever New Year’s Eve dance party - a 1950’s themed night full
     of food, drinks,and several surprises along the way. Poster design by Don Clark
@@ -641,7 +628,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/f0b20926c8fbae091204be7a1c4c133bc76d622c-3000x1900.jpg"
 - title: Wine Cradle
   desc: 
   year: 2025
@@ -696,7 +683,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240420_Canlis_147_web.jpg"
 - title: Lukewarm Tweezer Food T-Shirt
   desc: Maybe the most coveted t-shirt we've ever created. From the mind of former
     chef Brad Williams. Design by Don Clark for Invisible Creature.
@@ -708,7 +695,7 @@ items:
   photo_duration: 400
   photos:
   - title: 
-    url: "/uploads/placeholder_studio.jpg"
+    url: "/uploads/20240502_Canlis_189.jpg"
 - title: Canlis Salad T-Shirt
   desc: T-Shirt Design by Julie Canlis
   year: 
