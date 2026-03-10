@@ -15,9 +15,13 @@
   <div class="StudioGrid">
     <!-- MUURI BEGIN -->
     <div class="grid">
-      {% for item in page.items %}
+
+      {% assign visible_items = page.items | where: "is_visible", true %}
+
+      {% for item in visible_items %}
         <div class="item">
           <div class="item-content">
+
             {% if item.photos and item.photos.size > 1 %}
               <div class="splide js-item-splide" data-interval="{{ item.photo_duration | default: 400 }}">
                 <div class="splide__track">
@@ -34,9 +38,9 @@
               {% assign first = item.photos | first %}
               <img class="item__img" src="{{ first.url }}" alt="{{ item.title | escape }}">
             {% endif %}
+
             <div class="item__overlay">
               <div class="item__content">
-                <!-- <p class="Caption item__title">{{ item.title }}</p> -->
                 <p class="item__desc">{{ item.desc }} / ({{ item.year }}), ${{ item.price }}</p>
                 <div class="item__actions">
                   {% if item.is_soldout %}
@@ -47,20 +51,27 @@
                 </div>
               </div>
             </div>
+
           </div>
+
           <div class="item-label pt4">
             <p class="color-white mb0 mt0 pb0">
-              {{ item.title }}
+              {{ item.title }}<br />
+              {% if item.partner %}
+                <span class="op50">
+                  in collaboration with {{ item.partner }}
+                </span>
+              {% endif %}
             </p>
           </div>
+
         </div>
       {% endfor %}
+
     </div>
     <!-- MUURI END -->
   </div>
 
 </div>
-
-
 
 {% include footer.html %}
