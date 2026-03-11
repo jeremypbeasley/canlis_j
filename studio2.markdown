@@ -9,8 +9,7 @@ desc: Our curiosity is always expanding, often collaborating with our favorite d
   we couldn’t resist making them. These are the ones we love most.
 items:
 - title: Canlis’ Map of Seattle’s Best
-  desc: When guests come in from out of town, we proudly send them to the best spots
-    in town. These are our current picks! Design by Don Clark for Invisible Creature.
+  desc: When guests come in from out of town, we proudly send them to the best spots in town. These are our current picks! Design by Don Clark for Invisible Creature.
   year: 2024
   type: Printed Matter
   price: 45
@@ -18,15 +17,15 @@ items:
   is_soldout: true
   photo_duration: 3000
   photos:
-  - title: 
-    url: "/uploads/20241117_canlis_NWSS4009_web%20(1).jpg"
-  - title: 
-    url: "/uploads/20241117_canlis_NWSS4026_web.jpg"
-  - title: 
-    url: "/uploads/20241117_canlis_NWSS4033_web.jpg"
-  - title: 
-    url: "/uploads/20241117_canlis_NWSS4036_web.jpg"
-  partner: 
+  - title:
+    url: /uploads/20241117_canlis_NWSS4009_web%20(1).jpg
+  - title:
+    url: /uploads/20241117_canlis_NWSS4026_web.jpg
+  - title:
+    url: /uploads/20241117_canlis_NWSS4033_web.jpg
+  - title:
+    url: /uploads/20241117_canlis_NWSS4036_web.jpg
+  partner: XXXXX
   is_featured: true
   is_visible: true
 - title: Canlis Crab Shack Seaman's Poncho
@@ -39,9 +38,9 @@ items:
   is_soldout: true
   photo_duration: 400
   photos:
-  - title: 
-    url: "/uploads/poncho.jpg"
-  partner: 
+  - title:
+    url: /uploads/poncho.jpg
+  partner: XXXXX
   is_featured: false
   is_visible: true
 - title: Matchbooks
@@ -170,8 +169,8 @@ items:
   is_visible: true
 - title: Canlis Salt Ramekins
   desc: Local artisan and sculptor Dylan Andersen created a series of solid bronze
-    ramekins to accomopany our opening bread course. Rather than being carved out,
-    each is pressed into a bowl shape with around 50,000 lbs of hydraulic pressure.
+    ramekins to accompany our opening bread course. Rather than being carved out,
+    each is pressed into a bowl shape with around 50,000lbs of hydraulic pressure.
   year: 2024
   type: Objects
   price: 45
@@ -179,8 +178,8 @@ items:
   is_soldout: true
   photo_duration: 400
   photos:
-  - title: 
-    url: "/uploads/ramekin.jpg"
+  - title:
+    url: /uploads/ramy.jpg
   partner: Dylan Andersen
   is_featured: true
   is_visible: true
@@ -194,9 +193,9 @@ items:
   is_soldout: true
   photo_duration: 400
   photos:
-  - title: 
-    url: "/uploads/tvdinner.jpg"
-  partner: 
+  - title:
+    url: /uploads/dinnner.jpg
+  partner:
   is_featured: true
   is_visible: true
 - title: Space Prom Poster

@@ -57,14 +57,7 @@
 
             <div class="item__overlay">
               <div class="item__content">
-                <p class="item__desc">{{ item.desc }} / ({{ item.year }}), ${{ item.price }}</p>
-                <div class="item__actions">
-                  {% if item.is_soldout %}
-                    <span class="btn Caption">Sold Out</span>
-                  {% else %}
-                    <a class="btn Caption" href="{{ item.purchase_url }}">Buy Now</a>
-                  {% endif %}
-                </div>
+                <p class="item__desc">{{ item.desc }} / ({{ item.year }})</p>
               </div>
             </div>
 
