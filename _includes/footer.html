@@ -1,4 +1,25 @@
 </div>
+
+<div class="Lightbox">
+  <div class="Lightbox__backdrop"></div>
+
+  <div class="Lightbox__panel">
+    <button type="button" class="Lightbox__close" aria-label="Close lightbox">×</button>
+
+    <div class="Lightbox__header AlignCenter">
+      <div class="Lightbox__title Caption AlignCenter"></div>
+    </div>
+
+    <div class="Lightbox__content">
+      <section class="splide LightboxSplide" aria-label="Lightbox gallery">
+        <div class="splide__track">
+          <ul class="splide__list"></ul>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+
 <footer class="GlobalFooter">
   <div class="FooterLine"></div>
   <div class="row">
@@ -43,87 +64,229 @@
 </script>
 
 <!-- MUURI JS -->
-  <script src="https://cdn.jsdelivr.net/npm/muuri@0.9.5/dist/muuri.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/muuri@0.9.5/dist/muuri.min.js"></script>
 
 <!-- WEB ANNIMATIONS -->
 <script src="https://cdn.jsdelivr.net/npm/web-animations-js@2.3.2/web-animations.min.js"></script>
 
 <script>
-
   // INIT MUURI
-
   window.grid = new Muuri('.grid', {
     items: '.item',
     layout: { fillGaps: true },
-    // THIS is the key:
     dragEnabled: false,
     layoutOnResize: true,
-    // Muuri will use this element for item dimensions
-    // (prevents measuring padding/label weirdness too)
     itemPositioningClass: 'muuri-item-positioning'
   });
 
-  // INIT SPLIDE
-
   function refreshMuuriSoon() {
-  if (!window.grid) return;
-  // two RAFs makes this very reliable after DOM/CSS changes
-  requestAnimationFrame(() => {
+    if (!window.grid) return;
     requestAnimationFrame(() => {
-      window.grid.refreshItems().layout();
+      requestAnimationFrame(() => {
+        window.grid.refreshItems().layout();
+      });
     });
-  });
-}
+  }
 
-window.addEventListener('load', () => {
-  document.querySelectorAll('.js-item-splide').forEach((el) => {
-    if (el.dataset.mounted === 'true') return;
+  window.addEventListener('load', () => {
+    //
+    // 1) Mount the small item splides
+    //
+    document.querySelectorAll('.js-item-splide').forEach((el) => {
+      if (el.dataset.mounted === 'true') return;
 
-    const interval = parseInt(el.dataset.interval || '400', 10);
+      const interval = parseInt(el.dataset.interval || '4000', 10);
 
-    const splide = new Splide(el, {
-      type: 'fade',
-      rewind: true,
-      arrows: false,
-      pagination: false,
-      autoplay: true,
-      interval,
-      speed: 600,
-    });
+      const splide = new Splide(el, {
+        type: 'fade',
+        rewind: true,
+        arrows: false,
+        pagination: false,
+        autoplay: true,
+        interval,
+        speed: 600,
+        pauseOnHover: false,
+        pauseOnFocus: false,
+      });
 
-    splide.on('mounted', () => {
-      // wait for images inside this splide to load, then refresh Muuri
-      const imgs = el.querySelectorAll('img');
-      let pending = imgs.length;
+      splide.on('mounted', () => {
+        const imgs = el.querySelectorAll('img');
+        let pending = imgs.length;
 
-      if (pending === 0) return refreshMuuriSoon();
-
-      imgs.forEach((img) => {
-        if (img.complete) {
-          pending -= 1;
-          if (pending === 0) refreshMuuriSoon();
-        } else {
-          img.addEventListener('load', () => {
-            pending -= 1;
-            if (pending === 0) refreshMuuriSoon();
-          }, { once: true });
-          img.addEventListener('error', () => {
-            pending -= 1;
-            if (pending === 0) refreshMuuriSoon();
-          }, { once: true });
+        if (pending === 0) {
+          refreshMuuriSoon();
+          return;
         }
+
+        imgs.forEach((img) => {
+          if (img.complete) {
+            pending -= 1;
+            if (pending === 0) refreshMuuriSoon();
+          } else {
+            img.addEventListener('load', () => {
+              pending -= 1;
+              if (pending === 0) refreshMuuriSoon();
+            }, { once: true });
+
+            img.addEventListener('error', () => {
+              pending -= 1;
+              if (pending === 0) refreshMuuriSoon();
+            }, { once: true });
+          }
+        });
+      });
+
+      splide.mount();
+      el.dataset.mounted = 'true';
+    });
+
+    //
+    // 2) Final refresh after everything settles
+    //
+    setTimeout(() => {
+      refreshMuuriSoon();
+    }, 200);
+
+    //
+    // 3) Lightbox logic only if lightbox exists
+    //
+    const lightbox = document.querySelector('.Lightbox');
+    if (!lightbox) return;
+
+    const lightboxBackdrop = lightbox.querySelector('.Lightbox__backdrop');
+    const lightboxClose = lightbox.querySelector('.Lightbox__close');
+    const lightboxTitle = lightbox.querySelector('.Lightbox__title');
+    const lightboxList = lightbox.querySelector('.LightboxSplide .splide__list');
+    const lightboxRoot = lightbox.querySelector('.LightboxSplide');
+
+    let lightboxSplide = null;
+
+    function escapeHtml(str) {
+      return String(str)
+        .replaceAll('&', '&amp;')
+        .replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;')
+        .replaceAll('"', '&quot;')
+        .replaceAll("'", '&#039;');
+    }
+
+    function buildLightboxSlides(images, title) {
+      lightboxTitle.textContent = title || '';
+
+      lightboxList.innerHTML = images.map((src) => `
+        <li class="splide__slide">
+          <img src="${src}" alt="${escapeHtml(title || '')}">
+        </li>
+      `).join('');
+    }
+
+    function handleLightboxAdvance(e) {
+      if (!lightboxSplide) return;
+      if (e.target.closest('.Lightbox__close')) return;
+      if (e.target.closest('.splide__pagination')) return;
+      lightboxSplide.go('>');
+    }
+
+    function mountLightboxSplide(startIndex = 0) {
+      if (lightboxSplide) {
+        lightboxSplide.destroy(true);
+        lightboxSplide = null;
+      }
+
+      lightboxSplide = new Splide(lightboxRoot, {
+        type: 'fade',
+        rewind: true,
+        arrows: false,
+        pagination: false,
+        autoplay: true,
+        interval: 2000,
+        pauseOnHover: false,
+        pauseOnFocus: false,
+        speed: 600,
+        start: startIndex,
+        keyboard: 'focused',
+        drag: true,
+      });
+
+      lightboxSplide.mount();
+      lightboxRoot.addEventListener('click', handleLightboxAdvance);
+    }
+
+    function openLightbox(images, title, startIndex = 0) {
+      if (!images.length) return;
+
+      buildLightboxSlides(images, title);
+      lightbox.classList.add('is-active');
+      document.body.classList.add('has-lightbox-open');
+      mountLightboxSplide(startIndex);
+    }
+
+    function closeLightbox() {
+      lightboxRoot.removeEventListener('click', handleLightboxAdvance);
+
+      lightbox.classList.remove('is-active');
+      document.body.classList.remove('has-lightbox-open');
+
+      if (lightboxSplide) {
+        lightboxSplide.destroy(true);
+        lightboxSplide = null;
+      }
+
+      lightboxList.innerHTML = '';
+      lightboxTitle.textContent = '';
+    }
+
+    document.querySelectorAll('.item').forEach((item) => {
+      item.addEventListener('click', (e) => {
+        if (e.target.closest('a, button')) return;
+        if (e.target.closest('.splide__arrow')) return;
+
+        const itemSplide = item.querySelector('.js-item-splide');
+        let images = [];
+
+        if (itemSplide) {
+          images = Array.from(
+            itemSplide.querySelectorAll('.splide__slide img.item__img')
+          )
+            .map((img) => img.getAttribute('src'))
+            .filter(Boolean);
+        } else {
+          const singleImg = item.querySelector('.item__img');
+          if (singleImg) {
+            images = [singleImg.getAttribute('src')];
+          }
+        }
+
+        const title = item.dataset.title || '';
+
+        let startIndex = 0;
+        const clickedSlide = e.target.closest('.splide__slide');
+
+        if (clickedSlide && itemSplide) {
+          const slides = Array.from(itemSplide.querySelectorAll('.splide__slide'));
+          const foundIndex = slides.indexOf(clickedSlide);
+          if (foundIndex >= 0) startIndex = foundIndex;
+        }
+
+        openLightbox(images, title, startIndex);
       });
     });
 
-    splide.mount();
-    el.dataset.mounted = 'true';
+    if (lightboxBackdrop) {
+      lightboxBackdrop.addEventListener('click', closeLightbox);
+    }
+
+    if (lightboxClose) {
+      lightboxClose.addEventListener('click', closeLightbox);
+    }
+
+    document.addEventListener('keydown', (e) => {
+      if (!lightbox.classList.contains('is-active')) return;
+      if (e.key === 'Escape') closeLightbox();
+      if (e.key === 'ArrowRight' && lightboxSplide) lightboxSplide.go('>');
+      if (e.key === 'ArrowLeft' && lightboxSplide) lightboxSplide.go('<');
+    });
   });
-
-  // also refresh once after *all* carousels are inited
-  refreshMuuriSoon();
-});
-
-
 </script>
 
 </body>

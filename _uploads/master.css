@@ -5316,34 +5316,42 @@ input[type=submit] {
   width: 100%;
   margin: 5vw;
 }
+@media (max-width: 768px) {
+  .StudioGrid {
+    margin: 0;
+  }
+}
 .grid {
   position: relative;
   margin: 0;
   min-height: 100vh;
-/* background: blue; */
 }
 .item {
   display: block;
   position: absolute;
-/* width: 26.5vw;
-  margin: 2vw; */
   width: 18.5vw;
   margin: 2vw 2vw 2vw 2vw;
   z-index: 1;
   border-radius: 10px;
-/* background: red; */
-/* aspect-ratio: 1 / 1; */
-/* overflow: hidden; */
-/* border-radius: 16px; */
 }
 .item--large {
   width: 39.5vw;
-/* aspect-ratio: 1 / 1.125; */
+}
+@media (max-width: 768px) {
+  .item,
+  .item--large {
+    width: 100vw;
+    margin: 0;
+  }
 }
 .item-label {
   margin-top: 0.9vw;
-/* background: blue; */
   height: 4em;
+}
+@media (max-width: 768px) {
+  .item-label {
+    margin: 2em;
+  }
 }
 .item.muuri-item-dragging {
   z-index: 3;
@@ -5354,15 +5362,11 @@ input[type=submit] {
 .item.muuri-item-hidden {
   z-index: 0;
 }
-.item-content {
+.item__content {
   position: relative;
   width: 100%;
   height: 100%;
   overflow: hidden;
-}
-.item img {
-  border-radius: 10px; /* optional; note this differs from .item's 16px */
-/* aspect-ratio: 1 / 1; */
 }
 .item__img {
   width: 100%;
@@ -5373,27 +5377,16 @@ input[type=submit] {
   transition: transform 200ms ease;
   border-radius: 8px;
 }
-.item--square .item__img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  border-radius: 8px;
-}
 .item__overlay {
   position: absolute;
   inset: 0;
   display: grid;
   align-items: end;
-  padding: 8%;
-  background: linear-gradient(to top, rgba(0,0,0,0.75), rgba(0,0,0,0.35) 60%, rgba(0,0,0,0.25));
+  padding: 1.8em 2em;
+  background: linear-gradient(to top, rgba(0,0,0,0.75), rgba(0,0,0,0.6) 60%, rgba(0,0,0,0.55));
   opacity: 0;
   transform: translateY(6px);
   transition: opacity 200ms ease, transform 200ms ease;
-}
-.item__content {
-  color: #fff;
-  display: grid;
-  gap: 10px;
 }
 .item__title {
   margin: 0;
@@ -5405,27 +5398,6 @@ input[type=submit] {
   opacity: 0.9;
   font-size: 0.95rem;
 }
-.item__actions {
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-}
-.btn {
-  appearance: none;
-  border: 0px solid rgba(255,255,255,0.35);
-  background: rgba(255,255,255,0.18);
-  color: #fff;
-  padding: 8px 10px;
-  border-radius: 8px;
-  text-decoration: none;
-  font-size: 0.9rem;
-  line-height: 1;
-  cursor: pointer;
-  backdrop-filter: blur(8px);
-}
-.btn--ghost {
-  background: transparent;
-}
 .item:hover .item__overlay,
 .item:focus-within .item__overlay {
   opacity: 1;
@@ -5434,7 +5406,7 @@ input[type=submit] {
 }
 .item:hover .item__img,
 .item:focus-within .item__img {
-  transform: scale(1.06);
+  transform: scale(1.03);
 }
 @media (prefers-reduced-motion: reduce) {
   .item__img,
@@ -5456,4 +5428,96 @@ input[type=submit] {
   height: 100%;
   object-fit: cover;
   display: block;
+}
+.Lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: none;
+}
+.Lightbox.is-active {
+  display: block;
+}
+.Lightbox__backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.92);
+}
+.Lightbox__panel {
+  position: relative;
+  z-index: 2;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+  box-sizing: border-box;
+}
+.Lightbox__close {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.25rem;
+  z-index: 20;
+  border: 0;
+  background: transparent;
+  color: #fff;
+  font-size: 2rem;
+  line-height: 1;
+  cursor: pointer;
+}
+.Lightbox__header {
+  flex: 0 0 auto;
+  padding-right: 3.5rem;
+  margin-bottom: 1rem;
+}
+.Lightbox__title {
+  margin: 0;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+.Lightbox__content {
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+}
+.LightboxSplide {
+  width: 100%;
+  height: 100%;
+}
+.LightboxSplide .splide__track {
+  height: 100%;
+}
+.LightboxSplide .splide__list {
+  height: 100%;
+}
+.LightboxSplide .splide__slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.LightboxSplide .splide__slide img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+.LightboxSplide .splide__arrow {
+  background: rgba(255,255,255,0.12);
+  opacity: 1;
+}
+.LightboxSplide .splide__arrow svg {
+  fill: #fff;
+}
+.LightboxSplide .splide__pagination__page {
+  background: rgba(255,255,255,0.45);
+}
+.LightboxSplide .splide__pagination__page.is-active {
+  background: #fff;
+}
+body.has-lightbox-open {
+  overflow: hidden;
 }
