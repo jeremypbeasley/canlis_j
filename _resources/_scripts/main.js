@@ -60,64 +60,7 @@ $(document).ready(function() {
 
   // Long descriptions on /familymeal
 
-  $(document.body).on('click', '.long_desc_trigger', function(){
-    $(this).hide();
-    $('.long_desc').toggleClass('active');
-    console.log("Announcement: Off");
-  });
 
-  // Yurt Menu
-
-  $('#menu-food').hide();
-
-  $(".yurtmenu #menu-drinks-trigger").click(function() {
-    $(".yurt-nav ul li").removeClass("active");
-    $(this).addClass("active");
-    // $(this).addClass("active");
-    $('#menu-drinks').show();
-    $('#menu-food').hide();
-    console.log("show drinks!")
-  });
-
-  $(".yurtmenu #menu-food-trigger").click(function() {
-    $(".yurt-nav ul li").removeClass("active");
-    $(this).addClass("active");
-    $('#menu-drinks').hide();
-    $('#menu-food').show();
-    console.log("show food!")
-  });
-
-  // Canteen menu
-
-  $('#canteen-menu-drinks').hide();
-
-  $(".canteen-nav #menu-drinks-trigger").click(function() {
-    $(".canteen-nav ul li").removeClass("active");
-    $(this).addClass("active");
-    $('#canteen-menu-drinks').show();
-    $('#canteen-menu-food').hide();
-    console.log("show drinks!")
-  });
-
-  $(".canteen-nav #menu-food-trigger").click(function() {
-    $(".canteen-nav ul li").removeClass("active");
-    $(this).addClass("active");
-    $('#canteen-menu-drinks').hide();
-    $('#canteen-menu-food').show();
-    console.log("show food!")
-  });
-
-  $( ".camp-eagle" ).delay(2000).animate({
-    right: "+=4000",
-    top: "-=1000",
-  }, 7000, function() {
-    // Animation complete.
-  });
-
-  $(".camp-eagle").click(function() {
-    $(this).addClass("boom");
-
-  });
 
   // Popup
 

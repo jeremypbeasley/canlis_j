@@ -385,8 +385,8 @@ items:
   - title:
     url: /uploads/20240502_Canlis_124.jpg
 
-- title: Wine Cradle
-  desc:
+- title: The Black Kampelli Wine Cradle
+  desc: "Kampelli leather is among the finest cowhides available—soft and glovey in hand, with a subtle pebble grain and a natural aniline finish that lets the material speak for itself. Authentically sourced from Montana, each hide is remarkably clean, with full top-grain character and almost no imperfections, secured with antique brass rivets that will age alongside the leather itself."
   year: 2025
   type: Objects
   price: 45
@@ -452,9 +452,7 @@ items:
     url: /uploads/Midnight%20Hawaii.jpg
 
 - title: Canlis Community College Student Uniforms
-  desc: A six-week experiment in learning and laughter, where guests enrolled in online
-    classes about food, drinks, and the small joys of everyday life. Artwork by Don
-    Clark for Invisible Creature.
+  desc: We built a six-week school in 4 weeks. The right garb was crucial. Students enrolled in online classes about food, drinks, and the small joys of everyday life. Artwork by Don Clark for Invisible Creature.
   year: 2020
   type: Apparel / Accessories
   price: 45
@@ -655,15 +653,15 @@ items:
   - title:
     url: /uploads/Calexico%20Concert.jpg
 
-- title: Wooden Dome Boxes for Dinner Service
-  desc:
+- title: ドームボックス "Dome Boxes"
+  desc: "We welcome each guest with a set of pristine Japanese hardwood boxes, crafted by hand and opened at the table to reveal the evening’s first small snacks. It’s a quiet, curious beginning—an invitation to explore the meal one thoughtful bite at a time."
   year:
   type: Objects
   price: 45
   purchase_url:
   is_soldout: true
   photo_duration: 2600
-  partner: Name of Artist Person
+  partner: Yuki Osu Petersen
   is_featured: true
   is_visible: true
   photos:
