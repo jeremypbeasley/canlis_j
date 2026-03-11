@@ -777,8 +777,7 @@ items:
   is_featured: false
   is_visible: true
 - title: Lukewarm Tweezer Food T-Shirt
-  desc: Maybe the most coveted t-shirt we've ever created. From the mind of former
-    chef Brad Williams. Design by Don Clark for Invisible Creature.
+  desc: Maybe the most coveted t-shirt we've ever created. From the mind of former chef Brad Williams. Design by Don Clark for Invisible Creature.
   year: 2019
   type: Apparel / Accessories
   price: 45
