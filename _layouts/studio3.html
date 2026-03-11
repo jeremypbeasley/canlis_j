@@ -22,7 +22,7 @@
     <div class="row">
       <div class="column col-xs-12 col-md-4 col-md-offset-4 color-white Ω">
         <p class="Caption text-align-center mb2 mt10">/ {{ page.title }}</p>
-        <p class="mb0 text-align-center">{{ page.desc }}</p>
+        <div class="mb0 text-align-center ">{{ page.desc | markdownify }}</div>
       </div>
     </div>
   </div>
@@ -36,7 +36,7 @@
 
       {% for item in visible_items %}
         <div class="item item--square {% if item.is_featured %}item--large{% endif %}">
-          <div class="item-content">
+          <div class="item__content">
 
             {% if item.photos and item.photos.size > 1 %}
               <div class="splide js-item-splide" data-interval="{{ item.photo_duration | default: 400 }}">
@@ -54,17 +54,13 @@
               {% assign first = item.photos | first %}
               <img class="item__img" src="{{ first.url }}" alt="{{ item.title | escape }}">
             {% endif %}
-
             <div class="item__overlay">
-              <div class="item__content">
-                <p class="item__desc">{{ item.desc }} / ({{ item.year }})</p>
-              </div>
+              <p class="item__desc color-white mb0 pb0">{{ item.desc }} ({{ item.year }})</p>
             </div>
-
           </div>
 
-          <div class="item-label">
-            <p class="color-white mb0 mt0 pb0">
+          <div class="item-label flex justify-content-space-between">
+            <div class="color-white mb0 mt0 pb0">
               <!-- {{ forloop.index }}.  -->
               {{ item.title }}<br />
               {% if item.partner %}
@@ -72,7 +68,12 @@
                   in collaboration with {{ item.partner }}
                 </span>
               {% endif %}
-            </p>
+            </div>
+            {% if item.is_soldout %}
+              <div class="">
+                <span class="Caption color-white op50">Sold Out</span>
+              </div>
+            {% endif %}
           </div>
 
         </div>

@@ -65,17 +65,11 @@
 .item.muuri-item-releasing { z-index: 2; }
 .item.muuri-item-hidden { z-index: 0; }
 
-.item-content {
+.item__content {
   position: relative;
   width: 100%;
   height: 100%;
   overflow: hidden;
-}
-
-/* If you're using <img class="item__img"> you can remove this selector. */
-.item img {
-  border-radius: 10px; /* optional; note this differs from .item's 16px */
-  /* aspect-ratio: 1 / 1; */
 }
 
 /* =========================
@@ -92,13 +86,6 @@
   border-radius: 8px;
 }
 
-.item--square .item__img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  border-radius: 8px;
-}
-
 /* =========================
    ITEM OVERLAY
    ========================= */
@@ -108,12 +95,12 @@
   inset: 0;
   display: grid;
   align-items: end;
-  padding: 8%;
+  padding: 1.8em 2em;
   background: linear-gradient(
     to top,
     rgba(0,0,0,0.75),
-    rgba(0,0,0,0.35) 60%,
-    rgba(0,0,0,.25)
+    rgba(0,0,0,0.60) 60%,
+    rgba(0,0,0,.55)
   );
 
   opacity: 0;
@@ -125,12 +112,6 @@
 /* =========================
    OVERLAY CONTENT
    ========================= */
-
-.item__content {
-  color: white;
-  display: grid;
-  gap: 10px;
-}
 
 .item__title {
   margin: 0;
@@ -144,37 +125,6 @@
   font-size: 0.95rem;
 }
 
-/* =========================
-   BUTTONS
-   ========================= */
-
-.item__actions {
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-}
-
-.btn {
-  appearance: none;
-  border: 0px solid rgba(255,255,255,0.35);
-  background: rgba(255,255,255,0.18);
-  color: white;
-
-  padding: 8px 10px;
-  border-radius: 8px;
-
-  text-decoration: none;
-  font-size: 0.9rem;
-  line-height: 1;
-
-  cursor: pointer;
-
-  backdrop-filter: blur(8px);
-}
-
-.btn--ghost {
-  background: transparent;
-}
 
 /* =========================
    INTERACTIONS
@@ -189,7 +139,7 @@
 
 .item:hover .item__img,
 .item:focus-within .item__img {
-  transform: scale(1.06);
+  transform: scale(1.03);
 }
 
 /* =========================
