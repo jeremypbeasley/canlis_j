@@ -1,4 +1,25 @@
 </div>
+
+<div class="Lightbox">
+  <div class="Lightbox__backdrop"></div>
+
+  <div class="Lightbox__panel">
+    <button type="button" class="Lightbox__close" aria-label="Close lightbox">×</button>
+
+    <div class="Lightbox__header AlignCenter">
+      <div class="Lightbox__title Caption AlignCenter"></div>
+    </div>
+
+    <div class="Lightbox__content">
+      <section class="splide LightboxSplide" aria-label="Lightbox gallery">
+        <div class="splide__track">
+          <ul class="splide__list"></ul>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+
 <footer class="GlobalFooter">
   <div class="FooterLine"></div>
   <div class="row">
@@ -43,11 +64,10 @@
 </script>
 
 <!-- MUURI JS -->
-  <script src="https://cdn.jsdelivr.net/npm/muuri@0.9.5/dist/muuri.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/muuri@0.9.5/dist/muuri.min.js"></script>
 
 <!-- WEB ANNIMATIONS -->
 <script src="https://cdn.jsdelivr.net/npm/web-animations-js@2.3.2/web-animations.min.js"></script>
-
 
 <script>
   // INIT MUURI
@@ -85,6 +105,8 @@
         autoplay: true,
         interval,
         speed: 600,
+        pauseOnHover: false,
+        pauseOnFocus: false,
       });
 
       splide.on('mounted', () => {
@@ -135,6 +157,7 @@
     const lightboxClose = lightbox.querySelector('.Lightbox__close');
     const lightboxTitle = lightbox.querySelector('.Lightbox__title');
     const lightboxList = lightbox.querySelector('.LightboxSplide .splide__list');
+    const lightboxRoot = lightbox.querySelector('.LightboxSplide');
 
     let lightboxSplide = null;
 
@@ -157,24 +180,36 @@
       `).join('');
     }
 
+    function handleLightboxAdvance(e) {
+      if (!lightboxSplide) return;
+      if (e.target.closest('.Lightbox__close')) return;
+      if (e.target.closest('.splide__pagination')) return;
+      lightboxSplide.go('>');
+    }
+
     function mountLightboxSplide(startIndex = 0) {
       if (lightboxSplide) {
         lightboxSplide.destroy(true);
         lightboxSplide = null;
       }
 
-      lightboxSplide = new Splide('.LightboxSplide', {
-        type: 'slide',
+      lightboxSplide = new Splide(lightboxRoot, {
+        type: 'fade',
         rewind: true,
-        arrows: true,
+        arrows: false,
         pagination: false,
-        speed: 500,
+        autoplay: true,
+        interval: 2000,
+        pauseOnHover: false,
+        pauseOnFocus: false,
+        speed: 600,
         start: startIndex,
         keyboard: 'focused',
         drag: true,
       });
 
       lightboxSplide.mount();
+      lightboxRoot.addEventListener('click', handleLightboxAdvance);
     }
 
     function openLightbox(images, title, startIndex = 0) {
@@ -187,6 +222,8 @@
     }
 
     function closeLightbox() {
+      lightboxRoot.removeEventListener('click', handleLightboxAdvance);
+
       lightbox.classList.remove('is-active');
       document.body.classList.remove('has-lightbox-open');
 
@@ -204,17 +241,29 @@
         if (e.target.closest('a, button')) return;
         if (e.target.closest('.splide__arrow')) return;
 
-        const images = Array.from(item.querySelectorAll('.item__img'))
-          .map((img) => img.getAttribute('src'))
-          .filter(Boolean);
+        const itemSplide = item.querySelector('.js-item-splide');
+        let images = [];
+
+        if (itemSplide) {
+          images = Array.from(
+            itemSplide.querySelectorAll('.splide__slide img.item__img')
+          )
+            .map((img) => img.getAttribute('src'))
+            .filter(Boolean);
+        } else {
+          const singleImg = item.querySelector('.item__img');
+          if (singleImg) {
+            images = [singleImg.getAttribute('src')];
+          }
+        }
 
         const title = item.dataset.title || '';
 
         let startIndex = 0;
         const clickedSlide = e.target.closest('.splide__slide');
 
-        if (clickedSlide) {
-          const slides = Array.from(item.querySelectorAll('.splide__slide'));
+        if (clickedSlide && itemSplide) {
+          const slides = Array.from(itemSplide.querySelectorAll('.splide__slide'));
           const foundIndex = slides.indexOf(clickedSlide);
           if (foundIndex >= 0) startIndex = foundIndex;
         }
@@ -234,6 +283,8 @@
     document.addEventListener('keydown', (e) => {
       if (!lightbox.classList.contains('is-active')) return;
       if (e.key === 'Escape') closeLightbox();
+      if (e.key === 'ArrowRight' && lightboxSplide) lightboxSplide.go('>');
+      if (e.key === 'ArrowLeft' && lightboxSplide) lightboxSplide.go('<');
     });
   });
 </script>

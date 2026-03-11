@@ -18,6 +18,12 @@
   margin: 5vw;
 }
 
+@media (max-width: 768px) {
+  .StudioGrid {
+    margin: 0;
+  }
+}
+
 /* =========================
    MUURI GRID WRAPPER
    ========================= */
@@ -26,39 +32,37 @@
   position: relative;
   margin: 0;
   min-height: 100vh;
-  /* background: blue; */
 }
 
 .item {
   display: block;
   position: absolute;
-  /* width: 26.5vw;
-  margin: 2vw; */
   width: 18.5vw;
   margin: 2vw 2vw 2vw 2vw;
   z-index: 1;
   border-radius: 10px;
-  /* background: red; */
-  /* aspect-ratio: 1 / 1; */
-
-  /* overflow: hidden; */
-  /* border-radius: 16px; */
-}
-
-.item--square {
-  /* aspect-ratio: 1 / 1; */
-  /* overflow: visible; */
 }
 
 .item--large {
   width: 39.5vw;
-  /* aspect-ratio: 1 / 1.125; */
+}
+
+@media (max-width: 768px) {
+  .item, .item--large {
+    width: 100vw;
+    margin: 0;
+  }
 }
 
 .item-label {
   margin-top: .9vw;
-  /* background: blue; */
   height: 4em;
+}
+
+@media (max-width: 768px) {
+  .item-label {
+    margin: 2em;
+  }
 }
 
 .item.muuri-item-dragging { z-index: 3; }
