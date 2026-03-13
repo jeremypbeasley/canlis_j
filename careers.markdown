@@ -17,8 +17,8 @@ section1:
     reviewed on Wednesdays and Fridays.\n\nRoles we are currently hiring for:<br>\n<b>Barista
     + Server</b> – Pay: $24-49/hour plus tips<br>\n<b>Pastry Cook</b> – Pay: $23-26/hour
     plus tips<br>\n<b>Line Cook</b> – Pay: $23-26/hour plus tips<br>\n\nAll positions
-    include available medical, dental, and life insurance, 401K, vacation, and dining
-    benefits. "
+    include available medical, dental, vision, and life insurance, 401K, PTO, and
+    dining benefits. "
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place
