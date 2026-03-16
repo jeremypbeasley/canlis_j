@@ -1,20 +1,5 @@
 {% include head.html %}
 
-
-<!-- <ol>
-
-{% assign visible_items = page.items | where: "is_visible", true %}
-
-{% for item in visible_items %}
-  <li class="">
-    {{ item.title }}
-    {% if item.is_featured %}- 🌟
-    {% endif %}
-  </li>
-{% endfor %}
-
-</ol> -->
-
 <div class="StudioContainer">
 
   <!-- INTRO -->
@@ -40,7 +25,6 @@
           data-title="{{ item.title | escape }}"
         >
           <div class="item__content">
-
             {% if item.photos and item.photos.size > 1 %}
               <div class="splide js-item-splide" data-interval="{{ item.photo_duration | default: 4000 }}">
                 <div class="splide__track">
@@ -57,14 +41,12 @@
               {% assign first = item.photos | first %}
               <img class="item__img" src="{{ first.url }}" alt="{{ item.title | escape }}">
             {% endif %}
-
             <div class="item__overlay">
               <p class="item__desc color-white mb0 pb0">
                 {{ item.desc }} {% if item.year %}({{ item.year }}){% endif %}
               </p>
             </div>
           </div>
-
           <div class="item-label flex justify-content-space-between">
             <div class="item-label__main color-white mb0 mt0 pb0">
               {{ item.title }}<br />
@@ -72,7 +54,6 @@
                 <span class="op50">in collaboration with {{ item.partner }}</span>
               {% endif %}
             </div>
-
             {% if item.is_soldout %}
               <div>
                 <span class="Caption color-white op50">Sold Out</span>
