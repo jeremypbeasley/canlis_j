@@ -5377,16 +5377,25 @@ input[type=submit] {
   transition: transform 200ms ease;
   border-radius: 8px;
 }
-.item__overlay {
-  position: absolute;
-  inset: 0;
-  display: grid;
-  align-items: end;
-  padding: 1.8em 2em;
-  background: linear-gradient(to top, rgba(0,0,0,0.75), rgba(0,0,0,0.6) 60%, rgba(0,0,0,0.55));
-  opacity: 0;
-  transform: translateY(6px);
-  transition: opacity 200ms ease, transform 200ms ease;
+@media (hover: hover) and (pointer: fine) {
+  .item__overlay {
+    position: absolute;
+    inset: 0;
+    display: grid;
+    align-items: end;
+    padding: 1.8em 2em;
+    background: linear-gradient(to top, rgba(0,0,0,0.75), rgba(0,0,0,0.6) 60%, rgba(0,0,0,0.55));
+    opacity: 0;
+    transform: translateY(6px);
+    transition: opacity 200ms ease, transform 200ms ease;
+  }
+}
+@media (hover: none), (pointer: coarse) {
+  .item__overlay {
+    display: none !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+  }
 }
 .item__title {
   margin: 0;
