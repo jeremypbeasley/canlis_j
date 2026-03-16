@@ -812,7 +812,7 @@ items:
   - title:
     url: /uploads/20240420_Canlis_147_web.jpg
 
-- title: Canlis Staff T-Shirts
+- title: Canlis Staff Apparel
   desc: "All the best ones. And the coveted t-shirt: from the mind of Chef Brady Williams the original —'Lukewarm Tweezer Food'."
   year: 2019
   type: Apparel / Accessories
