@@ -11,11 +11,7 @@
     </div>
 
     <div class="Lightbox__content">
-      <section class="splide LightboxSplide" aria-label="Lightbox gallery">
-        <div class="splide__track">
-          <ul class="splide__list"></ul>
-        </div>
-      </section>
+      <div class="LightboxGallery" aria-label="Lightbox gallery"></div>
     </div>
   </div>
 </div>
@@ -28,19 +24,20 @@
       <p>Click <a href="/reservations">here</a> for more information on dietary restrictions, attire, children, and cancellations.</p>
     </div>
     <div class="column col-xs-12 col-md-4">
-        <div class="Caption mb4">Directions</div>
-        <p class="mb0 pb0">2576 Aurora Ave N, Seattle, WA 98109<br>
-        <i class="mb4"><a href="https://maps.app.goo.gl/mZ3wEHvjgAq7eY3P7">Get directions</a>.</i></p>
+      <div class="Caption mb4">Directions</div>
+      <p class="mb0 pb0">2576 Aurora Ave N, Seattle, WA 98109<br>
+      <i class="mb4"><a href="https://maps.app.goo.gl/mZ3wEHvjgAq7eY3P7">Get directions</a>.</i></p>
     </div>
     <div class="column col-xs-12 col-md-4">
-        <div class="Caption mb4">Get in touch</div>
-        <p class="mt mb0 d-mb1">Call us at <a class="" href="tel:2062833313">(206) 283-3313</a> or email <a class="" href="mailto:reservations@canlis.com">reservations@canlis.com</a>
-          </p>
-        <p>&copy 1950 - {{ 'now' | date: "%Y" }} Canlis</p>
+      <div class="Caption mb4">Get in touch</div>
+      <p class="mt mb0 d-mb1">Call us at <a class="" href="tel:2062833313">(206) 283-3313</a> or email <a class="" href="mailto:reservations@canlis.com">reservations@canlis.com</a></p>
+      <p>&copy 1950 - {{ 'now' | date: "%Y" }} Canlis</p>
     </div>
   </div>
 </footer>
+
 </div>
+
 <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
 <script src="/uploads/master.js"></script>
 
@@ -156,10 +153,7 @@
     const lightboxBackdrop = lightbox.querySelector('.Lightbox__backdrop');
     const lightboxClose = lightbox.querySelector('.Lightbox__close');
     const lightboxTitle = lightbox.querySelector('.Lightbox__title');
-    const lightboxList = lightbox.querySelector('.LightboxSplide .splide__list');
-    const lightboxRoot = lightbox.querySelector('.LightboxSplide');
-
-    let lightboxSplide = null;
+    const lightboxGallery = lightbox.querySelector('.LightboxGallery');
 
     function escapeHtml(str) {
       return String(str)
@@ -170,69 +164,33 @@
         .replaceAll("'", '&#039;');
     }
 
-    function buildLightboxSlides(images, title) {
+    function buildLightboxImages(images, title) {
       lightboxTitle.textContent = title || '';
 
-      lightboxList.innerHTML = images.map((src) => `
-        <li class="splide__slide">
+      lightboxGallery.innerHTML = images.map((src) => `
+        <figure class="LightboxGallery__item">
           <img src="${src}" alt="${escapeHtml(title || '')}">
-        </li>
+        </figure>
       `).join('');
-    }
-
-    function handleLightboxAdvance(e) {
-      if (!lightboxSplide) return;
-      if (e.target.closest('.Lightbox__close')) return;
-      if (e.target.closest('.splide__pagination')) return;
-      lightboxSplide.go('>');
-    }
-
-    function mountLightboxSplide(startIndex = 0) {
-      if (lightboxSplide) {
-        lightboxSplide.destroy(true);
-        lightboxSplide = null;
-      }
-
-      lightboxSplide = new Splide(lightboxRoot, {
-        type: 'fade',
-        rewind: true,
-        arrows: false,
-        pagination: false,
-        autoplay: true,
-        interval: 2000,
-        pauseOnHover: false,
-        pauseOnFocus: false,
-        speed: 600,
-        start: startIndex,
-        keyboard: 'focused',
-        drag: true,
-      });
-
-      lightboxSplide.mount();
-      lightboxRoot.addEventListener('click', handleLightboxAdvance);
     }
 
     function openLightbox(images, title, startIndex = 0) {
       if (!images.length) return;
 
-      buildLightboxSlides(images, title);
+      const orderedImages = [
+        ...images.slice(startIndex),
+        ...images.slice(0, startIndex)
+      ];
+
+      buildLightboxImages(orderedImages, title);
       lightbox.classList.add('is-active');
       document.body.classList.add('has-lightbox-open');
-      mountLightboxSplide(startIndex);
     }
 
     function closeLightbox() {
-      lightboxRoot.removeEventListener('click', handleLightboxAdvance);
-
       lightbox.classList.remove('is-active');
       document.body.classList.remove('has-lightbox-open');
-
-      if (lightboxSplide) {
-        lightboxSplide.destroy(true);
-        lightboxSplide = null;
-      }
-
-      lightboxList.innerHTML = '';
+      lightboxGallery.innerHTML = '';
       lightboxTitle.textContent = '';
     }
 
@@ -283,8 +241,6 @@
     document.addEventListener('keydown', (e) => {
       if (!lightbox.classList.contains('is-active')) return;
       if (e.key === 'Escape') closeLightbox();
-      if (e.key === 'ArrowRight' && lightboxSplide) lightboxSplide.go('>');
-      if (e.key === 'ArrowLeft' && lightboxSplide) lightboxSplide.go('<');
     });
   });
 </script>
