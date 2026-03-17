@@ -5338,7 +5338,7 @@ input[type=submit] {
   position: absolute;
 }
 .item--large {
-  width: 41vw;
+  width: 40.5vw;
 }
 @media (max-width: 768px) {
   .item,
