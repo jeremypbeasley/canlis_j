@@ -17,14 +17,15 @@
     "grunt-exec": "^1.0.1",
     "jquery": "^3.3.1",
     "jquery-validation": "^1.15.0",
+    "js-cookie": "latest",
     "normalize-css": "latest",
     "slick-carousel": "latest",
     "smoothstate": "latest",
-    "waypoints": "latest",
-    "js-cookie": "latest"
+    "waypoints": "latest"
   },
   "dependencies": {
     "@splidejs/splide": "^4.1.4",
+    "chokidar": "^4.0.3",
     "muuri": "^0.9.5",
     "web-animations-js": "^2.3.2"
   }

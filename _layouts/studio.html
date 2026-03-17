@@ -1,20 +1,5 @@
 {% include head.html %}
 
-
-<!-- <ol>
-
-{% assign visible_items = page.items | where: "is_visible", true %}
-
-{% for item in visible_items %}
-  <li class="">
-    {{ item.title }}
-    {% if item.is_featured %}- 🌟
-    {% endif %}
-  </li>
-{% endfor %}
-
-</ol> -->
-
 <div class="StudioContainer">
 
   <!-- INTRO -->
@@ -22,68 +7,64 @@
     <div class="row">
       <div class="column col-xs-12 col-md-4 col-md-offset-4 color-white Ω">
         <p class="Caption text-align-center mb2 mt10">/ {{ page.title }}</p>
-        <p class="mb0 text-align-center">{{ page.desc }}</p>
+        <div class="mb0 text-align-center ">{{ page.desc | markdownify }}</div>
       </div>
     </div>
   </div>
 
   <div class="StudioGrid">
-
     <!-- MUURI BEGIN -->
     <div class="grid">
-
       {% assign visible_items = page.items | where: "is_visible", true %}
 
       {% for item in visible_items %}
-        <div class="item {% if item.is_featured %}item--large{% endif %}">
-          <div class="item-content">
+        {% assign item_key = forloop.index0 %}
 
-            {% if item.photos and item.photos.size > 1 %}
-              <div class="splide js-item-splide" data-interval="{{ item.photo_duration | default: 400 }}">
-                <div class="splide__track">
-                  <ul class="splide__list">
-                    {% for photo in item.photos %}
-                      <li class="splide__slide">
-                        <img class="item__img" src="{{ photo.url }}" alt="{{ item.title | escape }}">
-                      </li>
-                    {% endfor %}
-                  </ul>
+        <div class="item {% if item.is_featured %}item--large{% endif %}" data-lightbox-target="{{ item_key }}">
+          <button class="item__button" type="button" onclick="openLightbox({{ item_key }})" aria-label="Open {{ item.title | escape }}">
+            <div class="item__content">
+              {% if item.photos and item.photos.size > 1 %}
+                <div class="splide js-item-splide" data-interval="{{ item.photo_duration | default: 4000 }}">
+                  <div class="splide__track">
+                    <ul class="splide__list">
+                      {% for photo in item.photos %}
+                        <li class="splide__slide">
+                          <img class="item__img" src="{{ photo.url }}" alt="{{ item.title | escape }}">
+                        </li>
+                      {% endfor %}
+                    </ul>
+                  </div>
                 </div>
-              </div>
-            {% else %}
-              {% assign first = item.photos | first %}
-              <img class="item__img" src="{{ first.url }}" alt="{{ item.title | escape }}">
-            {% endif %}
+              {% else %}
+                {% assign first = item.photos | first %}
+                <img class="item__img" src="{{ first.url }}" alt="{{ item.title | escape }}">
+              {% endif %}
 
-            <div class="item__overlay">
-              <div class="item__content">
-                <p class="item__desc">{{ item.desc }} / ({{ item.year }}), ${{ item.price }}</p>
-                <div class="item__actions">
-                  {% if item.is_soldout %}
-                    <span class="btn Caption">Sold Out</span>
-                  {% else %}
-                    <a class="btn Caption" href="{{ item.purchase_url }}">Buy Now</a>
-                  {% endif %}
-                </div>
+              <div class="item__overlay">
+                <p class="item__desc color-white mb0 pb0">
+                {% if item.desc %}
+                  {{ item.desc}}
+                {% endif %}</p>
               </div>
             </div>
+          </button>
 
-          </div>
-
-          <div class="item-label">
-            <p class="color-white mb0 mt0 pb0">
-              {{ item.title }}<br />
+          <div class="item-label flex justify-content-space-between">
+            <div class="item-label__main color-white mb0 mt0 pb0">
+              {{ forloop.index }}. {{ item.title }}<br />
               {% if item.partner %}
-                <span class="op50">
-                  in collaboration with {{ item.partner }}
-                </span>
+                <span class="op50">in collaboration with {{ item.partner }}</span>
               {% endif %}
-            </p>
-          </div>
+            </div>
 
+            {% if item.is_soldout %}
+              <div>
+                <span class="Caption color-white op50">Sold Out</span>
+              </div>
+            {% endif %}
+          </div>
         </div>
       {% endfor %}
-
     </div>
     <!-- MUURI END -->
   </div>
