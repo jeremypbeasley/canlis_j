@@ -41,7 +41,10 @@
               {% endif %}
 
               <div class="item__overlay">
-                <p class="item__desc color-white mb0 pb0"></p>
+                <p class="item__desc color-white mb0 pb0">
+                {% if item.desc %}
+                  {{ item.desc}}
+                {% endif %}</p>
               </div>
             </div>
           </button>

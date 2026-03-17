@@ -9,8 +9,8 @@ desc: Our curiosity is always expanding, often collaborating with our favorite d
   we couldn't resist making them. These are the ones we love most.
 items:
 - title: Canlis' Map of Seattle's Best
-  desc: When guests come in from out of town, we proudly send them to the best spots
-    in town. These are our current picks! Design by Don Clark for Invisible Creature.
+  desc: "When guests come in from out of town, we proudly send them to the best spots
+    in town. These are our current picks! Design by Don Clark for Invisible Creature."
   year: 2024
   type: Printed Matter
   price: 45
