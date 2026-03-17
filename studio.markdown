@@ -903,5 +903,5 @@ items:
     url: "/uploads/Lone%20Bellow.jpg"
   - title:
     url: "/uploads/Calexico%20Concert.jpg"
-layout: studio3
+layout: studio
 ---
