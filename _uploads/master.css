@@ -5328,11 +5328,14 @@ input[type=submit] {
 }
 .item {
   display: block;
-  position: absolute;
+  position: relative;
   width: 18.5vw;
   margin: 2vw 2vw 2vw 2vw;
   z-index: 1;
   border-radius: 10px;
+}
+.grid.muuri-ready .item {
+  position: absolute;
 }
 .item--large {
   width: 41vw;
@@ -5353,6 +5356,23 @@ input[type=submit] {
     margin: 2em;
   }
 }
+.item__button {
+  display: block;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  background: transparent;
+  appearance: none;
+  -webkit-appearance: none;
+  cursor: pointer;
+  text-align: left;
+}
+.item__content {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
 .item.muuri-item-dragging {
   z-index: 3;
 }
@@ -5362,16 +5382,9 @@ input[type=submit] {
 .item.muuri-item-hidden {
   z-index: 0;
 }
-.item__content {
-  position: relative;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-}
 .item__img {
   width: 100%;
-/* aspect-ratio: 1 / 1; */
-  object-fit: fit;
+  height: auto;
   display: block;
   transform: scale(1.02);
   transition: transform 200ms ease;
@@ -5424,99 +5437,100 @@ input[type=submit] {
   }
 }
 .item .splide,
-.item .splide__track,
+.item .splide__track {
+  width: 100%;
+}
 .item .splide__list,
 .item .splide__slide {
-  height: 100%;
+  height: auto;
 }
 .item .splide__slide {
   display: block;
 }
 .item .splide__slide .item__img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
   display: block;
+  object-fit: cover;
 }
 .Lightbox {
   position: fixed;
   inset: 0;
   z-index: 9999;
-  display: none;
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 180ms ease, visibility 180ms ease;
 }
-.Lightbox.is-active {
-  display: block;
+.Lightbox.is-open {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
 }
-.Lightbox__backdrop {
+.LightboxOverlay {
   position: absolute;
   inset: 0;
-  background: rgba(0,0,0,0.88);
+  width: 100%;
+  height: 100%;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  background: rgba(20,20,18,0.88);
+  cursor: pointer;
 }
-.Lightbox__panel {
+.LightboxShell {
   position: relative;
   z-index: 2;
   width: 100%;
   height: 100%;
-  display: flex;
-  flex-direction: column;
-  padding: 2rem;
-  box-sizing: border-box;
-}
-.Lightbox__header {
-  position: relative;
-  flex: 0 0 auto;
-  margin-bottom: 1rem;
-}
-.Lightbox__title {
-  color: #fff;
-}
-.Lightbox__close {
-  position: absolute;
-  top: 1rem;
-  right: 1rem;
-  z-index: 3;
-  background: transparent;
-  border: 0;
-  color: #fff;
-  font-size: 2rem;
-  line-height: 1;
-  cursor: pointer;
-}
-.Lightbox__content {
-  position: relative;
-  z-index: 2;
-  flex: 1 1 auto;
-  min-height: 0;
   overflow-y: auto;
-  overflow-x: hidden;
   -webkit-overflow-scrolling: touch;
 }
-.LightboxGallery {
+.LightboxClose {
+  position: fixed;
+  top: 24px;
+  right: 24px;
+  z-index: 20;
+  border: 0;
+  background: transparent;
+  color: #f2eee6;
+  font: inherit;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  padding: 0;
+}
+.LightboxItems {
+  min-height: 100%;
+}
+.LightboxItem {
   width: 100%;
-  max-width: 1200px;
+  min-height: 100%;
+}
+.LightboxItemInner {
+  position: relative;
+  z-index: 3;
+  width: 100%;
+  max-width: 1400px;
   margin: 0 auto;
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
-  padding-bottom: 4rem;
+  padding: 72px 0 48px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 360px;
+  gap: 36px;
+  align-items: start;
 }
-.LightboxGallery__item {
-  margin: 0;
-}
-.LightboxGallery__item img {
-  display: block;
-  width: 60%;
-  margin: 0 auto;
-  height: auto;
-  border-radius: 8px;
-}
-body.has-lightbox-open {
-  overflow: hidden;
+@media (max-width: 991px) {
+  .LightboxItemInner {
+    width: 100%;
+    padding: 72px 0 32px;
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
 }
 .LightboxMedia {
   display: flex;
   flex-direction: column;
   gap: 24px;
+  min-width: 0;
 }
 .LightboxFigure {
   margin: 0;
@@ -5525,4 +5539,85 @@ body.has-lightbox-open {
   display: block;
   width: 100%;
   height: auto;
+  border-radius: 18px;
+}
+.LightboxCaption {
+  margin-top: 10px;
+  color: rgba(242,238,230,0.8);
+  font-size: 14px;
+  line-height: 1.4;
+}
+.LightboxMeta {
+  min-width: 0;
+}
+.LightboxMetaSticky {
+  position: sticky;
+  top: 72px;
+  color: #f2eee6;
+}
+.LightboxTitle {
+  margin: 0 0 16px;
+  font-size: clamp(28px, 3vw, 42px);
+  line-height: 1.05;
+  font-weight: 400;
+  color: #f2eee6;
+}
+.LightboxDesc {
+  margin-bottom: 28px;
+  color: rgba(242,238,230,0.88);
+  line-height: 1.55;
+}
+.LightboxFacts {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.LightboxFact {
+  padding-top: 14px;
+  border-top: 1px solid rgba(242,238,230,0.18);
+}
+.LightboxLabel {
+  margin-bottom: 4px;
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(242,238,230,0.55);
+}
+.LightboxValue {
+  color: #f2eee6;
+  line-height: 1.45;
+}
+.LightboxActions {
+  padding-top: 8px;
+}
+.LightboxButton {
+  display: inline-block;
+  padding: 12px 18px;
+  border: 1px solid rgba(242,238,230,0.25);
+  border-radius: 999px;
+  color: #f2eee6;
+  text-decoration: none;
+  transition: background 180ms ease, border-color 180ms ease;
+}
+.LightboxButton:hover {
+  background: rgba(242,238,230,0.08);
+  border-color: rgba(242,238,230,0.45);
+}
+body.lightbox-open {
+  overflow: hidden;
+}
+@media (max-width: 991px) {
+  .LightboxItemInner {
+    width: calc(100% - 32px);
+    padding: 72px 0 32px;
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+  .LightboxMetaSticky {
+    position: static;
+  }
+  .LightboxClose {
+    top: 18px;
+    right: 16px;
+  }
 }

@@ -46,7 +46,7 @@
 
     <div class="LightboxItems">
       {% for item in visible_items %}
-    {% assign item_key = forloop.index0 %}
+        {% assign item_key = forloop.index0 %}
 
         <article
           class="LightboxItem"
@@ -137,10 +137,13 @@
   </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/web-animations-js@2.3.2/web-animations.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/hammerjs@2.0.8/hammer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/muuri@0.9.5/dist/muuri.min.js"></script>
 
 <script>
   (function () {
-    let activeLightboxKey = null;
+    var activeLightboxKey = null;
 
     function hideAllLightboxItems() {
       document.querySelectorAll('.LightboxItem').forEach(function (item) {
@@ -177,7 +180,7 @@
     };
 
     document.addEventListener('keydown', function (event) {
-      if (event.key === 'Escape' && activeLightboxKey) {
+      if (event.key === 'Escape' && activeLightboxKey !== null) {
         closeLightbox();
       }
     });
@@ -189,8 +192,30 @@
     var gridEl = document.querySelector('.grid');
     if (!gridEl) return;
 
-    var splides = [];
-    if (typeof Splide !== 'undefined') {
+    function makeLinearFallback() {
+      gridEl.classList.remove('muuri-ready');
+    }
+
+    if (typeof Muuri === 'undefined') {
+      console.warn('Muuri is not loaded on this page. Using linear fallback.');
+      makeLinearFallback();
+      return;
+    }
+
+    var grid;
+
+    function relayout() {
+      if (!grid) return;
+      try {
+        grid.refreshItems().layout();
+      } catch (e) {
+        console.error('Muuri relayout failed:', e);
+      }
+    }
+
+    function initSplides() {
+      if (typeof Splide === 'undefined') return;
+
       document.querySelectorAll('.js-item-splide').forEach(function (el) {
         var interval = parseInt(el.getAttribute('data-interval') || '4000', 10);
 
@@ -207,36 +232,48 @@
           pauseOnFocus: false
         });
 
+        splide.on('mounted moved resized', relayout);
         splide.mount();
-        splides.push(splide);
       });
     }
 
-    if (typeof Muuri === 'undefined') {
-      console.warn('Muuri is not loaded on this page.');
-      return;
+    function initMuuri() {
+      gridEl.classList.add('muuri-ready');
+
+      try {
+        grid = new Muuri(gridEl, {
+          items: '.item',
+          layoutDuration: 300,
+          layoutEasing: 'ease'
+        });
+      } catch (e) {
+        console.error('Muuri init failed:', e);
+        makeLinearFallback();
+        return;
+      }
+
+      initSplides();
+      relayout();
+
+      document.querySelectorAll('.item__img').forEach(function (img) {
+        if (img.complete) return;
+        img.addEventListener('load', relayout, { once: true });
+        img.addEventListener('error', relayout, { once: true });
+      });
+
+      window.addEventListener('load', relayout);
+      window.addEventListener('resize', relayout);
+
+      setTimeout(relayout, 50);
+      setTimeout(relayout, 300);
+      setTimeout(relayout, 800);
     }
 
-    var grid = new Muuri(gridEl, {
-      items: '.item',
-      layoutDuration: 300,
-      layoutEasing: 'ease'
-    });
-
-    function relayout() {
-      grid.refreshItems().layout();
+    if (document.readyState === 'complete') {
+      initMuuri();
+    } else {
+      window.addEventListener('load', initMuuri, { once: true });
     }
-
-    window.addEventListener('load', relayout);
-
-    document.querySelectorAll('.item__img').forEach(function (img) {
-      if (img.complete) return;
-      img.addEventListener('load', relayout, { once: true });
-      img.addEventListener('error', relayout, { once: true });
-    });
-
-    setTimeout(relayout, 50);
-    setTimeout(relayout, 300);
   });
 </script>
 
