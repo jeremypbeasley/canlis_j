@@ -167,40 +167,6 @@ items:
   photos:
   - title:
     url: "/uploads/High%20Seas.jpg"
-
-
-- title: Space Prom Poster
-  desc: A one-night cosmic dance where tuxedos, taffeta, and starlight collide somewhere
-    beyond Earth's atmosphere. Poster design by Don Clark for Invisible Creature.
-  year: 2023
-  type: Print
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 2600
-  partner:
-  is_featured: false
-  is_visible: true
-  photos:
-  - title:
-    url: "/uploads/poster_spaceprom.jpg"
-- title: Hawaiian Nights Poster
-  desc: An parking lot island escape where the pool was hot, the grills were hotter,
-    the drinks were cold, and the Seattle sunset did the rest. Poster design by Don
-    Clark for Invisible Creature.
-  year: 2019
-  type: Print
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 2600
-  partner:
-  is_featured: false
-  is_visible: true
-  photos:
-  - title:
-    url: "/uploads/poster_hawaiiannights.jpg"
-
 - title: Canlis Salt Ramekins
   desc: Local artisan and sculptor Dylan Andersen created a series of solid bronze
     ramekins to accompany our opening bread course. Rather than being carved out,
@@ -232,7 +198,37 @@ items:
   photos:
   - title:
     url: "/uploads/dinnner.jpg"
-
+- title: Space Prom Poster
+  desc: A one-night cosmic dance where tuxedos, taffeta, and starlight collide somewhere
+    beyond Earth's atmosphere. Poster design by Don Clark for Invisible Creature.
+  year: 2023
+  type: Print
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 2600
+  partner:
+  is_featured: false
+  is_visible: true
+  photos:
+  - title:
+    url: "/uploads/poster_spaceprom.jpg"
+- title: Hawaiian Nights Poster
+  desc: An parking lot island escape where the pool was hot, the grills were hotter,
+    the drinks were cold, and the Seattle sunset did the rest. Poster design by Don
+    Clark for Invisible Creature.
+  year: 2019
+  type: Print
+  price: 45
+  purchase_url:
+  is_soldout: true
+  photo_duration: 2600
+  partner:
+  is_featured: false
+  is_visible: true
+  photos:
+  - title:
+    url: "/uploads/poster_hawaiiannights.jpg"
 - title: The Canlis Yurt Villiage Poster
   desc: The parking lot transformed into a cozy village of private yurts, offering
     warmth, food, and a little magic in the middle of a wintery pandemic. Poster design
