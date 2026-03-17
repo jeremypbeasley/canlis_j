@@ -54,83 +54,172 @@
           data-lightbox-item="{{ item_key }}"
           hidden
         >
-          <div class="LightboxItemInner">
-            <div class="LightboxMedia">
-              {% for photo in item.photos %}
-                <figure class="LightboxFigure">
-                  <img
-                    src="{{ photo.url }}"
-                    alt="{% if photo.title and photo.title != blank %}{{ photo.title | escape }}{% else %}{{ item.title | escape }}{% endif %}"
-                    loading="lazy"
-                  >
-                  {% if photo.title and photo.title != blank %}
-                    <figcaption class="LightboxCaption">{{ photo.title }}</figcaption>
-                  {% endif %}
-                </figure>
-              {% endfor %}
-            </div>
-
-            <aside class="LightboxMeta">
-              <div class="LightboxMetaSticky">
-                <h2 class="LightboxTitle">{{ item.title }}</h2>
-
-                {% if item.desc and item.desc != blank %}
-                  <div class="LightboxDesc">
-                    {{ item.desc }}
-                  </div>
-                {% endif %}
-
-                <div class="LightboxFacts">
-                  {% if item.year and item.year != blank %}
-                    <div class="LightboxFact">
-                      <div class="LightboxLabel">Year</div>
-                      <div class="LightboxValue">{{ item.year }}</div>
+          {% if item.is_collection %}
+            <div class="LightboxCollection">
+              <div class="LightboxCollectionItems">
+                {% for child in item.items %}
+                  <section class="LightboxCollectionEntry">
+                    <div class="LightboxCollectionEntryMedia">
+                      {% for photo in child.photos %}
+                        <figure class="LightboxFigure">
+                          <img
+                            src="{{ photo.url }}"
+                            alt="{% if photo.title and photo.title != blank %}{{ photo.title | escape }}{% else %}{{ child.title | escape }}{% endif %}"
+                            loading="lazy"
+                          >
+                          {% if photo.title and photo.title != blank %}
+                            <figcaption class="LightboxCaption">{{ photo.title }}</figcaption>
+                          {% endif %}
+                        </figure>
+                      {% endfor %}
                     </div>
-                  {% endif %}
 
-                  {% if item.type and item.type != blank %}
-                    <div class="LightboxFact">
-                      <div class="LightboxLabel">Type</div>
-                      <div class="LightboxValue">{{ item.type }}</div>
-                    </div>
-                  {% endif %}
+                    <div class="LightboxCollectionEntryMeta">
+                      <h3 class="LightboxEntryTitle">{{ child.title }}</h3>
 
-                  {% if item.partner and item.partner != blank %}
-                    <div class="LightboxFact">
-                      <div class="LightboxLabel">Partner</div>
-                      <div class="LightboxValue">{{ item.partner }}</div>
-                    </div>
-                  {% endif %}
-
-                  {% if item.price and item.price != blank %}
-                    <div class="LightboxFact">
-                      <div class="LightboxLabel">Price</div>
-                      <div class="LightboxValue">${{ item.price }}</div>
-                    </div>
-                  {% endif %}
-
-                  <div class="LightboxFact">
-                    <div class="LightboxLabel">Status</div>
-                    <div class="LightboxValue">
-                      {% if item.is_soldout %}
-                        Sold out
-                      {% else %}
-                        Available
+                      {% if child.desc and child.desc != blank %}
+                        <div class="LightboxDesc">
+                          {{ child.desc }}
+                        </div>
                       {% endif %}
-                    </div>
-                  </div>
 
-                  {% if item.purchase_url and item.purchase_url != blank %}
-                    <div class="LightboxActions">
-                      <a class="LightboxButton" href="{{ item.purchase_url }}" target="_blank" rel="noopener">
-                        Purchase
-                      </a>
+                      <div class="LightboxFacts">
+                        {% if child.year and child.year != blank %}
+                          <div class="LightboxFact">
+                            <div class="LightboxLabel">Year</div>
+                            <div class="LightboxValue">{{ child.year }}</div>
+                          </div>
+                        {% endif %}
+
+                        {% if child.type and child.type != blank %}
+                          <div class="LightboxFact">
+                            <div class="LightboxLabel">Type</div>
+                            <div class="LightboxValue">{{ child.type }}</div>
+                          </div>
+                        {% endif %}
+
+                        {% if child.partner and child.partner != blank %}
+                          <div class="LightboxFact">
+                            <div class="LightboxLabel">Partner</div>
+                            <div class="LightboxValue">{{ child.partner }}</div>
+                          </div>
+                        {% endif %}
+
+                        {% if child.price and child.price != blank %}
+                          <div class="LightboxFact">
+                            <div class="LightboxLabel">Price</div>
+                            <div class="LightboxValue">${{ child.price }}</div>
+                          </div>
+                        {% endif %}
+
+                        <div class="LightboxFact">
+                          <div class="LightboxLabel">Status</div>
+                          <div class="LightboxValue">
+                            {% if child.is_soldout %}
+                              Sold out
+                            {% else %}
+                              Available
+                            {% endif %}
+                          </div>
+                        </div>
+
+                        {% if child.purchase_url and child.purchase_url != blank %}
+                          <div class="LightboxActions">
+                            <a class="LightboxButton" href="{{ child.purchase_url }}" target="_blank" rel="noopener">
+                              Purchase
+                            </a>
+                          </div>
+                        {% endif %}
+                      </div>
+                    </div>
+                  </section>
+                {% endfor %}
+              </div>
+
+              <aside class="LightboxCollectionMeta">
+                <div class="LightboxMetaSticky">
+                  <div class="LightboxLabel LightboxLabel--Collection">Collection</div>
+                  <h2 class="LightboxTitle">{{ item.title }}</h2>
+
+                  {% if item.desc and item.desc != blank %}
+                    <div class="LightboxDesc">
+                      {{ item.desc }}
                     </div>
                   {% endif %}
+
+                  <div class="LightboxFacts">
+                    {% if item.year and item.year != blank %}
+                      <div class="LightboxFact">
+                        <div class="LightboxLabel">Year</div>
+                        <div class="LightboxValue">{{ item.year }}</div>
+                      </div>
+                    {% endif %}
+
+                    {% if item.partner and item.partner != blank %}
+                      <div class="LightboxFact">
+                        <div class="LightboxLabel">Partner</div>
+                        <div class="LightboxValue">{{ item.partner }}</div>
+                      </div>
+                    {% endif %}
+
+                    {% if item.purchase_url and item.purchase_url != blank %}
+                      <div class="LightboxActions">
+                        <a class="LightboxButton" href="{{ item.purchase_url }}" target="_blank" rel="noopener">
+                          Purchase
+                        </a>
+                      </div>
+                    {% endif %}
+                  </div>
                 </div>
+              </aside>
+            </div>
+          {% else %}
+            <div class="LightboxItemInner">
+              <div class="LightboxMedia">
+                {% for photo in item.photos %}
+                  <figure class="LightboxFigure">
+                    <img
+                      src="{{ photo.url }}"
+                      alt="{% if photo.title and photo.title != blank %}{{ photo.title | escape }}{% else %}{{ item.title | escape }}{% endif %}"
+                      loading="lazy"
+                    >
+                    {% if photo.title and photo.title != blank %}
+                      <figcaption class="LightboxCaption">{{ photo.title }}</figcaption>
+                    {% endif %}
+                  </figure>
+                {% endfor %}
               </div>
-            </aside>
-          </div>
+
+              <aside class="LightboxMeta">
+                <div class="LightboxMetaSticky">
+                  <h2 class="LightboxTitle">{{ item.title }}</h2>
+
+                  {% if item.desc and item.desc != blank %}
+                    <div class="LightboxDesc">
+                      {{ item.desc }}
+                    </div>
+                  {% endif %}
+
+                  <div class="LightboxFacts">
+                    {% if item.year and item.year != blank %}
+                      <div class="LightboxFact">
+                        <div class="LightboxLabel">Year</div>
+                        <div class="LightboxValue">{{ item.year }}</div>
+                      </div>
+                    {% endif %}
+
+                    {% if item.partner and item.partner != blank %}
+                      <div class="LightboxFact">
+                        <div class="LightboxLabel">Partner</div>
+                        <div class="LightboxValue">{{ item.partner }}</div>
+                      </div>
+                    {% endif %}
+
+                  </div>
+                </div>
+              </aside>
+            </div>
+          {% endif %}
         </article>
       {% endfor %}
     </div>

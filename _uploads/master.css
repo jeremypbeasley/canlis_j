@@ -5328,17 +5328,14 @@ input[type=submit] {
 }
 .item {
   display: block;
-  position: relative;
+  position: absolute;
   width: 18.5vw;
   margin: 2vw 2vw 2vw 2vw;
   z-index: 1;
   border-radius: 10px;
 }
-.grid.muuri-ready .item {
-  position: absolute;
-}
 .item--large {
-  width: 40.5vw;
+  width: 41vw;
 }
 @media (max-width: 768px) {
   .item,
@@ -5368,11 +5365,6 @@ input[type=submit] {
   cursor: pointer;
   text-align: left;
 }
-.item__content {
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-}
 .item.muuri-item-dragging {
   z-index: 3;
 }
@@ -5381,6 +5373,11 @@ input[type=submit] {
 }
 .item.muuri-item-hidden {
   z-index: 0;
+}
+.item__content {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
 }
 .item__img {
   width: 100%;
@@ -5619,5 +5616,92 @@ body.lightbox-open {
   .LightboxClose {
     top: 18px;
     right: 16px;
+  }
+}
+.LightboxCollection {
+  position: relative;
+  z-index: 3;
+  width: 100%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 72px 0 48px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 360px;
+  gap: 36px;
+  align-items: start;
+}
+.LightboxCollectionItems {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+.LightboxCollectionEntry {
+  margin: 0;
+}
+.LightboxCollectionEntry + .LightboxCollectionEntry {
+  padding-top: 32px;
+  border-top: 1px solid rgba(242,238,230,0.12);
+}
+.LightboxCollectionEntryMedia {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.LightboxCollectionEntryMedia .LightboxFigure img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 18px;
+}
+.LightboxCollectionMeta {
+  min-width: 0;
+}
+.LightboxLabel--Collection {
+  display: block;
+  margin-bottom: 12px;
+}
+@media (max-width: 991px) {
+  .LightboxCollection {
+    width: calc(100% - 32px);
+    padding: 72px 0 32px;
+    grid-template-columns: 1fr;
+    gap: 28px;
+  }
+  .LightboxCollectionMeta {
+    grid-row: 1;
+  }
+  .LightboxCollectionItems {
+    grid-row: 2;
+  }
+}
+.LightboxCollectionEntryMeta {
+  width: 100%;
+  max-width: 720px;
+  margin-top: 18px;
+}
+.LightboxEntryTitle {
+  margin: 0 0 14px;
+  font-size: clamp(22px, 2.2vw, 30px);
+  line-height: 1.08;
+  font-weight: 400;
+  color: #f2eee6;
+}
+.LightboxCollectionEntryMeta .LightboxDesc {
+  margin-bottom: 22px;
+}
+.LightboxCollectionEntryMeta .LightboxFacts {
+  max-width: 560px;
+}
+.LightboxCollectionEntryMeta .LightboxFact:first-child {
+  border-top: 1px solid rgba(242,238,230,0.18);
+}
+@media (max-width: 991px) {
+  .LightboxCollectionEntryMeta {
+    max-width: 100%;
+    margin-top: 14px;
+  }
+  .LightboxCollectionEntryMeta .LightboxFacts {
+    max-width: 100%;
   }
 }
