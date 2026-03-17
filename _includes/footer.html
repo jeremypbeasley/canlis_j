@@ -1,247 +1,242 @@
 </div>
 
-<div class="Lightbox">
-  <div class="Lightbox__backdrop"></div>
-
-  <div class="Lightbox__panel">
-    <button type="button" class="Lightbox__close" aria-label="Close lightbox">×</button>
-
-    <div class="Lightbox__header AlignCenter">
-      <div class="Lightbox__title Caption AlignCenter"></div>
-    </div>
-
-    <div class="Lightbox__content">
-      <div class="LightboxGallery" aria-label="Lightbox gallery"></div>
-    </div>
-  </div>
-</div>
-
 <footer class="GlobalFooter">
   <div class="FooterLine"></div>
+
   <div class="row">
     <div class="column col-xs-12 col-md-4">
       <div class="Caption mb4">Policies</div>
-      <p>Click <a href="/reservations">here</a> for more information on dietary restrictions, attire, children, and cancellations.</p>
+      <p>
+        Click <a href="/reservations">here</a> for more information on dietary restrictions,
+        attire, children, and cancellations.
+      </p>
     </div>
+
     <div class="column col-xs-12 col-md-4">
       <div class="Caption mb4">Directions</div>
-      <p class="mb0 pb0">2576 Aurora Ave N, Seattle, WA 98109<br>
-      <i class="mb4"><a href="https://maps.app.goo.gl/mZ3wEHvjgAq7eY3P7">Get directions</a>.</i></p>
+      <p class="mb0 pb0">
+        2576 Aurora Ave N, Seattle, WA 98109<br>
+        <i class="mb4">
+          <a href="https://maps.app.goo.gl/mZz8WvB7r4hA2m2n8" target="_blank" rel="noopener">
+            Open in Maps
+          </a>
+        </i>
+      </p>
     </div>
+
     <div class="column col-xs-12 col-md-4">
-      <div class="Caption mb4">Get in touch</div>
-      <p class="mt mb0 d-mb1">Call us at <a class="" href="tel:2062833313">(206) 283-3313</a> or email <a class="" href="mailto:reservations@canlis.com">reservations@canlis.com</a></p>
-      <p>&copy 1950 - {{ 'now' | date: "%Y" }} Canlis</p>
+      <div class="Caption mb4">Contact</div>
+      <p class="mb0 pb0">
+        <a href="tel:2062833313">(206) 283-3313</a><br>
+        <a href="mailto:canlis@canlis.com">canlis@canlis.com</a>
+      </p>
     </div>
   </div>
 </footer>
 
+{% assign visible_items = page.items | where: "is_visible", true %}
+
+<div class="Lightbox" id="Lightbox" aria-hidden="true">
+  <button class="LightboxOverlay" type="button" aria-label="Close lightbox" onclick="closeLightbox()"></button>
+
+  <div class="LightboxShell" role="dialog" aria-modal="true" aria-label="Studio item details">
+    <button class="LightboxClose" type="button" aria-label="Close lightbox" onclick="closeLightbox()">
+      Close
+    </button>
+
+    <div class="LightboxItems">
+      {% for item in visible_items %}
+    {% assign item_key = forloop.index0 %}
+
+        <article
+          class="LightboxItem"
+          id="lightbox-{{ item_key }}"
+          data-lightbox-item="{{ item_key }}"
+          hidden
+        >
+          <div class="LightboxItemInner">
+            <div class="LightboxMedia">
+              {% for photo in item.photos %}
+                <figure class="LightboxFigure">
+                  <img
+                    src="{{ photo.url }}"
+                    alt="{% if photo.title and photo.title != blank %}{{ photo.title | escape }}{% else %}{{ item.title | escape }}{% endif %}"
+                    loading="lazy"
+                  >
+                  {% if photo.title and photo.title != blank %}
+                    <figcaption class="LightboxCaption">{{ photo.title }}</figcaption>
+                  {% endif %}
+                </figure>
+              {% endfor %}
+            </div>
+
+            <aside class="LightboxMeta">
+              <div class="LightboxMetaSticky">
+                <h2 class="LightboxTitle">{{ item.title }}</h2>
+
+                {% if item.desc and item.desc != blank %}
+                  <div class="LightboxDesc">
+                    {{ item.desc }}
+                  </div>
+                {% endif %}
+
+                <div class="LightboxFacts">
+                  {% if item.year and item.year != blank %}
+                    <div class="LightboxFact">
+                      <div class="LightboxLabel">Year</div>
+                      <div class="LightboxValue">{{ item.year }}</div>
+                    </div>
+                  {% endif %}
+
+                  {% if item.type and item.type != blank %}
+                    <div class="LightboxFact">
+                      <div class="LightboxLabel">Type</div>
+                      <div class="LightboxValue">{{ item.type }}</div>
+                    </div>
+                  {% endif %}
+
+                  {% if item.partner and item.partner != blank %}
+                    <div class="LightboxFact">
+                      <div class="LightboxLabel">Partner</div>
+                      <div class="LightboxValue">{{ item.partner }}</div>
+                    </div>
+                  {% endif %}
+
+                  {% if item.price and item.price != blank %}
+                    <div class="LightboxFact">
+                      <div class="LightboxLabel">Price</div>
+                      <div class="LightboxValue">${{ item.price }}</div>
+                    </div>
+                  {% endif %}
+
+                  <div class="LightboxFact">
+                    <div class="LightboxLabel">Status</div>
+                    <div class="LightboxValue">
+                      {% if item.is_soldout %}
+                        Sold out
+                      {% else %}
+                        Available
+                      {% endif %}
+                    </div>
+                  </div>
+
+                  {% if item.purchase_url and item.purchase_url != blank %}
+                    <div class="LightboxActions">
+                      <a class="LightboxButton" href="{{ item.purchase_url }}" target="_blank" rel="noopener">
+                        Purchase
+                      </a>
+                    </div>
+                  {% endif %}
+                </div>
+              </div>
+            </aside>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+  </div>
 </div>
 
-<script type="text/javascript" src="https://js.stripe.com/v2/"></script>
-<script src="/uploads/master.js"></script>
-
-<!-- Ensure the logo, navigation, and address are inverted (white) only on the home page due to dark background video -->
-{% if page.layout == 'home' or page.layout == 'home_fall_2021' %}
-  <script>
-    $(".GlobalNav.ShowDesktop").addClass("Inverted");
-    $(".AddressSidebar").addClass("Inverted");
-    $(".NavHamburger").addClass("Inverted");
-    $('.Logo').hide();
-  </script>
-{% endif %}
 
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-48402864-1', 'auto');
-  ga('send', 'pageview');
+  (function () {
+    let activeLightboxKey = null;
+
+    function hideAllLightboxItems() {
+      document.querySelectorAll('.LightboxItem').forEach(function (item) {
+        item.hidden = true;
+      });
+    }
+
+    window.openLightbox = function (key) {
+      var lightbox = document.getElementById('Lightbox');
+      var target = document.querySelector('[data-lightbox-item="' + key + '"]');
+
+      if (!lightbox || !target) return;
+
+      hideAllLightboxItems();
+      target.hidden = false;
+
+      lightbox.classList.add('is-open');
+      lightbox.setAttribute('aria-hidden', 'false');
+      document.body.classList.add('lightbox-open');
+
+      activeLightboxKey = key;
+    };
+
+    window.closeLightbox = function () {
+      var lightbox = document.getElementById('Lightbox');
+      if (!lightbox) return;
+
+      lightbox.classList.remove('is-open');
+      lightbox.setAttribute('aria-hidden', 'true');
+      document.body.classList.remove('lightbox-open');
+
+      hideAllLightboxItems();
+      activeLightboxKey = null;
+    };
+
+    document.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape' && activeLightboxKey) {
+        closeLightbox();
+      }
+    });
+  })();
 </script>
 
-<!-- MUURI JS -->
-<script src="https://cdn.jsdelivr.net/npm/muuri@0.9.5/dist/muuri.min.js"></script>
-
-<!-- WEB ANNIMATIONS -->
-<script src="https://cdn.jsdelivr.net/npm/web-animations-js@2.3.2/web-animations.min.js"></script>
-
 <script>
-  // INIT MUURI
-  window.grid = new Muuri('.grid', {
-    items: '.item',
-    layout: { fillGaps: true },
-    dragEnabled: false,
-    layoutOnResize: true,
-    itemPositioningClass: 'muuri-item-positioning'
-  });
+  document.addEventListener('DOMContentLoaded', function () {
+    var gridEl = document.querySelector('.grid');
+    if (!gridEl) return;
 
-  function refreshMuuriSoon() {
-    if (!window.grid) return;
-    requestAnimationFrame(() => {
-      requestAnimationFrame(() => {
-        window.grid.refreshItems().layout();
-      });
-    });
-  }
+    var splides = [];
+    if (typeof Splide !== 'undefined') {
+      document.querySelectorAll('.js-item-splide').forEach(function (el) {
+        var interval = parseInt(el.getAttribute('data-interval') || '4000', 10);
 
-  window.addEventListener('load', () => {
-    //
-    // 1) Mount the small item splides
-    //
-    document.querySelectorAll('.js-item-splide').forEach((el) => {
-      if (el.dataset.mounted === 'true') return;
-
-      const interval = parseInt(el.dataset.interval || '4000', 10);
-
-      const splide = new Splide(el, {
-        type: 'fade',
-        rewind: true,
-        arrows: false,
-        pagination: false,
-        autoplay: true,
-        interval,
-        speed: 600,
-        pauseOnHover: false,
-        pauseOnFocus: false,
-      });
-
-      splide.on('mounted', () => {
-        const imgs = el.querySelectorAll('img');
-        let pending = imgs.length;
-
-        if (pending === 0) {
-          refreshMuuriSoon();
-          return;
-        }
-
-        imgs.forEach((img) => {
-          if (img.complete) {
-            pending -= 1;
-            if (pending === 0) refreshMuuriSoon();
-          } else {
-            img.addEventListener('load', () => {
-              pending -= 1;
-              if (pending === 0) refreshMuuriSoon();
-            }, { once: true });
-
-            img.addEventListener('error', () => {
-              pending -= 1;
-              if (pending === 0) refreshMuuriSoon();
-            }, { once: true });
-          }
+        var splide = new Splide(el, {
+          type: 'fade',
+          rewind: true,
+          arrows: false,
+          pagination: false,
+          drag: false,
+          autoplay: true,
+          interval: interval,
+          speed: 600,
+          pauseOnHover: false,
+          pauseOnFocus: false
         });
+
+        splide.mount();
+        splides.push(splide);
       });
+    }
 
-      splide.mount();
-      el.dataset.mounted = 'true';
+    if (typeof Muuri === 'undefined') {
+      console.warn('Muuri is not loaded on this page.');
+      return;
+    }
+
+    var grid = new Muuri(gridEl, {
+      items: '.item',
+      layoutDuration: 300,
+      layoutEasing: 'ease'
     });
 
-    //
-    // 2) Final refresh after everything settles
-    //
-    setTimeout(() => {
-      refreshMuuriSoon();
-    }, 200);
-
-    //
-    // 3) Lightbox logic only if lightbox exists
-    //
-    const lightbox = document.querySelector('.Lightbox');
-    if (!lightbox) return;
-
-    const lightboxBackdrop = lightbox.querySelector('.Lightbox__backdrop');
-    const lightboxClose = lightbox.querySelector('.Lightbox__close');
-    const lightboxTitle = lightbox.querySelector('.Lightbox__title');
-    const lightboxGallery = lightbox.querySelector('.LightboxGallery');
-
-    function escapeHtml(str) {
-      return String(str)
-        .replaceAll('&', '&amp;')
-        .replaceAll('<', '&lt;')
-        .replaceAll('>', '&gt;')
-        .replaceAll('"', '&quot;')
-        .replaceAll("'", '&#039;');
+    function relayout() {
+      grid.refreshItems().layout();
     }
 
-    function buildLightboxImages(images, title) {
-      lightboxTitle.textContent = title || '';
+    window.addEventListener('load', relayout);
 
-      lightboxGallery.innerHTML = images.map((src) => `
-        <figure class="LightboxGallery__item">
-          <img src="${src}" alt="${escapeHtml(title || '')}">
-        </figure>
-      `).join('');
-    }
-
-    function openLightbox(images, title, startIndex = 0) {
-      if (!images.length) return;
-
-      const orderedImages = [
-        ...images.slice(startIndex),
-        ...images.slice(0, startIndex)
-      ];
-
-      buildLightboxImages(orderedImages, title);
-      lightbox.classList.add('is-active');
-      document.body.classList.add('has-lightbox-open');
-    }
-
-    function closeLightbox() {
-      lightbox.classList.remove('is-active');
-      document.body.classList.remove('has-lightbox-open');
-      lightboxGallery.innerHTML = '';
-      lightboxTitle.textContent = '';
-    }
-
-    document.querySelectorAll('.item').forEach((item) => {
-      item.addEventListener('click', (e) => {
-        if (e.target.closest('a, button')) return;
-        if (e.target.closest('.splide__arrow')) return;
-
-        const itemSplide = item.querySelector('.js-item-splide');
-        let images = [];
-
-        if (itemSplide) {
-          images = Array.from(
-            itemSplide.querySelectorAll('.splide__slide img.item__img')
-          )
-            .map((img) => img.getAttribute('src'))
-            .filter(Boolean);
-        } else {
-          const singleImg = item.querySelector('.item__img');
-          if (singleImg) {
-            images = [singleImg.getAttribute('src')];
-          }
-        }
-
-        const title = item.dataset.title || '';
-
-        let startIndex = 0;
-        const clickedSlide = e.target.closest('.splide__slide');
-
-        if (clickedSlide && itemSplide) {
-          const slides = Array.from(itemSplide.querySelectorAll('.splide__slide'));
-          const foundIndex = slides.indexOf(clickedSlide);
-          if (foundIndex >= 0) startIndex = foundIndex;
-        }
-
-        openLightbox(images, title, startIndex);
-      });
+    document.querySelectorAll('.item__img').forEach(function (img) {
+      if (img.complete) return;
+      img.addEventListener('load', relayout, { once: true });
+      img.addEventListener('error', relayout, { once: true });
     });
 
-    if (lightboxBackdrop) {
-      lightboxBackdrop.addEventListener('click', closeLightbox);
-    }
-
-    if (lightboxClose) {
-      lightboxClose.addEventListener('click', closeLightbox);
-    }
-
-    document.addEventListener('keydown', (e) => {
-      if (!lightbox.classList.contains('is-active')) return;
-      if (e.key === 'Escape') closeLightbox();
-    });
+    setTimeout(relayout, 50);
+    setTimeout(relayout, 300);
   });
 </script>
 

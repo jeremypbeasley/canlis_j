@@ -7,6 +7,8 @@ desc: Our curiosity is always expanding, often collaborating with our favorite d
   the dining room. Some objects support a party or an event, some are experiences
   in and of themselves. Some are strictly for our guests. Some are simply because
   we couldn't resist making them. These are the ones we love most.
+
+
 items:
 - title: Canlis' Map of Seattle's Best
   desc: When guests come in from out of town, we proudly send them to the best spots in town. These are our current picks! Design by Don Clark for Invisible Creature.
@@ -942,5 +944,5 @@ items:
   - title:
     url: /uploads/Calexico%20Concert.jpg
 
-layout: studio3
+layout: studio
 ---

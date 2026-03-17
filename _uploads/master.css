@@ -5513,3 +5513,16 @@ input[type=submit] {
 body.has-lightbox-open {
   overflow: hidden;
 }
+.LightboxMedia {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.LightboxFigure {
+  margin: 0;
+}
+.LightboxFigure img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
