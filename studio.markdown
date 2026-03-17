@@ -9,25 +9,25 @@ desc: Our curiosity is always expanding, often collaborating with our favorite d
   we couldn't resist making them. These are the ones we love most.
 items:
 - title: Canlis' Map of Seattle's Best
-  desc: "When guests come in from out of town, we proudly send them to the best spots
-    in town. These are our current picks! Design by Don Clark for Invisible Creature."
+  desc: When guests come in from out of town, we proudly send them to the best spots
+    in town. These are our current picks! Design by Don Clark for Invisible Creature.
   year: 2024
   type: Printed Matter
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 3000
-  partner:
+  partner: 
   is_featured: true
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/20241117_canlis_NWSS4009_web%20(1).jpg"
-  - title:
+  - title: 
     url: "/uploads/20241117_canlis_NWSS4026_web.jpg"
-  - title:
+  - title: 
     url: "/uploads/20241117_canlis_NWSS4033_web.jpg"
-  - title:
+  - title: 
     url: "/uploads/20241117_canlis_NWSS4036_web.jpg"
 - title: Canlis Crab Shack Seaman's Poncho
   desc: When you trade white tablecloths for paper and mallets you need a way to stay
@@ -35,14 +35,14 @@ items:
   year: 2020
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/poncho.jpg"
 - title: Matchbooks
   desc: In keeping a tradition, we've created beautiful matchbooks for guests to have
@@ -51,60 +51,60 @@ items:
   year: 2019 - 2025
   type: Matchbook
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2000
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/matchbook_1.jpg"
-  - title:
+  - title: 
     url: "/uploads/matchbook_2.jpg"
-  - title:
+  - title: 
     url: "/uploads/matchbook_3.jpg"
-  - title:
+  - title: 
     url: "/uploads/matchbook_4.jpg"
-  - title:
+  - title: 
     url: "/uploads/matchbook_5.jpg"
-  - title:
+  - title: 
     url: "/uploads/matchbook_6.jpg"
-  - title:
+  - title: 
     url: "/uploads/matchbook_7.jpg"
-  - title:
+  - title: 
     url: "/uploads/matchbook_8.jpg"
 - title: Canlis Steak Knife
   desc: Custom design and fabrication by Rob Grey for Greycloud Knives
   year: 2022
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
   partner: Filson
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/20241014_Canlis_106.jpg"
 - title: Live Recordings at Canlis
   desc: Various vinyl releases by Walt Wagner, Danny Lowell, and Clay Wheeler
-  year:
+  year: 
   type: Music
   price: 95
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 3000
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240420_Canlis_001_web%20(1).jpg"
-  - title:
+  - title: 
     url: "/uploads/20240420_Canlis_007_web.jpg"
-  - title:
+  - title: 
     url: "/uploads/20240420_Canlis_013_web.jpg"
 - title: Beers & Ciders
   desc: Cider —but way less annoying and far more sophisticated than the ones you
@@ -112,30 +112,30 @@ items:
   year: 2025
   type: Beer / Cider
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
   partner: Son of Man & Holy Mountain
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/ciderr.jpg"
 - title: The Canlis Ant Farm
-  desc:
+  desc: 
   year: 2022
   type: Objects
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 3500
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/8824f2cdb652ad892fa3341760fb6b4d5994b1f6-1500x1500.jpg"
-  - title:
+  - title: 
     url: "/uploads/9346f7132936a4dfa66bf0fd1f9d6d2e12b5b0d0-1500x1500.jpg"
 - title: Canlis on the High Seas T-Shirt
   desc: The restaurant reimagined as a wandering vessel, sailing somewhere between
@@ -143,14 +143,14 @@ items:
   year: 2025
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240502_Canlis_145.jpg"
 - title: Canlis on the High Seas Poster
   desc: The restaurant reimagined as a wandering vessel, sailing somewhere between
@@ -158,14 +158,14 @@ items:
   year: 2025
   type: Print
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/High%20Seas.jpg"
 - title: Canlis Salt Ramekins
   desc: Local artisan and sculptor Dylan Andersen created a series of solid bronze
@@ -174,14 +174,14 @@ items:
   year: 2024
   type: Objects
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
   partner: Dylan Andersen
   is_featured: true
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/ramy.jpg"
 - title: The Canlis TV Dinner
   desc: Canlis Frozen? You bet. This pandemic-era expirment turned out to be a big
@@ -189,14 +189,14 @@ items:
   year: 2020
   type: Uncategorized
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: true
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/dinnner.jpg"
 - title: Space Prom Poster
   desc: A one-night cosmic dance where tuxedos, taffeta, and starlight collide somewhere
@@ -204,14 +204,14 @@ items:
   year: 2023
   type: Print
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/poster_spaceprom.jpg"
 - title: Hawaiian Nights Poster
   desc: An parking lot island escape where the pool was hot, the grills were hotter,
@@ -220,14 +220,14 @@ items:
   year: 2019
   type: Print
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/poster_hawaiiannights.jpg"
 - title: The Canlis Yurt Villiage Poster
   desc: The parking lot transformed into a cozy village of private yurts, offering
@@ -236,28 +236,28 @@ items:
   year: 2020
   type: Print
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/poster_yurtvillage.jpg"
 - title: The Executive Mug
   desc: Artwork by Nathan Yoder
   year: 2024
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
   partner: MiiR
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/624325516_17984142377942108_7615374587499294023_n.jpg"
 - title: The Unauthorized Canlis LEGO Set
   desc: Canlis brought to life in (unauthorized) LEGO. The set includes Chef Aisha
@@ -266,14 +266,14 @@ items:
   year: 2024
   type: Objects
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
   partner: not LEGO whatsoever
   is_featured: true
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/lego.jpg"
 - title: Camp Canlis "Camper's Kit"
   desc: A playful retreat where service began with the raising of a flag, a bugle
@@ -282,14 +282,14 @@ items:
   year: 2020
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
   partner: MiiR
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240502_Canlis_140.jpg"
 - title: Camp Canlis Pendant
   desc: A playful retreat where service began with the raising of a flag, a bugle
@@ -298,14 +298,14 @@ items:
   year: 2020
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240502_Canlis_140.jpg"
 - title: Canlis Community College Pencil Bag
   desc: A six-week experiment in learning and laughter, where guests enrolled in online
@@ -314,28 +314,28 @@ items:
   year: 2020
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
   partner: Filson
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240502_Canlis_112.jpg"
 - title: Canlis Whiskey House
-  desc:
+  desc: 
   year: 2019
   type: Objects
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: true
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/f0b20926c8fbae091204be7a1c4c133bc76d622c-3000x1900.jpg"
 - title: Canlis Snow Globe
   desc: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
@@ -343,14 +343,14 @@ items:
   year: 2018
   type: Objects
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: true
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/ab31fe87144256eb8dcb0b67d5608c4e9a7a77f7-1500x1500.jpg"
 - title: Canlis Community College Pendant
   desc: A six-week experiment in learning and laughter, where guests enrolled in online
@@ -359,14 +359,14 @@ items:
   year: 2020
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240502_Canlis_124.jpg"
 - title: The Black Kampelli Wine Cradle
   desc: Kampelli leather is among the finest cowhides available—soft and glovey in
@@ -377,14 +377,14 @@ items:
   year: 2025
   type: Objects
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
   partner: Jordan Lake Design
   is_featured: true
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/cradle.jpg"
 - title: Canlis Community College Jacket
   desc: A six-week experiment in learning and laughter, where guests enrolled in online
@@ -393,14 +393,14 @@ items:
   year: 2020
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2800
   partner: Ebbet's Field
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240502_Canlis_234.jpg"
 - title: Midnight Poster
   desc: Canlis' first ever New Year's Eve dance party - a 1950's themed night full
@@ -409,14 +409,14 @@ items:
   year: 2018
   type: Print
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/Midnight.jpg"
 - title: 'Midnight: Hawaii Poster'
   desc: A New Year's Eve where the countdown arrived with island rhythms, tropical
@@ -425,14 +425,14 @@ items:
   year: 2019
   type: Print
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/Midnight%20Hawaii.jpg"
 - title: Canlis Community College Student Uniforms
   desc: We built a six-week school in 4 weeks. The right garb was crucial. Students
@@ -441,42 +441,42 @@ items:
   year: 2020
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2800
   partner: Ebbet's Field
   is_featured: true
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/ccc.jpg"
 - title: Canlis Community College Beer Pong Kit
   desc: Design by Don Clark for Invisible Creature
   year: 2020
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
   partner: MiiR
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240420_Canlis_223_web.jpg"
 - title: The Bagel Shed Mug
   desc: Design by Don Clark for Invisible Creature
   year: 2020
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
   partner: MiiR
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240420_Canlis_138_web%20(1).jpg"
 - title: 'Kenlis: Plastic-Fantastic Package'
   desc: A two-day plastic-fantastic party where the only rule was to show up with
@@ -485,14 +485,14 @@ items:
   year: 2024
   type: Print
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2000
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/kenny.jpg"
 - title: Kenlis T-Shirt
   desc: A two-day plastic-fantastic party where the only rule was to show up with
@@ -501,16 +501,16 @@ items:
   year: 2024
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/20241117_canlis_NWSS4227_web.jpg"
-  - title:
+  - title: 
     url: "/uploads/20241117_canlis_NWSS4084_web.jpg"
 - title: Kenlis Trucker Cap
   desc: A two-day plastic-fantastic party where the only rule was to show up with
@@ -519,14 +519,14 @@ items:
   year: 2024
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/20241117_canlis_NWSS4084_web.jpg"
 - title: Kenlis Fanny Pack
   desc: A two-day plastic-fantastic party where the only rule was to show up with
@@ -535,14 +535,14 @@ items:
   year: 2024
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/kenlisfannypack.jpg"
 - title: Kenlis Tuanshan
   desc: A two-day plastic-fantastic party where the only rule was to show up with
@@ -551,14 +551,14 @@ items:
   year: 2024
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/20241117_canlis_NWSS4144_web.jpg"
 - title: Canlis x Guest Chef Dinner Posters
   desc: Chef Álvaro Clavijo of Bogotá's El Chato joined the Canlis kitchen for a one-night
@@ -567,48 +567,48 @@ items:
   year: 2024
   type: Print
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2000
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/El%20Chato%20x%20Canlis.jpg"
-  - title:
+  - title: 
     url: "/uploads/Contra%20x%20Canlis.jpg"
-  - title:
+  - title: 
     url: "/uploads/Blanca%20x%20Canlis.jpg"
-  - title:
+  - title: 
     url: "/uploads/Momofuku%20Ko%20x%20Canlis.jpg"
 - title: Clay at Canlis Vinyl
-  desc:
-  year:
+  desc: 
+  year: 
   type: Music
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240420_Canlis_013_web.jpg"
 - title: Danny Lowell, Solo at Canlis' Vinyl
-  desc:
-  year:
+  desc: 
+  year: 
   type: Music
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240420_Canlis_007_web.jpg"
 - title: 'Live In The Lower Lot: Calexico'
   desc: Seattle got visited by the sounds of the American Southwest, weaving mariachi
@@ -617,45 +617,45 @@ items:
   year: 2025
   type: Print
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/Calexico%20Concert.jpg"
 - title: ドームボックス "Dome Boxes"
   desc: We welcome each guest with a set of pristine Japanese hardwood boxes, crafted
     by hand and opened at the table to reveal the evening’s first small snacks. It’s
     a quiet, curious beginning—an invitation to explore the meal one thoughtful bite
     at a time.
-  year:
+  year: 
   type: Objects
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
   partner: Yuki Osu Petersen
   is_featured: true
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240420_Canlis_149_web.jpg"
 - title: Contra x Canlis Poster
   desc: Contra joined us from NYC for a special night with Chef Brady Williams.
   year: 2017
   type: Print
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/Contra%20x%20Canlis.jpg"
 - title: Blanco x Canlis Poster
   desc: Guest chef dinner with Chef Brady Williams and Blanco's Carlo Mirarchi. Posted
@@ -663,16 +663,16 @@ items:
   year: 2017
   type: Print
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/Blanca%20x%20Canlis.jpg"
-  - title:
+  - title: 
     url: "/uploads/Momofuku%20Ko%20x%20Canlis.jpg"
 - title: Momofuku Ko x Canlis Poster
   desc: Chef Sean Gray of Momofuku Ko joined Canlis chef Brady Williams for a one-night
@@ -681,14 +681,14 @@ items:
   year: 2018
   type: Print
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/Momofuku%20Ko%20x%20Canlis.jpg"
 - title: Milk Bar x Canlis Poster
   desc: Christina Tosi brought her cult-favorite New York bakery to the Canlis parking
@@ -697,14 +697,14 @@ items:
   year: 2019
   type: Print
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/Milk%20Bar%20x%20Canlis.jpg"
 - title: Shake Shack x Canlis Poster
   desc: Our parking lot turned into a one-day summer festival of ShackBurgers, crab
@@ -713,70 +713,70 @@ items:
   year: 2019
   type: Print
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/Shake%20Shack%20x%20Canlis.jpg"
 - title: Hurricane Centerpiece
-  desc:
-  year:
+  desc: 
+  year: 
   type: Objects
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/20241014_Canlis_228-bdfd1f.jpg"
 - title: Canlis Staff Apparel Beanie
-  desc:
+  desc: 
   year: 2023
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240502_Canlis_116-689580.jpg"
 - title: Canlis Staff Apparel Hoodie
-  desc:
+  desc: 
   year: 2023
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240502_Canlis_212.jpg"
 - title: Rainier Shine Candle
-  desc:
+  desc: 
   year: 2024
   type: Objects
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
   partner: Golden Hour Candle Co.
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240420_Canlis_147_web.jpg"
 - title: Canlis Staff Apparel
   desc: 'All the best ones. And the coveted t-shirt: from the mind of Chef Brady Williams
@@ -784,30 +784,30 @@ items:
   year: 2019
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240502_Canlis_189.jpg"
-  - title:
+  - title: 
     url: "/uploads/20240502_Canlis_212.jpg"
 - title: Canlis Salad T-Shirt
   desc: T-Shirt Design by Julie Canlis
-  year:
+  year: 
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/placeholder_studio.jpg"
 - title: Hawaiian Nights Tote
   desc: An parking lot island escape where the pool was hot, the grills were hotter,
@@ -816,14 +816,14 @@ items:
   year: 2019
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/20240420_Canlis_188_web.jpg"
 - title: Canlis Crab Shack Bucket Hat
   desc: We traded white tablecloths for paper and mallets in a joyful ode to the crab
@@ -831,14 +831,14 @@ items:
   year: 2020
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/placeholder_studio.jpg"
 - title: Camp Canlis Scarf
   desc: A playful retreat where service began with the raising of a flag, a bugle
@@ -847,28 +847,28 @@ items:
   year: 2020
   type: Apparel / Accessories
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
-  partner:
+  partner: 
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/placeholder_studio.jpg"
 - title: One Pit Wonder
   desc: Kriek-style genius, left in a barrel of locally sourced cherries for a year.
   year: 2025
   type: Beer / Cider
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
   partner: Holy Mountain Brewing
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/placeholder_studio.jpg"
 - title: The Other
   desc: As dark and scary as talking to a stranger. Imperial stout aged in Bourbon
@@ -876,14 +876,14 @@ items:
   year: 2025
   type: Beer / Cider
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2600
   partner: Holy Mountain Brewing
   is_featured: false
   is_visible: false
   photos:
-  - title:
+  - title: 
     url: "/uploads/placeholder_studio.jpg"
 - title: 'Live In The Lower Lot: Posters'
   desc: Grammy award winning, Lone Bellow, joined us for a night of soulful tunes,
@@ -892,16 +892,17 @@ items:
   year: 2023
   type: Print
   price: 45
-  purchase_url:
+  purchase_url: 
   is_soldout: true
   photo_duration: 2000
-  partner:
+  partner: 
   is_featured: false
   is_visible: true
   photos:
-  - title:
+  - title: 
     url: "/uploads/Lone%20Bellow.jpg"
-  - title:
+  - title: 
     url: "/uploads/Calexico%20Concert.jpg"
 layout: studio
 ---
+
