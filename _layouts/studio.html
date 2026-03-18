@@ -7,14 +7,12 @@
 
 {% for item in page.items %}
 
-  {%- comment -%} Top-level item photos {%- endcomment -%}
   {% if item.photos %}
     {% for photo in item.photos %}
       {% assign all_photos = all_photos | push: photo.url %}
     {% endfor %}
   {% endif %}
 
-  {%- comment -%} Nested collection items {%- endcomment -%}
   {% if item.items %}
     {% for subitem in item.items %}
       {% if subitem.photos %}
