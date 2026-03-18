@@ -5571,7 +5571,7 @@ input[type=submit] {
 }
 .LightboxFact {
   padding-top: 14px;
-  border-top: 1px solid rgba(242,238,230,0.18);
+/* border-top: 1px solid rgba(242, 238, 230, 0.18); */
 }
 .LightboxLabel {
   margin-bottom: 4px;
@@ -5692,9 +5692,6 @@ body.lightbox-open {
 }
 .LightboxCollectionEntryMeta .LightboxFacts {
   max-width: 560px;
-}
-.LightboxCollectionEntryMeta .LightboxFact:first-child {
-  border-top: 1px solid rgba(242,238,230,0.18);
 }
 @media (max-width: 991px) {
   .LightboxCollectionEntryMeta {

@@ -75,7 +75,7 @@
                     </div>
 
                     <div class="LightboxCollectionEntryMeta">
-                      <h3 class="LightboxEntryTitle">{{ child.title }}</h3>
+                      <div class="Caption color-white mb2">{{ child.title }}</div>
 
                       {% if child.desc and child.desc != blank %}
                         <div class="LightboxDesc">
@@ -83,42 +83,27 @@
                         </div>
                       {% endif %}
 
-                      <div class="LightboxFacts">
+                      <div class="flex justify-content-space-between">
                         {% if child.year and child.year != blank %}
                           <div class="LightboxFact">
-                            <div class="LightboxLabel">Year</div>
                             <div class="LightboxValue">{{ child.year }}</div>
-                          </div>
-                        {% endif %}
-
-                        {% if child.type and child.type != blank %}
-                          <div class="LightboxFact">
-                            <div class="LightboxLabel">Type</div>
-                            <div class="LightboxValue">{{ child.type }}</div>
-                          </div>
-                        {% endif %}
-
-                        {% if child.partner and child.partner != blank %}
-                          <div class="LightboxFact">
-                            <div class="LightboxLabel">Partner</div>
-                            <div class="LightboxValue">{{ child.partner }}</div>
                           </div>
                         {% endif %}
 
                         {% if child.price and child.price != blank %}
                           <div class="LightboxFact">
-                            <div class="LightboxLabel">Price</div>
                             <div class="LightboxValue">${{ child.price }}</div>
                           </div>
                         {% endif %}
 
                         <div class="LightboxFact">
-                          <div class="LightboxLabel">Status</div>
-                          <div class="LightboxValue">
+                          <div class="LightboxValue ">
                             {% if child.is_soldout %}
-                              Sold out
+                              <span class="Caption color-accent-primary">Sold out</span>
                             {% else %}
-                              Available
+                              <a href="{ child.purchase_url}" target="_blank">
+                                <span class="Caption">BUY NOW</span>
+                              </a>
                             {% endif %}
                           </div>
                         </div>
@@ -138,8 +123,8 @@
 
               <aside class="LightboxCollectionMeta">
                 <div class="LightboxMetaSticky">
-                  <div class="LightboxLabel LightboxLabel--Collection">Collection</div>
-                  <h2 class="LightboxTitle">{{ item.title }}</h2>
+                  <div class="Caption op50 mb3">/ Collection</div>
+                  <div class="Caption mb3">{{ item.title }}</div>
 
                   {% if item.desc and item.desc != blank %}
                     <div class="LightboxDesc">
@@ -150,7 +135,6 @@
                   <div class="LightboxFacts">
                     {% if item.year and item.year != blank %}
                       <div class="LightboxFact">
-                        <div class="LightboxLabel">Year</div>
                         <div class="LightboxValue">{{ item.year }}</div>
                       </div>
                     {% endif %}
