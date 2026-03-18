@@ -47,29 +47,27 @@
                 {% endif %}</p>
               </div>
             </div>
-          </button>
+            <div class="item-label flex justify-content-space-between">
+              <div class="item-label__main color-white mb0 mt0 pb0">
+                {{ item.title }}<br />
+                {% if item.partner %}
+                  <span class="op50">in collaboration with {{ item.partner }}</span>
+                {% endif %}
+              </div>
 
-          <div class="item-label flex justify-content-space-between">
-            <div class="item-label__main color-white mb0 mt0 pb0">
-              {{ item.title }}<br />
-              {% if item.partner %}
-                <span class="op50">in collaboration with {{ item.partner }}</span>
+              {% if item.is_collection == true %}
+                <div>
+                  <span class="Caption color-white op50">See more</span>
+                </div>
+              {% else %}
+                {% if item.is_soldout %}
+                  <div>
+                    <span class="Caption color-white op50">Sold Out</span>
+                  </div>
+                {% endif %}
               {% endif %}
             </div>
-
-            {% if item.is_collection == true %}
-              <div>
-                <span class="Caption color-white op50">See more</span>
-              </div>
-            {% else %}
-              {% if item.is_soldout %}
-                <div>
-                  <span class="Caption color-white op50">Sold Out</span>
-                </div>
-              {% endif %}
-            {% endif %}
-
-          </div>
+          </button>
         </div>
       {% endfor %}
     </div>
