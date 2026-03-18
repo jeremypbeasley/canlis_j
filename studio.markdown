@@ -156,22 +156,73 @@ items:
     url: "/uploads/20240420_Canlis_007_web.jpg"
   - title:
     url: "/uploads/20240420_Canlis_013_web.jpg"
+
+
 - title: Beers & Ciders
   slug: beers-ciders
   desc: Cider —but way less annoying and far more sophisticated than the ones you
     drank when you were younger.
   year: 2025
   type: Beer / Cider
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 2600
-  partner: Son of Man & Holy Mountain
+  is_collection: true
+  type:
+  photo_duration: 2000
+  partner:
   is_featured: false
   is_visible: true
   photos:
   - title:
     url: "/uploads/ciderr.jpg"
+  items:
+  - title: One Pit Wonder
+    slug: one-pit-wonder
+    desc: Kriek-style genius, left in a barrel of locally sourced cherries for a year.
+    year: 2025
+    type: Beer / Cider
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner: Holy Mountain Brewing
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/placeholder_studio.jpg"
+  - title: The Other
+    slug: the-other
+    desc: As dark and scary as talking to a stranger. Imperial stout aged in Bourbon
+      barrels.
+    year: 2025
+    type: Beer / Cider
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner: Holy Mountain Brewing
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/placeholder_studio.jpg"
+  - title: ETXEKO
+    slug: ETXEKO
+    desc: Cider —but way less annoying and far more sophisticated than the ones you drank when you were younger.
+    year: 2025
+    type: Beer / Cider
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner: Son of Man
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/placeholder_studio.jpg"
+
+
+
 - title: The Canlis Ant Farm
   slug: the-canlis-ant
   desc:
@@ -947,37 +998,13 @@ items:
   photos:
   - title:
     url: "/uploads/placeholder_studio.jpg"
-- title: One Pit Wonder
-  slug: one-pit-wonder
-  desc: Kriek-style genius, left in a barrel of locally sourced cherries for a year.
-  year: 2025
-  type: Beer / Cider
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 2600
-  partner: Holy Mountain Brewing
-  is_featured: false
-  is_visible: false
-  photos:
-  - title:
-    url: "/uploads/placeholder_studio.jpg"
-- title: The Other
-  slug: the-other
-  desc: As dark and scary as talking to a stranger. Imperial stout aged in Bourbon
-    barrels.
-  year: 2025
-  type: Beer / Cider
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 2600
-  partner: Holy Mountain Brewing
-  is_featured: false
-  is_visible: false
-  photos:
-  - title:
-    url: "/uploads/placeholder_studio.jpg"
+
+
+
+
+
+
+
 - title: 'Live In The Lower Lot: Posters'
   slug: live-in-the-2
   is_collection: true
