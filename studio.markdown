@@ -552,16 +552,18 @@ items:
   photos:
   - title:
     url: "/uploads/20240420_Canlis_138_web%20(1).jpg"
+
+
+
+
 - title: 'Kenlis: Plastic-Fantastic Package'
   slug: kenlis-plastic-fantastic-package
   desc: A two-day plastic-fantastic party where the only rule was to show up with
     big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
     out of the Penthouse. Artwork by Don Clark for Invisible Creature.
   year: 2024
-  type: Print
-  price: 45
-  purchase_url:
-  is_soldout: true
+  is_collection: true
+  type: Apparel
   photo_duration: 2000
   partner:
   is_featured: false
@@ -569,76 +571,84 @@ items:
   photos:
   - title:
     url: "/uploads/kenny.jpg"
-- title: Kenlis T-Shirt
-  slug: kenlis-t-shirt
-  desc: A two-day plastic-fantastic party where the only rule was to show up with
-    big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
-    out of the Penthouse. Artwork by Don Clark for Invisible Creature.
-  year: 2024
-  type: Apparel / Accessories
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 2600
-  partner:
-  is_featured: false
-  is_visible: false
-  photos:
-  - title:
-    url: "/uploads/20241117_canlis_NWSS4227_web.jpg"
-  - title:
-    url: "/uploads/20241117_canlis_NWSS4084_web.jpg"
-- title: Kenlis Trucker Cap
-  slug: kenlis-trucker-cap
-  desc: A two-day plastic-fantastic party where the only rule was to show up with
-    big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
-    out of the Penthouse. Artwork by Don Clark for Invisible Creature.
-  year: 2024
-  type: Apparel / Accessories
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 2600
-  partner:
-  is_featured: false
-  is_visible: false
-  photos:
-  - title:
-    url: "/uploads/20241117_canlis_NWSS4084_web.jpg"
-- title: Kenlis Fanny Pack
-  slug: kenlis-fanny-pack
-  desc: A two-day plastic-fantastic party where the only rule was to show up with
-    big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
-    out of the Penthouse. Artwork by Don Clark for Invisible Creature.
-  year: 2024
-  type: Apparel / Accessories
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 2600
-  partner:
-  is_featured: false
-  is_visible: false
-  photos:
-  - title:
-    url: "/uploads/kenlisfannypack.jpg"
-- title: Kenlis Tuanshan
-  slug: kenlis-tuanshan
-  desc: A two-day plastic-fantastic party where the only rule was to show up with
-    big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
-    out of the Penthouse. Artwork by Don Clark for Invisible Creature.
-  year: 2024
-  type: Apparel / Accessories
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 2600
-  partner:
-  is_featured: false
-  is_visible: false
-  photos:
-  - title:
-    url: "/uploads/20241117_canlis_NWSS4144_web.jpg"
+  items:
+  - title: Kenlis T-Shirt
+    slug: kenlis-t-shirt
+    desc: A two-day plastic-fantastic party where the only rule was to show up with
+      big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
+      out of the Penthouse. Artwork by Don Clark for Invisible Creature.
+    year: 2024
+    type: Apparel / Accessories
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner:
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/20241117_canlis_NWSS4227_web.jpg"
+  - title: Kenlis Trucker Cap
+    slug: kenlis-trucker-cap
+    desc: A two-day plastic-fantastic party where the only rule was to show up with
+      big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
+      out of the Penthouse. Artwork by Don Clark for Invisible Creature.
+    year: 2024
+    type: Apparel / Accessories
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner:
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/20241117_canlis_NWSS4084_web.jpg"
+  - title: Kenlis Fanny Pack
+    slug: kenlis-fanny-pack
+    desc: A two-day plastic-fantastic party where the only rule was to show up with
+      big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
+      out of the Penthouse. Artwork by Don Clark for Invisible Creature.
+    year: 2024
+    type: Apparel / Accessories
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner:
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/kenlisfannypack.jpg"
+  - title: Kenlis Tuanshan
+    slug: kenlis-tuanshan
+    desc: A two-day plastic-fantastic party where the only rule was to show up with
+      big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
+      out of the Penthouse. Artwork by Don Clark for Invisible Creature.
+    year: 2024
+    type: Apparel / Accessories
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner:
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/20241117_canlis_NWSS4144_web.jpg"
+
+
+
+
+
+
+
+
+
 - title: Canlis x Guest Chef Dinner Posters
   slug: canlis-x-guest
   desc: Chef Álvaro Clavijo of Bogotá's El Chato joined the Canlis kitchen for a one-night
@@ -692,23 +702,6 @@ items:
   photos:
   - title:
     url: "/uploads/20240420_Canlis_007_web.jpg"
-- title: 'Live In The Lower Lot: Calexico'
-  slug: live-in-the
-  desc: Seattle got visited by the sounds of the American Southwest, weaving mariachi
-    horns, desert rhythms, and cinematic storytelling right here in our parking lot.
-    Poster design by Don Clark for Invisible Creatures.
-  year: 2025
-  type: Print
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 2600
-  partner:
-  is_featured: false
-  is_visible: false
-  photos:
-  - title:
-    url: "/uploads/Calexico%20Concert.jpg"
 - title: ドームボックス "Dome Boxes"
   slug: ドームボックス-dome-boxes
   desc: We welcome each guest with a set of pristine Japanese hardwood boxes, crafted
@@ -987,14 +980,12 @@ items:
     url: "/uploads/placeholder_studio.jpg"
 - title: 'Live In The Lower Lot: Posters'
   slug: live-in-the-2
+  is_collection: true
   desc: Grammy award winning, Lone Bellow, joined us for a night of soulful tunes,
     at-capacity hot tubs, and Chef James' top notch pizza tossing. Poster design by
     Don Clark for Invisible Creatures.
   year: 2023
   type: Print
-  price: 45
-  purchase_url:
-  is_soldout: true
   photo_duration: 2000
   partner:
   is_featured: false
@@ -1004,5 +995,80 @@ items:
     url: "/uploads/Lone%20Bellow.jpg"
   - title:
     url: "/uploads/Calexico%20Concert.jpg"
+  items:
+  - title: The Lone Bellow
+    desc: In keeping a tradition, we've created beautiful matchbooks for guests to
+      have following dinner. Artwork by Don Clark for Invisible Creature, Jordan Kay,
+      Pam Wishbow, Kyler Martz, and Jonathan Ball
+    year: 20XX
+    price: 45
+    purchase_url:
+    is_soldout: false
+    partner:
+    is_visible: true
+    photos:
+    - title:
+      url: "/uploads/Lone%20Bellow.jpg"
+  - title: Calexico
+    desc: In keeping a tradition, we've created beautiful matchbooks for guests to
+      have following dinner. Artwork by Don Clark for Invisible Creature, Jordan Kay,
+      Pam Wishbow, Kyler Martz, and Jonathan Ball
+    year: 20XX
+    price: 45
+    purchase_url: https://www.nytimes.com/
+    is_soldout: false
+    partner:
+    is_visible: true
+    photos:
+    - title:
+      url: "/uploads/Calexico%20Concert.jpg"
+
+
+
 layout: studio
 ---
+
+
+
+<!--
+
+TEMPLATE: COLLECTIONS
+
+- title:
+  slug:
+  is_collection: true
+  desc:
+  year: 2023
+  type:
+  photo_duration: 2000
+  partner:
+  is_featured: false
+  is_visible: true
+  photos:
+  - title:
+    url:
+  items:
+  - title:
+    desc:
+    year: 20XX
+    price: 45
+    purchase_url:
+    is_soldout: true
+    partner:
+    is_visible: true
+    photos:
+    - title:
+      url:
+  - title:
+    desc:
+    year: 20XX
+    price: 45
+    purchase_url:
+    is_soldout: false
+    partner:
+    is_visible: true
+    photos:
+    - title:
+      url:  
+
+-->
