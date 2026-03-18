@@ -380,10 +380,10 @@
       waitForTransition: false,
     });
 
-    const TOTAL_IMAGES = 40;
+    const TOTAL_IMAGES = 60;
     const TOTAL_DURATION = 4000; // ms
-    const LAST_DELAY = 1500;      // ms near the end
-    const CURVE = 3;             // bigger = more aggressive fast-start / slow-end
+    const LAST_DELAY = 2500;      // ms near the end
+    const CURVE = 15;             // bigger = more aggressive fast-start / slow-end
 
     function buildDelays(steps, totalMs, lastDelay, power) {
       // steps = number of transitions, not number of slides
