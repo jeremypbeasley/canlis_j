@@ -3,7 +3,7 @@
 title: Studio
 layout: studio
 date: 2016-11-10 10:09:00-08:00
-og_photo: /uploads/ogstudio.jpg
+og_photo: /uploads/cradle.jpg
 desc: Our curiosity is always expanding, often collaborating with our favorite designers,
   craftspeople, and friends building a collection of objects that expand far beyond
   the dining room. Some objects support a party or an event, some are experiences
