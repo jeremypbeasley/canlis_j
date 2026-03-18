@@ -3,12 +3,25 @@
    ========================= */
 
 
-.StudioContainer {
-  width: 100%;
-  background: #242421;
-  border-radius: 15vw;
-  margin-top: 30vw;
-}
+ .StudioContainer {
+   width: 100%;
+   background: #242421;
+   border-radius: 15vw;
+   margin-top: 30vw;
+   transform: translateY(100vh);
+   animation: StudioLoad 1000ms ease 5000ms forwards;
+ }
+
+ @keyframes StudioLoad {
+   from {
+     transform: translateY(100vh);
+     opacity: 0;
+   }
+   to {
+     transform: translateY(0);
+     opacity: 1;
+   }
+ }
 
 .StudioIntro {
   width: 100%;
@@ -24,6 +37,8 @@
     margin: 0;
   }
 }
+
+
 
 /* =========================
    MUURI GRID WRAPPER
@@ -560,4 +575,77 @@
   .LightboxCollectionEntryMeta .LightboxFacts {
     max-width: 100%;
   }
+}
+
+/* FLASH . */
+
+.Flasher {
+  width: 25vw;
+  height: 25vw;
+  position: fixed;
+  top: 20vw;
+  left: 40vw;
+  overflow: hidden;
+  border-radius: 10000vw;
+  opacity: 1;
+  transition: opacity 400ms ease;
+  transform: scale(0);
+  animation: scaleIn 1000ms ease forwards;
+}
+
+@keyframes scaleIn {
+    0%   { transform: scale(0); }
+    60%  { transform: scale(1.05); }
+    80%  { transform: scale(0.98); }
+    100% { transform: scale(1); }
+}
+
+.Flasher.is-done {
+  opacity: 0;
+  pointer-events: none;
+}
+
+
+@media (max-width: 768px) {
+  .Flasher {
+    width: 80vw;
+    height: 80vw;
+    position: fixed;
+    top: 60vw;
+    left: 10vw;
+  }
+}
+
+.Flasher .splide {
+  overflow: hidden;
+  transform: scale(1.2);
+}
+
+.Flasher .splide__slide {
+  width: 100%;
+  height: 100%;
+  display: flex;
+}
+
+.Flasher .splide__slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.Flasher .splide,
+.Flasher .splide__track,
+.Flasher .splide__list,
+.Flasher .splide__slide {
+  width: 100%;
+  height: 100%;
+}
+
+.Flasher .splide__slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
 }

@@ -1,5 +1,47 @@
 {% include head.html %}
 
+
+<!-- FLASH -->
+
+{% assign all_photos = "" | split: "" %}
+
+{% for item in page.items %}
+
+  {%- comment -%} Top-level item photos {%- endcomment -%}
+  {% if item.photos %}
+    {% for photo in item.photos %}
+      {% assign all_photos = all_photos | push: photo.url %}
+    {% endfor %}
+  {% endif %}
+
+  {%- comment -%} Nested collection items {%- endcomment -%}
+  {% if item.items %}
+    {% for subitem in item.items %}
+      {% if subitem.photos %}
+        {% for photo in subitem.photos %}
+          {% assign all_photos = all_photos | push: photo.url %}
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+{% endfor %}
+
+<div class="Flasher" >
+  <div class="splide" id="flasher-gallery" data-interval="{{ item.photo_duration | default: 150 }}">
+    <div class="splide__track">
+      <ul class="splide__list">
+        {% for url in all_photos %}
+          <li class="splide__slide slide_{{ forloop.index }}">
+            <img class="item__img" src="{{ url }}">
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+
+
 <div class="StudioContainer">
 
   <!-- INTRO -->
