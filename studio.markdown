@@ -137,15 +137,15 @@ items:
   photos:
   - title:
     url: "/uploads/20241014_Canlis_106.jpg"
+
+
 - title: Live Recordings at Canlis
-  slug: live-recordings-at
+  slug: live-recordings-at-canlis
   desc: Various vinyl releases by Walt Wagner, Danny Lowell, and Clay Wheeler
-  year:
-  type: Music
-  price: 95
-  purchase_url:
-  is_soldout: true
-  photo_duration: 3000
+  year: 1962 - 2016
+  is_collection: true
+  type:
+  photo_duration: 2000
   partner:
   is_featured: false
   is_visible: true
@@ -156,6 +156,37 @@ items:
     url: "/uploads/20240420_Canlis_007_web.jpg"
   - title:
     url: "/uploads/20240420_Canlis_013_web.jpg"
+  items:
+  - title: Clay at Canlis Vinyl
+    slug: clay-at-canlis
+    desc:
+    year:
+    type: Music
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner:
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/20240420_Canlis_013_web.jpg"
+  - title: Danny Lowell, Solo at Canlis' Vinyl
+    slug: danny-lowell-solo
+    desc:
+    year:
+    type: Music
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner:
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/20240420_Canlis_007_web.jpg"
 
 
 - title: Beers & Ciders
@@ -723,36 +754,6 @@ items:
     url: "/uploads/Blanca%20x%20Canlis.jpg"
   - title:
     url: "/uploads/Momofuku%20Ko%20x%20Canlis.jpg"
-- title: Clay at Canlis Vinyl
-  slug: clay-at-canlis
-  desc:
-  year:
-  type: Music
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 2600
-  partner:
-  is_featured: false
-  is_visible: false
-  photos:
-  - title:
-    url: "/uploads/20240420_Canlis_013_web.jpg"
-- title: Danny Lowell, Solo at Canlis' Vinyl
-  slug: danny-lowell-solo
-  desc:
-  year:
-  type: Music
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 2600
-  partner:
-  is_featured: false
-  is_visible: false
-  photos:
-  - title:
-    url: "/uploads/20240420_Canlis_007_web.jpg"
 - title: ドームボックス "Dome Boxes"
   slug: ドームボックス-dome-boxes
   desc: We welcome each guest with a set of pristine Japanese hardwood boxes, crafted
@@ -870,36 +871,7 @@ items:
   photos:
   - title:
     url: "/uploads/20241014_Canlis_228-bdfd1f.jpg"
-- title: Canlis Staff Apparel Beanie
-  slug: canlis-staff-apparel
-  desc:
-  year: 2023
-  type: Apparel / Accessories
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 2600
-  partner:
-  is_featured: false
-  is_visible: false
-  photos:
-  - title:
-    url: "/uploads/20240502_Canlis_116-689580.jpg"
-- title: Canlis Staff Apparel Hoodie
-  slug: canlis-staff-apparel-2
-  desc:
-  year: 2023
-  type: Apparel / Accessories
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 2600
-  partner:
-  is_featured: false
-  is_visible: false
-  photos:
-  - title:
-    url: "/uploads/20240502_Canlis_212.jpg"
+
 - title: Rainier Shine Candle
   slug: rainier-shine-candle
   desc:
@@ -915,16 +887,15 @@ items:
   photos:
   - title:
     url: "/uploads/20240420_Canlis_147_web.jpg"
+
 - title: Canlis Staff Apparel
   slug: canlis-staff-apparel-3
   desc: 'All the best ones. And the coveted t-shirt: from the mind of Chef Brady Williams
     the original —''Lukewarm Tweezer Food''.'
   year: 2019
-  type: Apparel / Accessories
-  price: 45
-  purchase_url:
-  is_soldout: true
-  photo_duration: 2600
+  is_collection: true
+  type:
+  photo_duration: 2000
   partner:
   is_featured: false
   is_visible: true
@@ -933,6 +904,41 @@ items:
     url: "/uploads/20240502_Canlis_189.jpg"
   - title:
     url: "/uploads/20240502_Canlis_212.jpg"
+  items:
+  - title: Canlis Staff Apparel Beanie
+    slug: canlis-staff-apparel
+    desc:
+    year: 2023
+    type: Apparel / Accessories
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner:
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/20240502_Canlis_116-689580.jpg"
+  - title: Canlis Staff Apparel Hoodie
+    slug: canlis-staff-apparel-2
+    desc:
+    year: 2023
+    type: Apparel / Accessories
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner:
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/20240502_Canlis_212.jpg"
+
+
+
+
 - title: Canlis Salad T-Shirt
   slug: canlis-salad-t-shirt
   desc: T-Shirt Design by Julie Canlis
@@ -1063,9 +1069,9 @@ TEMPLATE: COLLECTIONS
 
 - title:
   slug:
-  is_collection: true
   desc:
   year: 2023
+  is_collection: true
   type:
   photo_duration: 2000
   partner:
