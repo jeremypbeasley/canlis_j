@@ -44,7 +44,7 @@
       Close
     </button>
 
-    <div class="LightboxItems">
+    <div class="LightboxItems" id="LightboxItems">
       {% for item in visible_items %}
         {% assign item_key = forloop.index0 %}
 
@@ -226,6 +226,7 @@
 
     window.openLightbox = function (key) {
       var lightbox = document.getElementById('Lightbox');
+      var lightboxitems = document.getElementById('LightboxItems');
       var target = document.querySelector('[data-lightbox-item="' + key + '"]');
 
       if (!lightbox || !target) return;
@@ -235,6 +236,8 @@
 
       lightbox.classList.add('is-open');
       lightbox.setAttribute('aria-hidden', 'false');
+      lightboxitems.classList.add('is-open');
+      lightboxitems.setAttribute('aria-hidden', 'false');
       document.body.classList.add('lightbox-open');
 
       activeLightboxKey = key;
@@ -242,10 +245,13 @@
 
     window.closeLightbox = function () {
       var lightbox = document.getElementById('Lightbox');
+      var lightboxitems = document.getElementById('LightboxItems');
       if (!lightbox) return;
 
       lightbox.classList.remove('is-open');
       lightbox.setAttribute('aria-hidden', 'true');
+      lightboxitems.classList.remove('is-open');
+      lightboxitems.setAttribute('aria-hidden', 'true');
       document.body.classList.remove('lightbox-open');
 
       hideAllLightboxItems();

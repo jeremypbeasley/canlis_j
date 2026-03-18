@@ -202,22 +202,23 @@
 /* =========================
    LIGHTBOX
    ========================= */
-
    .Lightbox {
-      position: fixed;
-      inset: 0;
-      z-index: 9999;
-      opacity: 0;
-      visibility: hidden;
-      pointer-events: none;
-      transition: opacity 180ms ease, visibility 180ms ease;
-    }
+     position: fixed;
+     inset: 0;
+     z-index: 9999;
+     opacity: 0;
+     visibility: hidden;
+     pointer-events: none;
+     transition: opacity 180ms ease, visibility 180ms ease, transform 180ms ease;
+     transform: scale(.98) translateY(-1vw);
+   }
 
-    .Lightbox.is-open {
-      opacity: 1;
-      visibility: visible;
-      pointer-events: auto;
-    }
+   .Lightbox.is-open {
+     opacity: 1;
+     visibility: visible;
+     pointer-events: auto;
+     transform: scale(1) translateY(0);
+   }
 
     .LightboxOverlay {
       position: absolute;
@@ -227,17 +228,28 @@
       border: 0;
       padding: 0;
       margin: 0;
-      background: rgba(20, 20, 18, 0.88);
+      background: rgba(255,255,255, 0.9);
       cursor: pointer;
     }
 
     .LightboxShell {
       position: relative;
       z-index: 2;
-      width: 100%;
-      height: 100%;
+      width: calc(100% - 16vw);
+      margin: 8vw;
+      border-radius: 1vw;
+      height: calc(100vh - 16vw);
       overflow-y: auto;
       -webkit-overflow-scrolling: touch;
+      background: #242421;
+      padding: 4vw;
+      overflow: auto;            /* or overflow-y: scroll */
+      scrollbar-width: none;     /* Firefox */
+      -ms-overflow-style: none;  /* IE/Edge legacy */
+    }
+
+    .LightboxShell::-webkit-scrollbar {
+      display: none;             /* Chrome, Safari */
     }
 
     .LightboxClose {
@@ -256,6 +268,16 @@
 
     .LightboxItems {
       min-height: 100%;
+      opacity: 0;
+      transition: opacity 300ms ease 400ms, visibility 180ms ease, transform 300ms ease 300ms;
+      transform: scale(.98) translateY(4vw);
+    }
+
+    .LightboxItems.is-open {
+      opacity: 1;
+      visibility: visible;
+      pointer-events: auto;
+      transform: scale(1) translateY(0);
     }
 
     .LightboxItem {
@@ -411,7 +433,6 @@
   width: 100%;
   max-width: 1400px;
   margin: 0 auto;
-  padding: 72px 0 48px;
   display: grid;
   grid-template-columns: minmax(0, 1fr) 360px;
   gap: 36px;
