@@ -77,45 +77,44 @@ items:
     url: "/uploads/matchbook_8.jpg"
   items:
   - title: ITEM 1
-    desc: In keeping a tradition, we've created beautiful matchbooks for guests to have
-      following dinner. Artwork by Don Clark for Invisible Creature, Jordan Kay, Pam
-      Wishbow, Kyler Martz, and Jonathan Ball
+    desc: In keeping a tradition, we've created beautiful matchbooks for guests to
+      have following dinner. Artwork by Don Clark for Invisible Creature, Jordan Kay,
+      Pam Wishbow, Kyler Martz, and Jonathan Ball
     year: 20XX
     price: 45
-    purchase_url:
+    purchase_url: 
     is_soldout: true
-    partner:
+    partner: 
     is_visible: true
     photos:
-    - title:
+    - title: 
       url: "/uploads/matchbook_1.jpg"
   - title: ITEM 2
-    desc: In keeping a tradition, we've created beautiful matchbooks for guests to have
-      following dinner. Artwork by Don Clark for Invisible Creature, Jordan Kay, Pam
-      Wishbow, Kyler Martz, and Jonathan Ball
+    desc: In keeping a tradition, we've created beautiful matchbooks for guests to
+      have following dinner. Artwork by Don Clark for Invisible Creature, Jordan Kay,
+      Pam Wishbow, Kyler Martz, and Jonathan Ball
     year: 20XX
     price: 45
-    purchase_url:
+    purchase_url: 
     is_soldout: true
-    partner:
+    partner: 
     is_visible: true
     photos:
-    - title:
+    - title: 
       url: "/uploads/matchbook_2.jpg"
   - title: ITEM 3
-    desc: In keeping a tradition, we've created beautiful matchbooks for guests to have
-      following dinner. Artwork by Don Clark for Invisible Creature, Jordan Kay, Pam
-      Wishbow, Kyler Martz, and Jonathan Ball
+    desc: In keeping a tradition, we've created beautiful matchbooks for guests to
+      have following dinner. Artwork by Don Clark for Invisible Creature, Jordan Kay,
+      Pam Wishbow, Kyler Martz, and Jonathan Ball
     year: 20XX
     price: 45
-    purchase_url:
+    purchase_url: 
     is_soldout: true
-    partner:
+    partner: 
     is_visible: true
     photos:
-    - title:
+    - title: 
       url: "/uploads/matchbook_3.jpg"
-
 - title: Canlis Steak Knife
   desc: Custom design and fabrication by Rob Grey for Greycloud Knives
   year: 2022
