@@ -41,7 +41,7 @@
 
   <div class="LightboxShell" role="dialog" aria-modal="true" aria-label="Studio item details">
     <button class="LightboxClose" type="button" aria-label="Close lightbox" onclick="closeLightbox()">
-      Close
+
     </button>
 
     <div class="LightboxItems" id="LightboxItems">
@@ -107,14 +107,6 @@
                             {% endif %}
                           </div>
                         </div>
-
-                        {% if child.purchase_url and child.purchase_url != blank %}
-                          <div class="LightboxActions">
-                            <a class="LightboxButton" href="{{ child.purchase_url }}" target="_blank" rel="noopener">
-                              Purchase
-                            </a>
-                          </div>
-                        {% endif %}
                       </div>
                     </div>
                   </section>
@@ -176,7 +168,7 @@
 
               <aside class="LightboxMeta">
                 <div class="LightboxMetaSticky">
-                  <h2 class="LightboxTitle">{{ item.title }}</h2>
+                  <div class="Caption mb3">{{ item.title }}</div>
 
                   {% if item.desc and item.desc != blank %}
                     <div class="LightboxDesc">
@@ -187,7 +179,6 @@
                   <div class="LightboxFacts">
                     {% if item.year and item.year != blank %}
                       <div class="LightboxFact">
-                        <div class="LightboxLabel">Year</div>
                         <div class="LightboxValue">{{ item.year }}</div>
                       </div>
                     {% endif %}
@@ -198,6 +189,18 @@
                         <div class="LightboxValue">{{ item.partner }}</div>
                       </div>
                     {% endif %}
+
+                    <div class="LightboxFact">
+                      <div class="LightboxValue">
+                        {% if item.is_soldout == true %}
+                          <span class="Caption color-accent-primary">Sold out</span>
+                        {% else %}
+                          <a href="{{ item.purchase_url }}" target="_blank">
+                            <span class="Caption color-white">BUY NOW</span>
+                          </a>
+                        {% endif %}
+                      </div>
+                    </div>
 
                   </div>
                 </div>

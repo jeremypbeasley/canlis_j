@@ -2,11 +2,12 @@
    STUDIO LAYOUT
    ========================= */
 
+
 .StudioContainer {
   width: 100%;
   background: #242421;
   border-radius: 15vw;
-  margin-top: 20vw;
+  margin-top: 30vw;
 }
 
 .StudioIntro {
@@ -41,6 +42,7 @@
   margin: 2vw 2vw 2vw 2vw;
   z-index: 1;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 .item--large {
@@ -112,6 +114,7 @@
     display: grid;
     align-items: end;
     padding: 1.8em 2em;
+    cursor: pointer;
     background: linear-gradient(
       to top,
       rgba(0,0,0,0.75),
@@ -148,6 +151,7 @@
   margin: 0;
   opacity: 0.9;
   font-size: 0.95rem;
+  cursor: pointer;
 }
 
 /* =========================
@@ -210,14 +214,14 @@
      visibility: hidden;
      pointer-events: none;
      transition: opacity 180ms ease, visibility 180ms ease, transform 180ms ease;
-     transform: scale(.98) translateY(-1vw);
+     /* transform: translateY(-1vw); */
    }
 
    .Lightbox.is-open {
      opacity: 1;
      visibility: visible;
      pointer-events: auto;
-     transform: scale(1) translateY(0);
+     /* transform: scale(1) translateY(0); */
    }
 
     .LightboxOverlay {
@@ -235,10 +239,12 @@
     .LightboxShell {
       position: relative;
       z-index: 2;
-      width: calc(100% - 16vw);
-      margin: 8vw;
+      /* width: calc(100% - 16vw); */
+      width: 100%;
+      /* margin: 8vw; */
       border-radius: 1vw;
-      height: calc(100vh - 16vw);
+      /* height: calc(100vh - 16vw); */
+      height: 100%;
       overflow-y: auto;
       -webkit-overflow-scrolling: touch;
       background: #242421;
@@ -246,6 +252,12 @@
       overflow: auto;            /* or overflow-y: scroll */
       scrollbar-width: none;     /* Firefox */
       -ms-overflow-style: none;  /* IE/Edge legacy */
+    }
+
+    @media (max-width: 768px) {
+      .LightboxShell {
+        padding: 0;
+      }
     }
 
     .LightboxShell::-webkit-scrollbar {
@@ -258,12 +270,28 @@
       right: 24px;
       z-index: 20;
       border: 0;
-      background: transparent;
+      background: white;
       color: #f2eee6;
       font: inherit;
       letter-spacing: 0.04em;
       cursor: pointer;
       padding: 0;
+      text-indent: 1000px;
+      height: 2vw;
+      width: 2vw;
+      background: url("/uploads/close.svg") no-repeat center / cover;
+      transition: transform 100ms ease;
+    }
+
+    @media (max-width: 768px) {
+      .LightboxClose {
+        height: 6vw;
+        width: 6vw;
+      }
+    }
+
+    .LightboxClose:hover {
+      transform: scale(1.15);
     }
 
     .LightboxItems {
@@ -291,7 +319,7 @@
       width: 100%
       max-width: 1400px
       margin: 0 auto
-      padding: 72px 0 48px
+      /* padding: 72px 0 48px */
       display: grid
       grid-template-columns: minmax(0, 1fr) 360px
       gap: 36px
@@ -302,7 +330,7 @@
     @media (max-width: 991px) {
       .LightboxItemInner {
         width:100%
-        padding: 72px 0 32px
+        /* padding: 72px 0 32px */
         grid-template-columns: 1fr
         gap: 28px
       }
@@ -323,7 +351,7 @@
       display: block;
       width: 100%;
       height: auto;
-      border-radius: 18px;
+      /* border-radius: 18px; */
     }
 
     .LightboxCaption {
@@ -337,17 +365,18 @@
       min-width: 0;
     }
 
+    @media (max-width: 768px) {
+      .LightboxMeta {
+        min-width: 0;
+        padding: 6vw;
+      }
+    }
+
+
+
     .LightboxMetaSticky {
       position: sticky;
       top: 72px;
-      color: #f2eee6;
-    }
-
-    .LightboxTitle {
-      margin: 0 0 16px;
-      font-size: clamp(28px, 3vw, 42px);
-      line-height: 1.05;
-      font-weight: 400;
       color: #f2eee6;
     }
 
@@ -400,13 +429,13 @@
       border-color: rgba(242, 238, 230, 0.45);
     }
 
-    body.lightbox-open {
+    /* body.lightbox-open {
       overflow: hidden;
-    }
+    } */
 
     @media (max-width: 991px) {
       .LightboxItemInner {
-        width: calc(100% - 32px);
+        width: 100%;
         padding: 72px 0 32px;
         grid-template-columns: 1fr;
         gap: 28px;
@@ -428,7 +457,7 @@
    ========================= */
 
 .LightboxCollection {
-  position: relative;
+  position: sticky;
   z-index: 3;
   width: 100%;
   max-width: 1400px;
@@ -465,11 +494,12 @@
   width: 100%;
   height: auto;
   display: block;
-  border-radius: 18px;
+  /* border-radius: 18px; */
 }
 
 .LightboxCollectionMeta {
   min-width: 0;
+  position: sticky;
 }
 
 .LightboxLabel--Collection {

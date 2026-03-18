@@ -213,8 +213,8 @@ items:
   year: 2025
   type: Print
   price: 45
-  purchase_url: null
-  is_soldout: true
+  purchase_url: https://www.siteinspire.com/
+  is_soldout: false
   photo_duration: 2600
   partner: null
   is_featured: false
