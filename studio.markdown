@@ -31,7 +31,7 @@ items:
     url: /uploads/20241117_canlis_NWSS4033_web.jpg
   - title: null
     url: /uploads/20241117_canlis_NWSS4036_web.jpg
-  is_slideshow: false
+  is_slideshow: true
 - title: Canlis Crab Shack Seaman's Poncho
   slug: canlis-crab-shack
   desc: When you trade white tablecloths for paper and mallets you need a way to stay
@@ -64,6 +64,7 @@ items:
   partner: null
   is_featured: false
   is_visible: true
+  is_slideshow: true
   photos:
   - title: null
     url: /uploads/matchbook_1.jpg
@@ -114,19 +115,6 @@ items:
     is_slideshow: false
   - title: ITEM 3
     slug: item-3
-    desc: In keeping a tradition, we've created beautiful matchbooks for guests to
-      have following dinner. Artwork by Don Clark for Invisible Creature, Jordan Kay,
-      Pam Wishbow, Kyler Martz, and Jonathan Ball
-    year: 20XX
-    price: 45
-    purchase_url: null
-    is_soldout: true
-    partner: null
-    is_visible: true
-    photos:
-    - title: null
-      url: /uploads/matchbook_3.jpg
-    is_slideshow: false
 - title: Canlis Steak Knife
   slug: canlis-steak-knife
   desc: Custom design and fabrication by Rob Grey for Greycloud Knives
