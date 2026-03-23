@@ -75,6 +75,7 @@
                     </div>
 
                     <div class="LightboxCollectionEntryMeta">
+
                       <div class="Caption color-white mb2">{{ child.title }}</div>
 
                       {% if child.desc and child.desc != blank %}
@@ -83,15 +84,15 @@
                         </div>
                       {% endif %}
 
-                      <div class="flex justify-content-space-between">
+                      <div class="flex justify-content-start">
                         {% if child.year and child.year != blank %}
-                          <div class="LightboxFact">
+                          <div class="LightboxFact mr3">
                             <div class="LightboxValue">{{ child.year }}</div>
                           </div>
                         {% endif %}
 
                         {% if child.price and child.price != blank %}
-                          <div class="LightboxFact">
+                          <div class="LightboxFact mr3">
                             <div class="LightboxValue">${{ child.price }}</div>
                           </div>
                         {% endif %}
@@ -115,6 +116,7 @@
 
               <aside class="LightboxCollectionMeta">
                 <div class="LightboxMetaSticky">
+                  <div class="Divider Divider--white mb5 op50"></div>
                   <div class="Caption op50 mb3">/ Collection</div>
                   <div class="Caption mb3">{{ item.title }}</div>
 
@@ -168,25 +170,22 @@
 
               <aside class="LightboxMeta">
                 <div class="LightboxMetaSticky">
+                  <div class="Divider Divider--white mb5 op50"></div>
                   <div class="Caption mb3">{{ item.title }}</div>
 
                   {% if item.desc and item.desc != blank %}
                     <div class="LightboxDesc">
                       {{ item.desc }}
+                      {% if item.partner and item.partner != blank %}
+                        <span class="op50"> — In collaboration with {{ item.partner }}</span>
+                      {% endif %}
                     </div>
                   {% endif %}
 
-                  <div class="LightboxFacts">
+                  <div class="">
                     {% if item.year and item.year != blank %}
                       <div class="LightboxFact">
                         <div class="LightboxValue">{{ item.year }}</div>
-                      </div>
-                    {% endif %}
-
-                    {% if item.partner and item.partner != blank %}
-                      <div class="LightboxFact">
-                        <div class="LightboxLabel">Partner</div>
-                        <div class="LightboxValue">{{ item.partner }}</div>
                       </div>
                     {% endif %}
 
@@ -364,8 +363,9 @@
   });
 </script>
 
+<!-- FLASHER PRELOADER -->
 
-<<script type="text/javascript">
+<!-- <<script type="text/javascript">
 
 
   document.addEventListener('DOMContentLoaded', function () {
@@ -451,7 +451,7 @@
     splide.mount();
   });
 
-</script>
+</script> -->
 
 </body>
 </html>
