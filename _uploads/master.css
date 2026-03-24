@@ -5557,15 +5557,15 @@ input[type=submit] {
 }
 .LightboxItems {
   min-height: 100%;
-  opacity: 0;
-  transition: opacity 300ms ease 400ms, visibility 180ms ease, transform 300ms ease 300ms;
-  transform: scale(0.98) translateY(4vw);
+/* opacity: 0; */
+/* transition: opacity 300ms ease 400ms, visibility 180ms ease, transform 300ms ease 300ms;
+      transform: scale(.98) translateY(4vw); */
 }
 .LightboxItems.is-open {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
-  transform: scale(1) translateY(0);
+  transform: none;
 }
 .LightboxItem {
   width: 100%;
@@ -5615,10 +5615,17 @@ input[type=submit] {
 }
 .LightboxMeta {
   min-width: 0;
+  position: fixed;
+  grid-row: 1;
+  width: 20%;
+  right: 10vw;
 }
 @media (max-width: 768px) {
   .LightboxMeta {
     min-width: 0;
+    width: 100%;
+    right: auto;
+    position: relative;
     padding: 6vw;
   }
 }
@@ -5720,7 +5727,9 @@ input[type=submit] {
 }
 .LightboxCollectionMeta {
   min-width: 0;
-  position: sticky;
+  position: fixed;
+  right: 10vw;
+  width: 20%;
 }
 .LightboxLabel--Collection {
   display: block;
@@ -5735,6 +5744,9 @@ input[type=submit] {
   }
   .LightboxCollectionMeta {
     grid-row: 1;
+    width: 100%;
+    right: auto;
+    position: relative;
   }
   .LightboxCollectionItems {
     grid-row: 2;

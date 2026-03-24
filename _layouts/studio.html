@@ -64,9 +64,6 @@
           <button class="item__button" type="button" onclick="openLightbox({{ item_key }})" aria-label="Open {{ item.title | escape }}">
             <div class="item__content">
               {% if item.is_slideshow == true %}
-              <script type="text/javascript">
-                console.log("YES SLIDESHOW");
-              </script>
                 <div class="splide js-item-splide" data-interval="{{ item.photo_duration | default: 4000 }}">
                   <div class="splide__track">
                     <ul class="splide__list">
@@ -80,9 +77,6 @@
                 </div>
               {% else %}
                 {% assign first = item.photos | first %}
-                <script type="text/javascript">
-                  console.log("NO SLIDESHOW");
-                </script>
                 <img class="item__img" src="{{ first.url }}" alt="{{ item.title | escape }}">
               {% endif %}
 
