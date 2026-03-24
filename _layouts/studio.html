@@ -43,14 +43,30 @@
 <div class="StudioContainer">
 
   <!-- INTRO -->
-  <div class="StudioIntro flex align-center">
+  <div class="StudioIntro">
     <div class="row">
-      <div class="column col-xs-12 col-md-4 col-md-offset-4 color-white Ω">
+      <div class="column col-xs-12 col-md-4 col-md-offset-4 color-white">
         <p class="Caption text-align-center mb2 mt10">/ {{ page.title }}</p>
-        <div class="mb0 text-align-center ">{{ page.desc | markdownify }}</div>
+        <div class="mb0 text-align-center">{{ page.desc | markdownify }}</div>
       </div>
     </div>
   </div>
+
+  <!-- INTRO -->
+  <!-- <div class="StudioIntro flex align-center">
+    <div class="row">
+      <div class="column col-xs-12 col-md-4 col-md-offset-4 color-white">
+        <p class="Caption text-align-center mb2 mt10">Collaborators</p>
+        <div class="mb0 text-align-center ">{{ page.partners_intro }}</div>
+        <div class="mb0 text-align-center ">
+          {% assign partners = page.partners %}
+          {% for partner in partners -%}
+          <a class="color-white" href="{{ partner.url }}" target="_blank">{{ partner.title }}</a>{%- if forloop.last == false -%}{% if forloop.index == partners.size | minus: 1 %}, and {% else %}, {% endif %}{%- endif -%}
+          {%- endfor %}
+        </div>
+      </div>
+    </div>
+  </div> -->
 
   <div class="StudioGrid">
     <!-- MUURI BEGIN -->
@@ -91,11 +107,11 @@
               <div class="item-label__main color-white mb0 mt0 pb0">
                 {{ item.title }}<br />
                 {% if item.partner %}
-                  <span class="op50">in collaboration with {{ item.partner }}</span>
+                  <span class="op50 italic">in collaboration with {{ item.partner }}</span>
                 {% endif %}
               </div>
 
-              {% if item.is_collection == true %}
+              <!-- {% if item.is_collection == true %}
                 <div>
                   <span class="Caption color-white op50">See more</span>
                 </div>
@@ -105,13 +121,34 @@
                     <span class="Caption color-white op50">Sold Out</span>
                   </div>
                 {% endif %}
-              {% endif %}
+              {% endif %} -->
             </div>
           </button>
         </div>
       {% endfor %}
     </div>
     <!-- MUURI END -->
+
+
+  </div>
+
+
+  <!-- OUTRO -->
+  <div class="StudioIntro">
+    <div class="row">
+      <div class="column col-xs-12 col-md-4 col-md-offset-4 color-white">
+        <p class="Caption text-align-center mb2 mt10">Collaborators</p>
+        <div class="mb0 text-align-center mb4 ">{{ page.partners_intro }}</div>
+        <ul class="mb0 text-align-center op50 ">
+          {% assign partners = page.partners %}
+          {% for partner in partners -%}
+            <li>
+              <a class="color-white" href="{{ partner.url }}">{{ partner.title }}</a>
+            </li>
+          {%- endfor %}
+        </ul>
+      </div>
+    </div>
   </div>
 
 </div>

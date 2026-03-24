@@ -5328,6 +5328,7 @@ input[type=submit] {
   background: #242421;
   border-radius: 15vw;
   margin-top: 30vw;
+  padding-bottom: 8vw;
 /* transform: translateY(100vh); */
 /* animation: StudioLoad 1000ms ease 5000ms forwards; */
 }
@@ -5352,7 +5353,7 @@ input[type=submit] {
   display: block;
   position: absolute;
   width: 18.5vw;
-  margin: 2vw 2vw 2vw 2vw;
+  margin: 2vw 2vw 0vw 2vw;
   z-index: 1;
   border-radius: 10px;
   cursor: pointer;
@@ -5369,7 +5370,8 @@ input[type=submit] {
 }
 .item-label {
   margin-top: 0.9vw;
-  height: 4em;
+  height: 3em;
+/* background: red; */
 }
 @media (max-width: 768px) {
   .item-label {

@@ -8,6 +8,30 @@ desc: Our curiosity is always expanding, often collaborating with our favorite d
   the dining room. Some objects support a party or an event, some are experiences
   in and of themselves. Some are strictly for our guests. Some are simply because
   we couldn't resist making them. These are the ones we love most.
+partners_intro: This collection of objects and the memories that go along with them were only possible with each of these talented collaborators and friends.
+partners:
+- title: Don Clark for Invisible Creature
+  url: https://invisiblecreature.com/
+- title: Jordan Kay
+  url: https://www.jordankay.com/
+- title: Pam Wishbow
+  url: https://www.pamwishbow.com/
+- title: Kyler Martz
+  url: https://www.kylermartz.com/
+- title: Jonathan Ball
+  url: https://jonathanballdesign.com/
+- title: Marisol Ortega
+  url: https://www.marisolortega.com/
+- title: Dana Tanamachi
+  url: https://tanamachistudio.com/
+- title: Rob Gray for Graycloud Knives
+  url: https://www.graycloudusa.com/
+- title: Brady Black
+  url: https://www.bradyblack.net/
+- title: Nathan Yoder
+  url: https://nathandouglasyoder.com/
+- title: Jeremy P. Beasley
+  url: https://www.instagram.com/jeremypbeasley
 items:
 - title: Staff Recommendations Map
   desc: When guests come in from out of town, we proudly send them to the best spots
@@ -266,7 +290,7 @@ items:
       url: "/uploads/placeholder_studio.jpg"
 - title: Canlis on the High Seas T-Shirt
   desc: The restaurant reimagined as a wandering vessel, sailing somewhere between
-    fine dining and a tall tale. T-Shirt design by Brady Clark
+    fine dining and a tall tale. T-Shirt design by Brady Black
   year: 2025
   type: Apparel / Accessories
   price: 45
