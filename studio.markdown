@@ -1,6 +1,6 @@
 ---
 title: Studio
-date: 2016-11-10 10:09:00-08:00
+date: 2016-11-10 10:09:00 -08:00
 layout: studio
 og_photo: "/uploads/cradle.jpg"
 desc: Our curiosity is always expanding, often collaborating with our favorite designers,
