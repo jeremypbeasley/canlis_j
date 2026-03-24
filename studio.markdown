@@ -8,6 +8,32 @@ desc: Our curiosity is always expanding, often collaborating with our favorite d
   the dining room. Some objects support a party or an event, some are experiences
   in and of themselves. Some are strictly for our guests. Some are simply because
   we couldn't resist making them. These are the ones we love most.
+partners_intro: This collection of objects and the memories that go along with them were only possible with each of these talented collaborators and friends.
+partners:
+- title: Jonathan Ball
+  url: https://jonathanballdesign.com/
+- title: Jeremy P. Beasley
+  url: https://www.instagram.com/jeremypbeasley
+- title: Brady Black
+  url: https://www.bradyblack.net/
+- title: Don Clark for Invisible Creature
+  url: https://invisiblecreature.com/
+- title: Rob Gray for Graycloud Knives
+  url: https://www.graycloudusa.com/
+- title: Jordan Kay
+  url: https://www.jordankay.com/
+- title: Jordan Lake
+  url: https://www.jordanlakedesign.com/
+- title: Kyler Martz
+  url: https://www.kylermartz.com/
+- title: Marisol Ortega
+  url: https://www.marisolortega.com/
+- title: Pam Wishbow
+  url: https://www.pamwishbow.com/
+- title: Nathan Yoder
+  url: https://nathandouglasyoder.com/
+- title: Dana Tanamachi
+  url: https://tanamachistudio.com/
 items:
 - title: Staff Recommendations Map
   desc: When guests come in from out of town, we proudly send them to the best spots
@@ -218,25 +244,38 @@ items:
   desc: Cider —but way less annoying and far more sophisticated than the ones you
     drank when you were younger.
   year: 2025
+<<<<<<< HEAD
+  type:
+  price:
+  purchase_url:
+  is_soldout: false
+  partner:
+=======
   type: 
   price: 
   purchase_url: 
   is_soldout: 
   partner: 
+>>>>>>> b1d0f29364f6ccd8d0e4dbea00fd38cb65653bef
   is_featured: false
   is_visible: true
   is_slideshow: 
   photo_duration: 2000
   photos:
+<<<<<<< HEAD
+  - title:
+    url: "/uploads/thebeer.jpg"
+=======
   - title: 
     url: "/uploads/ciderr.jpg"
+>>>>>>> b1d0f29364f6ccd8d0e4dbea00fd38cb65653bef
   is_collection: true
   items:
   - title: One Pit Wonder
     desc: Kriek-style genius, left in a barrel of locally sourced cherries for a year.
     year: 2025
     price: 20
-    purchase_url: XXXX
+    purchase_url: https://canlisstudio.squarespace.com/shop/p/booze
     is_soldout: false
     partner: Holy Mountain Brewing
     photos:
@@ -248,7 +287,7 @@ items:
     year: 2025
     price: 20
     purchase_url: XXXX
-    is_soldout: false
+    is_soldout: true
     partner: Holy Mountain Brewing
     photos:
     - title: 
@@ -259,14 +298,14 @@ items:
     year: 2025
     price: 20
     purchase_url: XXXX
-    is_soldout: false
+    is_soldout: true
     partner: Son of Man
     photos:
     - title: 
       url: "/uploads/placeholder_studio.jpg"
 - title: Canlis on the High Seas T-Shirt
   desc: The restaurant reimagined as a wandering vessel, sailing somewhere between
-    fine dining and a tall tale. T-Shirt design by Brady Clark
+    fine dining and a tall tale. T-Shirt design by Brady Black
   year: 2025
   type: Apparel / Accessories
   price: 45
@@ -301,14 +340,20 @@ items:
   is_collection: 
   items: 
 - title: Canlis Salt Ramekins
-  desc: Local artisan and sculptor Dylan Andersen created a series of solid bronze
+  desc: "Local artisan and sculptor Dylan Andersen created a series of solid bronze
     ramekins to accompany our opening bread course. Rather than being carved out,
-    each is pressed into a bowl shape with around 50,000lbs of hydraulic pressure.
+    each is pressed into a bowl shape with around 50,000lbs of hydraulic pressure. <br> <br>Note: Each ramekin is sold individually with one spoon. "
   year: 2024
   type: Objects
+<<<<<<< HEAD
+  price: 350
+  purchase_url: https://canlisstudio.squarespace.com/shop/p/dylan
+  is_soldout: false
+=======
   price: 45
   purchase_url: 
   is_soldout: true
+>>>>>>> b1d0f29364f6ccd8d0e4dbea00fd38cb65653bef
   partner: Dylan Andersen
   is_featured: true
   is_visible: true
@@ -487,7 +532,7 @@ items:
   partner: 
   is_featured: true
   is_visible: true
-  is_slideshow: false
+  is_slideshow: true
   photo_duration: 2600
   photos:
   - title: 
@@ -594,11 +639,18 @@ items:
   partner: 
   is_featured: false
   is_visible: true
-  is_slideshow: false
+  is_slideshow: true
   photo_duration: 2000
   photos:
+<<<<<<< HEAD
+  - title:
+    url: "/uploads/ken1.jpg"
+  - title:
+    url: "/uploads/ken2.jpg"
+=======
   - title: 
     url: "/uploads/kenny.jpg"
+>>>>>>> b1d0f29364f6ccd8d0e4dbea00fd38cb65653bef
   is_collection: true
   items:
   - title: Kenlis Fanny Pack
@@ -661,7 +713,7 @@ items:
   is_featured: false
   is_visible: true
   is_slideshow: true
-  photo_duration: 2000
+  photo_duration: 2600
   photos:
   - title: ''
     url: "/uploads/El%20Chato%20x%20Canlis.jpg"
@@ -859,7 +911,11 @@ items:
   partner: 
   is_featured: false
   is_visible: true
+<<<<<<< HEAD
+  is_slideshow: true
+=======
   is_slideshow: 
+>>>>>>> b1d0f29364f6ccd8d0e4dbea00fd38cb65653bef
   photo_duration: 2000
   photos:
   - title: 

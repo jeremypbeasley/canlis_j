@@ -5328,6 +5328,7 @@ input[type=submit] {
   background: #242421;
   border-radius: 15vw;
   margin-top: 30vw;
+  padding-bottom: 8vw;
 /* transform: translateY(100vh); */
 /* animation: StudioLoad 1000ms ease 5000ms forwards; */
 }
@@ -5352,7 +5353,7 @@ input[type=submit] {
   display: block;
   position: absolute;
   width: 18.5vw;
-  margin: 2vw 2vw 2vw 2vw;
+  margin: 2vw 2vw 0vw 2vw;
   z-index: 1;
   border-radius: 10px;
   cursor: pointer;
@@ -5369,7 +5370,8 @@ input[type=submit] {
 }
 .item-label {
   margin-top: 0.9vw;
-  height: 4em;
+  height: 3em;
+/* background: red; */
 }
 @media (max-width: 768px) {
   .item-label {
@@ -5407,7 +5409,7 @@ input[type=submit] {
   height: auto;
   display: block;
   transform: scale(1.02);
-  transition: transform 200ms ease;
+  transition: transform 900ms ease;
   border-radius: 8px;
 }
 @media (hover: hover) and (pointer: fine) {
@@ -5450,7 +5452,7 @@ input[type=submit] {
 }
 .item:hover .item__img,
 .item:focus-within .item__img {
-  transform: scale(1.03);
+  transform: scale(1.07);
 }
 @media (prefers-reduced-motion: reduce) {
   .item__img,
@@ -5557,15 +5559,15 @@ input[type=submit] {
 }
 .LightboxItems {
   min-height: 100%;
-  opacity: 0;
-  transition: opacity 300ms ease 400ms, visibility 180ms ease, transform 300ms ease 300ms;
-  transform: scale(0.98) translateY(4vw);
+/* opacity: 0; */
+/* transition: opacity 300ms ease 400ms, visibility 180ms ease, transform 300ms ease 300ms;
+      transform: scale(.98) translateY(4vw); */
 }
 .LightboxItems.is-open {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
-  transform: scale(1) translateY(0);
+  transform: none;
 }
 .LightboxItem {
   width: 100%;
@@ -5615,10 +5617,17 @@ input[type=submit] {
 }
 .LightboxMeta {
   min-width: 0;
+  position: fixed;
+  grid-row: 1;
+  width: 20%;
+  right: 10vw;
 }
 @media (max-width: 768px) {
   .LightboxMeta {
     min-width: 0;
+    width: 100%;
+    right: auto;
+    position: relative;
     padding: 6vw;
   }
 }
@@ -5720,7 +5729,9 @@ input[type=submit] {
 }
 .LightboxCollectionMeta {
   min-width: 0;
-  position: sticky;
+  position: fixed;
+  right: 10vw;
+  width: 20%;
 }
 .LightboxLabel--Collection {
   display: block;
@@ -5728,16 +5739,24 @@ input[type=submit] {
 }
 @media (max-width: 991px) {
   .LightboxCollection {
-    width: calc(100% - 32px);
-    padding: 72px 0 32px;
+    width: 100%;
+/* padding: 72px 0 32px; */
     grid-template-columns: 1fr;
     gap: 28px;
   }
   .LightboxCollectionMeta {
     grid-row: 1;
+    width: 100%;
+    right: auto;
+    position: relative;
+    padding: 32px;
   }
   .LightboxCollectionItems {
     grid-row: 2;
+  }
+  .LightboxCollectionEntry + .LightboxCollectionEntry {
+    padding-top: 0;
+    border-top: none;
   }
 }
 .LightboxCollectionEntryMeta {
@@ -5759,6 +5778,7 @@ input[type=submit] {
   .LightboxCollectionEntryMeta {
     max-width: 100%;
     margin-top: 14px;
+    padding: 32px;
   }
   .LightboxCollectionEntryMeta .LightboxFacts {
     max-width: 100%;
