@@ -9,15 +9,15 @@ desc: Our curiosity is always expanding, often collaborating with our favorite d
   in and of themselves. Some are strictly for our guests. Some are simply because
   we couldn't resist making them. These are the ones we love most.
 items:
-- title: Canlis' Map of Seattle's Best
+- title: Staff Recommendations Map
   slug: canlis-map-of
   desc: When guests come in from out of town, we proudly send them to the best spots
     in town. These are our current picks! Design by Don Clark for Invisible Creature.
   year: 2024
   type: Printed Matter
-  price: 45
+  price: 10
   purchase_url: null
-  is_soldout: true
+  is_soldout: false
   photo_duration: 3000
   partner: null
   is_featured: true
@@ -83,11 +83,8 @@ items:
   - title: null
     url: /uploads/matchbook_8.jpg
   items:
-  - title: ITEM 1
-    slug: item-1
-    desc: In keeping a tradition, we've created beautiful matchbooks for guests to
-      have following dinner. Artwork by Don Clark for Invisible Creature, Jordan Kay,
-      Pam Wishbow, Kyler Martz, and Jonathan Ball
+  - title: Matchbook 1
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
     year: 20XX
     price: 45
     purchase_url: null
@@ -97,27 +94,86 @@ items:
     photos:
     - title: null
       url: /uploads/matchbook_1.jpg
-    is_slideshow: false
-  - title: ITEM 2
-    slug: item-2
-    desc: In keeping a tradition, we've created beautiful matchbooks for guests to
-      have following dinner. Artwork by Don Clark for Invisible Creature, Jordan Kay,
-      Pam Wishbow, Kyler Martz, and Jonathan Ball
+  - title: Matchbook 2
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
     year: 20XX
     price: 45
     purchase_url: https://www.nytimes.com/
-    is_soldout: false
+    is_soldout: true
     partner: null
     is_visible: true
     photos:
     - title: null
       url: /uploads/matchbook_2.jpg
-    is_slideshow: false
-  - title: ITEM 3
-    slug: item-3
+  - title: Matchbook 3
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    year: 20XX
+    price: 45
+    purchase_url: https://www.nytimes.com/
+    is_soldout: true
+    partner: null
+    is_visible: true
+    photos:
+    - title: null
+      url: /uploads/matchbook_3.jpg
+  - title: Matchbook 4
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    year: 20XX
+    price: 45
+    purchase_url: https://www.nytimes.com/
+    is_soldout: true
+    partner: null
+    is_visible: true
+    photos:
+    - title: null
+      url: /uploads/matchbook_4.jpg
+  - title: Matchbook 5
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    year: 20XX
+    price: 45
+    purchase_url: https://www.nytimes.com/
+    is_soldout: true
+    partner: null
+    is_visible: true
+    photos:
+    - title: null
+      url: /uploads/matchbook_5.jpg
+  - title: Matchbook 6
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    year: 20XX
+    price: 45
+    purchase_url: https://www.nytimes.com/
+    is_soldout: true
+    partner: null
+    is_visible: true
+    photos:
+    - title: null
+      url: /uploads/matchbook_6.jpg
+  - title: Matchbook 7
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    year: 20XX
+    price: 45
+    purchase_url: https://www.nytimes.com/
+    is_soldout: true
+    partner: null
+    is_visible: true
+    photos:
+    - title: null
+      url: /uploads/matchbook_7.jpg
+  - title: Matchbook 8
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    year: 20XX
+    price: 45
+    purchase_url: https://www.nytimes.com/
+    is_soldout: true
+    partner: null
+    is_visible: true
+    photos:
+    - title: null
+      url: /uploads/matchbook_8.jpg
 - title: Canlis Steak Knife
   slug: canlis-steak-knife
-  desc: Custom design and fabrication by Rob Grey for Greycloud Knives
+  desc: Custom design and fabrication by Rob Gray for Graycloud Knives
   year: 2022
   type: Apparel / Accessories
   price: 45
@@ -131,7 +187,7 @@ items:
   - title: null
     url: /uploads/20241014_Canlis_106.jpg
   - title: null
-    url: /uploads/knife2.jpg
+    url: /uploads/knife3.jpg
   - title: null
     url: /uploads/knife2.jpg
   is_slideshow: false
@@ -152,7 +208,52 @@ items:
     url: /uploads/20240420_Canlis_007_web.jpg
   - title: null
     url: /uploads/20240420_Canlis_013_web.jpg
-  items: []
+  items:
+  - title: "Walt Wagner, Reworks: Live at Canlis"
+    slug: walt
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    year:
+    type: Music
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner:
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/20240420_Canlis_001_web%20(1).jpg"
+  - title: Clay at Canlis Vinyl
+    slug: clay-at-canlis
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    year:
+    type: Music
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner:
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/20240420_Canlis_013_web.jpg"
+  - title: Danny Lowell, Solo at Canlis' Vinyl
+    slug: danny-lowell-solo
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    year:
+    type: Music
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner:
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/20240420_Canlis_007_web.jpg"
 - title: Beers & Ciders
   slug: beers-ciders
   desc: Cider —but way less annoying and far more sophisticated than the ones you
@@ -167,7 +268,54 @@ items:
   photos:
   - title: null
     url: /uploads/ciderr.jpg
-  items: []
+  items:
+  - title: One Pit Wonder
+    slug: one-pit-wonder
+    desc: Kriek-style genius, left in a barrel of locally sourced cherries for a year.
+    year: 2025
+    type: Beer / Cider
+    price: 20
+    purchase_url: XXXX
+    is_soldout: false
+    photo_duration: 2600
+    partner: Holy Mountain Brewing
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/placeholder_studio.jpg"
+  - title: The Other
+    slug: the-other
+    desc: As dark and scary as talking to a stranger. Imperial stout aged in Bourbon
+      barrels.
+    year: 2025
+    type: Beer / Cider
+    price: 20
+    purchase_url: XXXX
+    is_soldout: false
+    photo_duration: 2600
+    partner: Holy Mountain Brewing
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/placeholder_studio.jpg"
+  - title: ETXEKO
+    slug: ETXEKO
+    desc: Cider —but way less annoying and far more sophisticated than the ones you
+      drank when you were younger.
+    year: 2025
+    type: Beer / Cider
+    price: 20
+    purchase_url: XXXX
+    is_soldout: false
+    photo_duration: 2600
+    partner: Son of Man
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/placeholder_studio.jpg"
 - title: Canlis on the High Seas T-Shirt
   slug: canlis-on-the
   desc: The restaurant reimagined as a wandering vessel, sailing somewhere between
@@ -192,8 +340,8 @@ items:
   year: 2025
   type: Print
   price: 45
-  purchase_url: https://www.siteinspire.com/
-  is_soldout: false
+  purchase_url:
+  is_soldout: true
   photo_duration: 2600
   partner: null
   is_featured: false
@@ -219,6 +367,10 @@ items:
   photos:
   - title: null
     url: /uploads/ramy.jpg
+  - title: null
+    url: /uploads/ram2.jpg
+  - title: null
+    url: /uploads/ram3.jpg
   is_slideshow: false
 - title: The Canlis TV Dinner
   slug: the-canlis-tv
@@ -290,8 +442,8 @@ items:
   - title: null
     url: /uploads/poster_yurtvillage.jpg
   is_slideshow: false
-- title: The Executive Mug
-  slug: the-executive-mug
+- title: The Executive Camp Cup
+  slug: the-executive-cup
   desc: Artwork by Nathan Yoder
   year: 2024
   type: Apparel / Accessories
@@ -323,6 +475,8 @@ items:
   photos:
   - title: null
     url: /uploads/lego.jpg
+  - title: null
+    url: /uploads/lego1.jpg
   is_slideshow: false
 - title: Camp Canlis "Camper's Kit"
   slug: camp-canlis-campers
@@ -344,7 +498,7 @@ items:
   is_slideshow: false
 - title: Canlis Whiskey House
   slug: canlis-whiskey-house
-  desc: null
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
   year: 2019
   type: Objects
   price: 45
@@ -357,11 +511,14 @@ items:
   photos:
   - title: null
     url: /uploads/f0b20926c8fbae091204be7a1c4c133bc76d622c-3000x1900.jpg
+  - title: null
+    url: /uploads/whiskey1.jpg
+  - title: null
+    url: /uploads/whiskey2.jpg
   is_slideshow: false
 - title: Canlis Snow Globe
   slug: canlis-snow-globe
-  desc: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-    doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
   year: 2018
   type: Objects
   price: 45
@@ -374,6 +531,8 @@ items:
   photos:
   - title: null
     url: /uploads/ab31fe87144256eb8dcb0b67d5608c4e9a7a77f7-1500x1500.jpg
+  - title: null
+    url: /uploads/globe2.jpg
   is_slideshow: false
 - title: The Black Kampelli Wine Cradle
   slug: the-black-kampelli
@@ -384,17 +543,25 @@ items:
     antique brass rivets that will age alongside the leather itself.
   year: 2025
   type: Objects
-  price: 45
-  purchase_url: null
-  is_soldout: true
+  price: 385
+  purchase_url: https://www.jordanlakedesign.com/products/canlis-wine-cradle
+  is_soldout: false
   photo_duration: 2600
   partner: Jordan Lake Design
   is_featured: true
   is_visible: true
+  is_slideshow: false
   photos:
   - title: null
-    url: /uploads/cradle.jpg
-  is_slideshow: false
+    url: /uploads/cradle1.jpg
+  - title: null
+    url: /uploads/cradle2.jpg
+  - title: null
+    url: /uploads/cradle3.jpg
+  - title: null
+    url: /uploads/cradle4.jpg
+  - title: null
+    url: /uploads/cradle5.jpg
 - title: Midnight Poster
   slug: midnight-poster
   desc: Canlis' first ever New Year's Eve dance party - a 1950's themed night full
@@ -461,6 +628,7 @@ items:
   partner: null
   is_featured: false
   is_visible: true
+  is_slideshow: false
   photos:
   - title: null
     url: /uploads/kenny.jpg
@@ -473,15 +641,49 @@ items:
     year: 2024
     type: Apparel / Accessories
     price: 45
-    purchase_url: null
+    purchase_url:
     is_soldout: true
     photo_duration: 2600
-    partner: null
+    partner:
     is_featured: false
+    is_visible: false
     photos:
-    - title: null
-      url: /uploads/kenlisfannypack.jpg
-    is_slideshow: false
+    - title:
+      url: "/uploads/kenlisfannypack.jpg"
+  - title: Kenlis T-Shirt
+    slug: kenlis-t-shirt
+    desc: A two-day plastic-fantastic party where the only rule was to show up with
+      big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
+      out of the Penthouse. Artwork by Don Clark for Invisible Creature.
+    year: 2024
+    type: Apparel / Accessories
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner:
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/20241117_canlis_NWSS4227_web.jpg"
+  - title: Kenlis Trucker Cap
+    slug: kenlis-trucker-cap
+    desc: A two-day plastic-fantastic party where the only rule was to show up with
+      big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
+      out of the Penthouse. Artwork by Don Clark for Invisible Creature.
+    year: 2024
+    type: Apparel / Accessories
+    price: 45
+    purchase_url:
+    is_soldout: true
+    photo_duration: 2600
+    partner:
+    is_featured: false
+    is_visible: false
+    photos:
+    - title:
+      url: "/uploads/20241117_canlis_NWSS4084_web.jpg"
   - title: Kenlis Tuanshan
     slug: kenlis-tuanshan
     desc: A two-day plastic-fantastic party where the only rule was to show up with
@@ -490,31 +692,28 @@ items:
     year: 2024
     type: Apparel / Accessories
     price: 45
-    purchase_url: null
+    purchase_url:
     is_soldout: true
     photo_duration: 2600
-    partner: null
+    partner:
     is_featured: false
+    is_visible: false
     photos:
-    - title: null
-      url: /uploads/20241117_canlis_NWSS4144_web.jpg
-    is_slideshow: false
-- title: Canlis x Guest Chef Dinner Posters
-  slug: canlis-x-guest
-  desc: Chef Álvaro Clavijo of Bogotá's El Chato joined the Canlis kitchen for a one-night
-    menu celebrating the bold ingredients and flavors of Colombia. Poster design by
-    Jeremy P. Beasley
-  year: 2024
+    - title:
+      url: "/uploads/20241117_canlis_NWSS4144_web.jpg"  
+- title: Guest Chef Dinner Posters
+  slug:
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+  year: 2018 - 2025
+  is_collection: true
   type: Print
-  price: 45
-  purchase_url: null
-  is_soldout: true
   photo_duration: 2000
-  partner: null
+  partner:
   is_featured: false
   is_visible: true
+  is_slideshow: true
   photos:
-  - title: null
+  - title: ""
     url: /uploads/El%20Chato%20x%20Canlis.jpg
   - title: null
     url: /uploads/Contra%20x%20Canlis.jpg
@@ -522,26 +721,53 @@ items:
     url: /uploads/Blanca%20x%20Canlis.jpg
   - title: null
     url: /uploads/Momofuku%20Ko%20x%20Canlis.jpg
-  is_slideshow: false
-- title: ドームボックス "Dome Boxes"
-  slug: ドームボックス-dome-boxes
-  desc: We welcome each guest with a set of pristine Japanese hardwood boxes, crafted
-    by hand and opened at the table to reveal the evening’s first small snacks. It’s
-    a quiet, curious beginning—an invitation to explore the meal one thoughtful bite
-    at a time.
-  year: null
-  type: Objects
-  price: 45
-  purchase_url: null
-  is_soldout: true
-  photo_duration: 2600
-  partner: Yuki Osu Petersen
-  is_featured: true
-  is_visible: true
-  photos:
-  - title: null
-    url: /uploads/20240420_Canlis_149_web.jpg
-  is_slideshow: false
+  items:
+  - title: El Chato x Canlis
+    desc: "Chef Álvaro Clavijo of Bogotá's El Chato joined the Canlis kitchen for a one-night
+      menu celebrating the bold ingredients and flavors of Colombia. Poster design by
+      Jeremy P. Beasley"
+    year: 20XX
+    price: 15
+    purchase_url:
+    is_soldout: true
+    partner:
+    is_visible: true
+    photos:
+    - title: ""
+      url: /uploads/El%20Chato%20x%20Canlis.jpg
+  - title: Contra x Canlis
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    year: 20XX
+    price: 15
+    purchase_url:
+    is_soldout: true
+    partner:
+    is_visible: true
+    photos:
+    - title:
+      url: /uploads/Contra%20x%20Canlis.jpg
+  - title:  Blanca x Canlis
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    year: 20XX
+    price: 15
+    purchase_url:
+    is_soldout: true
+    partner:
+    is_visible: true
+    photos:
+    - title:
+      url: /uploads/Blanca%20x%20Canlis.jpg
+  - title:  Momofuku Ko x Canlis
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    year: 20XX
+    price: 15
+    purchase_url:
+    is_soldout: true
+    partner:
+    is_visible: true
+    photos:
+    - title:
+      url: /uploads/Momofuku%20Ko%20x%20Canlis.jpg
 - title: Shake Shack x Canlis Poster
   slug: shake-shack-x
   desc: Our parking lot turned into a one-day summer festival of ShackBurgers, crab
@@ -615,14 +841,14 @@ items:
     type: Apparel / Accessories
     price: 45
     purchase_url: null
-    is_soldout: true
+    is_soldout: false
     photo_duration: 2600
     partner: null
     is_featured: false
     photos:
     - title: null
       url: /uploads/20240502_Canlis_212.jpg
-    is_slideshow: false
+    is_slideshow: true
 - title: Hawaiian Nights Tote
   slug: hawaiian-nights-tote
   desc: An parking lot island escape where the pool was hot, the grills were hotter,
@@ -643,7 +869,7 @@ items:
   is_slideshow: false
 - title: The Canlis Ant Farm
   slug: the-canlis-ant
-  desc:
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
   year: 2022
   type: Objects
   price: 45
@@ -656,6 +882,8 @@ items:
   photos:
   - title:
     url: "/uploads/8824f2cdb652ad892fa3341760fb6b4d5994b1f6-1500x1500.jpg"
+  - title:
+    url: "/uploads/antfarm2.jpg"
   is_slideshow: false
 - title: 'Live In The Lower Lot: Posters'
   slug: live-in-the-2
@@ -676,9 +904,7 @@ items:
     url: /uploads/Calexico%20Concert.jpg
   items:
   - title: The Lone Bellow
-    desc: In keeping a tradition, we've created beautiful matchbooks for guests to
-      have following dinner. Artwork by Don Clark for Invisible Creature, Jordan Kay,
-      Pam Wishbow, Kyler Martz, and Jonathan Ball
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
     year: 20XX
     price: 45
     purchase_url: null
@@ -688,11 +914,8 @@ items:
     photos:
     - title: null
       url: /uploads/Lone%20Bellow.jpg
-    is_slideshow: false
   - title: Calexico
-    desc: In keeping a tradition, we've created beautiful matchbooks for guests to
-      have following dinner. Artwork by Don Clark for Invisible Creature, Jordan Kay,
-      Pam Wishbow, Kyler Martz, and Jonathan Ball
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
     year: 20XX
     price: 45
     purchase_url: https://www.nytimes.com/
@@ -702,7 +925,6 @@ items:
     photos:
     - title: null
       url: /uploads/Calexico%20Concert.jpg
-    is_slideshow: false
 ---
 
 

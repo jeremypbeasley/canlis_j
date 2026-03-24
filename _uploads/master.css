@@ -5819,6 +5819,16 @@ input[type=submit] {
   object-position: center;
   display: block;
 }
+.BuyButton {
+  border: 1px rgba(255,255,255,0.5) solid;
+  padding: 0.8em;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.BuyButton:hover {
+  background: #fff;
+  color: #000;
+}
 @-moz-keyframes StudioLoad {
   from {
     transform: translateY(100vh);
