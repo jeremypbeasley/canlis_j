@@ -121,11 +121,11 @@
         <div class="mb0 text-align-center mb4 ">{{ page.partners_intro }}</div>
         <ul class="mb0 text-align-center op50 ">
           {% assign partners = page.partners %}
-          {% for partner in partners -%}
+          {% for partner in partners %}
             <li>
               <a class="color-white" href="{{ partner.url }}">{{ partner.title }}</a>
             </li>
-          {%- endfor %}
+          {% endfor %}
         </ul>
       </div>
     </div>
