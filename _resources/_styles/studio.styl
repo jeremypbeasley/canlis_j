@@ -538,8 +538,8 @@
 
 @media (max-width: 991px) {
   .LightboxCollection {
-    width: calc(100% - 32px);
-    padding: 72px 0 32px;
+    width: 100%;
+    /* padding: 72px 0 32px; */
     grid-template-columns: 1fr;
     gap: 28px;
   }
@@ -549,10 +549,16 @@
     width: 100%;
     right: auto;
     position: relative;
+    padding: 32px;
   }
 
   .LightboxCollectionItems {
     grid-row: 2;
+  }
+
+  .LightboxCollectionEntry + .LightboxCollectionEntry {
+    padding-top: 0;
+    border-top: none;
   }
 }
 
@@ -586,6 +592,7 @@
   .LightboxCollectionEntryMeta {
     max-width: 100%;
     margin-top: 14px;
+    padding: 32px;
   }
 
   .LightboxCollectionEntryMeta .LightboxFacts {
