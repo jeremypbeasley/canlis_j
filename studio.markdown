@@ -1,5 +1,5 @@
 ---
-title: Studio2
+title: Studio
 date: 2016-11-10 10:09:00-08:00
 layout: studio
 og_photo: /uploads/cradle.jpg
