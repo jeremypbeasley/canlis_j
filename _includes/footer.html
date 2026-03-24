@@ -75,6 +75,7 @@
                     </div>
 
                     <div class="LightboxCollectionEntryMeta">
+
                       <div class="Caption color-white mb2">{{ child.title }}</div>
 
                       {% if child.desc and child.desc != blank %}
@@ -83,31 +84,44 @@
                         </div>
                       {% endif %}
 
-                      <div class="flex justify-content-space-between">
-                        {% if child.year and child.year != blank %}
+                      <!-- IS IT SOLD OUT? -->
+                      {% if child.is_soldout %}
+                        <div class="flex justify-content-start">
+                          {% if child.year and child.year != blank %}
+                            <div class="LightboxFact mr3">
+                              <div class="LightboxValue">{{ child.year }}</div>
+                            </div>
+                          {% endif %}
                           <div class="LightboxFact">
-                            <div class="LightboxValue">{{ child.year }}</div>
-                          </div>
-                        {% endif %}
-
-                        {% if child.price and child.price != blank %}
-                          <div class="LightboxFact">
-                            <div class="LightboxValue">${{ child.price }}</div>
-                          </div>
-                        {% endif %}
-
-                        <div class="LightboxFact">
-                          <div class="LightboxValue ">
-                            {% if child.is_soldout %}
+                            <div class="LightboxValue">
                               <span class="Caption color-accent-primary">Sold out</span>
-                            {% else %}
-                              <a href="{ child.purchase_url}" target="_blank">
-                                <span class="Caption">BUY NOW</span>
-                              </a>
-                            {% endif %}
+                            </div>
                           </div>
                         </div>
-                      </div>
+                      {% else %}
+                        <div class="flex justify-content-start">
+                          {% if child.year and child.year != blank %}
+                            <div class="LightboxFact mr3">
+                              <div class="LightboxValue">{{ child.year }}</div>
+                            </div>
+                          {% endif %}
+                          <div class="LightboxFact">
+                            <div class="LightboxValue">
+                              {% if child.price %}
+                                <div class="LightboxValue mb3">${{ child.price }}</div>
+                              {% endif %}
+                            </div>
+                          </div>
+                        </div>
+                        <div class="flex justify-content-start">
+                          <div class="LightboxFact">
+                            <a href="{{ child.purchase_url }}" class="Caption BuyButton color-white mt3" target="_blank">
+                              BUY NOW
+                            </a>
+                          </div>
+                        </div>
+                      {% endif %}
+                      <!-- END SOLD OUT? -->
                     </div>
                   </section>
                 {% endfor %}
@@ -115,6 +129,7 @@
 
               <aside class="LightboxCollectionMeta">
                 <div class="LightboxMetaSticky">
+                  <div class="Divider Divider--white mb5 op50"></div>
                   <div class="Caption op50 mb3">/ Collection</div>
                   <div class="Caption mb3">{{ item.title }}</div>
 
@@ -168,40 +183,41 @@
 
               <aside class="LightboxMeta">
                 <div class="LightboxMetaSticky">
+                  <div class="Divider Divider--white mb5 op50"></div>
                   <div class="Caption mb3">{{ item.title }}</div>
 
                   {% if item.desc and item.desc != blank %}
                     <div class="LightboxDesc">
                       {{ item.desc }}
+                      {% if item.partner and item.partner != blank %}
+                        <span class="op50"> — In collaboration with {{ item.partner }}</span>
+                      {% endif %}
                     </div>
                   {% endif %}
 
-                  <div class="LightboxFacts">
+                  <div class="">
                     {% if item.year and item.year != blank %}
                       <div class="LightboxFact">
                         <div class="LightboxValue">{{ item.year }}</div>
                       </div>
                     {% endif %}
 
-                    {% if item.partner and item.partner != blank %}
-                      <div class="LightboxFact">
-                        <div class="LightboxLabel">Partner</div>
-                        <div class="LightboxValue">{{ item.partner }}</div>
-                      </div>
-                    {% endif %}
-
                     <div class="LightboxFact">
-                      <div class="LightboxValue">
-                        {% if item.is_soldout == true %}
-                          <span class="Caption color-accent-primary">Sold out</span>
-                        {% else %}
-                          <a href="{{ item.purchase_url }}" target="_blank">
-                            <span class="Caption color-white">BUY NOW</span>
-                          </a>
+                      {% if item.is_soldout == true %}
+                        <span class="Caption color-accent-primary">Sold out</span>
+                      {% else %}
+                        {% if item.price %}
+                          <div class="LightboxFact">
+                            <div class="LightboxValue mb5">${{ item.price }}</div>
+                          </div>
                         {% endif %}
-                      </div>
+                        <div class="">
+                          <a href="{{ item.purchase_url }}" class="Caption BuyButton color-white" target="_blank">
+                            BUY NOW
+                          </a>
+                        </div>
+                      {% endif %}
                     </div>
-
                   </div>
                 </div>
               </aside>
@@ -364,8 +380,9 @@
   });
 </script>
 
+<!-- FLASHER PRELOADER -->
 
-<<script type="text/javascript">
+<!-- <<script type="text/javascript">
 
 
   document.addEventListener('DOMContentLoaded', function () {
@@ -451,7 +468,7 @@
     splide.mount();
   });
 
-</script>
+</script> -->
 
 </body>
 </html>

@@ -2251,6 +2251,9 @@ footer a {
   height: 1px;
   background: #000;
 }
+.Divider--white {
+  background: #fff;
+}
 .Lifted {
   border: 1px solid #000;
   box-shadow: 5px 5px 0px 0px #000;
@@ -2487,6 +2490,9 @@ footer a {
   align-items: center;
   display: flex;
 }
+.justify-content-start {
+  justify-content: start;
+}
 .justify-content-center {
   justify-content: center;
 }
@@ -2545,7 +2551,7 @@ footer a {
   color: #fff;
 }
 .color-accent-primary {
-  color: #ffa500;
+  color: #f6977e;
 }
 .color-tock-blue {
   color: #1b1ba3;
@@ -5322,8 +5328,8 @@ input[type=submit] {
   background: #242421;
   border-radius: 15vw;
   margin-top: 30vw;
-  transform: translateY(100vh);
-  animation: StudioLoad 1000ms ease 5000ms forwards;
+/* transform: translateY(100vh); */
+/* animation: StudioLoad 1000ms ease 5000ms forwards; */
 }
 .StudioIntro {
   width: 100%;
@@ -5468,6 +5474,7 @@ input[type=submit] {
   height: auto;
   display: block;
   object-fit: cover;
+  border-radius: 8px;
 }
 .Lightbox {
   position: fixed;
@@ -5589,6 +5596,7 @@ input[type=submit] {
   flex-direction: column;
   gap: 24px;
   min-width: 0;
+  max-width: 700px;
 }
 .LightboxFigure {
   margin: 0;
@@ -5620,7 +5628,6 @@ input[type=submit] {
   color: #f2eee6;
 }
 .LightboxDesc {
-  margin-bottom: 28px;
   color: rgba(242,238,230,0.88);
   line-height: 1.55;
 }
@@ -5691,6 +5698,7 @@ input[type=submit] {
   display: flex;
   flex-direction: column;
   gap: 32px;
+  max-width: 700px;
 }
 .LightboxCollectionEntry {
   margin: 0;
@@ -5734,7 +5742,7 @@ input[type=submit] {
 }
 .LightboxCollectionEntryMeta {
   width: 100%;
-  max-width: 720px;
+  max-width: 520px;
   margin-top: 18px;
 }
 .LightboxEntryTitle {
@@ -5743,9 +5751,6 @@ input[type=submit] {
   line-height: 1.08;
   font-weight: 400;
   color: #f2eee6;
-}
-.LightboxCollectionEntryMeta .LightboxDesc {
-  margin-bottom: 22px;
 }
 .LightboxCollectionEntryMeta .LightboxFacts {
   max-width: 560px;
@@ -5813,6 +5818,16 @@ input[type=submit] {
   object-fit: cover;
   object-position: center;
   display: block;
+}
+.BuyButton {
+  border: 1px rgba(255,255,255,0.5) solid;
+  padding: 0.8em;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.BuyButton:hover {
+  background: #fff;
+  color: #000;
 }
 @-moz-keyframes StudioLoad {
   from {

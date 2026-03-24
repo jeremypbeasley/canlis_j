@@ -21,7 +21,7 @@ layout: kenlis
 
 <div class="EventsButton d-mb5 mb5 mt3 d-mt1">
   <a class="Caption mr4" target="_blank" href="https://www.opentable.com/r/kenlis-seattle">
-    SOLD OUT - Join the waitlist 
+    SOLD OUT - Join the waitlist
   </a>
 
 </div>
@@ -51,7 +51,7 @@ text-align: center;
 
 .EventsIntro {
 font-size: 1.3em;
-font-family: "HelveticaNeue-Medium", "Helvetica Neue Medium", "Helvetica Neue", 
+font-family: "HelveticaNeue-Medium", "Helvetica Neue Medium", "Helvetica Neue",
   Helvetica, Arial, "Lucida Grande", sans-serif;
 font-weight: bold;
 text-align: center
@@ -77,7 +77,6 @@ color: white;
 .EventsTitle {
 display: none;
 }
-
 
 @media (min-width: 48em) {
   .EventsIntro {
