@@ -10,11 +10,11 @@ desc: Our curiosity is always expanding, often collaborating with our favorite d
   we couldn't resist making them. These are the ones we love most.
 items:
 - title: Staff Recommendations Map
-  slug: canlis-map-of
+  slug: canlis-map
   desc: When guests come in from out of town, we proudly send them to the best spots
     in town. These are our current picks! Design by Don Clark for Invisible Creature.
   year: 2024
-  type: Printed Matter
+  type: Printed
   price: 10
   purchase_url: null
   is_soldout: false
@@ -127,17 +127,6 @@ items:
     photos:
     - title: null
       url: /uploads/matchbook_4.jpg
-  - title: Matchbook 5
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
-    year: 20XX
-    price: 45
-    purchase_url: https://www.nytimes.com/
-    is_soldout: true
-    partner: null
-    is_visible: true
-    photos:
-    - title: null
-      url: /uploads/matchbook_5.jpg
   - title: Matchbook 6
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
     year: 20XX
@@ -224,7 +213,7 @@ items:
     photos:
     - title:
       url: "/uploads/20240420_Canlis_001_web%20(1).jpg"
-  - title: Clay at Canlis Vinyl
+  - title: Clay at Canlis
     slug: clay-at-canlis
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
     year:
@@ -239,7 +228,7 @@ items:
     photos:
     - title:
       url: "/uploads/20240420_Canlis_013_web.jpg"
-  - title: Danny Lowell, Solo at Canlis' Vinyl
+  - title: Danny Lowell, Solo at Canlis'
     slug: danny-lowell-solo
     desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
     year:
@@ -788,7 +777,7 @@ items:
   is_slideshow: false
 - title: Hurricane Centerpiece
   slug: hurricane-centerpiece
-  desc: null
+  desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
   year: null
   type: Objects
   price: 45
@@ -819,9 +808,23 @@ items:
   - title: null
     url: /uploads/20240502_Canlis_212.jpg
   items:
+  - title: Lukewarm Tweezer Food
+    slug: canlis-staff-apparel
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+    year: 2023
+    type: Apparel / Accessories
+    price: 45
+    purchase_url: null
+    is_soldout: true
+    photo_duration: 2600
+    partner: null
+    is_featured: false
+    photos:
+    - title: null
+      url: /uploads/20240502_Canlis_189.jpg
   - title: Canlis Staff Apparel Beanie
     slug: canlis-staff-apparel
-    desc: null
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
     year: 2023
     type: Apparel / Accessories
     price: 45
@@ -833,10 +836,9 @@ items:
     photos:
     - title: null
       url: /uploads/20240502_Canlis_116-689580.jpg
-    is_slideshow: false
   - title: Canlis Staff Apparel Hoodie
     slug: canlis-staff-apparel-2
-    desc: null
+    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
     year: 2023
     type: Apparel / Accessories
     price: 45
@@ -848,7 +850,6 @@ items:
     photos:
     - title: null
       url: /uploads/20240502_Canlis_212.jpg
-    is_slideshow: true
 - title: Hawaiian Nights Tote
   slug: hawaiian-nights-tote
   desc: An parking lot island escape where the pool was hot, the grills were hotter,
