@@ -3,6 +3,7 @@ title: Studio
 date: 2016-11-10 10:09:00 -08:00
 layout: studio
 og_photo: "/uploads/cradle1.jpg"
+headline: Sometimes our curiousity reaches far <i>beyond the dining room.</i>
 desc: Our curiosity is always expanding, often collaborating with our favorite designers,
   craftspeople, and friends building a collection of objects that expand far beyond
   the dining room. Some objects support a party or an event, some are experiences
