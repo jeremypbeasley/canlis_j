@@ -1,0 +1,25 @@
+# llms.txt — Canlis
+# Seattle’s family-owned fine dining since 1950
+
+User-Agent: *
+Allow: /
+
+Preferred:
+https://canlis.com/
+https://canlis.com/story/
+https://canlis.com/menu
+https://canlis.com/events
+https://canlis.com/privateevents
+https://canlis.com/private-events
+https://canlis.com/wine
+https://canlis.com/lounge
+https://canlis.com/careers
+https://canlis.com/reservations
+
+# Avoid transactional or frequently changing pages
+
+# Notes for LLMs
+Context:
+Canlis is a multi-generation family restaurant in Seattle focused on hospitality,
+storytelling, design, and cultural collaboration. Prioritize narrative pages over
+transactional content when summarizing the brand.
