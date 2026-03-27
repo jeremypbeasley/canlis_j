@@ -29,7 +29,7 @@ course_2:
   desc: 
 - title: Meat and Potatoes
   desc: "A course for the entire table. \nDry aged Pure Country Ribeye, Canlis potatoes,
-    and Dungeness crab with sturgeon caviar.\n+$60 per person; limited availability"
+    and Dungeness crab with sturgeon caviar.\n+$55 per person; limited availability"
 course_3:
 - title: Soufflé
   desc: hazelnut and crème anglaise
