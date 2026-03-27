@@ -12,8 +12,8 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
 course_1:
 - title: Manila Clams
   desc: " geoduck and kasu chowder"
-- title: Winter Squash
-  desc: agrodolce, crème fraîche, and asian pear
+- title: Salsify
+  desc: duxelle and soubise with early spring herbs
 - title: Parmesean
   desc: agnolotti, guanciale, and arugula
 course_2:
