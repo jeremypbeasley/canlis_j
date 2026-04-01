@@ -3,8 +3,8 @@ title: Menu
 date: 2016-11-10 10:09:00 -08:00
 og_photo: "/uploads/pork.jpg"
 menu_cost: 185
-menu_description: We're serving a multi-course dining experience where you choose
-  three of the courses (and we like to surprise you with several others).
+menu_description: We offer a 6-course dining experience. We'll ask that you begin
+  your evening by choosing 3 of those courses, and we'll take care of the rest.
 disclaimer: "A 20% service charge will be added to your final bill. 100% of this service
   charge is retained by Canlis. \n* Eating raw or undercooked ingredients can increase
   your risk of foodborne illness. It may also increase your chances of having a great
