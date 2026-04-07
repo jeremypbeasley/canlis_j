@@ -591,7 +591,7 @@ items:
   is_collection:
   items:
 - title: Canlis Community College Student Uniforms
-  desc: We built a six-week school in 4 weeks. The right garb was crucial. Students
+  desc: During the height of the pandemic, when we couldn't serve dinner, we built a six-week school in 4 weeks. The right garb was crucial. Students
     enrolled in online classes about food, drinks, and the small joys of everyday
     life. Artwork by Don Clark for Invisible Creature.
   year: 2020
@@ -607,8 +607,48 @@ items:
   photos:
   - title:
     url: "/uploads/ccc.jpg"
-  is_collection:
+  is_collection: true
   items:
+  - title: Ebbet's Field Jacket
+    desc:
+    year: 2024
+    price: 45
+    purchase_url:
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/placeholder_studio.jpg"
+  - title: Ebbet's Field Ball Cap
+    desc:
+    year: 2024
+    price: 45
+    purchase_url:
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/placeholder_studio.jpg"
+  - title: Filson Pencil Holder
+    desc:
+    year: 2024
+    price: 45
+    purchase_url:
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/placeholder_studio.jpg"
+  - title: Canlis Community College Pendant
+    desc:
+    year: 2024
+    price: 45
+    purchase_url:
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/placeholder_studio.jpg"
 - title: 'Kenlis: Plastic-Fantastic Package'
   desc: A two-day plastic-fantastic party where the only rule was to show up with
     big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
@@ -625,11 +665,19 @@ items:
   photo_duration: 2000
   photos:
   - title:
-    url: "/uploads/ken1.jpg"
-  - title:
-    url: "/uploads/ken2.jpg"
+    url: "/uploads/kenlis_hero.jpg"
   is_collection: true
   items:
+  - title: Kenlis T-Shirt
+    desc: XXXXX
+    year: 2024
+    price: 45
+    purchase_url:
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/kenlis_shirt.jpg"
   - title: Kenlis Fanny Pack
     desc: A two-day plastic-fantastic party where the only rule was to show up with
       big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
@@ -799,8 +847,6 @@ items:
   photo_duration: 2000
   photos:
   - title:
-    url: "/uploads/20240502_Canlis_189.jpg"
-  - title:
     url: "/uploads/20240502_Canlis_212.jpg"
   is_collection: true
   items:
@@ -852,19 +898,10 @@ items:
   is_slideshow: false
   photo_duration: 2600
   photos:
-<<<<<<< HEAD
   - title:
     url: "/uploads/20240420_Canlis_188_web.jpg"
   is_collection:
   items:
-=======
-  - title: 
-    url: "/uploads/bag.jpg"
-  - title: 
-    url: "/uploads/bag2.jpg"
-  is_collection: 
-  items: 
->>>>>>> a79ef4f1ce5c3a425a9c0571294fcd50790b8d29
 - title: The Canlis Ant Farm
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
     incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
@@ -883,29 +920,8 @@ items:
     url: "/uploads/8824f2cdb652ad892fa3341760fb6b4d5994b1f6-1500x1500.jpg"
   - title:
     url: "/uploads/antfarm2.jpg"
-<<<<<<< HEAD
   is_collection:
   items:
-=======
-- title: Dome Boxes
-  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-  year: 
-  type: Objects
-  price: 
-  purchase_url: 
-  is_soldout: true
-  is_slideshow: false
-  photo_duration: 2600
-  partner: 
-  is_featured: true
-  is_visible: true
-  photos:
-  - title: 
-    url: "/uploads/20240420_Canlis_149_web.jpg"
-  - title: 
-    url: "/uploads/box2.jpg"
->>>>>>> a79ef4f1ce5c3a425a9c0571294fcd50790b8d29
 - title: 'Live In The Lower Lot: Posters'
   desc: Grammy award winning, Lone Bellow, joined us for a night of soulful tunes,
     at-capacity hot tubs, and Chef James' top notch pizza tossing. Poster design by
