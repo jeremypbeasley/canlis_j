@@ -2,12 +2,11 @@
 title: Studio
 date: 2016-11-10 10:09:00 -08:00
 layout: studio
-og_photo: "/uploads/cradle.jpg"
-desc: Our curiosity is always expanding, often collaborating with our favorite designers,
-  craftspeople, and friends building a collection of objects that expand far beyond
-  the dining room. Some objects support a party or an event, some are experiences
-  in and of themselves. Some are strictly for our guests. Some are simply because
-  we couldn't resist making them. These are the ones we love most.
+og_photo: "/uploads/cradle1.jpg"
+headline: Our curiousity often reaches far <i>beyond the dining room.</i>
+desc: We've built collection of objects we're proud of. Some support a party or an
+  event, some are experiences in and of themselves. Some are strictly for our guests.
+  Some are simply because we simply couldn't resist making them.
 partners_intro: This collection of objects and the memories that go along with them
   were only possible with each of these talented collaborators and friends.
 partners:
@@ -853,10 +852,19 @@ items:
   is_slideshow: false
   photo_duration: 2600
   photos:
+<<<<<<< HEAD
   - title:
     url: "/uploads/20240420_Canlis_188_web.jpg"
   is_collection:
   items:
+=======
+  - title: 
+    url: "/uploads/bag.jpg"
+  - title: 
+    url: "/uploads/bag2.jpg"
+  is_collection: 
+  items: 
+>>>>>>> a79ef4f1ce5c3a425a9c0571294fcd50790b8d29
 - title: The Canlis Ant Farm
   desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
     incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
@@ -875,8 +883,29 @@ items:
     url: "/uploads/8824f2cdb652ad892fa3341760fb6b4d5994b1f6-1500x1500.jpg"
   - title:
     url: "/uploads/antfarm2.jpg"
+<<<<<<< HEAD
   is_collection:
   items:
+=======
+- title: Dome Boxes
+  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  year: 
+  type: Objects
+  price: 
+  purchase_url: 
+  is_soldout: true
+  is_slideshow: false
+  photo_duration: 2600
+  partner: 
+  is_featured: true
+  is_visible: true
+  photos:
+  - title: 
+    url: "/uploads/20240420_Canlis_149_web.jpg"
+  - title: 
+    url: "/uploads/box2.jpg"
+>>>>>>> a79ef4f1ce5c3a425a9c0571294fcd50790b8d29
 - title: 'Live In The Lower Lot: Posters'
   desc: Grammy award winning, Lone Bellow, joined us for a night of soulful tunes,
     at-capacity hot tubs, and Chef James' top notch pizza tossing. Poster design by

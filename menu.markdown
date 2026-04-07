@@ -2,9 +2,9 @@
 title: Menu
 date: 2016-11-10 10:09:00 -08:00
 og_photo: "/uploads/pork.jpg"
-menu_cost: 180
-menu_description: We're serving a multi-course dining experience where you choose
-  three of the courses (and we like to surprise you with several others).
+menu_cost: 185
+menu_description: We offer a 6-course dining experience. We'll ask that you begin
+  your evening by choosing 3 of those courses, and we'll take care of the rest.
 disclaimer: "A 20% service charge will be added to your final bill. 100% of this service
   charge is retained by Canlis. \n* Eating raw or undercooked ingredients can increase
   your risk of foodborne illness. It may also increase your chances of having a great
@@ -12,8 +12,8 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
 course_1:
 - title: Manila Clams
   desc: " geoduck and kasu chowder"
-- title: Winter Squash
-  desc: agrodolce, crème fraîche, and asian pear
+- title: Salsify
+  desc: duxelle and soubise with early spring herbs
 - title: Parmesean
   desc: agnolotti, guanciale, and arugula
 course_2:
@@ -29,7 +29,7 @@ course_2:
   desc: 
 - title: Meat and Potatoes
   desc: "A course for the entire table. \nDry aged Pure Country Ribeye, Canlis potatoes,
-    and Dungeness crab with sturgeon caviar.\n+$60 per person; limited availability"
+    and Dungeness crab with sturgeon caviar.\n+$55 per person; limited availability"
 course_3:
 - title: Soufflé
   desc: hazelnut and crème anglaise
