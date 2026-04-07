@@ -1941,7 +1941,7 @@ body {
   overflow-x: hidden;
   margin: 0;
   font-family: "GTSectraBook", Arial, sans-serif;
-  background: #fcfbfa;
+  background: #dedfdb;
   color: #272320;
 }
 #main {
@@ -1995,7 +1995,7 @@ img {
   position: absolute;
   top: 8vw;
   left: 6vw;
-  color: #fcfbfa;
+  color: #dedfdb;
   text-align: center;
   z-index: 100;
 }
@@ -2263,7 +2263,7 @@ footer a {
   top: 0;
   width: 100%;
   height: 100vh;
-  background: #fcfbfa;
+  background: #dedfdb;
   z-index: 99999;
   animation: fade_out 1000ms 2000ms ease-out forwards, des_troy 1ms 3000ms ease-out forwards;
 }
@@ -3346,7 +3346,7 @@ footer a {
   top: 50%;
   left: 50%;
   margin-left: -70px;
-  width: 140px;
+  width: 50vw;
   text-align: center;
 }
 .HomeLogo svg {
@@ -3354,14 +3354,16 @@ footer a {
 }
 @media (min-width: 62em) {
   .HomeLogo {
-    top: 50%;
-    left: 50%;
-    margin-left: -7.5vw;
-    transform: scale(0.8);
-    width: 15vw;
+    top: 45vh;
+    left: 18vw;
+    margin-left: 0;
+/* transform: scale(.8); */
+    width: 65vw;
+    position: fixed;
+    z-index: 9999;
   }
-  .HomeLogo svg {
-    transform: scale(1.5);
+  .HomeLogo svg path {
+    fill: #b9beb5;
   }
 }
 .HomeVideoBg {
@@ -3499,7 +3501,7 @@ footer a {
 }
 @media (min-width: 62em) {
   .PortraitCard {
-    background: #fcfbfa;
+    background: #dedfdb;
     padding: 5vw 5vw 3vw 5vw;
     margin-top: 27vw;
     margin-left: 10vw;
@@ -4182,7 +4184,7 @@ body.Invert .Logo {
 body.Invert .GlobalFooter,
 body.Invert .GlobalFooter a {
   color: #272320;
-  background-color: #fcfbfa;
+  background-color: #dedfdb;
 }
 body.Invert .BigPlaceholderSection {
   color: #272320;
