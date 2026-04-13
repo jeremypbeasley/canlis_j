@@ -78,11 +78,15 @@
 
                       <div class="Caption color-white mb2">{{ child.title }}</div>
 
-                      {% if child.desc and child.desc != blank %}
-                        <div class="LightboxDesc">
+                      <div class="LightboxDesc">
+                        {% if child.desc and child.desc != blank %}
                           {{ child.desc }}
-                        </div>
-                      {% endif %}
+                        {% endif %}
+
+                        {% if child.partner and child.partner != blank %}
+                          <span class="op50 italic">In collaboration with {{ child.partner }}</span>
+                        {% endif %}
+                      </div>
 
                       <!-- IS IT SOLD OUT? -->
                       {% if child.is_soldout %}
