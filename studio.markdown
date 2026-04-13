@@ -36,493 +36,28 @@ partners:
   url: https://tanamachistudio.com/
 items:
 - title: Staff Recommendations Map
-  desc: When guests come in from out of town, we proudly send them to the best spots
-    in town. These are our current picks! Design by Don Clark for Invisible Creature.
+  desc: When guests come in from out of town, we proudly send them to our favorites. These are our current picks! Design by Don Clark for Invisible Creature.
   year: 2024
   type: Printed
   price: 10
-  purchase_url: 
+  purchase_url:
   is_soldout: false
-  partner: 
+  partner:
   is_featured: true
   is_visible: true
   is_slideshow: true
   photo_duration: 3000
   photos:
-  - title: 
+  - title:
     url: "/uploads/20241117_canlis_NWSS4009_web%20(1).jpg"
-  - title: 
+  - title:
     url: "/uploads/20241117_canlis_NWSS4026_web.jpg"
-  - title: 
+  - title:
     url: "/uploads/20241117_canlis_NWSS4033_web.jpg"
-  - title: 
+  - title:
     url: "/uploads/20241117_canlis_NWSS4036_web.jpg"
-  is_collection: 
-  items: 
-- title: Canlis Crab Shack Seaman's Poncho
-  desc: When you trade white tablecloths for paper and mallets you need a way to stay
-    dry. You need a poncho. Icon design by Don Clark for Invisible Creature.
-  year: 2020
-  type: Apparel / Accessories
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  partner: 
-  is_featured: false
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title: 
-    url: "/uploads/poncho.jpg"
-  is_collection: 
-  items: 
-- title: Matchbooks
-  desc: In keeping a tradition, we've created beautiful matchbooks for guests to have
-    following dinner. Artwork by Don Clark for Invisible Creature, Jordan Kay, Pam
-    Wishbow, Kyler Martz, and Jonathan Ball
-  year: 2019 - 2025
-  type: Matchbook
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  partner: 
-  is_featured: false
-  is_visible: true
-  is_slideshow: true
-  photo_duration: 2000
-  photos:
-  - title: 
-    url: "/uploads/matchbook_1.jpg"
-  - title: 
-    url: "/uploads/matchbook_2.jpg"
-  - title: 
-    url: "/uploads/matchbook_3.jpg"
-  - title: 
-    url: "/uploads/matchbook_4.jpg"
-  - title: 
-    url: "/uploads/matchbook_5.jpg"
-  - title: 
-    url: "/uploads/matchbook_6.jpg"
-  - title: 
-    url: "/uploads/matchbook_7.jpg"
-  - title: 
-    url: "/uploads/matchbook_8.jpg"
-  is_collection: true
+  is_collection:
   items:
-  - title: Matchbook 1
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-    year: 20XX
-    price: 45
-    purchase_url: 
-    is_soldout: true
-    partner: 
-    photos:
-    - title: 
-      url: "/uploads/matchbook_1.jpg"
-  - title: Matchbook 2
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-    year: 20XX
-    price: 45
-    purchase_url: https://www.nytimes.com/
-    is_soldout: true
-    partner: 
-    photos:
-    - title: 
-      url: "/uploads/matchbook_2.jpg"
-  - title: Matchbook 3
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-    year: 20XX
-    price: 45
-    purchase_url: https://www.nytimes.com/
-    is_soldout: true
-    partner: 
-    photos:
-    - title: 
-      url: "/uploads/matchbook_3.jpg"
-  - title: Matchbook 7
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-    year: 20XX
-    price: 45
-    purchase_url: https://www.nytimes.com/
-    is_soldout: true
-    partner: 
-    photos:
-    - title: 
-      url: "/uploads/matchbook_7.jpg"
-  - title: Matchbook 8
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-    year: 20XX
-    price: 45
-    purchase_url: https://www.nytimes.com/
-    is_soldout: true
-    partner: 
-    photos:
-    - title: 
-      url: "/uploads/matchbook_8.jpg"
-- title: Canlis Steak Knife
-  desc: Custom design and fabrication by Rob Gray for Graycloud Knives
-  year: 2022
-  type: Apparel / Accessories
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  partner: Filson
-  is_featured: false
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title: 
-    url: "/uploads/20241014_Canlis_106.jpg"
-  - title: 
-    url: "/uploads/knife3.jpg"
-  - title: 
-    url: "/uploads/knife2.jpg"
-  is_collection: 
-  items: 
-- title: Live Recordings at Canlis
-  desc: Various vinyl releases by Walt Wagner, Danny Lowell, and Clay Wheeler
-  year: 1962 - 2016
-  type: 
-  price: 
-  purchase_url: 
-  is_soldout: 
-  partner: 
-  is_featured: false
-  is_visible: true
-  is_slideshow: 
-  photo_duration: 2000
-  photos:
-  - title: 
-    url: "/uploads/20240420_Canlis_001_web%20(1).jpg"
-  - title: 
-    url: "/uploads/20240420_Canlis_007_web.jpg"
-  - title: 
-    url: "/uploads/20240420_Canlis_013_web.jpg"
-  is_collection: true
-  items:
-  - title: 'Walt Wagner, Reworks: Live at Canlis'
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-    year: 
-    price: 45
-    purchase_url: 
-    is_soldout: true
-    partner: 
-    photos:
-    - title: 
-      url: "/uploads/20240420_Canlis_001_web%20(1).jpg"
-  - title: Clay at Canlis
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-    year: 
-    price: 45
-    purchase_url: 
-    is_soldout: true
-    partner: 
-    photos:
-    - title: 
-      url: "/uploads/20240420_Canlis_013_web.jpg"
-  - title: Danny Lowell, Solo at Canlis'
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-    year: 
-    price: 45
-    purchase_url: 
-    is_soldout: true
-    partner: 
-    photos:
-    - title: 
-      url: "/uploads/20240420_Canlis_007_web.jpg"
-- title: Beers & Ciders
-  desc: Cider —but way less annoying and far more sophisticated than the ones you
-    drank when you were younger.
-  year: 2025
-  type: 
-  price: 
-  purchase_url: 
-  is_soldout: false
-  partner: 
-  is_featured: false
-  is_visible: true
-  is_slideshow: 
-  photo_duration: 2000
-  photos:
-  - title: 
-    url: "/uploads/thebeer.jpg"
-  is_collection: true
-  items:
-  - title: One Pit Wonder
-    desc: Kriek-style genius, left in a barrel of locally sourced cherries for a year.
-    year: 2025
-    price: 20
-    purchase_url: https://canlisstudio.squarespace.com/shop/p/booze
-    is_soldout: false
-    partner: Holy Mountain Brewing
-    photos:
-    - title: 
-      url: "/uploads/placeholder_studio.jpg"
-  - title: The Other
-    desc: As dark and scary as talking to a stranger. Imperial stout aged in Bourbon
-      barrels.
-    year: 2025
-    price: 20
-    purchase_url: XXXX
-    is_soldout: true
-    partner: Holy Mountain Brewing
-    photos:
-    - title: 
-      url: "/uploads/placeholder_studio.jpg"
-  - title: ETXEKO
-    desc: Cider —but way less annoying and far more sophisticated than the ones you
-      drank when you were younger.
-    year: 2025
-    price: 20
-    purchase_url: XXXX
-    is_soldout: true
-    partner: Son of Man
-    photos:
-    - title: 
-      url: "/uploads/placeholder_studio.jpg"
-- title: Canlis on the High Seas T-Shirt
-  desc: The restaurant reimagined as a wandering vessel, sailing somewhere between
-    fine dining and a tall tale. T-Shirt design by Brady Black
-  year: 2025
-  type: Apparel / Accessories
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  partner: 
-  is_featured: false
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title: 
-    url: "/uploads/20240502_Canlis_145.jpg"
-  is_collection: 
-  items: 
-- title: Canlis on the High Seas Poster
-  desc: The restaurant reimagined as a wandering vessel, sailing somewhere between
-    fine dining and a tall tale. Poster design by Don Clark for Invisible Creature.
-  year: 2025
-  type: Print
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  partner: 
-  is_featured: false
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title: 
-    url: "/uploads/High%20Seas.jpg"
-  is_collection: 
-  items: 
-- title: Canlis Salt Ramekins
-  desc: 'Local artisan and sculptor Dylan Andersen created a series of solid bronze
-    ramekins to accompany our opening bread course. Rather than being carved out,
-    each is pressed into a bowl shape with around 50,000lbs of hydraulic pressure.
-    <br> <br>Note: Each ramekin is sold individually with one spoon. '
-  year: 2024
-  type: Objects
-  price: 350
-  purchase_url: https://canlisstudio.squarespace.com/shop/p/dylan
-  is_soldout: false
-  partner: Dylan Andersen
-  is_featured: true
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title: 
-    url: "/uploads/ramy.jpg"
-  - title: 
-    url: "/uploads/ram2.jpg"
-  - title: 
-    url: "/uploads/ram3.jpg"
-  is_collection: 
-  items: 
-- title: The Canlis TV Dinner
-  desc: Canlis Frozen? You bet. This pandemic-era experiment turned out to be a big
-    hit among fans and regulars alike. Box design by Don Clark for Invisible Creature.
-  year: 2020
-  type: Uncategorized
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  partner: 
-  is_featured: true
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title: 
-    url: "/uploads/dinnner.jpg"
-  is_collection: 
-  items: 
-- title: Space Prom Poster
-  desc: A one-night cosmic dance where tuxedos, taffeta, and starlight collide somewhere
-    beyond Earth's atmosphere. Poster design by Don Clark for Invisible Creature.
-  year: 2023
-  type: Print
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  partner: 
-  is_featured: false
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title: 
-    url: "/uploads/poster_spaceprom.jpg"
-  is_collection: 
-  items: 
-- title: Hawaiian Nights Poster
-  desc: An parking lot island escape where the pool was hot, the grills were hotter,
-    the drinks were cold, and the Seattle sunset did the rest. Poster design by Don
-    Clark for Invisible Creature.
-  year: 2019
-  type: Print
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  partner: 
-  is_featured: false
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title: 
-    url: "/uploads/poster_hawaiiannights.jpg"
-  is_collection: 
-  items: 
-- title: The Canlis Yurt Villiage Poster
-  desc: The parking lot transformed into a cozy village of private yurts, offering
-    warmth, food, and a little magic in the middle of a wintery pandemic. Poster design
-    by Don Clark for Invisible Creature.
-  year: 2020
-  type: Print
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  partner: 
-  is_featured: false
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title: 
-    url: "/uploads/poster_yurtvillage.jpg"
-  is_collection: 
-  items: 
-- title: The Executive Camp Cup
-  desc: Artwork by Nathan Yoder
-  year: 2024
-  type: Apparel / Accessories
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  partner: MiiR
-  is_featured: false
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title: 
-    url: "/uploads/624325516_17984142377942108_7615374587499294023_n.jpg"
-  is_collection: 
-  items: 
-- title: The Unauthorized Canlis LEGO Set
-  desc: Canlis brought to life in (unauthorized) LEGO. The set includes Chef Aisha
-    in her whites, the Canlis brothers mid-idea, and of course, the legendary Japanese
-    maple tree. Designed with help from Zac Schwiet and The Minifig Co.
-  year: 2024
-  type: Objects
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  partner: not LEGO whatsoever
-  is_featured: true
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title: 
-    url: "/uploads/lego.jpg"
-  - title: 
-    url: "/uploads/lego1.jpg"
-  is_collection: 
-  items: 
-- title: Camp Canlis "Camper's Kit"
-  desc: A playful retreat where service began with the raising of a flag, a bugle
-    call, and building a campfire. A little adventure, a lot of laughter, and dinner
-    in a yurt got us through that Spring! Artwork by Don Clark for Invisible Creature.
-  year: 2020
-  type: Apparel / Accessories
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  partner: MiiR
-  is_featured: false
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title: 
-    url: "/uploads/20240502_Canlis_140.jpg"
-  is_collection: 
-  items: 
-- title: Canlis Whiskey House
-  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-  year: 2019
-  type: Objects
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  partner: 
-  is_featured: true
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title: 
-    url: "/uploads/f0b20926c8fbae091204be7a1c4c133bc76d622c-3000x1900.jpg"
-  - title: 
-    url: "/uploads/whiskey1.jpg"
-  - title: 
-    url: "/uploads/whiskey2.jpg"
-  is_collection: 
-  items: 
-- title: Canlis Snow Globe
-  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-  year: 2018
-  type: Objects
-  price: 45
-  purchase_url: 
-  is_soldout: true
-  partner: 
-  is_featured: true
-  is_visible: true
-  is_slideshow: true
-  photo_duration: 2600
-  photos:
-  - title: 
-    url: "/uploads/ab31fe87144256eb8dcb0b67d5608c4e9a7a77f7-1500x1500.jpg"
-  - title: 
-    url: "/uploads/globe2.jpg"
-  is_collection: 
-  items: 
 - title: The Black Kampelli Wine Cradle
   desc: Kampelli leather is among the finest cowhides available—soft and glovey in
     hand, with a subtle pebble grain and a natural aniline finish that lets the material
@@ -540,18 +75,469 @@ items:
   is_slideshow: false
   photo_duration: 2600
   photos:
-  - title: 
+  - title:
     url: "/uploads/cradle1.jpg"
-  - title: 
+  - title:
     url: "/uploads/cradle2.jpg"
-  - title: 
+  - title:
     url: "/uploads/cradle3.jpg"
-  - title: 
+  - title:
     url: "/uploads/cradle4.jpg"
-  - title: 
+  - title:
     url: "/uploads/cradle5.jpg"
-  is_collection: 
-  items: 
+  is_collection:
+  items:
+- title: Matchbooks
+  desc: We've been designing custom matchbooks since 1950. Each one tells a story. Artwork by Don Clark for Invisible Creature, Jordan Kay, Pam
+    Wishbow, Kyler Martz, and Jonathan Ball
+  year: 2019 - 2025
+  type: Matchbook
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner:
+  is_featured: false
+  is_visible: true
+  is_slideshow: true
+  photo_duration: 2000
+  photos:
+  - title:
+    url: "/uploads/matchbook_1.jpg"
+  - title:
+    url: "/uploads/matchbook_2.jpg"
+  - title:
+    url: "/uploads/matchbook_3.jpg"
+  - title:
+    url: "/uploads/matchbook_4.jpg"
+  - title:
+    url: "/uploads/matchbook_5.jpg"
+  - title:
+    url: "/uploads/matchbook_6.jpg"
+  - title:
+    url: "/uploads/matchbook_7.jpg"
+  - title:
+    url: "/uploads/matchbook_8.jpg"
+  is_collection: true
+  items:
+  - title: Pan Am Smuggler's Wink
+    desc: "Peter Canlis bribed flight attendants to smuggle fresh seafood between his two restaurants: on the mainland in Seattle far away in Honolulu. These heroes made it happen."
+    year: 2019
+    price: 45
+    purchase_url:
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/matchbook_1.jpg"
+  - title: Single Malt Whiskey Society
+    desc: As a minister in Scotland, the eldest Canlis brother, Matt found himself in the company of the country's finest bottles. Many of these bottles found their way home to form one of Seattle's great collections, here in our cellar.
+    year: 2019
+    price: 45
+    purchase_url: https://www.nytimes.com/
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/matchbook_2.jpg"
+  - title: Keep the Promise.
+    desc: This is our motto. It's our commitment to delivering a version of Canlis every night that doesn't just meet some high standard of fine dining but uniquely serves the guest wherever they may be coming from with whatever expectations they may have for the evening.
+    year: 2021
+    price: 45
+    purchase_url: https://www.nytimes.com/
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/matchbook_3.jpg"
+  - title: Nicholas Canlis Safari
+    desc: After leaving Greece to finding his way South, Peter Canlis' father, Nicholas Kanlis (yes, it was spelled with a K back then) was hired to cook for President Theodore Roosevelt's African Safari. Here began our families journey into serving food and in the finest of places.
+    year: 2021
+    price: 45
+    purchase_url: https://www.nytimes.com/
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/matchbook_7.jpg"
+  - title: Kimono Silk
+    desc: Until the mid-90's, Canlis servers wore kimonos while serving dinner. This floral pattern is an homage to those beautiful fabrics and patterns that tell the story of the women who made this place what it is today.
+    year: 2016
+    price: 45
+    purchase_url: https://www.nytimes.com/
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/matchbook_8.jpg"
+- title: Canlis Crab Shack Seaman's Poncho
+  desc: When the pandemic shuts you down and you trade white tablecloths for a parking lot crab shack –you need a way to stay dry. You need a poncho. Icon design by Don Clark for Invisible Creature.
+  year: 2020
+  type: Apparel / Accessories
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner:
+  is_featured: false
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/poncho.jpg"
+  is_collection:
+  items:
+- title: Canlis Steak Knife
+  desc: We partned with our friends at Filson to create the perfect steak knife for dinner service, featuring the signature match-grade Hawaiian Koa handle. Custom design by Brandis Gray and fabrication by Rob Gray for Graycloud Knives
+  year: 2022
+  type: Apparel / Accessories
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner: Filson
+  is_featured: false
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/20241014_Canlis_106.jpg"
+  - title:
+    url: "/uploads/knife3.jpg"
+  - title:
+    url: "/uploads/knife2.jpg"
+  is_collection:
+  items:
+- title: Live Recordings at Canlis
+  desc: Various vinyl releases by Walt Wagner, Danny Lowell, and Clay Wheeler
+  year: 1962 - 2016
+  type:
+  price:
+  purchase_url:
+  is_soldout:
+  partner:
+  is_featured: false
+  is_visible: true
+  is_slideshow:
+  photo_duration: 2000
+  photos:
+  - title:
+    url: "/uploads/20240420_Canlis_001_web%20(1).jpg"
+  - title:
+    url: "/uploads/20240420_Canlis_007_web.jpg"
+  - title:
+    url: "/uploads/20240420_Canlis_013_web.jpg"
+  is_collection: true
+  items:
+  - title: 'Walt Wagner, Reworks: Live at Canlis'
+    desc:
+    year: 2016
+    price: 45
+    purchase_url:
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/20240420_Canlis_001_web%20(1).jpg"
+  - title: Clay at Canlis
+    desc:
+    year: 1962
+    price: 45
+    purchase_url:
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/20240420_Canlis_013_web.jpg"
+  - title: Danny Lowell, Solo at Canlis'
+    desc:
+    year: 1967
+    price: 45
+    purchase_url:
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/20240420_Canlis_007_web.jpg"
+- title: Beers & Ciders
+  desc: Cider —but way less annoying and far more sophisticated than the ones you
+    drank when you were younger.
+  year: 2025
+  type:
+  price:
+  purchase_url:
+  is_soldout: false
+  partner:
+  is_featured: false
+  is_visible: true
+  is_slideshow:
+  photo_duration: 2000
+  photos:
+  - title:
+    url: "/uploads/thebeer.jpg"
+  is_collection: true
+  items:
+  - title: One Pit Wonder
+    desc: Kriek-style genius, left in a barrel of locally sourced cherries for a year.
+    year: 2025
+    price: 20
+    purchase_url: https://canlisstudio.squarespace.com/shop/p/booze
+    is_soldout: false
+    partner: Holy Mountain Brewing
+    photos:
+    - title:
+      url: "/uploads/placeholder_studio.jpg"
+  - title: The Other
+    desc: As dark and scary as talking to a stranger. Imperial stout aged in Bourbon
+      barrels.
+    year: 2025
+    price: 20
+    purchase_url: XXXX
+    is_soldout: true
+    partner: Holy Mountain Brewing
+    photos:
+    - title:
+      url: "/uploads/placeholder_studio.jpg"
+  - title: ETXEKO
+    desc: Cider —but way less annoying and far more sophisticated than the ones you
+      drank when you were younger.
+    year: 2025
+    price: 20
+    purchase_url: XXXX
+    is_soldout: true
+    partner: Son of Man
+    photos:
+    - title:
+      url: "/uploads/placeholder_studio.jpg"
+- title: Canlis on the High Seas T-Shirt
+  desc: For NYE 2024, we reimagined the restaurant as a wandering vessel, sailing somewhere between fine dining and a tall tale. T-Shirt design by Brady Black
+  year: 2024
+  type: Apparel / Accessories
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner:
+  is_featured: false
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/20240502_Canlis_145.jpg"
+  is_collection:
+  items:
+- title: Canlis on the High Seas Poster
+  desc: For NYE 2024, we reimagined the restaurant as a wandering vessel, sailing somewhere between fine dining and a tall tale. Poster design by Don Clark for Invisible Creature.
+  year: 2024
+  type: Print
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner:
+  is_featured: false
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/High%20Seas.jpg"
+  is_collection:
+  items:
+- title: Canlis Salt Ramekins
+  desc: 'Local artisan and sculptor Dylan Andersen created a series of solid bronze
+    ramekins to accompany our opening bread course. Rather than being carved out,
+    each is pressed into a bowl shape with around 50,000lbs of hydraulic pressure.
+    <br> <br>Note: Each ramekin is sold individually with one spoon. '
+  year: 2024
+  type: Objects
+  price: 350
+  purchase_url: https://canlisstudio.squarespace.com/shop/p/dylan
+  is_soldout: false
+  partner: Dylan Andersen
+  is_featured: true
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/ramy.jpg"
+  - title:
+    url: "/uploads/ram2.jpg"
+  - title:
+    url: "/uploads/ram3.jpg"
+  is_collection:
+  items:
+- title: The Canlis TV Dinner
+  desc: Canlis Frozen? You bet. This pandemic-era experiment turned out to be a big
+    hit among fans and regulars alike. Box design by Don Clark for Invisible Creature.
+  year: 2020
+  type: Uncategorized
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner:
+  is_featured: true
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/dinnner.jpg"
+  is_collection:
+  items:
+- title: Space Prom Poster
+  desc: A one-night cosmic dance where tuxedos, taffeta, and starlight collide somewhere
+    beyond Earth's atmosphere. Poster design by Don Clark for Invisible Creature.
+  year: 2023
+  type: Print
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner:
+  is_featured: false
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/poster_spaceprom.jpg"
+  is_collection:
+  items:
+- title: Hawaiian Nights Poster
+  desc: A parking lot island summer escape where the pool was hot, the grills were hotter,
+    the drinks were cold, and the Seattle sunset did the rest. Poster design by Don
+    Clark for Invisible Creature.
+  year: 2019
+  type: Print
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner:
+  is_featured: false
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/poster_hawaiiannights.jpg"
+  is_collection:
+  items:
+- title: The Canlis Yurt Villiage Poster
+  desc: The parking lot transformed into a cozy village of private yurts, offering
+    warmth, food, and a little magic in the middle of a wintery pandemic. Poster design
+    by Don Clark for Invisible Creature.
+  year: 2020
+  type: Print
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner:
+  is_featured: false
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/poster_yurtvillage.jpg"
+  is_collection:
+  items:
+- title: The Executive Camp Cup
+  desc: Artwork by Nathan Yoder
+  year: 2024
+  type: Apparel / Accessories
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner: MiiR
+  is_featured: false
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/624325516_17984142377942108_7615374587499294023_n.jpg"
+  is_collection:
+  items:
+- title: The Unauthorized Canlis LEGO Set
+  desc: Canlis brought to life in (unauthorized) LEGO. The set includes Chef Aisha
+    in her whites, the Canlis brothers mid-idea, and of course, the legendary Japanese
+    maple tree. Designed with help from Zac Schwiet and The Minifig Co.
+  year: 2024
+  type: Objects
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner: not LEGO whatsoever
+  is_featured: true
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/lego.jpg"
+  - title:
+    url: "/uploads/lego1.jpg"
+  is_collection:
+  items:
+- title: Camp Canlis "Camper's Kit"
+  desc: A playful retreat where service began with the raising of a flag, a bugle
+    call, and building a campfire. A little adventure, a lot of laughter, and dinner
+    in a yurt got us through that Spring! Artwork by Don Clark for Invisible Creature.
+  year: 2020
+  type: Apparel / Accessories
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner: MiiR
+  is_featured: false
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/20240502_Canlis_140.jpg"
+  is_collection:
+  items:
+- title: Canlis Whiskey House
+  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  year: 2019
+  type: Objects
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner:
+  is_featured: true
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/f0b20926c8fbae091204be7a1c4c133bc76d622c-3000x1900.jpg"
+  - title:
+    url: "/uploads/whiskey1.jpg"
+  - title:
+    url: "/uploads/whiskey2.jpg"
+  is_collection:
+  items:
+- title: Canlis Snow Globe
+  desc: "Miniature Canlis, forever caught in a gentle snowfall. Equal parts souvenir and nostalgia — perfect for anyone who’s celebrated something special there, or just loves the idea of a snowy night on Queen Anne."
+  year: 2018
+  type: Objects
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner:
+  is_featured: true
+  is_visible: true
+  is_slideshow: true
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/ab31fe87144256eb8dcb0b67d5608c4e9a7a77f7-1500x1500.jpg"
+  - title:
+    url: "/uploads/globe2.jpg"
+  is_collection:
+  items:
 - title: Midnight Poster
   desc: Canlis' first ever New Year's Eve dance party - a 1950's themed night full
     of food, drinks,and several surprises along the way. Poster design by Don Clark
@@ -559,18 +545,18 @@ items:
   year: 2018
   type: Print
   price: 45
-  purchase_url: 
+  purchase_url:
   is_soldout: true
-  partner: 
+  partner:
   is_featured: false
   is_visible: true
   is_slideshow: false
   photo_duration: 2600
   photos:
-  - title: 
+  - title:
     url: "/uploads/Midnight.jpg"
-  is_collection: 
-  items: 
+  is_collection:
+  items:
 - title: 'Midnight: Hawaii Poster'
   desc: A New Year's Eve where the countdown arrived with island rhythms, tropical
     drinks, and the promise of midnight somewhere over the Pacific. Poster design
@@ -578,18 +564,18 @@ items:
   year: 2019
   type: Print
   price: 45
-  purchase_url: 
+  purchase_url:
   is_soldout: true
-  partner: 
+  partner:
   is_featured: false
   is_visible: true
   is_slideshow: false
   photo_duration: 2600
   photos:
-  - title: 
+  - title:
     url: "/uploads/Midnight%20Hawaii.jpg"
-  is_collection: 
-  items: 
+  is_collection:
+  items:
 - title: Canlis Community College Student Uniforms
   desc: During the height of the pandemic, when we couldn't serve dinner, we built
     a six-week school in 4 weeks. The right garb was crucial. Students enrolled in
@@ -598,7 +584,7 @@ items:
   year: 2020
   type: Apparel / Accessories
   price: 45
-  purchase_url: 
+  purchase_url:
   is_soldout: true
   partner: Ebbet's Field
   is_featured: true
@@ -606,39 +592,39 @@ items:
   is_slideshow: false
   photo_duration: 2800
   photos:
-  - title: 
+  - title:
     url: "/uploads/ccc.jpg"
   is_collection: true
   items:
   - title: Ebbet's Field Jacket
-    desc: 
+    desc:
     year: 2024
     price: 45
-    purchase_url: 
+    purchase_url:
     is_soldout: true
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/placeholder_studio.jpg"
   - title: Ebbet's Field Ball Cap
-    desc: 
+    desc:
     year: 2024
     price: 45
-    purchase_url: 
+    purchase_url:
     is_soldout: true
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/placeholder_studio.jpg"
   - title: Filson Pencil Holder
-    desc: 
+    desc:
     year: 2024
     price: 45
-    purchase_url: 
+    purchase_url:
     is_soldout: true
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/placeholder_studio.jpg"
   - title: MiiR Beer Pong Kit
     desc:
@@ -651,101 +637,92 @@ items:
     - title:
       url: "/uploads/placeholder_studio.jpg"
   - title: Canlis Community College Pendant
-    desc: 
+    desc:
     year: 2024
     price: 45
-    purchase_url: 
+    purchase_url:
     is_soldout: true
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/placeholder_studio.jpg"
-- title: 'Kenlis: Plastic-Fantastic Package'
-  desc: A two-day plastic-fantastic party where the only rule was to show up with
+- title: 'Kenlis: Plastic-Fantastic Gear'
+  desc: A couple summers ago, we threw a two-day plastic-fantastic party where the only rule was to show up with
     big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
     out of the Penthouse. Artwork by Don Clark for Invisible Creature.
   year: 2024
   type: Apparel
-  price: 
-  purchase_url: 
-  is_soldout: 
-  partner: 
+  price:
+  purchase_url:
+  is_soldout:
+  partner:
   is_featured: false
   is_visible: true
   is_slideshow: true
   photo_duration: 2000
   photos:
-  - title: 
+  - title:
     url: "/uploads/kenlis_hero.jpg"
   is_collection: true
   items:
   - title: Kenlis T-Shirt
-    desc: XXXXX
+    desc: Logo printed on Canvas crewneck T-Shirt. Logo design by Don Clark for Invisible Creature.
     year: 2024
     price: 45
-    purchase_url: 
+    purchase_url:
     is_soldout: true
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/kenlis_shirt.jpg"
   - title: Kenlis Fanny Pack
-    desc: A two-day plastic-fantastic party where the only rule was to show up with
-      big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
-      out of the Penthouse. Artwork by Don Clark for Invisible Creature.
+    desc: "Finally, a place for your essentials: keys, phone, wallet… and the three Barbies who refuse to be separated from their convertible. On size fits all."
     year: 2024
     price: 45
-    purchase_url: 
+    purchase_url:
     is_soldout: true
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/kenlisfannypack.jpg"
   - title: Kenlis T-Shirt
-    desc: A two-day plastic-fantastic party where the only rule was to show up with
-      big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
-      out of the Penthouse. Artwork by Don Clark for Invisible Creature.
+    desc: For when your aesthetic is equal parts dreamhouse and drop-D tuning. Printed on a Canvas crewneck T-shirt.
     year: 2024
     price: 45
-    purchase_url: 
+    purchase_url:
     is_soldout: true
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/20241117_canlis_NWSS4227_web.jpg"
   - title: Kenlis Trucker Cap
-    desc: A two-day plastic-fantastic party where the only rule was to show up with
-      big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
-      out of the Penthouse. Artwork by Don Clark for Invisible Creature.
+    desc: Dreamhouse in the front, truck stop in the back. One size fits all.
     year: 2024
     price: 45
-    purchase_url: 
+    purchase_url:
     is_soldout: true
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/20241117_canlis_NWSS4084_web.jpg"
   - title: Kenlis Tuanshan
-    desc: A two-day plastic-fantastic party where the only rule was to show up with
-      big Ken energy. Complete with live horses, a roller rink, and a tube slide rushing
-      out of the Penthouse. Artwork by Don Clark for Invisible Creature.
+    desc: Ideal for dramatic exits from the Dreamhouse —A little bit imperial court, a little bit Barbiecore.”
     year: 2024
     price: 45
-    purchase_url: 
+    purchase_url:
     is_soldout: true
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/20241117_canlis_NWSS4144_web.jpg"
 - title: Guest Chef Dinner Posters
-  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-  year: 2018 - 2025
+  desc: Series of posters from past guest chef dinners — the kind of nights where we pushed the tables together, opened special bottles, and let someone else take the wheel. Good food, one-off menus, and no chance it’ll ever happen quite the same way again.
+  year: 2016 - 2025
   type: Print
-  price: 
-  purchase_url: 
-  is_soldout: 
-  partner: 
+  price:
+  purchase_url:
+  is_soldout:
+  partner:
   is_featured: false
   is_visible: true
   is_slideshow: true
@@ -753,11 +730,11 @@ items:
   photos:
   - title: ''
     url: "/uploads/El%20Chato%20x%20Canlis.jpg"
-  - title: 
+  - title:
     url: "/uploads/Contra%20x%20Canlis.jpg"
-  - title: 
+  - title:
     url: "/uploads/Blanca%20x%20Canlis.jpg"
-  - title: 
+  - title:
     url: "/uploads/Momofuku%20Ko%20x%20Canlis.jpg"
   is_collection: true
   items:
@@ -765,46 +742,43 @@ items:
     desc: Chef Álvaro Clavijo of Bogotá's El Chato joined the Canlis kitchen for a
       one-night menu celebrating the bold ingredients and flavors of Colombia. Poster
       design by Jeremy P. Beasley
-    year: 20XX
+    year: 2025
     price: 15
-    purchase_url: 
+    purchase_url:
     is_soldout: true
-    partner: 
+    partner:
     photos:
     - title: ''
       url: "/uploads/El%20Chato%20x%20Canlis.jpg"
   - title: Contra x Canlis
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-    year: 20XX
+    desc: Sharp cooking, thoughtful courses, and a little slice of downtown Manhattan dropped into a Pacific Northwest dining room for one night. Poster design by Dana Tanamachi.
+    year: 2016
     price: 15
-    purchase_url: 
+    purchase_url:
     is_soldout: true
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/Contra%20x%20Canlis.jpg"
   - title: Blanca x Canlis
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-    year: 20XX
+    desc: Loud kitchen, tight menu, and the kind of energy that only happens when Chef Carlo Mirarchi brings a little New York City into the room. Poster design by Jordan Butcher.
+    year: 2017
     price: 15
-    purchase_url: 
+    purchase_url:
     is_soldout: true
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/Blanca%20x%20Canlis.jpg"
   - title: Momofuku Ko x Canlis
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-    year: 20XX
+    desc: "Proof of a rare visit: Sean Gray bringing Momofuku Ko’s precise, modern cooking to Seattle. Poster design by Sasha Barr."
+    year: 2017
     price: 15
-    purchase_url: 
+    purchase_url:
     is_soldout: true
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/Momofuku%20Ko%20x%20Canlis.jpg"
 - title: Shake Shack x Canlis Poster
   desc: Our parking lot turned into a one-day summer festival of ShackBurgers, crab
@@ -813,86 +787,82 @@ items:
   year: 2019
   type: Print
   price: 45
-  purchase_url: 
+  purchase_url:
   is_soldout: true
-  partner: 
+  partner:
   is_featured: false
   is_visible: true
   is_slideshow: false
   photo_duration: 2600
   photos:
-  - title: 
+  - title:
     url: "/uploads/Shake%20Shack%20x%20Canlis.jpg"
-  is_collection: 
-  items: 
+  is_collection:
+  items:
 - title: Hurricane Centerpiece
-  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-  year: 
+  desc: Created by Stephen Golasa, these beautiful glass ornaments served as our centerpieces for over ten years,.
+  year:
   type: Objects
   price: 45
-  purchase_url: 
+  purchase_url:
   is_soldout: true
-  partner: 
+  partner:
   is_featured: false
   is_visible: true
   is_slideshow: false
   photo_duration: 2600
   photos:
-  - title: 
+  - title:
     url: "/uploads/20241014_Canlis_228-bdfd1f.jpg"
-  is_collection: 
-  items: 
+  is_collection:
+  items:
 - title: Canlis Staff Apparel
   desc: 'All the best ones. And the coveted t-shirt: from the mind of Chef Brady Williams
     the original —''Lukewarm Tweezer Food''.'
   year: 2019
-  type: 
-  price: 
-  purchase_url: 
-  is_soldout: 
-  partner: 
+  type:
+  price:
+  purchase_url:
+  is_soldout:
+  partner:
   is_featured: false
   is_visible: true
-  is_slideshow: 
+  is_slideshow:
   photo_duration: 2000
   photos:
-  - title: 
+  - title:
     url: "/uploads/20240502_Canlis_212.jpg"
   is_collection: true
   items:
   - title: Lukewarm Tweezer Food
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-    year: 2023
+    desc:
+    year: 2019
     price: 45
-    purchase_url: 
+    purchase_url:
     is_soldout: true
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/20240502_Canlis_189.jpg"
-  - title: Canlis Staff Apparel Beanie
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  - title: Canlis Staff Beanie
+    desc:
     year: 2023
     price: 45
-    purchase_url: 
+    purchase_url:
     is_soldout: true
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/20240502_Canlis_116-689580.jpg"
   - title: Canlis Staff Apparel Hoodie
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+    desc:
     year: 2023
     price: 45
-    purchase_url: 
+    purchase_url:
     is_soldout: false
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/20240502_Canlis_212.jpg"
 - title: Hawaiian Nights Tote
   desc: An parking lot island escape where the pool was hot, the grills were hotter,
@@ -901,80 +871,74 @@ items:
   year: 2019
   type: Apparel / Accessories
   price: 45
-  purchase_url: 
+  purchase_url:
   is_soldout: true
-  partner: 
+  partner:
   is_featured: false
   is_visible: true
   is_slideshow: false
   photo_duration: 2600
   photos:
-  - title: 
+  - title:
     url: "/uploads/20240420_Canlis_188_web.jpg"
-  is_collection: 
-  items: 
+  is_collection:
+  items:
 - title: The Canlis Ant Farm
-  desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-    incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+  desc: XXX
   year: 2022
   type: Objects
   price: 45
-  purchase_url: 
+  purchase_url:
   is_soldout: true
-  partner: 
+  partner:
   is_featured: true
   is_visible: true
   is_slideshow: false
   photo_duration: 3500
   photos:
-  - title: 
+  - title:
     url: "/uploads/8824f2cdb652ad892fa3341760fb6b4d5994b1f6-1500x1500.jpg"
-  - title: 
+  - title:
     url: "/uploads/antfarm2.jpg"
-  is_collection: 
-  items: 
+  is_collection:
+  items:
 - title: 'Live In The Lower Lot: Posters'
-  desc: Grammy award winning, Lone Bellow, joined us for a night of soulful tunes,
-    at-capacity hot tubs, and Chef James' top notch pizza tossing. Poster design by
-    Don Clark for Invisible Creatures.
+  desc: Grammy award winning, Lone Bellow and indie rock band, Calexico, joined us for two nights of soulful electric tunes, at-capacity hot tubs, and Chef James' top notch pizza tossing. Poster design by Don Clark for Invisible Creatures.
   year: 2023
   type: Print
-  price: 
-  purchase_url: 
-  is_soldout: 
-  partner: 
+  price:
+  purchase_url:
+  is_soldout:
+  partner:
   is_featured: false
   is_visible: true
   is_slideshow: true
   photo_duration: 2000
   photos:
-  - title: 
+  - title:
     url: "/uploads/Lone%20Bellow.jpg"
-  - title: 
+  - title:
     url: "/uploads/Calexico%20Concert.jpg"
   is_collection: true
   items:
   - title: The Lone Bellow
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-    year: 20XX
+    desc:
+    year: 2023
     price: 45
-    purchase_url: 
+    purchase_url:
     is_soldout: false
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/Lone%20Bellow.jpg"
   - title: Calexico
-    desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
-    year: 20XX
+    desc:
+    year: 2023
     price: 45
     purchase_url: https://www.nytimes.com/
     is_soldout: false
-    partner: 
+    partner:
     photos:
-    - title: 
+    - title:
       url: "/uploads/Calexico%20Concert.jpg"
 ---
-
