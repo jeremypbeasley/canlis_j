@@ -627,14 +627,14 @@ items:
     - title:
       url: "/uploads/placeholder_studio.jpg"
   - title: MiiR Beer Pong Kit
-    desc:
+    desc: 
     year: 2024
     price: 45
-    purchase_url:
+    purchase_url: 
     is_soldout: true
-    partner:
+    partner: 
     photos:
-    - title:
+    - title: 
       url: "/uploads/placeholder_studio.jpg"
   - title: Canlis Community College Pendant
     desc:
