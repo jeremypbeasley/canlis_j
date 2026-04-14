@@ -139,7 +139,7 @@
 
                   {% if item.desc and item.desc != blank %}
                     <div class="LightboxDesc">
-                      {{ item.desc }}
+                      {{ item.desc | markdownify }}
                     </div>
                   {% endif %}
 
