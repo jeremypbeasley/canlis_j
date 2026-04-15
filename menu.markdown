@@ -17,8 +17,8 @@ course_1:
 - title: Parmesean
   desc: agnolotti, guanciale, and arugula
 course_2:
-- title: Sturgeon
-  desc: barley, matsutake, and seaweed
+- title: Halibut
+  desc: english pea, porcini, and dashi
 - title: Celeriac
   desc: leek, koji, brassica, and hazelnut
 - title: Duck
