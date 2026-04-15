@@ -871,7 +871,7 @@ items:
   items:
 - title: Canlis Staff Apparel
   desc: A few of our favorites. From Chef Brady Williams’ original pandemic-yelp-review “'Lukewarm Tweezer Food' to the iconic black hoodie seen at Pearl Jam concerts and Kraken games.
-  year: 2019
+  year: 2019 - 2026
   type:
   price:
   purchase_url:
@@ -906,6 +906,36 @@ items:
     photos:
     - title:
       url: "/uploads/20240502_Canlis_116-689580.jpg"
+  - title: "'Canlis Is Seattle' T-Shirt"
+    desc:
+    year: 2026
+    price: 45
+    purchase_url:
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/canlisseattle.jpg"
+  - title: Canlis Staff Trucker Cap
+    desc:
+    year: 2026
+    price: 45
+    purchase_url:
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/truckercap.jpg"
+  - title: Canlis Staff Dad Cap
+    desc:
+    year: 2026
+    price: 45
+    purchase_url:
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/dadcap.jpg"
   - title: Canlis Staff Apparel Hoodie
     desc:
     year: 2023
