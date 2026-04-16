@@ -5329,8 +5329,8 @@ input[type=submit] {
   border-radius: 15vw;
 /* margin-top: 30vw; */
   padding-bottom: 8vw;
-/* transform: translateY(100vh); */
-/* animation: StudioLoad 1000ms ease 5000ms forwards; */
+  transform: translateY(100vh);
+  animation: StudioLoad 1000ms ease 2000ms forwards;
 }
 .StudioIntro {
   width: 100%;
