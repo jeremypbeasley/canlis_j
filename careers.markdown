@@ -12,11 +12,13 @@ section1:
     tick. We recommend thinking about how working here will help you become more of
     who you want to become, not what you want to become. We recommend taking the advice
     of your mother — whatever it was she said, try to remember — it’s going to help
-    you get a job here.\n\nTo apply, <b>please send a resume and cover letter</b>
-    to Andy Pelander at [work@canlis.com](mailto:work@canlis.com). Applications are
-    reviewed on Wednesdays and Fridays.\n\nRoles we are currently hiring for:<br>\n<b>Barista
-    + Server</b> – Pay: $24-49/hour plus tips<br>\n<b>Pastry Cook</b> – Pay: $23-26/hour
-    plus tips<br>\n<b>Line Cook</b> – Pay: $23-26/hour plus tips<br>\n\nAll positions
+    you get a job here.\n\nTo apply, <b>send your resume and cover letter</b> to Andy
+    Pelander, our Director of People and Development, at [work@canlis.com](mailto:work@canlis.com).
+    And please don't skimp on the letter...\n\nDescribe a bit about who you are and
+    why Canlis may be a good fit. Be specific, and feel free to have fun with it!\n\nRoles
+    we are currently hiring for:<br>\n<b>Pastry Sous/Chef</b> – Salary: $85-100k annually<br>\n<b>Barista
+    + Server</b> – Pay: $24-49/hour plus tips<br>\n<b>Pastry Cook</b> – Pay: $23-25/hour
+    plus tips<br>\n<b>Line Cook</b> – Pay: $23-25/hour plus tips<br>\n\nAll positions
     include available medical, dental, vision, and life insurance, 401K, PTO, and
     dining benefits. "
 section2:
