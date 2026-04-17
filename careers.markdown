@@ -11,7 +11,7 @@ section1:
     we recommend you read most of this entire website to figure out what makes us
     tick. We recommend thinking about how working here will help you become more of
     who you want to become, not what you want to become. We recommend taking the advice
-    of your mother — whatever it was she said, try to remember — it’s going to help
+    of your mother — whatever it was she said, try to remember — because it may help
     you get a job here.\n\nTo apply, <b>send your resume and cover letter</b> to Andy
     Pelander, our Director of People and Development, at [work@canlis.com](mailto:work@canlis.com).
     And please don't skimp on the letter...\n\nDescribe a bit about who you are and
