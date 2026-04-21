@@ -40,7 +40,7 @@ items:
   year: 2024
   type: Printed
   price: 15
-  purchase_url:
+  purchase_url: https://canlisstudio.squarespace.com/
   is_soldout: false
   partner:
   is_featured: true
@@ -274,7 +274,7 @@ items:
     desc: Kriek-style genius, left in a barrel of locally sourced cherries for a year.
     year: 2025
     price: 30
-    purchase_url: https://canlisstudio.squarespace.com/shop/p/booze
+    purchase_url: https://canlisstudio.squarespace.com/
     is_soldout: false
     partner: Holy Mountain Brewing
     photos:
@@ -285,7 +285,7 @@ items:
       barrels.
     year: 2025
     price: 32
-    purchase_url: XXXX
+    purchase_url: https://canlisstudio.squarespace.com/
     is_soldout: false
     partner: Holy Mountain Brewing
     photos:
@@ -296,7 +296,7 @@ items:
       drank when you were younger.
     year: 2025
     price: 28
-    purchase_url: XXXX
+    purchase_url: https://canlisstudio.squarespace.com/
     is_soldout: false
     partner: Son of Man
     photos:
@@ -354,7 +354,7 @@ items:
     year: '2022'
     price: 210
     purchase_url:
-    is_soldout: false
+    is_soldout: true
     partner:
     photos:
     - title:
@@ -452,7 +452,7 @@ items:
     desc:
     year: 2026
     price: 36
-    purchase_url:
+    purchase_url: https://canlisstudio.squarespace.com/
     is_soldout: false
     partner:
     photos:
@@ -462,7 +462,7 @@ items:
     desc:
     year: 2026
     price: 32
-    purchase_url:
+    purchase_url: https://canlisstudio.squarespace.com/
     is_soldout: false
     partner:
     photos:
@@ -472,7 +472,7 @@ items:
     desc:
     year: 2026
     price: 32
-    purchase_url:
+    purchase_url: https://canlisstudio.squarespace.com/
     is_soldout: false
     partner:
     photos:
@@ -482,7 +482,7 @@ items:
     desc:
     year: 2023
     price: 75
-    purchase_url:
+    purchase_url: https://canlisstudio.squarespace.com/
     is_soldout: false
     partner:
     photos:
@@ -503,7 +503,7 @@ items:
   year: 2024
   type: Apparel / Accessories
   price: 25
-  purchase_url:
+  purchase_url: https://canlisstudio.squarespace.com/
   is_soldout: false
   partner:
   is_featured: false
@@ -532,29 +532,6 @@ items:
   photos:
   - title:
     url: "/uploads/High%20Seas.jpg"
-  is_collection:
-  items:
-- title: The Canlis TV Dinner
-  desc: We grew up on Swedish Meatballs microwaved to perfection. This pandemic-era
-    pivot sold out in seconds, becoming a big hit among new fans and old regulars
-    alike. This is also our answer to the oft-asked question, “Which pandemic era
-    experiment would you ever repeat in the future?” Box design by Don Clark for Invisible
-    Creature.
-  year: 2020
-  type: Uncategorized
-  price: 45
-  purchase_url:
-  is_soldout: true
-  partner:
-  is_featured: true
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title:
-    url: "/uploads/dinner_front.jpg"
-  - title:
-    url: "/uploads/dinner_back.jpg"
   is_collection:
   items:
 - title: Space Prom Poster
@@ -594,6 +571,29 @@ items:
     url: "/uploads/poster_hawaiiannights.jpg"
   is_collection:
   items:
+- title: The Canlis TV Dinner
+  desc: We grew up on Swedish Meatballs microwaved to perfection. This pandemic-era
+    pivot sold out in seconds, becoming a big hit among new fans and old regulars
+    alike. This is also our answer to the oft-asked question, “Which pandemic era
+    experiment would you ever repeat in the future?” Box design by Don Clark for Invisible
+    Creature.
+  year: 2020
+  type: Uncategorized
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner:
+  is_featured: true
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/dinfront.jpg"
+  - title:
+    url: "/uploads/dinback.jpg"
+  is_collection:
+  items:
 - title: The Canlis Yurt Villiage Poster
   desc: America’s hottest reservation during the pandemic was in a parking lot of
     cozy yurts. The idea spawned a nation-wide movement and saved many restaurants,
@@ -619,7 +619,7 @@ items:
   year: 2024
   type: Apparel / Accessories
   price: 34
-  purchase_url:
+  purchase_url: https://canlisstudio.squarespace.com/
   is_soldout: false
   partner: MiiR
   is_featured: false
@@ -762,7 +762,7 @@ items:
     desc:
     year: 2020
     price: 15
-    purchase_url:
+    purchase_url: https://canlisstudio.squarespace.com/
     is_soldout: false
     partner:
     photos:
@@ -855,7 +855,7 @@ items:
       Creature.
     year: 2024
     price: 25
-    purchase_url:
+    purchase_url: https://canlisstudio.squarespace.com/
     is_soldout: false
     partner:
     photos:
@@ -868,7 +868,7 @@ items:
       Creature.
     year: 2024
     price: 45
-    purchase_url:
+    purchase_url: https://canlisstudio.squarespace.com/
     is_soldout: true
     partner:
     photos:
@@ -925,7 +925,7 @@ items:
   year: 2024
   type: Objects
   price: 450
-  purchase_url: https://canlisstudio.squarespace.com/shop/p/dylan
+  purchase_url: https://canlisstudio.squarespace.com/
   is_soldout: false
   partner: Dylan Andersen
   is_featured: true
@@ -1053,7 +1053,7 @@ items:
   year:
   type: Objects
   price: 275
-  purchase_url:
+  purchase_url: https://canlisstudio.squarespace.com/
   is_soldout: false
   partner:
   is_featured: false
@@ -1096,7 +1096,7 @@ items:
   type: Print
   price:
   purchase_url:
-  is_soldout:
+  is_soldout: true
   partner:
   is_featured: false
   is_visible: true
@@ -1114,7 +1114,7 @@ items:
     year: 2023
     price: 45
     purchase_url:
-    is_soldout: false
+    is_soldout: true
     partner:
     photos:
     - title:
@@ -1123,8 +1123,8 @@ items:
     desc:
     year: 2023
     price: 45
-    purchase_url: https://www.nytimes.com/
-    is_soldout: false
+    purchase_url:
+    is_soldout: true
     partner:
     photos:
     - title:
