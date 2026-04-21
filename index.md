@@ -1,11 +1,11 @@
 ---
 title: Seattle’s family-owned fine dining since 1950
-is_alert_shown: false
+is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
-alert_text: "\U0001F38A Canlis is open Mondays: January 5th and 12th. Book your reservation
-  here. \U0001F38A"
-alert_link: https://www.exploretock.com/canlis
-alert_color: "#ffffff"
+alert_text: "\U0001F490 Mother's Day Brunch, packed in a basket. Serves 6. Limited
+  quantities available. "
+alert_link: https://canlis.com/moms
+alert_color: "#ECD7DF"
 og_title: Canlis Restaurant
 og_photo: "/uploads/kevin1-db615c.jpg"
 og_desc: Seattle's landmark fine-dining destination for 70 years and recent home to

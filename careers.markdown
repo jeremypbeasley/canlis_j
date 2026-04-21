@@ -11,12 +11,14 @@ section1:
     we recommend you read most of this entire website to figure out what makes us
     tick. We recommend thinking about how working here will help you become more of
     who you want to become, not what you want to become. We recommend taking the advice
-    of your mother — whatever it was she said, try to remember — it’s going to help
-    you get a job here.\n\nTo apply, <b>please send a resume and cover letter</b>
-    to Andy Pelander at [work@canlis.com](mailto:work@canlis.com). Applications are
-    reviewed on Wednesdays and Fridays.\n\nRoles we are currently hiring for:<br>\n<b>Barista
-    + Server</b> – Pay: $24-49/hour plus tips<br>\n<b>Pastry Cook</b> – Pay: $23-26/hour
-    plus tips<br>\n<b>Line Cook</b> – Pay: $23-26/hour plus tips<br>\n\nAll positions
+    of your mother — whatever it was she said, try to remember — because it may help
+    you get a job here.\n\nTo apply, <b>send your resume and cover letter</b> to Andy
+    Pelander, our Director of People and Development, at [work@canlis.com](mailto:work@canlis.com).
+    And please don't skimp on the letter...\n\nDescribe a bit about who you are and
+    why Canlis may be a good fit. Be specific, and feel free to have fun with it!\n\nRoles
+    we are currently hiring for:<br>\n<b>Pastry Sous/Chef</b> – Salary: $85-100k annually<br>\n<b>Barista
+    + Server</b> – Pay: $24-49/hour plus tips<br>\n<b>Pastry Cook</b> – Pay: $23-25/hour
+    plus tips<br>\n<b>Line Cook</b> – Pay: $23-25/hour plus tips<br>\n\nAll positions
     include available medical, dental, vision, and life insurance, 401K, PTO, and
     dining benefits. "
 section2:
@@ -31,15 +33,15 @@ section2:
 section3:
   title: Benefits
   desc: |-
-    Employees have the option of enrolling in Canlis’ insurance policy after working for 60 days, at least 30 hours a week. Canlis offers medical, vision, dental, and life insurance. The cost of insurance is covered 75% by Canlis for the employee, 75% covered for any dependents, and 0% covered for spouses. <br>
+    Employees have the option of enrolling in Canlis's health coverage after working for 60 days, at least 30 hours a week. Canlis offers medical, vision, dental, and life insurance. The cost of insurance is covered 75% by Canlis for hourly employees, 75% covered for any dependents, and 0% covered for spouses. <br>
     <br>
-    Canlis offers all staff members a 401k program that matches 75% up to 8% of your pay. This is awesome. Ask around.<br>
+    Canlis offers all eligible employees participation in a profit-sharing 401k program that matches 75% up to 8% of your pay. This is awesome. Ask around.<br>
     <br>
     Canlis is closed Sundays, Mondays, and most holidays<br>
     <br>
-    Dining Privileges: Hourly employees dining at Canlis will receive 50% off all food and non-alcoholic beverages, starting as soon as they are hired. Additionally, after working at Canlis for at least 6 months - all employees receive a “dinner for two” (not including any alcohol ordered) continuing education credit each calendar year to dine at the restaurant. The dinner for two credit may not be carried over into the subsequent calendar year. Both the discount and the credit cannot be used on Friday/Saturday or the month of December.<br>
+    Dining Privileges: Hourly employees dining at Canlis will receive 50% off all food and non-alcoholic beverages, starting as soon as they are hired. Additionally, after working at Canlis for at least six months, all employees receive a “dinner for two” (excluded alcohol) continuing education credit each calendar year to dine at the restaurant. The dinner for two credit may not be carried over into the subsequent calendar year. Dining discounts and credits cannot be used on Friday/Saturday or the month of December.<br>
     <br>
-    Canlis provides universal paid time off (PTO) to all employees, for use as paid vacation leave, sick leave, or safe leave. The Canlis PTO Policy is below:<br>
+    Canlis provides universal paid time off (PTO) to all employees, for use as paid vacation leave, sick leave, or safe leave. The Canlis PTO Policy for hourly employees is below:<br>
     Years worked at Canlis: 0-3 / Accrual Rate: 1.11 / PTO Days: 7<br>
     Years worked at Canlis: 4-5 / Accrual Rate: 1.6 / PTO Days: 10<br>
     Years worked at Canlis: 6-10 / Accrual Rate: 1.94 / PTO Days: 12<br>
