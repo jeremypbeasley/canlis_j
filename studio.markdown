@@ -3,12 +3,9 @@ title: Studio
 date: 2016-11-10 10:09:00 -08:00
 layout: studio
 og_photo: "/uploads/cradle1.jpg"
-headline: It is human to create. We don’t just acknowledge this… we like to roll around
-  in it.
+headline: Beyond the dining room, there are some ideas that are <i>too fun to resist</i>.
 desc: |-
-  Sometimes ideas are so fun we can’t resist making them come true. Sometimes we meet an artist we simply have to work with. Some arrived with a big party and some are experiences in and of themselves. Some are just for us. Some we made just to share with you.
-
-  Here’s a peek into the parties we throw, the things we make, the pivots that saved us —straight from the minds of our family and staff.
+  Welcome to the world we create when we aren’t creating dinner. This is our studio. Here’s a peek into the parties we throw, the things we make, the pivots that saved us —straight from the minds of our family and staff.
 partners_intro: This collection of objects and the memories that go along with them
   were only possible with each of these talented collaborators and friends.
 partners:
@@ -61,7 +58,7 @@ items:
     url: "/uploads/20241117_canlis_NWSS4036_web.jpg"
   is_collection:
   items:
-- title: The Black Kampelli Wine Cradle
+- title: The Canlis Wine Cradle
   desc: Designed by our sommeliers as the perfect vessel both to carry and showcase
     a delicate bottle, this cradle, made of steel, brass and Kampelli leather, is
     the workhorse of our dining room floor. It also works for showcasing that favorite
@@ -204,30 +201,6 @@ items:
     url: "/uploads/poncho.jpg"
   is_collection:
   items:
-- title: Canlis Steak Knife
-  desc: We partnered with our friends at Filson to create the perfect steak knife
-    for dinner service. The match-grade Hawaiian koa handles, foraged on the Big Island,
-    match Canlis’s original 1950 koa serviceware.  Design by Brandis Gray and fabrication
-    by her husband, Rob Gray for Graycloud Knives
-  year: 2022
-  type: Apparel / Accessories
-  price: 45
-  purchase_url:
-  is_soldout: true
-  partner: Filson
-  is_featured: false
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title:
-    url: "/uploads/knife1.jpg"
-  - title:
-    url: "/uploads/knife3.jpg"
-  - title:
-    url: "/uploads/knife2.jpg"
-  is_collection:
-  items:
 - title: Live Recordings at Canlis
   desc: Various vinyl releases by Walt Wagner, Danny Lowell, and Clay Wheeler
   year: 1962 - 2016
@@ -252,9 +225,9 @@ items:
   - title: 'Walt Wagner, Reworks: Live at Canlis'
     desc:
     year: 2016
-    price: 45
-    purchase_url:
-    is_soldout: true
+    price: 16
+    purchase_url: https://waltwagner-dot-com.square.site/product/reworks-walt-wagner-piano-cd-lp-/1?cs=true&cst=custom
+    is_soldout: false
     partner: Sub Pop Records
     photos:
     - title:
@@ -329,6 +302,25 @@ items:
     photos:
     - title:
       url: "/uploads/bottle_sonofman.jpg"
+- title: The Canlis Ant Farm
+  desc: It’s just like Canlis. Only smaller, and with ants.
+  year: 2022
+  type: Objects
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner:
+  is_featured: true
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 3500
+  photos:
+  - title:
+    url: "/uploads/8824f2cdb652ad892fa3341760fb6b4d5994b1f6-1500x1500.jpg"
+  - title:
+    url: "/uploads/antfarm2.jpg"
+  is_collection:
+  items:
 - title: Wine Collaborations
   desc: Canlis is known for it's wine collection, but our collaborations with some
     of the world's finest winemakers.
@@ -344,7 +336,7 @@ items:
   photo_duration: 2000
   photos:
   - title:
-    url: "/uploads/wine_hero.jpg"
+    url: "/uploads/wine_kobayashi.jpg"
   is_collection: true
   items:
   - title: Jean Milan, Canlis Cuvée
@@ -407,6 +399,26 @@ items:
     photos:
     - title:
       url: "/uploads/kracher17.jpg"
+- title: Canlis Snow Globe
+  desc: Tiny Canlis in a snowstorm. Right after world peace hospitality for all, we
+    thought this is what the world needed more of.
+  year: 2018
+  type: Objects
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner:
+  is_featured: true
+  is_visible: true
+  is_slideshow: true
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/ab31fe87144256eb8dcb0b67d5608c4e9a7a77f7-1500x1500.jpg"
+  - title:
+    url: "/uploads/globe2.jpg"
+  is_collection:
+  items:
 - title: Canlis Staff Apparel
   desc: A few of our favorites. From Chef Brady Williams’ original pandemic-yelp-review
     “'Lukewarm Tweezer Food' to the iconic black hoodie seen at Pearl Jam concerts
@@ -439,9 +451,9 @@ items:
   - title: "'Canlis Is Seattle' T-Shirt"
     desc:
     year: 2026
-    price: 25
+    price: 36
     purchase_url:
-    is_soldout: true
+    is_soldout: false
     partner:
     photos:
     - title:
@@ -449,7 +461,7 @@ items:
   - title: Canlis Staff Trucker Cap
     desc:
     year: 2026
-    price: 25
+    price: 32
     purchase_url:
     is_soldout: false
     partner:
@@ -459,17 +471,17 @@ items:
   - title: Canlis Staff Dad Cap
     desc:
     year: 2026
-    price: 25
+    price: 32
     purchase_url:
     is_soldout: false
     partner:
     photos:
     - title:
       url: "/uploads/dadcap.jpg"
-  - title: Canlis Staff Apparel Hoodie
+  - title: Canlis Staff Hoodie
     desc:
     year: 2023
-    price: 45
+    price: 75
     purchase_url:
     is_soldout: false
     partner:
@@ -520,30 +532,6 @@ items:
   photos:
   - title:
     url: "/uploads/High%20Seas.jpg"
-  is_collection:
-  items:
-- title: Canlis Salt Ramekins
-  desc: 'Local artisan and sculptor Dylan Andersen created a series of solid bronze
-    ramekins to accompany our opening bread course. Rather than being carved out,
-    each is pressed into a bowl shape with around 50,000 lbs of hydraulic pressure.
-    <br> <br>Note: Each ramekin is sold individually with one spoon. '
-  year: 2024
-  type: Objects
-  price: 450
-  purchase_url: https://canlisstudio.squarespace.com/shop/p/dylan
-  is_soldout: false
-  partner: Dylan Andersen
-  is_featured: true
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title:
-    url: "/uploads/ramy.jpg"
-  - title:
-    url: "/uploads/ram2.jpg"
-  - title:
-    url: "/uploads/ram3.jpg"
   is_collection:
   items:
 - title: The Canlis TV Dinner
@@ -630,9 +618,9 @@ items:
     this nation and our restaurant. Artwork by Nathan Yoder.
   year: 2024
   type: Apparel / Accessories
-  price: 30
+  price: 34
   purchase_url:
-  is_soldout: true
+  is_soldout: false
   partner: MiiR
   is_featured: false
   is_visible: true
@@ -710,26 +698,6 @@ items:
     url: "/uploads/whiskey2.jpg"
   is_collection:
   items:
-- title: Canlis Snow Globe
-  desc: Tiny Canlis in a snowstorm. Right after world peace hospitality for all, we
-    thought this is what the world needed more of.
-  year: 2018
-  type: Objects
-  price: 45
-  purchase_url:
-  is_soldout: true
-  partner:
-  is_featured: true
-  is_visible: true
-  is_slideshow: true
-  photo_duration: 2600
-  photos:
-  - title:
-    url: "/uploads/ab31fe87144256eb8dcb0b67d5608c4e9a7a77f7-1500x1500.jpg"
-  - title:
-    url: "/uploads/globe2.jpg"
-  is_collection:
-  items:
 - title: Midnight 50s Poster
   desc: Our first ever New Year's Eve dance party – a 1950's themed bash of big band
     sound and big expectations for the coming year. Poster design by Don Clark for
@@ -790,12 +758,22 @@ items:
     url: "/uploads/ccc.jpg"
   is_collection: true
   items:
+  - title: Canlis Community College Pendant
+    desc:
+    year: 2020
+    price: 15
+    purchase_url:
+    is_soldout: false
+    partner:
+    photos:
+    - title:
+      url: "/uploads/20240502_Canlis_124.jpg"
   - title: Ebbet's Field Mechanic's Jacket
     desc:
     year: 2020
     price: 45
     purchase_url:
-    is_soldout: false
+    is_soldout: true
     partner:
     photos:
     - title:
@@ -830,16 +808,28 @@ items:
     photos:
     - title:
       url: "/uploads/20240420_Canlis_223_web.jpg"
-  - title: Canlis Community College Pendant
-    desc:
-    year: 2020
-    price: 15
-    purchase_url:
-    is_soldout: false
-    partner:
-    photos:
-    - title:
-      url: "/uploads/20240502_Canlis_124.jpg"
+- title: Canlis Steak Knife
+  desc: We partnered with our friends at Filson to create the perfect steak knife
+    for dinner service. The match-grade Hawaiian koa handles, foraged on the Big Island,
+    match Canlis’s original 1950 koa serviceware.  Design by Brandis Gray and fabrication
+    by her husband, Rob Gray for Graycloud Knives
+  year: 2022
+  type: Apparel / Accessories
+  price: 45
+  purchase_url:
+  is_soldout: true
+  partner: Filson
+  is_featured: false
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/knife1.jpg"
+  - title:
+    url: "/uploads/knife3.jpg"
+  - title:
+    url: "/uploads/knife2.jpg"
 - title: 'Kenlis: Plastic-Fantastic Gear'
   desc: When the need to repaint your building leads to the discovery that the primer
     can be ANY color you want. The only rule was to show up with real big Kenergy.
@@ -864,7 +854,7 @@ items:
     desc: Printed on Canvas crewneck T-Shirt. Design by Don Clark for Invisible
       Creature.
     year: 2024
-    price: 45
+    price: 25
     purchase_url:
     is_soldout: false
     partner:
@@ -927,6 +917,30 @@ items:
     photos:
     - title:
       url: "/uploads/20241117_canlis_NWSS4144_web.jpg"
+- title: Canlis Salt Ramekins
+  desc: 'Local artisan and sculptor Dylan Andersen created a series of solid bronze
+    ramekins to accompany our opening bread course. Rather than being carved out,
+    each is pressed into a bowl shape with around 50,000 lbs of hydraulic pressure.
+    <br> <br>Note: Each ramekin is sold individually with one spoon. '
+  year: 2024
+  type: Objects
+  price: 450
+  purchase_url: https://canlisstudio.squarespace.com/shop/p/dylan
+  is_soldout: false
+  partner: Dylan Andersen
+  is_featured: true
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/ramy.jpg"
+  - title:
+    url: "/uploads/ram2.jpg"
+  - title:
+    url: "/uploads/ram3.jpg"
+  is_collection:
+  items:
 - title: Guest Chef Dinner Posters
   desc: Series of posters from past guest chef dinners — the kind of nights where
     we pushed the tables together, opened special bottles, and let someone else take
@@ -1038,9 +1052,9 @@ items:
     for over ten years.
   year:
   type: Objects
-  price: 45
+  price: 275
   purchase_url:
-  is_soldout: true
+  is_soldout: false
   partner:
   is_featured: false
   is_visible: true
@@ -1072,25 +1086,6 @@ items:
   photos:
   - title:
     url: "/uploads/20240420_Canlis_188_web.jpg"
-  is_collection:
-  items:
-- title: The Canlis Ant Farm
-  desc: It’s just like Canlis. Only smaller, and with ants.
-  year: 2022
-  type: Objects
-  price: 45
-  purchase_url:
-  is_soldout: true
-  partner:
-  is_featured: true
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 3500
-  photos:
-  - title:
-    url: "/uploads/8824f2cdb652ad892fa3341760fb6b4d5994b1f6-1500x1500.jpg"
-  - title:
-    url: "/uploads/antfarm2.jpg"
   is_collection:
   items:
 - title: 'Live In The Lower Lot: Posters'
@@ -1134,4 +1129,49 @@ items:
     photos:
     - title:
       url: "/uploads/Calexico%20Concert.jpg"
+- title: The Manual Vol. 01
+  desc: |-
+    We made a book —just for our staff.
+    It's all about who we are, what we believe about hospitality, and the stories that made us. In typical fashion, we went all out: spending five years writing, photographing, unarchiving, and designing something we're proud to give to our people.
+  year: 2025
+  type: Objects
+  price: 450
+  purchase_url:
+  is_soldout: true
+  partner:
+  is_featured: true
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/canlisbook100.jpg"
+  - title:
+    url: "/uploads/canlisbook1.jpg"
+  - title:
+    url: "/uploads/canlisbook2.jpg"
+  - title:
+    url: "/uploads/canlisbook3.jpg"
+  - title:
+    url: "/uploads/canlisbook4.jpg"
+  - title:
+    url: "/uploads/canlisbook5.jpg"
+  - title:
+    url: "/uploads/canlisbook6.jpg"
+  - title:
+    url: "/uploads/canlisbook7.jpg"
+  - title:
+    url: "/uploads/canlisbook8.jpg"
+  - title:
+    url: "/uploads/canlisbook9.jpg"
+  - title:
+    url: "/uploads/canlisbook10.jpg"
+  - title:
+    url: "/uploads/canlisbook11.jpg"
+  - title:
+    url: "/uploads/canlisbook12.jpg"
+  - title:
+    url: "/uploads/canlisbook13.jpg"
+  is_collection:
+  items:
 ---
