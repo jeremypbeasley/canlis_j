@@ -12,7 +12,7 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
 course_1:
 - title: Manila Clams
   desc: " geoduck and kasu chowder"
-- title: Salsify
+- title: Sunchoke
   desc: duxelle and soubise with early spring herbs
 - title: Parmesean
   desc: agnolotti, guanciale, and arugula
@@ -22,7 +22,7 @@ course_2:
 - title: Celeriac
   desc: leek, koji, brassica, and hazelnut
 - title: Duck
-  desc: turnip, mandarinquat, and rosemary
+  desc: morel, ramp, and cauliflower
 - title: Lamb Rack
   desc: yogurt, fig leaf, and chimichurri
 - title: or
