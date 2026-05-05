@@ -1147,6 +1147,8 @@ items:
   - title:
     url: "/uploads/canlisbook100.jpg"
   - title:
+    url: "/uploads/bookfront.jpg"
+  - title:
     url: "/uploads/canlisbook1.jpg"
   - title:
     url: "/uploads/canlisbook2.jpg"
