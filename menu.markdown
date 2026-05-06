@@ -27,8 +27,8 @@ course_2:
   desc: yogurt, fig leaf, and chimichurri
 - title: or
   desc: 
-- title: Meat and Potatoes
-  desc: "A course for the entire table. \nDry aged Pure Country Ribeye, Canlis potatoes,
+- title: Ribeye
+  desc: "A course for the entire table. \nDry-aged bone-in Ribeye, Canlis potatoes,
     and Dungeness crab with sturgeon caviar.\n+$55 per person; limited availability"
 course_3:
 - title: Soufflé
