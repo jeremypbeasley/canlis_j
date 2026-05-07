@@ -21,7 +21,7 @@ course_2:
   desc: english pea, porcini, and dashi
 - title: Celeriac
   desc: leek, koji, brassica, and hazelnut
-- title: Duck
+- title: Pork
   desc: morel, ramp, and cauliflower
 - title: Lamb Rack
   desc: yogurt, fig leaf, and chimichurri
