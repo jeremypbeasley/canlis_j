@@ -21,14 +21,14 @@ course_2:
   desc: english pea, porcini, and dashi
 - title: Celeriac
   desc: leek, koji, brassica, and hazelnut
-- title: Duck
+- title: Pork
   desc: morel, ramp, and cauliflower
 - title: Lamb Rack
   desc: yogurt, fig leaf, and chimichurri
 - title: or
   desc: 
-- title: Meat and Potatoes
-  desc: "A course for the entire table. \nDry aged Pure Country Ribeye, Canlis potatoes,
+- title: Ribeye
+  desc: "A course for the entire table. \nDry-aged bone-in Ribeye, Canlis potatoes,
     and Dungeness crab with sturgeon caviar.\n+$55 per person; limited availability"
 course_3:
 - title: Soufflé
