@@ -354,8 +354,8 @@ items:
     desc: Cabernet Franc, Sans Soufre — WeatherEye Vineyard, Red Mountain, WA — 750ml
     year: '2022'
     price: 210
-    purchase_url:
-    is_soldout: true
+    purchase_url: "https://canlisstudio.squarespace.com/"
+    is_soldout: false
     partner:
     photos:
     - title:
@@ -400,6 +400,26 @@ items:
     photos:
     - title:
       url: "/uploads/kracher17.jpg"
+  - title: Kracher x Canlis
+    desc: "Christopher Alois, Beerenauslese, Burgenland, 350ml ($95) or 1.5L ($350)"
+    year: 2022
+    price: 95-350
+    purchase_url: "https://canlisstudio.squarespace.com/"
+    is_soldout:  false
+    partner:
+    photos:
+    - title:
+      url: "/uploads/2022.jpg"
+  - title: Bérêche & Fils x Canlis Champagne Brut Réserve Amitiés
+    desc: 750ml
+    year: NV
+    price: 170
+    purchase_url: "https://canlisstudio.squarespace.com/"
+    is_soldout: false
+    partner:
+    photos:
+    - title:
+      url: "/uploads/amities.jpg"
 - title: Canlis Snow Globe
   desc: Tiny Canlis in a snowstorm. Right after world peace hospitality for all, we
     thought this is what the world needed more of.
