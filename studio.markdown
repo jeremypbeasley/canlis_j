@@ -10,6 +10,8 @@ desc: Welcome to the world we create when we aren’t creating dinner. This is o
 partners_intro: This collection of objects and the memories that go along with them
   were only possible with each of these talented collaborators and friends.
 partners:
+- title: Dylan Andersen
+  url: https://dylanandersen.art/
 - title: Jonathan Ball
   url: https://jonathanballdesign.com/
 - title: Jeremy P. Beasley
