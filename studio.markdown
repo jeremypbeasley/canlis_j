@@ -946,7 +946,7 @@ items:
   type: Objects
   price: 450
   purchase_url: https://canlisstudio.squarespace.com/
-  is_soldout: false
+  is_soldout: true
   partner: Dylan Andersen
   is_featured: true
   is_visible: true
