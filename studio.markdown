@@ -1,7 +1,6 @@
 ---
 title: Studio
 date: 2016-11-10 10:09:00 -08:00
-layout: studio
 og_photo: "/uploads/cradle1.jpg"
 headline: Beyond the dining room, there are some ideas that are <i>too fun to resist</i>.
 desc: Welcome to the world we create when we aren’t creating dinner. This is our studio.
@@ -354,7 +353,7 @@ items:
       url: "/uploads/wine_jean.jpg"
   - title: Kobayashi x Canlis
     desc: Cabernet Franc, Sans Soufre — WeatherEye Vineyard, Red Mountain, WA — 750ml
-    year: '2022'
+    year: 2022
     price: 210
     purchase_url: https://canlisstudio.squarespace.com/
     is_soldout: false
@@ -364,7 +363,7 @@ items:
       url: "/uploads/wine_kobayashi.jpg"
   - title: Hirsch Vineyards x Canlis
     desc: Lulu, Pinot Noir — Sonoma Coast, CA — 1.5L
-    year: '2008'
+    year: 2008
     price: 
     purchase_url: 
     is_soldout: true
@@ -374,7 +373,7 @@ items:
       url: "/uploads/wine_hero.jpg"
   - title: Buty
     desc: Peter Canlis Syrah — Walla Walla, Washington
-    year: '2006'
+    year: 2006
     price: 
     purchase_url: 
     is_soldout: true
@@ -979,9 +978,9 @@ items:
   is_slideshow: true
   photo_duration: 2600
   photos:
-  - title: ''
+  - title: 
     url: "/uploads/El%20Chato%20x%20Canlis.jpg"
-  - title: ''
+  - title: 
     url: "/uploads/z.jpg"
   - title: 
     url: "/uploads/Contra%20x%20Canlis.jpg"
@@ -1001,7 +1000,7 @@ items:
     is_soldout: true
     partner: 
     photos:
-    - title: ''
+    - title: 
       url: "/uploads/El%20Chato%20x%20Canlis.jpg"
   - title: Zahav x Canlis
     desc: Zahav’s Michael Solomonov —spice, hummus, and a delightfully messy table
@@ -1012,7 +1011,7 @@ items:
     is_soldout: true
     partner: 
     photos:
-    - title: ''
+    - title: 
       url: "/uploads/z.jpg"
   - title: Contra x Canlis
     desc: Sharp cooking, thoughtful courses, and a little slice of downtown Manhattan
@@ -1113,7 +1112,7 @@ items:
 - title: 'Live In The Lower Lot: Posters'
   desc: Grammy award winning, Lone Bellow and indie rock band, Calexico, joined us
     for two nights of soulful electric tunes, at-capacity hot tubs, and Chef James'
-    top notch pizza tossing. Poster design by Don Clark for Invisible Creatures.
+    top notch pizza tossing. Poster design by Don Clark for Invisible Creature.
   year: 2023
   type: Print
   price: 
@@ -1198,5 +1197,6 @@ items:
     url: "/uploads/canlisbook13.jpg"
   is_collection: 
   items: 
+layout: studio
 ---
 
