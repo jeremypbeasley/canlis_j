@@ -1,6 +1,6 @@
 ---
 title: Seattle’s family-owned fine dining since 1950
-is_alert_shown: true
+is_alert_shown: false
 intro_video: "/uploads/bgvideo.mp4"
 alert_text: "\U0001F490 Mother's Day Brunch, packed in a basket. Serves 6. Limited
   quantities available. "
