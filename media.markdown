@@ -32,7 +32,7 @@ items:
 - title: Executive Chef, James Huffman  (Photo by Jeremy P.  Beasley)
   thumbnail: "/uploads/james.jpg"
   link: "/uploads/james.jpg"
-- title: Executive Chef, James Huffman
+- title: Executive Chef, James Huffman (Photo by Nathan Bihm)
   thumbnail: "/uploads/James02.jpg"
   link: "/uploads/James02.jpg"
 - title: Tempura mushroom, apple balsamic and kohlrabi, Dungeness crab  (Photo by
