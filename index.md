@@ -2,6 +2,7 @@
 title: Seattle’s family-owned fine dining since 1950
 is_alert_shown: false
 intro_video: "/uploads/bgvideo.mp4"
+intro_video_aria_label: "Drone video, slowly approaching Canlis peeking over Lake Union"
 alert_text: "\U0001F490 Mother's Day Brunch, packed in a basket. Serves 6. Limited
   quantities available. "
 alert_link: https://canlis.com/moms
@@ -19,6 +20,7 @@ section_1_body_small:
 section_1_link_text:
 section_1_link_url:
 section_1_photo: "/uploads/kris-040276.jpg"
+section_1_photo_aria_label: "Serve preparing a Canlis Salad Tableside"
 section_2_label:
 section_2_headline: The Space
 section_2_body: This storied building was first designed by Roland Terry in 1950.
@@ -43,5 +45,5 @@ section_3_photo: "/uploads/flan-939d3e.jpg"
 section_4_photo: "/uploads/matt.jpg"
 food_photo_1: "/uploads/strawberry-83b10f.jpg"
 food_photo_2: "/uploads/pork-6ba986.jpg"
-layout: home_fall_2021
+layout: home
 ---
