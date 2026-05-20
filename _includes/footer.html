@@ -1,5 +1,7 @@
 </div>
 
+<!-- VISIBLE FOOTER ELEMENT -->
+
 <footer class="GlobalFooter">
   <div class="FooterLine"></div>
   <div class="row">
@@ -20,7 +22,11 @@
       <p class="mb0 pb0">
         2576 Aurora Ave N, Seattle, WA 98109<br>
         <i class="mb4">
-          <a href="https://maps.app.goo.gl/mZ3wEHvjgAq7eY3P7" target="_blank" rel="noopener">
+          <a
+    href="https://maps.app.goo.gl/mZ3wEHvjgAq7eY3P7"
+    target="_blank"
+    rel="noopener"
+>
             Directions in Google Maps
           </a>
         </i>
@@ -38,7 +44,7 @@
         <a
           href="mailto:reservations@canlis.com"
           aria-label="Email the restaurant"
-          ">
+        >
           reservations@canlis.com
         </a>
       </p>
@@ -46,17 +52,41 @@
   </div>
 </footer>
 
+<!-- /STUDIO: LIGHTBOXES -->
+
 {% assign visible_items = page.items | where: "is_visible", true %}
 
-<div class="Lightbox" id="Lightbox" aria-hidden="true">
-  <button class="LightboxOverlay" type="button" aria-label="Close lightbox" onclick="closeLightbox()"></button>
+<div
+    class="Lightbox"
+    id="Lightbox"
+    aria-hidden="true"
+>
 
-  <div class="LightboxShell" role="dialog" aria-modal="true" aria-label="Studio item details">
-    <button class="LightboxClose" type="button" aria-label="Close lightbox" onclick="closeLightbox()">
+  <!-- DISABLED OVERLAY TO ALLOW BACKGROUND CLICK TO CLOSE -->
+  <!-- <button
+    class="LightboxOverlay"
+    type="button"
+    aria-label="Close lightbox"
+    onclick="closeLightbox()"
+></button> -->
 
-    </button>
+  <div
+    class="LightboxShell"
+    role="dialog"
+    aria-modal="true"
+    aria-label="Studio item details"
+>
+    <button
+    class="LightboxClose two"
+    type="button"
+    aria-label="Close lightbox"
+    onclick="closeLightbox()"
+></button>
 
-    <div class="LightboxItems" id="LightboxItems">
+    <div
+    class="LightboxItems"
+    id="LightboxItems"
+>
       {% for item in visible_items %}
         {% assign item_key = forloop.index0 %}
 
@@ -131,7 +161,11 @@
                         </div>
                         <div class="flex justify-content-start">
                           <div class="LightboxFact">
-                            <a href="{{ child.purchase_url }}" class="Caption BuyButton color-white mt3" target="_blank">
+                            <a
+    href="{{ child.purchase_url }}"
+    class="Caption BuyButton color-white mt3"
+    target="_blank"
+>
                               BUY NOW
                             </a>
                           </div>
@@ -171,7 +205,12 @@
 
                     {% if item.purchase_url and item.purchase_url != blank %}
                       <div class="LightboxActions">
-                        <a class="LightboxButton" href="{{ item.purchase_url }}" target="_blank" rel="noopener">
+                        <a
+    class="LightboxButton"
+    href="{{ item.purchase_url }}"
+    target="_blank"
+    rel="noopener"
+>
                           Purchase
                         </a>
                       </div>
@@ -211,7 +250,7 @@
                     </div>
                   {% endif %}
 
-                  <div class="">
+                  <div>
                     {% if item.year and item.year != blank %}
                       <div class="LightboxFact">
                         <div class="LightboxValue">{{ item.year }}</div>
@@ -227,8 +266,12 @@
                             <div class="LightboxValue mb5">${{ item.price }}</div>
                           </div>
                         {% endif %}
-                        <div class="">
-                          <a href="{{ item.purchase_url }}" class="Caption BuyButton color-white" target="_blank">
+                        <div>
+                          <a
+                            href="{{ item.purchase_url }}"
+                            class="Caption BuyButton color-white"
+                            target="_blank"
+                          >
                             BUY NOW
                           </a>
                         </div>
