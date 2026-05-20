@@ -321,7 +321,8 @@
 
     // OPENING THE LIGHTBOX
     window.openLightbox = function (key, event) {
-      var lightbox = document.getElementById('Lightbox');
+
+      var lightbox = document.querySelector('.Lightbox');
       var lightboxitems = document.getElementById('LightboxItems');
       var target = document.querySelector('[data-lightbox-item="' + key + '"]');
 
@@ -345,7 +346,7 @@
 
     // CLOSING THE LIGHTBOX
     window.closeLightbox = function () {
-      var lightbox = document.getElementById('Lightbox');
+      var lightbox = document.querySelector('.Lightbox');
       var lightboxitems = document.getElementById('LightboxItems');
       if (!lightbox) return;
 
