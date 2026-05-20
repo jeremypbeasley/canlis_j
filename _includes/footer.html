@@ -1,12 +1,19 @@
 </div>
 
+<!-- VISIBLE FOOTER ELEMENT -->
+
 <footer class="GlobalFooter">
   <div class="FooterLine"></div>
   <div class="row">
     <div class="column col-xs-12 col-md-4">
       <div class="Caption mb4">Policies</div>
       <p>
-        Click <a href="/reservations">here</a> for more information on dietary restrictions,
+        Click
+        <a
+          href="/reservations"
+          aria-label="More information on dietary restrictions, attire, children, and cancellations">
+          here
+        </a> for more information on dietary restrictions,
         attire, children, and cancellations.
       </p>
     </div>
@@ -15,8 +22,12 @@
       <p class="mb0 pb0">
         2576 Aurora Ave N, Seattle, WA 98109<br>
         <i class="mb4">
-          <a href="https://maps.app.goo.gl/mZ3wEHvjgAq7eY3P7" target="_blank" rel="noopener">
-            Open in Google Maps
+          <a
+            href="https://maps.app.goo.gl/mZ3wEHvjgAq7eY3P7"
+            target="_blank"
+            rel="noopener"
+          >
+            Directions in Google Maps
           </a>
         </i>
       </p>
@@ -24,24 +35,62 @@
     <div class="column col-xs-12 col-md-4">
       <div class="Caption mb4">Contact</div>
       <p class="mb0 pb0">
-        <a href="tel:2062833313">(206) 283-3313</a><br>
-        <a href="mailto:reservations@canlis.com">reservations@canlis.com</a>
+        <a
+          href="tel:2062833313"
+          aria-label="Call the restaurant"
+          >
+          (206) 283-3313
+        </a><br>
+        <a
+          href="mailto:reservations@canlis.com"
+          aria-label="Email the restaurant"
+        >
+          reservations@canlis.com
+        </a>
       </p>
     </div>
   </div>
 </footer>
 
+<!-- /STUDIO: LIGHTBOXES -->
+
 {% assign visible_items = page.items | where: "is_visible", true %}
 
-<div class="Lightbox" id="Lightbox" aria-hidden="true">
-  <button class="LightboxOverlay" type="button" aria-label="Close lightbox" onclick="closeLightbox()"></button>
+<div
+  class="Lightbox"
+  id="Lightbox"
+  aria-hidden="true"
+  role="dialog"
+  aria-modal="true"
+  aria-labelledby="LightboxTitle"
+  tabindex="-1"
+>
+  <!-- DISABLED OVERLAY TO ALLOW BACKGROUND CLICK TO CLOSE -->
+  <!-- <button
+    class="LightboxOverlay"
+    type="button"
+    aria-label="Close lightbox"
+    onclick="closeLightbox()"
+></button> -->
+  <div
+    class="LightboxShell"
+    role="dialog"
+    aria-modal="true"
+    aria-label="Studio item details"
+  >
 
-  <div class="LightboxShell" role="dialog" aria-modal="true" aria-label="Studio item details">
-    <button class="LightboxClose" type="button" aria-label="Close lightbox" onclick="closeLightbox()">
-
+    <button
+      class="LightboxClose two"
+      type="button"
+      aria-label="Close lightbox"
+      onclick="closeLightbox()"
+    >
     </button>
 
-    <div class="LightboxItems" id="LightboxItems">
+    <div
+      class="LightboxItems"
+      id="LightboxItems"
+    >
       {% for item in visible_items %}
         {% assign item_key = forloop.index0 %}
 
@@ -52,6 +101,7 @@
           hidden
         >
           {% if item.is_collection %}
+          <!-- COLLECTIONS LIGHTBOX -->
             <div class="LightboxCollection">
               <div class="LightboxCollectionItems">
                 {% for child in item.items %}
@@ -116,7 +166,11 @@
                         </div>
                         <div class="flex justify-content-start">
                           <div class="LightboxFact">
-                            <a href="{{ child.purchase_url }}" class="Caption BuyButton color-white mt3" target="_blank">
+                            <a
+                              href="{{ child.purchase_url }}"
+                              class="Caption BuyButton color-white mt3"
+                              target="_blank"
+                            >
                               BUY NOW
                             </a>
                           </div>
@@ -132,7 +186,7 @@
                 <div class="LightboxMetaSticky">
                   <div class="Divider Divider--white mb5 op50"></div>
                   <div class="Caption op50 mb3">/ Collection</div>
-                  <div class="Caption mb3">{{ item.title }}</div>
+                  <div class="Caption mb3" id="LightboxTitle">{{ item.title }}</div>
 
                   {% if item.desc and item.desc != blank %}
                     <div class="LightboxDesc">
@@ -156,7 +210,12 @@
 
                     {% if item.purchase_url and item.purchase_url != blank %}
                       <div class="LightboxActions">
-                        <a class="LightboxButton" href="{{ item.purchase_url }}" target="_blank" rel="noopener">
+                        <a
+                          class="LightboxButton"
+                          href="{{ item.purchase_url }}"
+                          target="_blank"
+                          rel="noopener"
+                        >
                           Purchase
                         </a>
                       </div>
@@ -166,6 +225,7 @@
               </aside>
             </div>
           {% else %}
+          <!-- INDIVIDUAL ITEMS (OUTSIDE OF COLLECTION) LIGHTBOX -->
             <div class="LightboxItemInner">
               <div class="LightboxMedia">
                 {% for photo in item.photos %}
@@ -185,7 +245,7 @@
               <aside class="LightboxMeta">
                 <div class="LightboxMetaSticky">
                   <div class="Divider Divider--white mb5 op50"></div>
-                  <div class="Caption mb3">{{ item.title }}</div>
+                  <div class="Caption mb3" id="LightboxTitle">{{ item.title }}</div>
 
                   {% if item.desc and item.desc != blank %}
                     <div class="LightboxDesc">
@@ -196,7 +256,7 @@
                     </div>
                   {% endif %}
 
-                  <div class="">
+                  <div>
                     {% if item.year and item.year != blank %}
                       <div class="LightboxFact">
                         <div class="LightboxValue">{{ item.year }}</div>
@@ -212,8 +272,12 @@
                             <div class="LightboxValue mb5">${{ item.price }}</div>
                           </div>
                         {% endif %}
-                        <div class="">
-                          <a href="{{ item.purchase_url }}" class="Caption BuyButton color-white" target="_blank">
+                        <div>
+                          <a
+                            href="{{ item.purchase_url }}"
+                            class="Caption BuyButton color-white"
+                            target="_blank"
+                          >
                             BUY NOW
                           </a>
                         </div>
@@ -236,6 +300,9 @@
 
 <script>
   (function () {
+
+    let lastFocusedElement = null;
+
     var activeLightboxKey = null;
 
     function hideAllLightboxItems() {
@@ -244,6 +311,7 @@
       });
     }
 
+    // OPENING THE LIGHTBOX
     window.openLightbox = function (key) {
       var lightbox = document.getElementById('Lightbox');
       var lightboxitems = document.getElementById('LightboxItems');
@@ -253,16 +321,17 @@
 
       hideAllLightboxItems();
       target.hidden = false;
-
+      lastFocusedElement = event.currentTarget;
       lightbox.classList.add('is-open');
       lightbox.setAttribute('aria-hidden', 'false');
+      closeButton.focus();
       lightboxitems.classList.add('is-open');
       lightboxitems.setAttribute('aria-hidden', 'false');
       document.body.classList.add('lightbox-open');
-
       activeLightboxKey = key;
     };
 
+    // CLOSING THE LIGHTBOX
     window.closeLightbox = function () {
       var lightbox = document.getElementById('Lightbox');
       var lightboxitems = document.getElementById('LightboxItems');
@@ -276,6 +345,10 @@
 
       hideAllLightboxItems();
       activeLightboxKey = null;
+      if (lastFocusedElement) {
+        lastFocusedElement.focus();
+      }
+
     };
 
     document.addEventListener('keydown', function (event) {
@@ -381,7 +454,7 @@
   });
 </script>
 
-<!-- FLASHER PRELOADER -->
+<!-- /STUDIO: FLASHER PRELOADER -->
 
 <!-- <script type="text/javascript">
 

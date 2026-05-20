@@ -168,15 +168,23 @@ p {
 </div>
 <div class="row tall">
   {% for item in page.items %}
-  <div class="column col-xs-12 col-md-4">
-    <a class="NoLine" href="{{ item.link }}" target="_blank">
-        <img class="mb3" src="{{ item.thumbnail }}"/>
-    </a>
-    <p class="mb10">
-      <a class="NoLine" href="{{ item.link}}" target="_blank">
+    <div class="column col-xs-12 col-md-4">
+      <a
+        class="NoLine"
+        aria-label="Watch Video - {{ item.title }}"
+        href="{{ item.link }}"
+        target="_blank"
+      >
+      <img
+        class="mb3"
+        src="{{ item.thumbnail }}"
+        aria-label="Video Thumbnail"
+        aria-hidden="true"
+      />
+      <p class="">
         {{ item.title }}
-      </a>
-    </p>
+      </p>
+    </a>
   </div>
   {% endfor %}
 </div>

@@ -10,7 +10,7 @@
 {% for room in page.rooms %}
   <div class="row">
     <div class="column col-xs-12 col-md-12">
-      <section id="image-carousel" class="splide" aria-label="Beautiful Images">
+      <section id="image-carousel" class="splide" >
         <div class="splide__track">
           <ul class="splide__list">
             {% for photo in room.photos %}
@@ -29,7 +29,7 @@
     <div class="column col-xs-12 col-md-4">
       <div class="Divider d-mt10 mb6"></div>
       {{ room.capacity | markdownify }}
-      <p><a href="{{ room.packet_link }}" target="_blank">Download the packet</a></p>
+      <p><a href="{{ room.packet_link }}" aria-label="Download the privat dining packet" target="_blank">Download the packet</a></p>
     </div>
   </div>
 {% endfor %}
@@ -40,11 +40,11 @@
     <div class="Divider"></div>
   </div>
   <div class="column col-xs-12 col-md-2 col-md-offset-2 mt10 pdf_preview">
-    <a class="NoLine" target="_blank" href="/uploads/canlis_privateevents.pdf"><img class="" src="/uploads/pdf_preview.png"/></a>
+    <a class="NoLine" aria-label="Download the privat dining packet"  target="_blank" href="/uploads/canlis_privateevents.pdf"><img class="" src="/uploads/pdf_preview.png"/></a>
   </div>
   <div class="column col-xs-12 col-md-4">
     <div class="Caption mt10 mb4">More info</div>
-    <p>Many questions may be answered by our packet. Download it <a target="_blank" href="/uploads/canlis_privateevents.pdf">here</a>.</p>
+    <p>Many questions may be answered by our packet. Download it <a aria-label="Download the privat dining packet" target="_blank" href="/uploads/canlis_privateevents.pdf">here</a>.</p>
     <div class="Caption mb4">Contact</div>
     <p class="mb4">
       Please direct inquiries to <a href="mailto:events@canlis.com">events@canlis.com</a>.
