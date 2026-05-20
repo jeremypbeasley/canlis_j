@@ -64,7 +64,7 @@
         {% assign item_key = forloop.index0 %}
 
         <div class="item {% if item.is_featured %}item--large{% endif %}" data-lightbox-target="{{ item_key }}">
-          <button class="item__button" type="button" onclick="openLightbox({{ item_key }})" aria-label="Open {{ item.title | escape }}">
+          <button class="item__button" type="button" onclick="openLightbox('{{ item_key }}', event)" aria-label="Open {{ item.title | escape }}">
             <div class="item__content">
               {% if item.is_slideshow == true %}
                 <div class="splide js-item-splide" data-interval="{{ item.photo_duration | default: 4000 }}">
