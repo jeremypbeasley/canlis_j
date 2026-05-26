@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <title>Canlis — {{ page.title }}</title>
   <meta charset="UTF-8">
   <meta name="description" content="{{ site.description }}">
   <meta name="author" content="Jeremy P. Beasley / @jeremypbeasley">
-  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Meta Open Graph Tags -->
   <meta property="og:url" content="http://canlis.com" />
   <meta property="og:locale" content="en_US" />
@@ -83,35 +83,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div id="main" class="">
 <a href="/" class="Logo mb10 Caption NoLine">Logo</a>
-<div class="GlobalNav Unselectable ShowDesktop">
-  <ul class="Open">
-    <li class="Caption">
-      <a class="NavLink" href="{{ site.reservations_link }}">Reservations</a>
-    </li>
-    <li class="Caption">
-      <a class="NavLink" href="https://giftcards.canlis.com/">Gift Cards</a>
-    </li>
-    <li class="Caption color-white">—</li>
-    {% for item in site.global_nav %}
-      <li class="Caption">
-        <a class="NavLink" href="{{ item.slug }}">{{ item.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-<div class="NavHamburger Caption">
-  <div>
-    <span class="Close">Close</span>
-  </div>
-  <div>
-    <span class="Open">Menu</span>
-  </div>
-</div>
-<div class="GlobalNav Unselectable ShowMobile">
-  <div class="GlobalNavInside AlignCenter">
+
+<nav aria-label="Primary navigation">
+
+  <div class="GlobalNav Unselectable ShowDesktop">
     <ul class="Open">
-      <li class="Caption"><a class="NavLink" href="{{ site.reservations_link }}">Reservations</a></li>
-      <li class="Caption"><a class="NavLink" href="https://giftcards.canlis.com/">Gift Cards</a></li>
+      <li class="Caption">
+        <a class="NavLink" href="{{ site.reservations_link }}">Reservations</a>
+      </li>
+      <li class="Caption">
+        <a class="NavLink" href="https://giftcards.canlis.com/">Gift Cards</a>
+      </li>
       <li class="Caption color-white">—</li>
       {% for item in site.global_nav %}
         <li class="Caption">
@@ -120,7 +102,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       {% endfor %}
     </ul>
   </div>
-</div>
+  <div class="NavHamburger Caption">
+    <div>
+      <span class="Close">Close</span>
+    </div>
+    <div>
+      <span class="Open">Menu</span>
+    </div>
+  </div>
+  <div class="GlobalNav Unselectable ShowMobile">
+    <div class="GlobalNavInside AlignCenter">
+      <ul class="Open">
+        <li class="Caption"><a class="NavLink" href="{{ site.reservations_link }}">Reservations</a></li>
+        <li class="Caption"><a class="NavLink" href="https://giftcards.canlis.com/">Gift Cards</a></li>
+        <li class="Caption color-white">—</li>
+        {% for item in site.global_nav %}
+          <li class="Caption">
+            <a class="NavLink" href="{{ item.slug }}">{{ item.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+</nav>
 
 
 {% assign announcement = site.pages | where: "slug", "announcement" | first %}
@@ -148,5 +153,5 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-
+<main>
 <div class="PageContent">

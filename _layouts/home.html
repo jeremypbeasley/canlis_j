@@ -15,7 +15,7 @@
 
 <div class="HomeVideoBg" aria-label="{{ page.intro_video_aria_label }}"></div>
 
-<video id="bgvid" class="ShowDesktop" playsinline autoplay muted loop>
+<video id="bgvid" aria-hidden="true" class="ShowDesktop" playsinline autoplay muted loop>
   <source src="{{ page.intro_video }}" type="video/mp4">
 </video>
 
@@ -129,4 +129,5 @@
     </div>
   </div>
 </div> -->
+
 {% include minifooter.html %}
