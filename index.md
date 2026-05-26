@@ -19,7 +19,7 @@ section_1_body: The opportunity to meet and serve you is one we don’t take lig
 section_1_body_small: 
 section_1_link_text: 
 section_1_link_url: 
-section_1_photo: "/uploads/lounge_00001.jpg"
+section_1_photo: "/uploads/kris-040276.jpg"
 section_1_photo_aria_label: A Canlis server preparing a Canlis Salad tableside
 section_2_label: 
 section_2_headline: The Space
