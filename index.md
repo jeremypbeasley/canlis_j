@@ -20,8 +20,8 @@ section_1_body_small:
 section_1_link_text: 
 section_1_link_url: 
 section_1_photo: "/uploads/kris-040276.jpg"
-section_1_photo_aria_label: "A Canlis server preparing a Canlis Salad tableside"
-section_2_label:
+section_1_photo_aria_label: A Canlis server preparing a Canlis Salad tableside
+section_2_label: 
 section_2_headline: The Space
 section_2_body: This storied building was first designed by Roland Terry in 1950.
   Both Jim Cutler and George Suyama have helped develop it into an iconic expression
@@ -32,7 +32,8 @@ section_2_body_small: Winner of the 2019 James Beard Design Icon Award
 section_2_link_text: 
 section_2_link_url: 
 section_2_photo: "/uploads/kevin1-db615c.jpg"
-section_2_photo_aria_label: "Exterior view of Canlis at night showing both floors and a bustling dining room next to a towering Lebanese Cedar"
+section_2_photo_aria_label: Exterior view of Canlis at night showing both floors and
+  a bustling dining room next to a towering Lebanese Cedar
 section_3_label: In the press
 section_3_headline: 'Canlis Ranked #2 Restaurant in America '
 section_3_body: 'In the Spring of 2025, Food & Wine Magazine reached out to more than
@@ -43,13 +44,14 @@ section_3_body_small:
 section_3_link_text: Read Article
 section_3_link_url: https://www.foodandwine.com/top-united-states-restaurants-2025-11691726
 section_3_photo: "/uploads/flan-939d3e.jpg"
-section_3_photo_aria_label: "English pea flan with mint and morels"
+section_3_photo_aria_label: English pea flan with mint and morels
 section_4_photo: "/uploads/matt.jpg"
-section_4_photo_aria_label: "Sprawling view of the Canlis dining room with servers speaking to guests as they dine"
+section_4_photo_aria_label: Sprawling view of the Canlis dining room with servers
+  speaking to guests as they dine
 food_photo_1: "/uploads/strawberry-83b10f.jpg"
-food_photo_1_aria_label: "Strawberries and olive oil cake"
+food_photo_1_aria_label: Strawberries and olive oil cake
 food_photo_2: "/uploads/pork-6ba986.jpg"
-food_photo_2_aria_label: "Charred pork belly with pear consumé"
+food_photo_2_aria_label: Charred pork belly with pear consumé
 layout: home
 ---
 
