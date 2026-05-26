@@ -26,7 +26,7 @@ course_2:
 - title: Lamb Rack
   desc: yogurt, fig leaf, and chimichurri
 - title: or
-  desc: 
+  desc:
 - title: Ribeye
   desc: "A course for the entire table. \nDry-aged bone-in Ribeye, Canlis potatoes,
     and Dungeness crab with sturgeon caviar.\n+$55 per person; limited availability"
@@ -38,16 +38,19 @@ course_3:
 - title: Chocolate
   desc: vanilla and port reduction
 - title: "—"
-  desc: 
+  desc:
 - title: 'Canlis Salad '
   desc: The original! If you would like an additional course from our 1950 menu, these
     are prepared tableside for the entire party. +$20 per person
 plates:
   plate1: "/uploads/4DAA8BA2-DD11-4F26-A8C4-92890345F90C.JPG"
+  plate1_aria_label: "Cherry dessert with hazelnut crumb and chocolate ganache"
   plate2: "/uploads/CC30E773-1804-47ED-8971-957543924A7D.JPG"
+  plate2_aria_label: "Tempura mushroom with apple and balsamic, Dungeness crab and kohlrabi"
   plate3: "/uploads/E8EDB6A1-DCCD-4178-B7DA-79A90D5B4300.JPG"
+  plate3_aria_label: "Beef with onion"
   plate4: "/uploads/E94A3F01-AC5B-41E0-98FB-066B307B592E.JPG"
+  plate4_aria_label: "Squash with stone fruit and goat cheese"
 menu_date: "—"
 layout: menu
 ---
-

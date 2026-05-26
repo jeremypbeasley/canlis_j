@@ -58,7 +58,7 @@
 
 <div
   class="Lightbox"
-  id="Lightbox"
+  id="Lightbox        "
   aria-hidden="true"
   role="dialog"
   aria-modal="true"
@@ -76,11 +76,12 @@
     class="LightboxShell"
     role="dialog"
     aria-modal="true"
-    aria-label="Studio item details"
+    aria-label="Item Details Modal - Press escape to close"
   >
 
     <button
-      class="LightboxClose two"
+      class="LightboxClose"
+      id="LightboxClose"
       type="button"
       aria-label="Close lightbox"
       onclick="closeLightbox()"
@@ -170,6 +171,7 @@
                               href="{{ child.purchase_url }}"
                               class="Caption BuyButton color-white mt3"
                               target="_blank"
+                              aria-label="Buy now - {{ child.title }} "
                             >
                               BUY NOW
                             </a>
@@ -277,6 +279,7 @@
                             href="{{ item.purchase_url }}"
                             class="Caption BuyButton color-white"
                             target="_blank"
+                            aria-label="Buy now - {{ item.title }} "
                           >
                             BUY NOW
                           </a>
@@ -299,11 +302,16 @@
 <script src="https://cdn.jsdelivr.net/npm/muuri@0.9.5/dist/muuri.min.js"></script>
 
 <script>
+
+  // STUDIO: LIGHTBOX BEHAVIOR
+
   (function () {
 
     let lastFocusedElement = null;
 
     var activeLightboxKey = null;
+
+    var closeButton = document.getElementById('LightboxClose');
 
     function hideAllLightboxItems() {
       document.querySelectorAll('.LightboxItem').forEach(function (item) {
@@ -312,8 +320,9 @@
     }
 
     // OPENING THE LIGHTBOX
-    window.openLightbox = function (key) {
-      var lightbox = document.getElementById('Lightbox');
+    window.openLightbox = function (key, event) {
+
+      var lightbox = document.querySelector('.Lightbox');
       var lightboxitems = document.getElementById('LightboxItems');
       var target = document.querySelector('[data-lightbox-item="' + key + '"]');
 
@@ -324,16 +333,20 @@
       lastFocusedElement = event.currentTarget;
       lightbox.classList.add('is-open');
       lightbox.setAttribute('aria-hidden', 'false');
-      closeButton.focus();
       lightboxitems.classList.add('is-open');
       lightboxitems.setAttribute('aria-hidden', 'false');
       document.body.classList.add('lightbox-open');
       activeLightboxKey = key;
+
+      setTimeout(function () {
+        var closeButton = document.getElementById('LightboxClose');
+        closeButton.focus();
+      }, 50);
     };
 
     // CLOSING THE LIGHTBOX
     window.closeLightbox = function () {
-      var lightbox = document.getElementById('Lightbox');
+      var lightbox = document.querySelector('.Lightbox');
       var lightboxitems = document.getElementById('LightboxItems');
       if (!lightbox) return;
 
@@ -352,6 +365,41 @@
     };
 
     document.addEventListener('keydown', function (event) {
+
+      // TRAP THE TAB KEY
+
+      if (event.key === 'Tab' && activeLightboxKey !== null) {
+        var lightbox = document.getElementById('Lightbox');
+
+        var focusable = lightbox.querySelectorAll(
+          'a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])'
+        );
+
+        focusable = Array.prototype.slice.call(focusable).filter(function (el) {
+          return !el.closest('[hidden]');
+        });
+
+        var first = focusable[0];
+        var last = focusable[focusable.length - 1];
+
+        if (!first || !last) {
+          event.preventDefault();
+          return;
+        }
+
+        if (event.shiftKey && document.activeElement === first) {
+          event.preventDefault();
+          last.focus();
+        } else if (!event.shiftKey && document.activeElement === last) {
+          event.preventDefault();
+          first.focus();
+        } else if (!lightbox.contains(document.activeElement)) {
+          event.preventDefault();
+          first.focus();
+        }
+      }
+
+      // CLOSE THE LIGHTBOX WITH ESC
       if (event.key === 'Escape' && activeLightboxKey !== null) {
         closeLightbox();
       }
@@ -361,7 +409,7 @@
 
 <script>
 
-  // MUURI STUDIO GRID
+  // STUDIO: MUURI GRID
 
   document.addEventListener('DOMContentLoaded', function () {
     var gridEl = document.querySelector('.grid');
