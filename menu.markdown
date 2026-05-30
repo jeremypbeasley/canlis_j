@@ -11,7 +11,7 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
   time."
 course_1:
 - title: Sashimi
-  desc: cured king salmon, pickled onion, and sea herbs
+  desc: cured salmon, pickled onion, and sea herbs
 - title: Sunchoke
   desc: duxelle and soubise with early spring herbs
 - title: Parmesean
