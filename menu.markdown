@@ -10,8 +10,8 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
   your risk of foodborne illness. It may also increase your chances of having a great
   time."
 course_1:
-- title: Manila Clams
-  desc: " geoduck and kasu chowder"
+- title: Sashimi
+  desc: cured salmon, pickled onion, and sea herbs
 - title: Sunchoke
   desc: duxelle and soubise with early spring herbs
 - title: Parmesean
