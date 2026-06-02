@@ -5,9 +5,9 @@ headline_mobile: '"The finest wine program in the Pacific Northwest by a mile."'
 headline: '"The finest wine program in the Pacific Northwest by a mile."'
 headline_subhead: "- The New Wine Review"
 wine_photo_1: "/uploads/FE3A012F-CC03-4EA2-A07B-3DE7BA6A3B45.JPG"
-wine_photo_1_aria_label: "The Canlis wine cellar"
+wine_photo_1_aria_label: The Canlis wine cellar
 wine_photo_2: "/uploads/wine2.jpg"
-wine_photo_2_aria_label: "Bottles on a shelf in the champagne cellar"
+wine_photo_2_aria_label: Bottles on a shelf in the champagne cellar
 wine_title: Awards & History
 wine_body_col1: |-
   Canlis became a world-class wine destination in 1997, the first year of its 28 consecutive Wine Spectator Magazine Grand Awards. The restaurant is one of a handful in the world to be trusted with the honor for that length of time. In 2017, our wine program took home the James Beard award for <a aria-label="Read Article - Canlis Wins James Beard Award for Outstanding Wine Program" href="https://seattle.eater.com/2017/5/2/15517450/james-beard-award-2017-canlis-wine" target="_blank">Outstanding Wine Program</a>. Since then, it has helped train four Master Sommeliers and nine advanced sommeliers. We’ve produced wines with Alois Kracher, Buty, Jean Milan, Hirsch, and Guiborat & Fils. We’ve routinely played hosts to the best winemakers and wineries in the world, like Château Latour, Grace Family, Penfolds, Cayuse, Piero Antinori, Angelo Gaja and Maria López de Heredia.
@@ -40,3 +40,4 @@ og_desc: One of the best wine lists in the world.
 og_photo: "/uploads/FE3A012F-CC03-4EA2-A07B-3DE7BA6A3B45.JPG"
 layout: wine
 ---
+
