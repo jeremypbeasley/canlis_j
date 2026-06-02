@@ -134,7 +134,7 @@
                         {% endif %}
 
                         {% if child.partner and child.partner != blank %}
-                          <span class="op50 italic">In collaboration with {{ child.partner }}</span>
+                          <span class="italic">In collaboration with {{ child.partner }}</span>
                         {% endif %}
                       </div>
 
@@ -189,7 +189,7 @@
               <aside class="LightboxCollectionMeta">
                 <div class="LightboxMetaSticky">
                   <div class="Divider Divider--white mb5 op50"></div>
-                  <div class="Caption op50 mb3">/ Collection</div>
+                  <div class="Caption mb3">/ Collection</div>
                   <div class="Caption mb3" id="LightboxTitle">{{ item.title }}</div>
 
                   {% if item.desc and item.desc != blank %}
@@ -255,7 +255,7 @@
                     <div class="LightboxDesc">
                       {{ item.desc }}
                       {% if item.partner and item.partner != blank %}
-                        <span class="op50"> — In collaboration with {{ item.partner }}</span>
+                        <span> — In collaboration with {{ item.partner }}</span>
                       {% endif %}
                     </div>
                   {% endif %}
