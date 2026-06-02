@@ -60,12 +60,17 @@ section6:
   title: Our Values
   desc: We value trustworthiness, generosity, and other-centeredness.
 photo1: "/uploads/careersphoto_01.jpg"
+photo1_aria_label: "Canlis team around a bonfire during a retreat"
 photo2: "/uploads/careersphoto_02.jpg"
+photo2_aria_label: "Mark Canlis at a big Canlis ski-themed party"
 photo3: "/uploads/truck.jpg"
+photo3_aria_label: "The Canlis team gathering Christmas trees to decorate the restaurant"
 photo4: "/uploads/120036678_100910721761950_1280251195107471695_n.jpg"
+photo4_aria_label: "Canlis team running The Canlis Crab Shack in 2020"
 photo5: "/uploads/careersphoto_05.jpg"
+photo5_aria_label: "Canlis team jumping off the ground in a vineyard"
 photo6: "/uploads/slide.jpg "
+photo6_aria_label: "Canlis team racing down a slip-n-slide"
 og_photo: "/uploads/120036678_100910721761950_1280251195107471695_n.jpg"
 layout: careers
 ---
-
