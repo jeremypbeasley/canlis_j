@@ -1,12 +1,11 @@
 ---
 title: Seattle’s family-owned fine dining since 1950
-is_alert_shown: false
+is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
 intro_video_aria_label: Drone video, slowly approaching Canlis peeking over Lake Union
-alert_text: "\U0001F490 Mother's Day Brunch, packed in a basket. Serves 6. Limited
-  quantities available. "
-alert_link: https://canlis.com/moms
-alert_color: "#ECD7DF"
+alert_text: "⚽️ KICKBACK: A Canlis watch party. Get tickets! ⚽️"
+alert_link: https://www.exploretock.com/canlis/
+alert_color: "#b1e0a7"
 og_title: Canlis Restaurant
 og_photo: "/uploads/kevin1-db615c.jpg"
 og_desc: Seattle's landmark fine-dining destination for 70 years and recent home to
