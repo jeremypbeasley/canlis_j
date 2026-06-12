@@ -10,7 +10,7 @@ disclaimer: "A 20% service charge will be added to your final bill. 100% of this
   your risk of foodborne illness. It may also increase your chances of having a great
   time."
 course_1:
-- title: Sashimi
+- title: Sashimi*
   desc: cured salmon, pickled onion, and sea herbs
 - title: Sunchoke
   desc: duxelle and soubise with early spring herbs
@@ -23,13 +23,15 @@ course_2:
   desc: leek, koji, brassica, and hazelnut
 - title: Pork
   desc: morel, ramp, and cauliflower
-- title: Lamb Rack
+- title: Lamb
   desc: yogurt, fig leaf, and chimichurri
 - title: or
   desc: 
-- title: Ribeye
-  desc: "A course for the entire table. \nDry-aged bone-in Ribeye, Canlis potatoes,
-    and Dungeness crab with sturgeon caviar.\n+$55 per person; limited availability"
+- title: Sockeye
+  desc: |-
+    a shared course for the entire table
+    grilled zucchini and apricot, chili-spiced spinach beurre monte, and Koshihikari rice
+    +$35 per person; limited availability
 course_3:
 - title: Soufflé
   desc: hazelnut and crème anglaise
