@@ -29,8 +29,6 @@ course_2:
   desc: 
 - title: Sockeye
   desc: |-
-    a shared course for the entire table
-
     grilled zucchini and apricot, chili-spiced spinach beurre monte, and Koshihikari rice
 
     +$35 per person; limited availability
