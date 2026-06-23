@@ -47,6 +47,7 @@ items:
   is_visible: true
   is_slideshow: false
   photo_duration: 2600
+  thumbnail_url: "/uploads/canlisbook8.jpg"
   photos:
   - title:
     url: "/uploads/MANUALcover.jpg"
@@ -994,6 +995,32 @@ items:
     - title:
       url: "/uploads/20240420_Canlis_223_web.jpg"
       aria-label:
+- title: Canlis Salt Ramekins
+  desc: 'Local artisan and sculptor Dylan Andersen created a series of solid bronze
+    ramekins to accompany our opening bread course. Rather than being carved out,
+    each is pressed into a bowl shape with around 50,000 lbs of hydraulic pressure.'
+  year: 2024
+  type: Objects
+  price: 450
+  purchase_url: https://canlisstudio.squarespace.com/
+  is_soldout: true
+  partner: Dylan Andersen
+  is_featured: true
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+  - title:
+    url: "/uploads/ramy.jpg"
+    aria-label:
+  - title:
+    url: "/uploads/ram2.jpg"
+    aria-label:
+  - title:
+    url: "/uploads/ram3.jpg"
+    aria-label:
+  is_collection:
+  items:
 - title: Canlis Steak Knife
   desc: We partnered with our friends at Filson to create the perfect steak knife
     for dinner service. The match-grade Hawaiian koa handles, foraged on the Big Island,
@@ -1113,32 +1140,6 @@ items:
     - title:
       url: "/uploads/20241117_canlis_NWSS4144_web.jpg"
       aria-label:
-- title: Canlis Salt Ramekins
-  desc: 'Local artisan and sculptor Dylan Andersen created a series of solid bronze
-    ramekins to accompany our opening bread course. Rather than being carved out,
-    each is pressed into a bowl shape with around 50,000 lbs of hydraulic pressure.'
-  year: 2024
-  type: Objects
-  price: 450
-  purchase_url: https://canlisstudio.squarespace.com/
-  is_soldout: true
-  partner: Dylan Andersen
-  is_featured: true
-  is_visible: true
-  is_slideshow: false
-  photo_duration: 2600
-  photos:
-  - title:
-    url: "/uploads/ramy.jpg"
-    aria-label:
-  - title:
-    url: "/uploads/ram2.jpg"
-    aria-label:
-  - title:
-    url: "/uploads/ram3.jpg"
-    aria-label:
-  is_collection:
-  items:
 - title: Guest Chef Dinner Posters
   desc: Series of posters from past guest chef dinners — the kind of nights where
     we pushed the tables together, opened special bottles, and let someone else take
@@ -1257,13 +1258,13 @@ items:
   is_collection:
   items:
 - title: Hurricane Centerpiece
-  desc: Created by David Gulassa, these beautiful glass ornaments served as our centerpieces
+  desc: Created by the late David Gulassa, these beautiful glass ornaments served as our centerpieces
     for over ten years.
   year:
   type: Objects
-  price: 275
+  price:
   purchase_url: https://canlisstudio.squarespace.com/
-  is_soldout: false
+  is_soldout: true
   partner:
   is_featured: false
   is_visible: true

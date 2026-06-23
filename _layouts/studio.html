@@ -89,7 +89,11 @@
                 </div>
               {% else %}
                 {% assign first = item.photos | first %}
+                {% if item.thumbnail_url %}
+                <img class="item__img" src="{{ item.thumbnail_url }}" alt="">
+                {% else %}
                 <img class="item__img" src="{{ first.url }}" alt="">
+                {% endif %}
               {% endif %}
 
               <!-- <div class="item__overlay">
