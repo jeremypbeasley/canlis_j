@@ -1095,7 +1095,7 @@ items:
       aria-label:
   - title: Kenlis Fanny Pack
     desc: 'Finally, a place for your essentials: keys, phone, wallet… and the three
-      Barbies who refuse to be separated from their convertible. On size fits all.'
+      Barbies who refuse to be separated from their convertible. One size fits all.'
     year: 2024
     price: 45
     purchase_url:
