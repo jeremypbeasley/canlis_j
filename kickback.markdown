@@ -1,10 +1,10 @@
 ---
 title: 'KICKBACK: a Canlis Watch Party'
 date: 2018-07-28 19:17:00 -07:00
-image: "/uploads/jihan.jpg"
-event_time: Dec 31 2O19
+image: "/uploads/715690239_18605734000011948_6587398111847146541_n.jpg"
+event_time: Summer 2026
 rsvp_button:
-  has_button: false
+  has_button: true
   url: https://www.exploretock.com/canlis
   button_label: Get Tickets
 layout: events
@@ -12,19 +12,9 @@ layout: events
 
 <hr class="mb3 mt0">
 <div class="mb2 Display2">General Admission</div>
-<p>$345 per ticket</p>
-<p>Includes everything: all the food and drink you desire. 21+</p>
+<p>Game on! We’re hosting an 11 day, 24 game outdoor world-class soccer watch party. In a parking lot. With killer food. Which my dad has just officially approved of. Tickets on sale now. Summer can’t come soon enough…let the games begin! ⚽️ ⚽️ ⚽️</p>
 <div class="EventsButton d-mb5 mb5 mt3 d-mt1">
-  <a class="Caption" target="_blank" href="https://www.exploretock.com/canlis/event/81669/last-dance-party-of-the-decade">
-    {{ page.rsvp_button.button_label }}
-  </a>
-</div>
-<hr class="mb3 mt0">
-<div class="mb2 Display2">Caviar & Champagne Pre-funk</div>
-<p>$695 per ticket</p>
-<p>Before the festivities, join the Canlis family, Chef Brady Williams, and Jihan Zencirli (aka GERONIMO) for a penthouse VIP reception with Osetra Caviar and Dom Perignon. Includes the same unlimited food and drink as General Admission. 21+.</p>
-<div class="EventsButton d-mb5 mb5 mt3 d-mt1">
-  <a class="Caption" target="_blank" href="https://www.exploretock.com/canlis/event/81666/caviar-champagne-pre-funk-and-party">
+  <a class="Caption" target="_blank" href="https://www.exploretock.com/canlis">
     {{ page.rsvp_button.button_label }}
   </a>
 </div>
