@@ -1,13 +1,13 @@
 ---
-title: The Last Dance Party Of The Decade
+title: 'KICKBACK: a Canlis Watch Party'
 date: 2018-07-28 19:17:00 -07:00
-layout: events
 image: "/uploads/jihan.jpg"
 event_time: Dec 31 2O19
 rsvp_button:
   has_button: false
   url: https://www.exploretock.com/canlis
   button_label: Get Tickets
+layout: events
 ---
 
 <hr class="mb3 mt0">
