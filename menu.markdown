@@ -28,10 +28,9 @@ course_2:
 - title: or
   desc: 
 - title: Copper River Sockeye Salmon*
-  desc: |-
-    grilled zucchini and with garlic scape and apricot,
-    spinach in chili beurre monté, and koshihikari rice in smoked salmon dashi
-    +$25 per person; limited availability
+  desc: "grilled zucchini and with garlic scape and apricot,\nspinach in chili beurre
+    monté, and koshihikari rice in smoked salmon dashi.       \n+$25 per person; limited
+    availability"
 course_3:
 - title: Soufflé
   desc: hazelnut and crème anglaise
