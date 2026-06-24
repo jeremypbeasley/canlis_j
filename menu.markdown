@@ -35,7 +35,7 @@ course_3:
 - title: Soufflé
   desc: hazelnut and crème anglaise
 - title: Apricot
-  desc: yogurt, white chocolate, and honey
+  desc: white chocolate, honey, and meringue
 - title: Rhubarb
   desc: yogurt, preserved flowers, and lemon balm
 - title: "—"
