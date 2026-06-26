@@ -16,9 +16,10 @@ section1:
     Pelander, our Director of People and Development, at [work@canlis.com](mailto:work@canlis.com).
     And please don't skimp on the letter...\n\nDescribe a bit about who you are and
     why Canlis may be a good fit. Be specific, and feel free to have fun with it!\n\nRoles
-    we are currently hiring for:<br>\n<b>Pastry Sous/Chef</b> – Salary: $85-100k annually<br>\n<b>Line
-    Cook</b> – Pay: $23-25/hour plus tips<br>\n\nAll positions include available medical,
-    dental, vision, and life insurance, 401K, PTO, and dining benefits. "
+    we are currently hiring for:<br>\n<b>Barista</b> – Pay: $23-27/hour plus tips<br>\n<b>Server</b>
+    – Pay: $23-27/hour plus tips<br>\n<b>Line Cook</b> – Pay: $23-25/hour plus tips<br>\n\nAll
+    positions include available medical, dental, vision, and life insurance, 401K,
+    PTO, and dining benefits. "
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place
