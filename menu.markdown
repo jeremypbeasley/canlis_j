@@ -23,8 +23,8 @@ course_2:
   desc: leek, koji, brassica, and hazelnut
 - title: Pork
   desc: morel, ramp, and cauliflower
-- title: Lamb
-  desc: yogurt, fig leaf, and chimichurri
+- title: Beef
+  desc: kalbi, spring onion, and chickpea miso
 - title: or
   desc: 
 - title: Copper River Sockeye Salmon*
