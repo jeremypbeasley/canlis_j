@@ -135,6 +135,7 @@ items:
 
 
 
+
 - title: The Canlis Wine Cradle
   desc: Designed by our sommeliers as the perfect vessel both to carry and showcase
     a delicate bottle, this cradle, made of steel, brass and Kampelli leather, is
@@ -413,7 +414,7 @@ items:
   is_collection:
   items:
 
-title: Beers & Ciders
+- title: Beers & Ciders
   desc: Part of the joy of our Northwest community is to be surrounded by world-class
     brewers. Shown here is a showcase of beverages created specifically for our menu.
   year: 2025
@@ -840,7 +841,7 @@ title: Beers & Ciders
   items:
 
 
-- title: The Canlis Yurt Village Poster  
+- title: The Canlis Yurt Village Poster
   desc: America’s hottest reservation during the pandemic was in a parking lot of
     cozy yurts. The idea spawned a nation-wide movement and saved many restaurants,
     ours included. Poster design by Don Clark for Invisible Creature.
@@ -1309,6 +1310,41 @@ title: Beers & Ciders
     photos:
     - title:
       url: "/uploads/Momofuku%20Ko%20x%20Canlis.jpg"
+      aria-label:
+
+
+- title: The Cafe Diablo Tray
+  desc: |-
+    Exquisite bronze patinaed bars serve as rigid handles in this large reinforced walnut tray, embedded with carbon fiber inlays buried on the underside for maintaining a perfectly flat structure intended for longevity and heavy use.
+    <br><br>
+    Size: 16" Wide x 16" Deep x 28" Tall
+  year: 2026
+  type: Objects
+  price:
+  purchase_url:
+  status: not-for-sale
+  partner: Jordan Lake Design
+  is_featured: true
+  is_visible: true
+  is_slideshow: false
+  photo_duration: 2600
+  photos:
+    - title:
+      url: "/uploads/diablo_5.jpg"
+      aria-label: Photo of The Cafe Diablo Tray
+    - title:
+      url: "/uploads/diablo_4.jpg"
+      aria-label: Photo of The Cafe Diablo Tray
+    - title:
+      url: "/uploads/diablo_3.jpg"
+      aria-label: Photo of The Cafe Diablo Tray
+    - title:
+      url: "/uploads/diablo_5.jpg"
+      aria-label: Photo of The Cafe Diablo Tray
+  is_collection:
+  items:
+
+
 - title: Shake Shack x Canlis Poster
   desc: A two hour line is how Seattle responded to the cult burger company’s first
     foray into the Northwest. ShackBurgers, crab melts, live music, and a very special
