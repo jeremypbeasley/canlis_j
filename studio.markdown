@@ -2,9 +2,8 @@
 title: Studio
 date: 2016-11-10 10:09:00 -08:00
 og_photo: "/uploads/cradle1.jpg"
-headline: Beyond the dining room, sometimes we make things because we <i>simply</i> can't help ourselves.
-desc: Here’s a peek into the things we make, the parties we throw, the pivots that saved
-  us —straight from the minds of our family and staff. This is our studio.
+headline: After 75 years, there is no template for how we do Canlis.
+desc: "We're constantly finding new ways to show up for guests whether it's in our dining room, away from it, or in a totally new world we're creating for them. From the minds of our very own, with a little help from our friends, this is a peek into the art we make, the experiences we create, and the pivots that keep us welcoming so many people into our doors. "
 partners_intro: This collection of objects and the memories that go along with them
   were only possible with each of these talented collaborators and friends.
 partners:
