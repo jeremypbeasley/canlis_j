@@ -49,7 +49,7 @@ items:
   type: Objects
   price: 450
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: true
   is_visible: true
@@ -110,7 +110,7 @@ items:
   type: Printed
   price: 15
   purchase_url: https://canlisstudio.squarespace.com/
-  is_soldout: false
+  status: for-sale
   partner:
   is_featured: true
   is_visible: true
@@ -140,7 +140,7 @@ items:
   type: Objects
   price: 385
   purchase_url: https://www.jordanlakedesign.com/products/canlis-wine-cradle
-  is_soldout: false
+  status: for-sale
   partner: Jordan Lake Design
   is_featured: true
   is_visible: true
@@ -173,7 +173,7 @@ items:
   type: Matchbook
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: false
   is_visible: true
@@ -214,7 +214,7 @@ items:
     year: 2018
     price: 45
     purchase_url:
-    is_soldout: true
+    status: not-for-sale
     partner:
     photos:
     - title:
@@ -228,7 +228,7 @@ items:
     year: 2019
     price: 45
     purchase_url:
-    is_soldout: true
+    status: not-for-sale
     partner:
     photos:
     - title:
@@ -242,7 +242,7 @@ items:
     year: 2017
     price: 45
     purchase_url:
-    is_soldout: true
+    status: not-for-sale
     partner:
     photos:
     - title:
@@ -256,7 +256,7 @@ items:
     year: 2016
     price: 45
     purchase_url:
-    is_soldout: true
+    status: not-for-sale
     partner:
     photos:
     - title:
@@ -269,7 +269,7 @@ items:
     year: 2015
     price: 45
     purchase_url:
-    is_soldout: true
+    status: not-for-sale
     partner:
     photos:
     - title:
@@ -282,7 +282,7 @@ items:
     year: 2016
     price: 45
     purchase_url:
-    is_soldout: true
+    status: not-for-sale
     partner:
     photos:
     - title:
@@ -295,7 +295,7 @@ items:
     year: 2022
     price: 45
     purchase_url:
-    is_soldout: true
+    status: not-for-sale
     partner:
     photos:
     - title:
@@ -309,7 +309,7 @@ items:
   type: Apparel / Accessories
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: false
   is_visible: true
@@ -327,8 +327,7 @@ items:
   type:
   price:
   purchase_url:
-  is_soldout:
-  partner:
+  status:partner:
   is_featured: false
   is_visible: true
   is_slideshow:
@@ -350,7 +349,7 @@ items:
     year: 2016
     price: 16
     purchase_url: https://waltwagner-dot-com.square.site/product/reworks-walt-wagner-piano-cd-lp-/1?cs=true&cst=custom
-    is_soldout: false
+    status: for-sale
     partner: Sub Pop Records
     photos:
     - title:
@@ -361,7 +360,7 @@ items:
     year: 1962
     price: 45
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -372,7 +371,7 @@ items:
     year: 1967
     price: 45
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -385,7 +384,7 @@ items:
   type:
   price:
   purchase_url:
-  is_soldout: false
+  status: for-sale
   partner:
   is_featured: false
   is_visible: true
@@ -402,7 +401,7 @@ items:
     year: 2025
     price: 30
     purchase_url: https://canlisstudio.squarespace.com/
-    is_soldout: false
+    status: for-sale
     partner: Holy Mountain Brewing
     photos:
     - title:
@@ -414,7 +413,7 @@ items:
     year: 2025
     price: 32
     purchase_url: https://canlisstudio.squarespace.com/
-    is_soldout: false
+    status: for-sale
     partner: Holy Mountain Brewing
     photos:
     - title:
@@ -426,7 +425,7 @@ items:
     year: 2025
     price: 28
     purchase_url: https://canlisstudio.squarespace.com/
-    is_soldout: false
+    status: for-sale
     partner: Son of Man
     photos:
     - title:
@@ -438,7 +437,7 @@ items:
   type: Objects
   price: 50
   purchase_url: https://canlisstudio.squarespace.com/
-  is_soldout: false
+  status: for-sale
   partner:
   is_featured: true
   is_visible: true
@@ -460,7 +459,7 @@ items:
   type: Wine
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: false
   is_visible: true
@@ -477,7 +476,7 @@ items:
     year: NV
     price:
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -488,7 +487,7 @@ items:
     year: 2022
     price: 210
     purchase_url: https://canlisstudio.squarespace.com/
-    is_soldout: false
+    status: for-sale
     partner:
     photos:
     - title:
@@ -499,7 +498,7 @@ items:
     year: 2008
     price:
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -510,7 +509,7 @@ items:
     year: 2006
     price:
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -521,7 +520,7 @@ items:
     year: 2008
     price: 95
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -532,7 +531,7 @@ items:
     year: 2017
     price: 95
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -543,7 +542,7 @@ items:
     year: 2022
     price: 95-350
     purchase_url: https://canlisstudio.squarespace.com/
-    is_soldout: false
+    status: for-sale
     partner:
     photos:
     - title:
@@ -554,7 +553,7 @@ items:
     year: NV
     price: 170
     purchase_url: https://canlisstudio.squarespace.com/
-    is_soldout: false
+    status: for-sale
     partner:
     photos:
     - title:
@@ -567,7 +566,7 @@ items:
   type: Objects
   price: 45
   purchase_url:
-  is_soldout: true
+  status: not-for-sale
   partner:
   is_featured: true
   is_visible: true
@@ -590,8 +589,7 @@ items:
   type:
   price:
   purchase_url:
-  is_soldout:
-  partner:
+  status:partner:
   is_featured: false
   is_visible: true
   is_slideshow:
@@ -607,7 +605,7 @@ items:
     year: 2021
     price: 75
     purchase_url: https://canlisstudio.squarespace.com/
-    is_soldout: false
+    status: for-sale
     partner:
     photos:
     - title:
@@ -618,7 +616,7 @@ items:
     year: 2026
     price: 36
     purchase_url: https://canlisstudio.squarespace.com/
-    is_soldout: false
+    status: for-sale
     partner:
     photos:
     - title:
@@ -629,7 +627,7 @@ items:
     year: 2026
     price: 41
     purchase_url: https://canlisstudio.squarespace.com/
-    is_soldout: false
+    status: for-sale
     partner:
     photos:
     - title:
@@ -640,7 +638,7 @@ items:
     year: 2026
     price: 32
     purchase_url: https://canlisstudio.squarespace.com/
-    is_soldout: false
+    status: for-sale
     partner:
     photos:
     - title:
@@ -651,7 +649,7 @@ items:
     year: 2019
     price: 45
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -662,7 +660,7 @@ items:
     year: 2014
     price: 45
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -674,7 +672,7 @@ items:
   type: Apparel / Accessories
   price: 25
   purchase_url: https://canlisstudio.squarespace.com/
-  is_soldout: false
+  status: for-sale
   partner:
   is_featured: false
   is_visible: true
@@ -694,7 +692,7 @@ items:
   type: Print
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: false
   is_visible: true
@@ -713,7 +711,7 @@ items:
   type: Print
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: false
   is_visible: true
@@ -733,7 +731,7 @@ items:
   type: Print
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: false
   is_visible: true
@@ -755,7 +753,7 @@ items:
   type: Uncategorized
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: true
   is_visible: true
@@ -778,7 +776,7 @@ items:
   type: Print
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: false
   is_visible: true
@@ -797,7 +795,7 @@ items:
   type: Apparel / Accessories
   price: 34
   purchase_url: https://canlisstudio.squarespace.com/
-  is_soldout: false
+  status: for-sale
   partner: MiiR
   is_featured: false
   is_visible: true
@@ -818,7 +816,7 @@ items:
   type: Objects
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner: not LEGO whatsoever
   is_featured: true
   is_visible: true
@@ -845,7 +843,7 @@ items:
   type: Apparel / Accessories
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner: MiiR
   is_featured: false
   is_visible: true
@@ -865,7 +863,7 @@ items:
   type: Objects
   price: 45
   purchase_url:
-  is_soldout: true
+  status: not-for-sale
   partner:
   is_featured: true
   is_visible: true
@@ -891,7 +889,7 @@ items:
   type: Print
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: false
   is_visible: true
@@ -911,7 +909,7 @@ items:
   type: Print
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: false
   is_visible: true
@@ -934,7 +932,7 @@ items:
   type: Apparel / Accessories
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: true
   is_visible: true
@@ -951,7 +949,7 @@ items:
     year: 2020
     price: 15
     purchase_url: https://canlisstudio.squarespace.com/
-    is_soldout: false
+    status: for-sale
     partner:
     photos:
     - title:
@@ -962,7 +960,7 @@ items:
     year: 2020
     price: 45
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -973,7 +971,7 @@ items:
     year: 2020
     price: 45
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -984,7 +982,7 @@ items:
     year: 2020
     price: 45
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -995,7 +993,7 @@ items:
     year: 2020
     price: 45
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -1009,7 +1007,7 @@ items:
   type: Objects
   price: 450
   purchase_url: https://canlisstudio.squarespace.com/
-  is_soldout: true
+  status: sold-out
   partner: Dylan Andersen
   is_featured: true
   is_visible: true
@@ -1036,7 +1034,7 @@ items:
   type: Apparel / Accessories
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner: Filson
   is_featured: false
   is_visible: true
@@ -1061,8 +1059,7 @@ items:
   type: Apparel
   price:
   purchase_url:
-  is_soldout:
-  partner:
+  status:partner:
   is_featured: false
   is_visible: true
   is_slideshow: true
@@ -1078,7 +1075,7 @@ items:
     year: 2024
     price: 25
     purchase_url: https://canlisstudio.squarespace.com/
-    is_soldout: false
+    status: for-sale
     partner:
     photos:
     - title:
@@ -1093,7 +1090,7 @@ items:
     year: 2024
     price: 45
     purchase_url: https://canlisstudio.squarespace.com/
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -1105,7 +1102,7 @@ items:
     year: 2024
     price: 25
     purchase_url:
-    is_soldout: false
+    status: for-sale
     partner:
     photos:
     - title:
@@ -1117,7 +1114,7 @@ items:
     year: 2024
     price: 45
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -1128,7 +1125,7 @@ items:
     year: 2024
     price: 45
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -1140,7 +1137,7 @@ items:
     year: 2024
     price: 45
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -1155,8 +1152,7 @@ items:
   type: Print
   price:
   purchase_url:
-  is_soldout:
-  partner:
+  status:partner:
   is_featured: false
   is_visible: true
   is_slideshow: true
@@ -1186,7 +1182,7 @@ items:
     year: 2025
     price: 15
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -1198,7 +1194,7 @@ items:
     year: 2019
     price: 15
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -1211,7 +1207,7 @@ items:
     year: 2016
     price: 15
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -1224,7 +1220,7 @@ items:
     year: 2017
     price: 15
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -1236,7 +1232,7 @@ items:
     year: 2017
     price: 15
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -1251,7 +1247,7 @@ items:
   type: Print
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: false
   is_visible: true
@@ -1270,7 +1266,7 @@ items:
   type: Objects
   price:
   purchase_url: https://canlisstudio.squarespace.com/
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: false
   is_visible: true
@@ -1295,7 +1291,7 @@ items:
   type: Apparel / Accessories
   price: 45
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: false
   is_visible: true
@@ -1315,7 +1311,7 @@ items:
   type: Print
   price:
   purchase_url:
-  is_soldout: true
+  status: sold-out
   partner:
   is_featured: false
   is_visible: true
@@ -1335,7 +1331,7 @@ items:
     year: 2023
     price: 45
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:
@@ -1346,7 +1342,7 @@ items:
     year: 2023
     price: 45
     purchase_url:
-    is_soldout: true
+    status: sold-out
     partner:
     photos:
     - title:

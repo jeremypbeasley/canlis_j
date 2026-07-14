@@ -138,21 +138,13 @@
                         {% endif %}
                       </div>
 
-                      <!-- IS IT SOLD OUT? -->
-                      {% if child.is_soldout %}
-                        <div class="flex justify-content-start">
-                          {% if child.year and child.year != blank %}
-                            <div class="LightboxFact mr3">
-                              <div class="LightboxValue">{{ child.year }}</div>
-                            </div>
-                          {% endif %}
-                          <div class="LightboxFact">
-                            <div class="LightboxValue">
-                              <span class="Caption color-accent-primary">Sold Out</span>
-                            </div>
-                          </div>
-                        </div>
-                      {% else %}
+                      <!-- SALES STATUS, BEGIN -->
+
+                      {% assign status = child.status | default: "not-for-sale" %}
+
+                      {% case status %}
+                        {% when "for-sale" %}
+
                         <div class="flex justify-content-start">
                           {% if child.year and child.year != blank %}
                             <div class="LightboxFact mr3">
@@ -179,8 +171,40 @@
                             </a>
                           </div>
                         </div>
-                      {% endif %}
-                      <!-- END SOLD OUT? -->
+
+                        {% when "sold-out" %}
+
+                        <div class="flex justify-content-start">
+                          {% if child.year and child.year != blank %}
+                            <div class="LightboxFact mr3">
+                              <div class="LightboxValue">{{ child.year }}</div>
+                            </div>
+                          {% endif %}
+                          <div class="LightboxFact">
+                            <div class="LightboxValue">
+                              <span class="Caption color-accent-primary">Sold Out</span>
+                            </div>
+                          </div>
+                        </div>
+
+                        {% when "not-for-sale" %}
+
+                          <div class="flex justify-content-start">
+                            {% if child.year and child.year != blank %}
+                              <div class="LightboxFact mr3">
+                                <div class="LightboxValue">{{ child.year }}</div>
+                              </div>
+                            {% endif %}
+                            <div class="LightboxFact">
+                              <div class="LightboxValue">
+                                <span class="Caption color-accent-primary">NFS</span>
+                              </div>
+                            </div>
+                          </div>
+
+                      {% endcase %}
+
+                      <!-- SALES STATUS, END -->
                     </div>
                   </section>
                 {% endfor %}
@@ -268,25 +292,34 @@
                     {% endif %}
 
                     <div class="LightboxFact">
-                      {% if item.is_soldout == true %}
-                        <span class="Caption color-accent-primary">Sold Out</span>
-                      {% else %}
-                        {% if item.price %}
-                          <div class="LightboxFact">
-                            <div class="LightboxValue mb5">${{ item.price }}</div>
+
+                      {% assign status = item.status | default: "not-for-sale" %}
+
+                      {% case status %}
+                        {% when "for-sale" %}
+                          {% if item.price %}
+                            <div class="LightboxFact">
+                              <div class="LightboxValue mb5">${{ item.price }}</div>
+                            </div>
+                          {% endif %}
+                          <div>
+                            <a
+                              href="{{ item.purchase_url }}"
+                              class="Caption BuyButton color-white"
+                              target="_blank"
+                              aria-label="Buy now - {{ item.title }} "
+                            >
+                              BUY NOW
+                            </a>
                           </div>
-                        {% endif %}
-                        <div>
-                          <a
-                            href="{{ item.purchase_url }}"
-                            class="Caption BuyButton color-white"
-                            target="_blank"
-                            aria-label="Buy now - {{ item.title }} "
-                          >
-                            BUY NOW
-                          </a>
-                        </div>
-                      {% endif %}
+
+                        {% when "sold-out" %}
+                          <span class="Caption color-accent-primary">Sold Out</span>
+
+                        {% when "not-for-sale" %}
+                          <span class="Caption color-accent-primary">nfs</span>
+                      {% endcase %}
+
                     </div>
                   </div>
                 </div>
