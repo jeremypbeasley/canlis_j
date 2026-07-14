@@ -2,7 +2,7 @@
 title: Studio
 date: 2016-11-10 10:09:00 -08:00
 og_photo: "/uploads/cradle1.jpg"
-headline: After 75 years, there is no template for how we do Canlis.
+headline: After 75 years, there is no still template for how we do Canlis.
 desc: "We're constantly finding new ways to show up for guests whether it's in our dining room, away from it, or in a totally new world we're creating for them. From the minds of our very own, with a little help from our friends, this is a peek into the art we make, the experiences we create, and the pivots that keep us welcoming so many people into our doors. "
 partners_intro: This collection of objects and the memories that go along with them
   were only possible with each of these talented collaborators and friends.
@@ -162,7 +162,7 @@ items:
   items:
 - title: Matchbooks
   desc: We've been designing custom matchbooks since 1950, never to sell but simply as a gift for guests near the front door. Each one tells a story. Artwork by Don Clark for Invisible Creature, Jordan Kay, Pam Wishbow, Kyler Martz, and Jonathan Ball.
-  year: 2019 - 2025
+  year: 2016 - 2025
   type: Matchbook
   price: 45
   purchase_url:
@@ -241,7 +241,7 @@ items:
     - title:
       url: "/uploads/matchbook_3.jpg"
       aria-label:
-  - title: Nicholas Canlis Safari
+  - title: Nicholas Kanlis Safari
     desc: After leaving Greece, finding his way to Egypt, Peter Canlis' father, Nicholas
       Kanlis (yes, it was spelled with a K back then) was hired to cook for President
       Theodore Roosevelt's African Safari. Here began our family's journey into serving
@@ -652,7 +652,7 @@ items:
       aria-label:
   - title: Canlis Staff Beanie
     desc:
-    year: 2023
+    year: 2014
     price: 45
     purchase_url:
     is_soldout: true
@@ -663,7 +663,7 @@ items:
       aria-label:
 - title: Canlis on the High Seas T-Shirt
   desc: Not for landlubbers. Design by Brady Black.
-  year: 2024
+  year: 2023
   type: Apparel / Accessories
   price: 25
   purchase_url: https://canlisstudio.squarespace.com/
@@ -683,7 +683,7 @@ items:
   desc: For NYE 2024, we reimagined the restaurant as a wandering vessel, sailing
     somewhere between fine dining and a tall tale. Poster design by Don Clark for
     Invisible Creature.
-  year: 2024
+  year: 2023
   type: Print
   price: 45
   purchase_url:
@@ -702,7 +702,7 @@ items:
 - title: Space Prom Poster
   desc: A one-night cosmic dance where tuxedos, taffeta, and starlight collide somewhere
     beyond Earth's atmosphere. Poster design by Don Clark for Invisible Creature.
-  year: 2023
+  year: 2022
   type: Print
   price: 45
   purchase_url:
@@ -880,7 +880,7 @@ items:
   desc: Our first ever New Year's Eve dance party – a 1950's themed bash of big band
     sound and big expectations for the coming year. Poster design by Don Clark for
     Invisible Creature.
-  year: 2018
+  year: 2017
   type: Print
   price: 45
   purchase_url:
@@ -900,7 +900,7 @@ items:
   desc: The most over-the-top event we’ve ever thrown. Koi ponds and waterfalls, dancers,
     fire, island shrimp trucks and a Pan Am flight to get you there. Poster design
     by Don Clark for Invisible Creature.
-  year: 2019
+  year: 2018
   type: Print
   price: 45
   purchase_url:
@@ -1025,7 +1025,7 @@ items:
     for dinner service. The match-grade Hawaiian koa handles, foraged on the Big Island,
     match Canlis’s original 1950 koa serviceware.  Design by Brandis Gray and fabrication
     by her husband, Rob Gray for Graycloud Knives
-  year: 2022
+  year: 2019
   type: Apparel / Accessories
   price: 45
   purchase_url:
