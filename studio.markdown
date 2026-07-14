@@ -34,8 +34,13 @@ partners:
 items:
 - title: The Manual Vol. 01
   desc: |-
-    We made a book —just for our staff.
-    It's all about who we are, what we believe about hospitality, and the stories that made us. In typical fashion, we went all out: spending five years writing, photographing, unarchiving, and designing something we're proud to give to our people.
+    This book was never supposed to leave the building.
+    <br><br>
+    Six years ago we set out to create a book. Somewhere along the way, we realized what our restaurant needed wasn't a coffee table book—it needed a manual.
+    <br><br>
+    Part history book, part manifesto, and part yearbook, The Manual, Vol. 01 is our attempt to capture who we are, what we believe about hospitality, and the stories that shaped this place.
+    <br><br>
+    For our 75th anniversary, we decided to sell 75 copies to raise money and awareness of our friends over at Vision House, a Seattle organization providing housing to families experiencing homelessness.
   year: 2025
   type: Objects
   price: 450
@@ -46,11 +51,8 @@ items:
   is_visible: true
   is_slideshow: false
   photo_duration: 2600
-  thumbnail_url: "/uploads/canlisbook8.jpg"
+  thumbnail_url: "/uploads/MANUALcover.jpg"
   photos:
-  - title:
-    url: "/uploads/MANUALcover.jpg"
-    aria-label:
   - title:
     url: "/uploads/bookfront.jpg"
     aria-label:
@@ -159,9 +161,7 @@ items:
   is_collection:
   items:
 - title: Matchbooks
-  desc: We've been designing custom matchbooks since 1950. Each one tells a story.
-    Artwork by Don Clark for Invisible Creature, Jordan Kay, Pam Wishbow, Kyler Martz,
-    and Jonathan Ball
+  desc: We've been designing custom matchbooks since 1950, never to sell but simply as a gift for guests near the front door. Each one tells a story. Artwork by Don Clark for Invisible Creature, Jordan Kay, Pam Wishbow, Kyler Martz, and Jonathan Ball.
   year: 2019 - 2025
   type: Matchbook
   price: 45
@@ -595,16 +595,16 @@ items:
     aria-label:
   is_collection: true
   items:
-  - title: Canlis Staff Beanie
+  - title: Canlis Staff Hoodie
     desc:
     year: 2023
-    price: 45
-    purchase_url:
-    is_soldout: true
+    price: 75
+    purchase_url: https://canlisstudio.squarespace.com/
+    is_soldout: false
     partner:
     photos:
     - title:
-      url: "/uploads/20240502_Canlis_116-689580.jpg"
+      url: "/uploads/20240502_Canlis_212.jpg"
       aria-label:
   - title: "'Canlis Is Seattle' T-Shirt"
     desc:
@@ -639,17 +639,6 @@ items:
     - title:
       url: "/uploads/dadcap.jpg"
       aria-label:
-  - title: Canlis Staff Hoodie
-    desc:
-    year: 2023
-    price: 75
-    purchase_url: https://canlisstudio.squarespace.com/
-    is_soldout: false
-    partner:
-    photos:
-    - title:
-      url: "/uploads/20240502_Canlis_212.jpg"
-      aria-label:
   - title: Lukewarm Tweezer Food
     desc:
     year: 2019
@@ -660,6 +649,17 @@ items:
     photos:
     - title:
       url: "/uploads/20240502_Canlis_189.jpg"
+      aria-label:
+  - title: Canlis Staff Beanie
+    desc:
+    year: 2023
+    price: 45
+    purchase_url:
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/20240502_Canlis_116-689580.jpg"
       aria-label:
 - title: Canlis on the High Seas T-Shirt
   desc: Not for landlubbers. Design by Brady Black.
@@ -935,7 +935,7 @@ items:
   photo_duration: 2800
   photos:
   - title:
-    url: "/uploads/c.jpg"
+    url: "/uploads/20240502_Canlis_124.jpg"
     aria-label:
   is_collection: true
   items:
@@ -1092,18 +1092,6 @@ items:
     - title:
       url: "/uploads/kenlis_shirt.jpg"
       aria-label:
-  - title: Kenlis Fanny Pack
-    desc: 'Finally, a place for your essentials: keys, phone, wallet… and the three
-      Barbies who refuse to be separated from their convertible. One size fits all.'
-    year: 2024
-    price: 45
-    purchase_url:
-    is_soldout: true
-    partner:
-    photos:
-    - title:
-      url: "/uploads/kenlisfannypack.jpg"
-      aria-label:
   - title: Kenlis Metal T-Shirt
     desc: For when your aesthetic is equal parts dreamhouse and drop-D tuning. Printed
       on a Canvas crewneck T-shirt.
@@ -1115,6 +1103,18 @@ items:
     photos:
     - title:
       url: "/uploads/20241117_canlis_NWSS4227_web.jpg"
+      aria-label:
+  - title: Kenlis Fanny Pack
+    desc: 'Finally, a place for your essentials: keys, phone, wallet… and the three
+      Barbies who refuse to be separated from their convertible. One size fits all.'
+    year: 2024
+    price: 45
+    purchase_url:
+    is_soldout: true
+    partner:
+    photos:
+    - title:
+      url: "/uploads/kenlisfannypack.jpg"
       aria-label:
   - title: Kenlis Trucker Cap
     desc: Dreamhouse in the front, truck stop in the back. One size fits all.
