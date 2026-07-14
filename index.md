@@ -1,11 +1,11 @@
 ---
 title: Seattle’s family-owned fine dining since 1950
-is_alert_shown: false
+is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
 intro_video_aria_label: Drone video, slowly approaching Canlis peeking over Lake Union
-alert_text: 'Canlis is closed today for a private event. '
+alert_text: 'Canlis is closed for the Fourth of July holiday. '
 alert_link: 
-alert_color: "#ce9292"
+alert_color: "#d6eeff"
 og_title: Canlis Restaurant
 og_photo: "/uploads/kevin1-db615c.jpg"
 og_desc: Seattle's landmark fine-dining destination for 70 years and recent home to

@@ -18,27 +18,26 @@ course_1:
   desc: agnolotti, guanciale, and arugula
 course_2:
 - title: Halibut
-  desc: english pea, porcini, and dashi
+  desc: english pea, mushroom, and dashi
 - title: Celeriac
   desc: leek, koji, brassica, and hazelnut
 - title: Pork
   desc: morel, ramp, and cauliflower
-- title: Lamb
-  desc: yogurt, fig leaf, and chimichurri
+- title: Beef
+  desc: kalbi, spring onion, and chickpea miso
 - title: or
   desc: 
-- title: Sockeye
-  desc: |-
-    grilled zucchini and apricot, chili-spiced spinach beurre monte, and Koshihikari rice
-
-    +$35 per person; limited availability
+- title: Copper River Sockeye Salmon*
+  desc: "grilled zucchini and with garlic scape and apricot,\nspinach in chili beurre
+    monté, and koshihikari rice in smoked salmon dashi.       \n+$25 per person; limited
+    availability"
 course_3:
 - title: Soufflé
   desc: hazelnut and crème anglaise
-- title: Mandarin
-  desc: yogurt, white chocolate, and honey
-- title: Chocolate
-  desc: vanilla and port reduction
+- title: Apricot
+  desc: white chocolate, honey, and meringue
+- title: Rhubarb
+  desc: yogurt, preserved flowers, and lemon balm
 - title: "—"
   desc: 
 - title: 'Canlis Salad '
