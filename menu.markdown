@@ -14,8 +14,8 @@ course_1:
   desc: cured salmon, pickled onion, and sea herbs
 - title: Sunchoke
   desc: duxelle and soubise with early spring herbs
-- title: Parmesean
-  desc: agnolotti, guanciale, and arugula
+- title: Sablefish
+  desc: turnips with spot prawns and guanciale XO
 course_2:
 - title: Halibut
   desc: english pea, mushroom, and dashi
