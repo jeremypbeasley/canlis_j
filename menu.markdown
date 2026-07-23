@@ -27,7 +27,7 @@ course_2:
   desc: kalbi, spring onion, and chickpea miso
 - title: or
   desc: 
-- title: Copper River Sockeye Salmon*
+- title: Copper River Sockeye Salmon
   desc: "grilled zucchini and with garlic scape and apricot,\nspinach in chili beurre
     monté, and koshihikari rice in smoked salmon dashi.       \n+$25 per person; limited
     availability"
