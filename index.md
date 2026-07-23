@@ -3,7 +3,7 @@ title: Seattle’s family-owned fine dining since 1950
 is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
 intro_video_aria_label: Drone video, slowly approaching Canlis peeking over Lake Union
-alert_text: Details on our concert series are coming soon! Follow us on [Instagram](https://www.instagram.com/canlisrestaurant/?hl=en)
+alert_text: Details on our concert series are coming soon! Follow us on Instagram
   for updates.
 alert_link: 
 alert_color: "#d6eeff"
