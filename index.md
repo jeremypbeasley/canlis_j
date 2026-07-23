@@ -1,9 +1,10 @@
 ---
 title: Seattle’s family-owned fine dining since 1950
-is_alert_shown: false
+is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
 intro_video_aria_label: Drone video, slowly approaching Canlis peeking over Lake Union
-alert_text: 'Canlis is closed for the Fourth of July holiday. '
+alert_text: Details on our concert series are coming soon! Follow us on [Instagram](https://www.instagram.com/canlisrestaurant/?hl=en)
+  for updates.
 alert_link: 
 alert_color: "#d6eeff"
 og_title: Canlis Restaurant
