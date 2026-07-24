@@ -5,7 +5,7 @@ intro_video: "/uploads/bgvideo.mp4"
 intro_video_aria_label: Drone video, slowly approaching Canlis peeking over Lake Union
 alert_text: Details on our concert series are coming soon! Follow us on Instagram
   for updates.
-alert_link: 
+alert_link: https://www.instagram.com/canlisrestaurant
 alert_color: "#d6eeff"
 og_title: Canlis Restaurant
 og_photo: "/uploads/kevin1-db615c.jpg"
