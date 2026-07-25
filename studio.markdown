@@ -2,7 +2,7 @@
 title: Studio
 date: 2016-11-10 10:09:00 -08:00
 og_photo: "/uploads/cradle1.jpg"
-headline: After 75 years, there is no still template for how we do Canlis.
+headline: "Projects born from curiosity, craftsmanship, and a stubborn belief that details matter."
 desc: 'We''re constantly finding new ways to show up for guests whether it''s in our
   dining room, away from it, or in a totally new world we''re creating for them. From
   the minds of our very own, with a little help from our friends, this is a peek into
@@ -1339,7 +1339,7 @@ items:
       url: "/uploads/diablo_3.jpg"
       aria-label: Photo of The Cafe Diablo Tray
     - title:
-      url: "/uploads/diablo_5.jpg"
+      url: "/uploads/diablo_2.jpg"
       aria-label: Photo of The Cafe Diablo Tray
   is_collection:
   items:
