@@ -3,7 +3,8 @@
 }
 
 .AlignCenter,
-.align-center {
+.align-center,
+.flex-align-center {
 	align-items: center;
 	display: flex;
 }
@@ -20,10 +21,15 @@
 	justify-content: space-between;
 }
 
-.AlignTop {
+.AlignTop,
+.flex-align-top {
 	align-items: flex-start;
-	display: flex;
 }
+
+.flex-align-bottom {
+	align-items: flex-end;
+}
+
 
 .ShowDesktop {
 	// display: none;
@@ -68,6 +74,10 @@
 	border-radius: 10px;
 }
 
+.border-top {
+	border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+
 .fullWidth {
 	width: 100%;
 }
@@ -98,3 +108,19 @@
   -ms-user-select: none;
   user-select: none;
 }
+
+.bg-brand-1
+	background brand-color-1
+	--surface-color brand-color-1
+
+.bg-brand-2
+	background brand-color-2
+	--surface-color brand-color-2
+
+.bg-brand-3
+	background brand-color-3
+	--surface-color brand-color-3
+
+.bg-brand-4
+	background brand-color-4
+	--surface-color brand-color-4

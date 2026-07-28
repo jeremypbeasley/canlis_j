@@ -1,0 +1,209 @@
+/* ==========================================================================
+   NAV
+   ========================================================================== */
+
+.SiteNav {
+  position: relative;
+  z-index: 100;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  height: 110px;
+  padding: 0 3rem;
+
+  background: #fff;
+  border-bottom: 1px solid rgba(70, 70, 60, .15);
+}
+
+
+/* ==========================================================================
+   LOGO
+   ========================================================================== */
+
+.SiteNav .Logo {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+
+  transform: translate(-50%, -50%);
+
+  margin: 0;
+  white-space: nowrap;
+}
+
+
+/* ==========================================================================
+   LEFT BUTTON
+   ========================================================================== */
+
+.NavButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: .7rem 1.2rem;
+
+  border: 1px solid rgba(70,70,60,.4);
+  border-radius: 5px;
+
+  text-decoration: none;
+}
+
+
+/* ==========================================================================
+   RIGHT SIDE LINKS
+   ========================================================================== */
+
+.SiteNavLinks {
+  margin-left: auto;
+
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+}
+
+.SiteNavLinks > a {
+  text-decoration: none;
+}
+
+
+/* ==========================================================================
+   EXPLORE
+   ========================================================================== */
+
+.ExploreMenu {
+  position: relative;
+}
+
+.ExploreMenu summary {
+  list-style: none;
+}
+
+.ExploreMenu summary::-webkit-details-marker {
+  display: none;
+}
+
+.ExploreTrigger {
+  display: flex;
+  align-items: center;
+  gap: .45rem;
+
+  cursor: pointer;
+  user-select: none;
+}
+
+
+/* ==========================================================================
+   CARET
+   ========================================================================== */
+
+.ExploreCaret {
+  position: relative;
+
+  width: 8px;
+  height: 8px;
+
+  margin-top: -3px;
+
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+
+  transform: rotate(45deg);
+
+  transition: transform .18s ease;
+}
+
+.ExploreMenu[open] .ExploreCaret {
+  transform: rotate(225deg);
+  margin-top: 2px;
+}
+
+
+/* ==========================================================================
+   DROPDOWN
+   ========================================================================== */
+
+.ExploreDropdown {
+  position: absolute;
+
+  top: calc(100% + 18px);
+  left: 50%;
+
+  transform: translateX(-50%);
+
+  min-width: 180px;
+
+  padding: 18px 24px 8px 24px;
+
+  background: #808076;
+
+  border-radius: 8px;
+
+  box-shadow:
+    0 5px 10px rgba(0,0,0,.08),
+    0 15px 35px rgba(0,0,0,.14);
+}
+
+
+/* little arrow */
+
+.ExploreDropdown::before {
+  content: "";
+
+  position: absolute;
+
+  left: 50%;
+  bottom: 100%;
+
+  transform: translateX(-50%);
+
+  border: 8px solid transparent;
+  border-bottom-color: #808076;
+}
+
+
+/* ==========================================================================
+   MENU ITEMS
+   ========================================================================== */
+
+.ExploreDropdown ul {
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+
+.ExploreDropdown li + li {
+  margin-top: .65rem;
+}
+
+.ExploreDropdown a {
+  display: block;
+
+  color: white;
+  text-decoration: none;
+  text-align: center;
+
+  transition: opacity .15s;
+}
+
+.ExploreDropdown a:hover {
+  opacity: .65;
+}
+
+
+/* ==========================================================================
+   ACCESSIBILITY
+   ========================================================================== */
+
+.ExploreTrigger:hover {
+  opacity: .7;
+}
+
+.ExploreTrigger:focus-visible,
+.SiteNav a:focus-visible {
+  outline: 1px solid currentColor;
+  outline-offset: 4px;
+}

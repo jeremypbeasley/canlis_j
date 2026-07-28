@@ -499,12 +499,6 @@ footer a {
   }
 }
 
-.Button {
-  background: black;
-  color: white;
-  padding: 15px 20px;
-  border-radius: 1000px;
-}
 
 
 /* SLIDESHOW */
@@ -530,4 +524,72 @@ footer a {
 
 .splide__arrow:focus-visible {
   outline: none ;
+}
+
+.page-header--tall {
+  margin-bottom: 10vw;
+  margin-top: 10vw;
+}
+
+.photo_feature {
+  width: 100%;
+  min-height: 90vh;
+  background-color: rgba(0, 0, 0, 0.1);
+  background-size: cover;
+  /* justify-content: center; */
+}
+
+.photo_feature_content {
+  width: 70vw;
+}
+
+.pdr_room_options .row {
+  flex-wrap: wrap;
+}
+
+/* ==========================================================
+   Room Options
+   ========================================================== */
+
+.room-options-row {
+	align-items: stretch;
+	flex-wrap: wrap;
+}
+
+.room-card {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	position: relative;
+
+	padding-left: 3rem;
+	padding-right: 3rem;
+}
+
+.room-card__content {
+	flex: 1 1 auto;
+	width: 100%;
+}
+
+.room-card .brand-button {
+	flex: 0 0 auto;
+	margin-top: auto;
+}
+
+/* ==========================================================
+   Desktop Dividers
+   ========================================================== */
+
+@media laptop {
+	.room-card:not(:last-child)::after {
+		content: "";
+		position: absolute;
+
+		top: 0;
+		right: 0;
+		bottom: 0;
+
+		width: 1px;
+		background: rgba(255, 255, 255, 0.35);
+	}
 }
