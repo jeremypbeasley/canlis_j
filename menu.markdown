@@ -14,8 +14,8 @@ course_1:
   desc: cured salmon, pickled onion, and sea herbs
 - title: Sunchoke
   desc: duxelle and soubise with early spring herbs
-- title: Parmesean
-  desc: agnolotti, guanciale, and arugula
+- title: Sablefish
+  desc: turnips with spot prawns and guanciale XO
 course_2:
 - title: Halibut
   desc: english pea, mushroom, and dashi
@@ -27,7 +27,7 @@ course_2:
   desc: kalbi, spring onion, and chickpea miso
 - title: or
   desc: 
-- title: Copper River Sockeye Salmon*
+- title: Copper River Sockeye Salmon
   desc: "grilled zucchini and with garlic scape and apricot,\nspinach in chili beurre
     monté, and koshihikari rice in smoked salmon dashi.       \n+$25 per person; limited
     availability"
