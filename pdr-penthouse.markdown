@@ -40,8 +40,6 @@ room_details:
   value: 90
 - title: Food and Beverage Minimum
   value: 8000
-
-floorplan: /uploads/floor_pent.jpg
-
+floorplan: "/uploads/floor_pent.jpg"
 layout: pdr_room
 ---
