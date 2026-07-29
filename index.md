@@ -30,7 +30,7 @@ section_2_body: This storied building was first designed by Roland Terry in 1950
 section_2_body_small: Winner of the 2019 James Beard Design Icon Award
 section_2_link_text:
 section_2_link_url:
-section_2_photo: "/uploads/kevin1-db615c.jpg"
+section_2_photo: "/uploads/night1.jpg"
 section_2_photo_aria_label: Exterior view of Canlis at night showing both floors and
   a bustling dining room next to a towering Lebanese Cedar
 section_3_label: In the press

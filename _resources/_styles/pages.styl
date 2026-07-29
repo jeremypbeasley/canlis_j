@@ -62,12 +62,75 @@
   }
 }
 
+.home .home-opening-step-1,
+.home .home-opening-step-2,
+.home .home-opening-step-3,
+.home .home-opening-step-4,
+.home .home-opening-step-5,
+.home .site-nav {
+  opacity: 0;
+}
+
+/* Step 1: fade in, remain briefly, then fade out */
+.home .home-opening-step-1 {
+  position: absolute;
+  top: 45%;
+  z-index: 99;
+  width: 70%;
+  /* background: red; */
+  margin: 0 15%;
+  animation: step-1 4s ease 200ms forwards;
+  text-align: center;
+  left: 0;
+}
+
+@media laptop {
+  .home .home-opening-step-1 {
+    width: 100%;
+    top: 50%;
+    margin: 0;
+  }
+}
+
+/* Step 2: logo fades in and stays */
+.home .home-opening-step-2 {
+  animation: step-stay 0.6s ease 4.2s forwards;
+}
+
+/* Step 3: background fades in and stays */
+.home .home-opening-step-3 {
+  animation: step-stay 2s ease 7s forwards;
+}
+
+/*
+Step 4 must not retain an animated opacity value.
+
+Its normal state is opacity: 1.
+"backwards" applies opacity: 0 during the delay, but releases
+the animation's stacking context after the animation finishes.
+*/
+.home .home-opening-step-4 {
+  position: relative;
+  opacity: 1;
+  animation: step-stay 1.2s ease 5s backwards;
+}
+
+.home .home-opening-step-5 {
+  opacity: 1;
+  animation: step-stay 1.2s ease 5.2s backwards;
+}
+
+/* Navigation can retain its final animation state */
+.home .site-nav {
+  animation: step-stay 1.2s ease 5s forwards;
+}
+
 .HomeLogo {
   position: fixed;
-  top: 50%;
-  left: 50%;
-  margin-left: -70px;
-  width: 140px;
+  top: 45%;
+  left: -1vw;
+  width: 101vw;
+  margin-left: 0 ;
   text-align: center;
   z-index: 5;
 }
@@ -77,36 +140,74 @@
 }
 
 .HomeLogo svg path {
-  fill: brand-color-5
+  fill: #b9beb5;
+}
+
+.HomeVideoBg {
+  position: absolute;
+  top: 48%;
+  left: 50%;
+  z-index: -101;
+  min-width: 88vw;
+  min-height: 70vw;
+  width: auto;
+  height: auto;
+  transform: translate(-50%, -50%);
+  background: url("/uploads/kevin1-db615c.jpg") center center;
+  background-size: cover;
 }
 
 @media laptop {
+  .HomeVideoBg {
+    top: 50%;
+    min-width: 58vw;
+    min-height: 40vw;
+  }
+}
+
+@media (min-width: 62em) {
   .HomeLogo {
     top: 50%;
     left: 50%;
-    /* position: fixed; */
-    margin-left: -7.5vw;
-    transform: scale(3.5);
     width: 15vw;
+    margin-left: -7.5vw;
+
+    transform: scale(3.5);
   }
+
   .HomeLogo svg {
     transform: scale(1.5);
   }
 }
 
-.HomeVideoBg {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  min-width: 58vw;
-  min-height: 40vw;
-  width: auto;
-  height: auto;
-  z-index: -101;
-  transform: translateX(-50%) translateY(-50%);
-  background: url(/uploads/kevin1-db615c.jpg) center center;
-  background-size: cover;
+@keyframes step-1 {
+  0% {
+    opacity: 0;
+  }
+
+  20% {
+    opacity: 1;
+  }
+
+  70% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+  }
 }
+
+@keyframes step-stay {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
 
 #bgvid {
   position: absolute;
@@ -122,6 +223,17 @@
   opacity: 0;
 }
 
+.halibut_vid {
+  width: 100%;
+  /* min-height: 100%; */
+  z-index: -100;
+  position: relative;
+  left: -20%;
+  background: #131D1F;
+  opacity: 1;
+  z-index: 50;
+}
+
 @media laptop {
   #bgvid {
     left: 50%;
@@ -132,25 +244,9 @@
   width: 100%;
   position: absolute;
   bottom: 0;
+  z-index: 100;
 }
 
-.AddressSidebar {
-  position: absolute;
-  left: 4vw;
-  bottom: 4vw;
-  transform: rotate(-90deg);
-  transform-origin: top left;
-  display: none;
-}
-/* @media laptop {
-  .AddressSidebar {
-    display: block;
-  }
-} */
-
-.AddressSidebar.Inverted, .AddressSidebar.Inverted a {
-  color: white;
-}
 .HomePhoto0 {
   position: relative;
   width: 100vw;
