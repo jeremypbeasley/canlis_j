@@ -1,13 +1,17 @@
 RewriteEngine On
 
+# Serve index.html automatically inside directories
 DirectoryIndex index.html
 
-# Leave real files and directories alone
+# Never display directory contents
+Options -Indexes
+
+# Leave existing files and directories alone
 RewriteCond %{REQUEST_FILENAME} -f [OR]
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule ^ - [L]
 
-# Support extensionless URLs that correspond to an .html file
+# Support extensionless URLs that correspond to an existing .html file
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule ^(.+?)/?$ $1.html [L]
 
