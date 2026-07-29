@@ -1,7 +1,7 @@
 ---
 title: Events
 date: 2016-11-10 10:10:00 -08:00
-permalink: /private-events
+permalink: /private-events/
 
 page_header_parent_url: /private-events
 page_header_parent_title: Private Events
