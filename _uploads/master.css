@@ -3941,7 +3941,7 @@ footer a {
 }
 .halibut_vid {
   width: 100vw;
-/* min-height: 100%; */
+  min-height: 50vw;
   z-index: -100;
   position: relative;
   left: -4.5vw;
