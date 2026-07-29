@@ -1,10 +1,11 @@
 ---
 title: Events
 date: 2016-11-10 10:10:00 -08:00
-permalink: "/private-events"
-page_header_parent_url: "/private-events"
+permalink: /pdr
+
+page_header_parent_url: /pdr
 page_header_parent_title: Private Events
-page_header_title: 
+page_header_title:
 page_header_headline: We welcome you with a coast-to-coast reputation for creating
   unforgettable experiences.
 page_header_ctas:
@@ -29,4 +30,3 @@ photo_grid_10: "/uploads/pent_shades.jpg"
 packet_link: "/uploads/canlis_privateevents.pdf"
 layout: pdr_home
 ---
-
