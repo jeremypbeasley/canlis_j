@@ -1,0 +1,105 @@
+<nav class="site-nav" aria-label="Primary navigation">
+
+  <!-- Visible on mobile and desktop -->
+  <a
+    class="site-nav-button Caption NoLine"
+    href="{{ site.reservations_link }}"
+    target="_blank"
+    rel="noopener"
+  >
+    Reserve
+  </a>
+
+  <!--
+    Keep the existing Logo class so the logo image continues to work.
+    site-nav-logo controls only its position inside this navigation.
+  -->
+  <a
+    href="/"
+    class="Logo site-nav-logo Caption NoLine"
+    aria-label="Canlis Home"
+  >
+    Canlis
+  </a>
+
+  <!-- Desktop navigation -->
+  <div class="site-nav-links site-nav-desktop">
+
+    <details class="site-nav-explore">
+      <summary class="site-nav-trigger Caption">
+        <span>Explore</span>
+        <span class="site-nav-caret" aria-hidden="true"></span>
+      </summary>
+
+      <div class="site-nav-dropdown">
+        <ul>
+          {% for item in site.global_nav %}
+
+            {% unless item.title == "Private Events" or item.slug == "/privateevents/" %}
+              <li>
+                <a
+                  class="Caption NoLine"
+                  href="{{ site.url }}/{{ item.slug }}"
+                >
+                  {{ item.title }}
+                </a>
+              </li>
+            {% endunless %}
+
+          {% endfor %}
+        </ul>
+      </div>
+    </details>
+
+    <!-- Desktop only: outside the Explore dropdown -->
+    <a
+      class="Caption NoLine"
+      href="/private-events/"
+    >
+      Private Events
+    </a>
+
+  </div>
+
+  <!-- Mobile navigation -->
+  <div class="site-nav-mobile">
+
+    <details class="site-nav-explore">
+      <summary class="site-nav-trigger Caption">
+        <span>Explore</span>
+        <span class="site-nav-caret" aria-hidden="true"></span>
+      </summary>
+
+      <div class="site-nav-dropdown site-nav-dropdown-mobile">
+        <ul>
+          {% for item in site.global_nav %}
+
+            {% unless item.title == "Private Events" or item.slug == "/private-events/" %}
+              <li>
+                <a
+                  class="Caption NoLine"
+                  href="{{ item.slug }}"
+                >
+                  {{ item.title }}
+                </a>
+              </li>
+            {% endunless %}
+
+          {% endfor %}
+
+          <!-- Mobile only: inside the Explore dropdown -->
+          <li>
+            <a
+              class="Caption NoLine"
+              href="/private-events/"
+            >
+              Private Events
+            </a>
+          </li>
+        </ul>
+      </div>
+    </details>
+
+  </div>
+
+</nav>

@@ -48,7 +48,6 @@ div:focus {
 :focus {
   outline: none;
 }
-
 :focus-visible {
   outline: 2px solid #000;
   outline-offset: 2px;
@@ -61,7 +60,7 @@ body {
   overflow-x hidden
   margin 0
   font-family typeface-primary
-  background color-background
+  background: brand-color-3
   color color-text
 }
 #main {
@@ -72,14 +71,14 @@ img {
   // filter: grayscale(100%);
 }
 
-.AlertBarContainer {
+/* .AlertBarContainer {
   width: 100%;
   flex-direction: row;
   position: fixed;
   bottom: 6vw;
   z-index: 9999;
   transition: 200ms ease;
-  &:hover {
+  &:hover {photo
     transform: translateY(-5px);
   }
 }
@@ -88,7 +87,7 @@ img {
   .AlertBarContainer {
     bottom: 2vw;
   }
-}
+} */
 
 .AlertBar {
   background: pink;
@@ -533,14 +532,26 @@ footer a {
 
 .photo_feature {
   width: 100%;
-  min-height: 90vh;
+  min-height: 120vh;
   background-color: rgba(0, 0, 0, 0.1);
   background-size: cover;
-  /* justify-content: center; */
+  background-position: center center;
+}
+
+@media laptop {
+  .photo_feature {
+    min-height: 90vh;
+  }
 }
 
 .photo_feature_content {
-  width: 70vw;
+  width: 100vw;
+}
+
+@media laptop {
+  .photo_feature_content {
+    width: 40vw;
+  }
 }
 
 .pdr_room_options .row {
