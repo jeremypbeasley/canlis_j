@@ -12,7 +12,7 @@ Allow: /menu
 Allow: /story
 Allow: /wine
 Allow: /lounge
-Allow: /private-events
+Allow: /pdr
 Allow: /careers
 
 Sitemap: https://canlis.com/sitemap.xml
