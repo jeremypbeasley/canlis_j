@@ -11,17 +11,17 @@ og_photo: "/uploads/kevin1-db615c.jpg"
 og_desc: Seattle's landmark fine-dining destination for 70 years and recent home to
   multi-disciplinary pandemic pivots designed to serve our city.
 hero_photo: "/uploads/exteriorr.jpg"
-section_1_label:
+section_1_label: 
 section_1_headline: An Invitation
 section_1_body: The opportunity to meet and serve you is one we don’t take lightly.
   Not for the past 75 years at least. Come spend an evening. Our favorite thing in
   the world is taking care of others, and few places can do it quite like we can.
-section_1_body_small:
-section_1_link_text:
-section_1_link_url:
+section_1_body_small: 
+section_1_link_text: 
+section_1_link_url: 
 section_1_photo: "/uploads/anthea1.jpg"
 section_1_photo_aria_label: A Canlis server preparing a Canlis Salad tableside
-section_2_label:
+section_2_label: 
 section_2_headline: The Space
 section_2_body: This storied building was first designed by Roland Terry in 1950.
   Both Jim Cutler and George Suyama have helped develop it into an iconic expression
@@ -29,8 +29,8 @@ section_2_body: This storied building was first designed by Roland Terry in 1950
   natural light and stunning views of Seattle, Lake Union, and the Cascade mountain
   range.
 section_2_body_small: Winner of the 2019 James Beard Design Icon Award
-section_2_link_text:
-section_2_link_url:
+section_2_link_text: 
+section_2_link_url: 
 section_2_photo: "/uploads/kevin1-db615c.jpg"
 section_2_photo_aria_label: Exterior view of Canlis at night showing both floors and
   a bustling dining room next to a towering Lebanese Cedar
@@ -40,7 +40,7 @@ section_3_body: 'In the Spring of 2025, Food & Wine Magazine reached out to more
   400 writers, chefs, and travel professionals to rank the best restaurants in America.
   Canlis was ranked second! What an absolute honor to have a group of our peers hold
   this restaurant in such esteem.  '
-section_3_body_small:
+section_3_body_small: 
 section_3_link_text: Read Article
 section_3_link_url: https://www.foodandwine.com/top-united-states-restaurants-2025-11691726
 section_3_photo: "/uploads/flan-939d3e.jpg"
@@ -54,3 +54,4 @@ food_photo_2: "/uploads/pork-6ba986.jpg"
 food_photo_2_aria_label: Charred pork belly with pear consumé
 layout: home
 ---
+
