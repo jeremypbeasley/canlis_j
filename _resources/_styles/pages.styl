@@ -121,19 +121,34 @@ the animation's stacking context after the animation finishes.
   top: 45%;
   left: -1vw;
   width: 101vw;
-  margin-left: 0 ;
+  margin-left: 0;
   text-align: center;
   z-index: 5;
 }
 
 .HomeLogo svg {
   transform: scale(1);
+  animation-name: fade-out;
+  animation-duration: 1ms;
+  animation-timing-function: linear;
+  animation-fill-mode: both;
+  animation-timeline: scroll(root block);
+  animation-range: 0 500px;
+}
+
+@keyframes fade-out {
+  from {
+    opacity: .9;
+  }
+
+  to {
+    opacity: 0.2;
+  }
 }
 
 .HomeLogo svg path {
   fill: #b9beb5;
 }
-
 .HomeVideoBg {
   position: absolute;
   top: 48%;
@@ -144,7 +159,7 @@ the animation's stacking context after the animation finishes.
   width: auto;
   height: auto;
   transform: translate(-50%, -50%);
-  background: url("/uploads/kevin1-db615c.jpg") center center;
+  background-position: center center;
   background-size: cover;
 }
 
@@ -310,6 +325,10 @@ the animation's stacking context after the animation finishes.
     width: 45vw;
     margin-top: 15vw;
   }
+}
+
+.HomePhoto7 {
+  z-index: 999;
 }
 
 @media laptop {
@@ -1005,3 +1024,20 @@ the animation's stacking context after the animation finishes.
     padding: 18vw 0 15vw 0;
   }
 } */
+
+
+.occasion-details-columns {
+  column-count: 2;
+  column-gap: 5rem;
+}
+
+.occasion-detail {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+@media (max-width: 768px) {
+  .occasion-details-columns {
+    column-count: 1;
+  }
+}

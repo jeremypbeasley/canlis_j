@@ -2783,6 +2783,21 @@ footer a {
   background: #dedfdb;
   --surface-color: #dedfdb;
 }
+.z-level-0 {
+  z-index: 0;
+}
+.z-level-10 {
+  z-index: 10;
+}
+.z-level-20 {
+  z-index: 20;
+}
+.z-level-30 {
+  z-index: 30;
+}
+.z-level-100 {
+  z-index: 100;
+}
 .Button {
   background: #000;
   color: #fff;
@@ -3882,6 +3897,12 @@ footer a {
 }
 .HomeLogo svg {
   transform: scale(1);
+  animation-name: fade-out;
+  animation-duration: 1ms;
+  animation-timing-function: linear;
+  animation-fill-mode: both;
+  animation-timeline: scroll(root block);
+  animation-range: 0 500px;
 }
 .HomeLogo svg path {
   fill: #b9beb5;
@@ -3896,7 +3917,7 @@ footer a {
   width: auto;
   height: auto;
   transform: translate(-50%, -50%);
-  background: url("/uploads/kevin1-db615c.jpg") center center;
+  background-position: center center;
   background-size: cover;
 }
 @media (min-width: 62em) {
@@ -4021,6 +4042,9 @@ footer a {
     width: 45vw;
     margin-top: 15vw;
   }
+}
+.HomePhoto7 {
+  z-index: 999;
 }
 @media (min-width: 62em) {
   .AccoladesCard {
@@ -4532,6 +4556,51 @@ footer a {
   padding: 15px;
   background: #000;
   color: #fff;
+}
+.occasion-details-columns {
+  column-count: 2;
+  column-gap: 5rem;
+}
+.occasion-detail {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+@media (max-width: 768px) {
+  .occasion-details-columns {
+    column-count: 1;
+  }
+}
+@-moz-keyframes fade-out {
+  from {
+    opacity: 0.9;
+  }
+  to {
+    opacity: 0.2;
+  }
+}
+@-webkit-keyframes fade-out {
+  from {
+    opacity: 0.9;
+  }
+  to {
+    opacity: 0.2;
+  }
+}
+@-o-keyframes fade-out {
+  from {
+    opacity: 0.9;
+  }
+  to {
+    opacity: 0.2;
+  }
+}
+@keyframes fade-out {
+  from {
+    opacity: 0.9;
+  }
+  to {
+    opacity: 0.2;
+  }
 }
 @-moz-keyframes step-1 {
   0% {

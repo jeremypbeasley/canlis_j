@@ -1,0 +1,20 @@
+title: What's your occasion?
+occasions:
+  - title: Weddings
+    desc: >-
+      Ceremonies, rehearsal dinners, welcome parties
+    link_url: /private-events/weddings/
+  - title: Family Gatherings
+    desc: >-
+      Birthdays, graduations, reunions, retirements, memorials
+    link_url: /private-events/family-gatherings/
+  - title: Company Parties
+    desc: >-
+      Client events, presentations, product launches, board meetings,
+      fundraisers
+    link_url: /private-events/company-parties/
+  - title: Corporate Events
+    desc: >-
+      Company celebrations, holiday parties, retirement dinners,
+      team milestones
+    link_url: /corporate-events/
