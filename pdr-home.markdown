@@ -3,16 +3,19 @@ title: Events
 date: 2016-11-10 10:10:00 -08:00
 permalink: /private-events
 
-page_header_parent_url: /pdr-home
+page_header_parent_url: /private-events
 page_header_parent_title: Private Events
-page_header_title:
-page_header_headline: We welcome you with a coast-to-coast reputation for creating unforgettable experiences.
+page_header_title: 
+page_header_headline: We welcome you with a coast-to-coast reputation for creating
+  unforgettable experiences.
 page_header_ctas:
 - title: Explore rooms
   url: "#anchor-rooms"
 
 photo_feature_content: true
-photo_feature_content_title: “Soaring, airy feeling of a magnificently located midcentury modern home whose floor-to-ceiling windows offer panoramas of Lake Union, the Cascade mountains, and Seattle.”
+photo_feature_content_title: "“Soaring, airy feeling of a magnificently located midcentury
+  modern home whose floor-to-ceiling windows offer panoramas of Lake Union, the Cascade
+  mountains, and Seattle.”"
 photo_feature_content_desc: "— Architectural Digest"
 photo_feature_photo: /uploads/theview.jpg
 
@@ -31,3 +34,4 @@ packet_link: /uploads/canlis_privateevents.pdf
 
 layout: pdr_home
 ---
+
