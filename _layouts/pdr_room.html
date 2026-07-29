@@ -57,7 +57,45 @@
   </div>
 </div>
 
+<!-- TEMPLATE: DOUBLE SQUARE -->
+
+{% if page.occasion_brief %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-6 col-md-offset-3">
+      <h2 class="Display2 text-align-center">{{ page.occasion_brief}}</h2>
+    </div>
+  </div>
+</div>
+{% endif %}
+
 <!-- END TEMPLATE -->
+
+<!-- END TEMPLATE -->
+
+{% if page.occasion_details %}
+
+<div class="d-p5 bg-brand-2">
+  <div class="row">
+    <h2 class="column col-xs-12 text-align-center mb6 Display2 mt10 color-white">
+      {{ page.occasion_details_title }}
+    </h2>
+    <div class="occasion-details-columns column color-white">
+      {% for detail in page.occasion_details %}
+        <section class="occasion-detail mb2">
+          <h3 class="Caption uppercase mb2">
+            {{ detail.title }}
+          </h3>
+          <div class="">
+            {{ detail.desc | markdownify }}
+          </div>
+        </section>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+{% endif %}
 
 <!-- TEMPLATE: FULL WIDTH PHOTO -->
 
@@ -101,13 +139,13 @@
 
 <!-- TEMPLATE: 2/3 PHOTO -->
 
-{% if page.photo_grid_4 %}
+{% if page.photo_grid_7 %}
 <div class="d-p5">
   <div class="row">
     <div class="column col-xs-12 col-md-8 col-md-offset-2">
       <img
         class=""
-        src="{{ page.photo_grid_4 }}"
+        src="{{ page.photo_grid_7 }}"
       />
     </div>
   </div>
@@ -117,19 +155,19 @@
 <!-- END TEMPLATE -->
 
 <!-- TEMPLATE: DOUBLE SQUARE -->
-{% if page.photo_grid_7 && page.photo_grid_8 %}
+{% if page.photo_grid_8 && page.photo_grid_9 %}
 <div class="d-p5">
   <div class="row">
     <div class="column col-xs-12 col-md-6">
       <img
         class=""
-        src="{{ page.photo_grid_7 }}"
+        src="{{ page.photo_grid_8 }}"
       />
     </div>
     <div class="column col-xs-12 col-md-6">
       <img
         class=""
-        src="{{ page.photo_grid_8 }}"
+        src="{{ page.photo_grid_9 }}"
       />
     </div>
   </div>
@@ -158,27 +196,11 @@
 
 <!-- END TEMPLATE -->
 
-<!-- TEMPLATE: FULL WIDTH PHOTO -->
 
-{% if page.photo_grid_9 %}
-<div class="d-p5">
-  <div class="row">
-    <div class="column col-xs-12 col-md-12">
-      <img
-        class=""
-        src="{{ page.photo_grid_9 }}"
-      />
-    </div>
-  </div>
-</div>
-{% endif %}
-
-<!-- END TEMPLATE -->
-
-
+{% include pdr/rooms.html %}
 
 {% include pdr/contactus.html %}
 
-{% include pdr/rooms.html %}
+
 
 {% include footer.html %}
