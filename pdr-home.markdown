@@ -1,9 +1,9 @@
 ---
 title: Events
 date: 2016-11-10 10:10:00 -08:00
-permalink: /pdr
+permalink: /private-events
 
-page_header_parent_url: /pdr
+page_header_parent_url: /private-events
 page_header_parent_title: Private Events
 page_header_title:
 page_header_headline: We welcome you with a coast-to-coast reputation for creating

@@ -1,9 +1,9 @@
 ---
 title: Events
 date: 2016-11-10 10:10:00 -08:00
-permalink: /pdr/thepenthouse/
+permalink: /private-events/the-penthouse/
 
-page_header_parent_url: /pdr
+page_header_parent_url: /private-events
 page_header_parent_title: Private Events
 page_header_title: The Penthouse
 page_header_headline: Sprawling views of Lake Union, Gas Works Park, and the snow-capped
