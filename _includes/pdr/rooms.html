@@ -1,25 +1,25 @@
 {% assign room_module = site.data.pdr_rooms %}
 
 
-<div class="pdr_room_options color-white p10 bg-brand-2" id="anchor-rooms">
+<div class="pdr_room_options color-white p3 d-p10 bg-brand-2" id="anchor-rooms">
   <h1 class="text-align-center mb6 Display2 mt10">
     {{ room_module.title }}
   </h1>
 
-  <div class="row flex room-options-row mb10">
+  <div class="row flex room-options-row d-mb10">
     {% for item in room_module.rooms %}
       <div class="column col-xs-12 col-md-6 room-card text-align-center pb6 d-pb0">
 
         <div class="room-card__content d-pr10 d-pl10">
-          <h2 class="mb4 Display2">
+          <h2 class="mb2 d-mb4 Display2">
             {{ item.title }}
           </h2>
 
-          <p class="mb4 text-align-center">
+          <p class="mb2 d-mb4 text-align-center">
             <em>Capacity: {{ item.capacity }}</em>
           </p>
 
-          <p class="mb4 text-align-center">
+          <p class="mb2 d-mb4 text-align-center">
             {{ item.desc }}
           </p>
         </div>
