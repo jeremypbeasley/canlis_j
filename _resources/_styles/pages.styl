@@ -211,6 +211,13 @@ the animation's stacking context after the animation finishes.
 }
 
 @media laptop {
+  .halibut_vid {
+    width: 100%;
+    left: 0;
+  }
+}
+
+@media laptop {
   #bgvid {
     left: 50%;
   }
@@ -314,15 +321,19 @@ the animation's stacking context after the animation finishes.
   max-width: 150px;
 }
 .PortraitCard {
+  position: relative;
+  z-index: 999;
+}
+.PortraitCard p {
+  position: relative;
+  z-index: 9999;
 }
 @media laptop {
   .PortraitCard {
     background: color-background;
     padding: 5vw 5vw 3vw 5vw;
-    margin-top: 27vw;
-    margin-left: 10vw;
-    position: relative;
-    z-index: 999;
+    /* margin-top: 27vw; */
+    /* margin-left: 10vw; */
     border: 1px solid black;
     box-shadow: 5px 5px 0px 0px black;
   }
