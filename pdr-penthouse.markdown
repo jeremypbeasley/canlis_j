@@ -1,9 +1,8 @@
 ---
 title: Events
 date: 2016-11-10 10:10:00 -08:00
-permalink: /private-events/thepenthouse/
-
-page_header_parent_url: /private-events
+permalink: "/private-events/thepenthouse/"
+page_header_parent_url: "/private-events"
 page_header_parent_title: Private Events
 page_header_title: The Penthouse
 page_header_headline: Sprawling views of Lake Union, Gas Works Park, and the snow-capped
@@ -40,9 +39,7 @@ room_details:
   value: 90
 - title: Food and Beverage Minimum
   value: 8000
-
-floorplan: /uploads/floor_pent.jpg
-
+floorplan: "/uploads/floor_pent.jpg"
 layout: pdr_room
 ---
 

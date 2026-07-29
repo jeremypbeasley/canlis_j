@@ -5,8 +5,8 @@ og_photo: "/uploads/pork.jpg"
 menu_cost: 185
 menu_description: We offer a 6-course dining experience. We'll ask that you begin
   your evening by choosing 3 of those courses, and we'll take care of the rest.
-disclaimer: "A 20% service charge will be added to your final bill. 100% of this service
-  charge is retained by Canlis."
+disclaimer: A 20% service charge will be added to your final bill. 100% of this service
+  charge is retained by Canlis.
 course_1:
 - title: Sashimi*
   desc: cured salmon, pickled onion, and sea herbs
@@ -24,7 +24,7 @@ course_2:
 - title: Beef
   desc: kalbi, spring onion, and chickpea miso
 - title: or
-  desc:
+  desc: 
 - title: Copper River Sockeye Salmon
   desc: "grilled zucchini and with garlic scape and apricot,\nspinach in chili beurre
     monté, and koshihikari rice in smoked salmon dashi.       \n+$25 per person; limited
@@ -37,7 +37,7 @@ course_3:
 - title: Rhubarb
   desc: yogurt, preserved flowers, and lemon balm
 - title: "—"
-  desc:
+  desc: 
 - title: 'Canlis Salad '
   desc: The original! If you would like an additional course from our 1950 menu, these
     are prepared tableside for the entire party. +$20 per person
@@ -54,3 +54,4 @@ plates:
 menu_date: "—"
 layout: menu
 ---
+
