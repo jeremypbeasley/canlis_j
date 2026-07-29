@@ -43,3 +43,4 @@ room_details:
 floorplan: "/uploads/floor_pent.jpg"
 layout: pdr_room
 ---
+
