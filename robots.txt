@@ -3,7 +3,6 @@ User-agent: GPTBot
 User-agent: Google-Extended
 
 User-agent: *
-Disallow: /private-events
 Disallow: /studio
 Allow: /
 Allow: /reservations
@@ -13,7 +12,7 @@ Allow: /menu
 Allow: /story
 Allow: /wine
 Allow: /lounge
-Allow: /events
+Allow: /private-events
 Allow: /careers
 
 Sitemap: https://canlis.com/sitemap.xml

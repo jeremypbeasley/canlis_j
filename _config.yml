@@ -18,10 +18,10 @@ global_nav:
   slug: wine
 - title: The Lounge
   slug: lounge
-- title: Private Events
-  slug: events
 - title: Careers
   slug: careers
+- title: Gift Cards
+  slug: https://giftcards.canlis.com/
 email: jeremy@jeremypbeasley.com
 description: Seattle's landmark fine-dining destination for 70 years and recent home
   to multi-disciplinary pandemic pivots designed to serve our city.
@@ -30,9 +30,9 @@ og_photo: "/uploads/kevin.jpg"
 dress_code: Go big. Dress up. Make a statement. You're beautiful, let it show! We
   are a dress-respectful restaurant. No casual or athletic attire please. Men will
   feel most comfortable in a suit or sport coat.
-reservations_link: "/reservations"
-baseurl: 
-url: http://canlis.com
+reservations_link: https://www.exploretock.com/canlis/
+baseurl:
+url: https://canlis.com
 twitter_username: canlis
 github_username: jeremypbeasley
 markdown: kramdown

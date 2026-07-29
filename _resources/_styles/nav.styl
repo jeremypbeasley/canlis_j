@@ -2,7 +2,7 @@
    NAV
    ========================================================================== */
 
-.SiteNav {
+.site-nav {
   position: relative;
   z-index: 100;
 
@@ -13,7 +13,7 @@
   height: 110px;
   padding: 0 3rem;
 
-  background: #fff;
+  background: brand-color-3;
   border-bottom: 1px solid rgba(70, 70, 60, .15);
 }
 
@@ -22,30 +22,29 @@
    LOGO
    ========================================================================== */
 
-.SiteNav .Logo {
+.site-nav-logo {
   position: absolute;
-  left: 50%;
   top: 50%;
+  left: 50%;
+
+  margin: 0;
 
   transform: translate(-50%, -50%);
 
-  margin: 0;
   white-space: nowrap;
 }
 
 
 /* ==========================================================================
-   LEFT BUTTON
+   RESERVE BUTTON
    ========================================================================== */
 
-.NavButton {
+.site-nav-button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
 
-  padding: .7rem 1.2rem;
-
-  border: 1px solid rgba(70,70,60,.4);
+  border: 1px solid rgba(70, 70, 60, .4);
   border-radius: 5px;
 
   text-decoration: none;
@@ -53,19 +52,31 @@
 
 
 /* ==========================================================================
-   RIGHT SIDE LINKS
+   DESKTOP RIGHT SIDE
    ========================================================================== */
 
-.SiteNavLinks {
-  margin-left: auto;
-
+.site-nav-links {
   display: flex;
   align-items: center;
   gap: 4rem;
+
+  margin-left: auto;
 }
 
-.SiteNavLinks > a {
+.site-nav-links > a {
   text-decoration: none;
+}
+
+
+/* ==========================================================================
+   MOBILE RIGHT SIDE
+   ========================================================================== */
+
+.site-nav-mobile {
+  display: none;
+  align-items: center;
+
+  margin-left: auto;
 }
 
 
@@ -73,19 +84,22 @@
    EXPLORE
    ========================================================================== */
 
-.ExploreMenu {
+.site-nav-explore {
   position: relative;
+
+  margin: 0;
+  padding: 0;
 }
 
-.ExploreMenu summary {
+.site-nav-explore summary {
   list-style: none;
 }
 
-.ExploreMenu summary::-webkit-details-marker {
+.site-nav-explore summary::-webkit-details-marker {
   display: none;
 }
 
-.ExploreTrigger {
+.site-nav-trigger {
   display: flex;
   align-items: center;
   gap: .45rem;
@@ -99,7 +113,7 @@
    CARET
    ========================================================================== */
 
-.ExploreCaret {
+.site-nav-caret {
   position: relative;
 
   width: 8px;
@@ -112,12 +126,15 @@
 
   transform: rotate(45deg);
 
-  transition: transform .18s ease;
+  transition:
+    transform .18s ease,
+    margin-top .18s ease;
 }
 
-.ExploreMenu[open] .ExploreCaret {
-  transform: rotate(225deg);
+.site-nav-explore[open] .site-nav-caret {
   margin-top: 2px;
+
+  transform: rotate(225deg);
 }
 
 
@@ -125,42 +142,37 @@
    DROPDOWN
    ========================================================================== */
 
-.ExploreDropdown {
+.site-nav-dropdown {
   position: absolute;
-
   top: calc(100% + 18px);
   left: 50%;
 
+  min-width: 180px;
+  padding: 18px 24px 8px;
+
+  background: brand-color-2;
+
   transform: translateX(-50%);
 
-  min-width: 180px;
-
-  padding: 18px 24px 8px 24px;
-
-  background: #808076;
-
-  border-radius: 8px;
-
   box-shadow:
-    0 5px 10px rgba(0,0,0,.08),
-    0 15px 35px rgba(0,0,0,.14);
+    0 5px 10px rgba(0, 0, 0, .08),
+    0 15px 35px rgba(0, 0, 0, .14);
 }
 
 
-/* little arrow */
+/* Dropdown arrow */
 
-.ExploreDropdown::before {
+.site-nav-dropdown::before {
   content: "";
 
   position: absolute;
-
-  left: 50%;
   bottom: 100%;
-
-  transform: translateX(-50%);
+  left: 50%;
 
   border: 8px solid transparent;
-  border-bottom-color: #808076;
+  border-bottom-color: brand-color-2;
+
+  transform: translateX(-50%);
 }
 
 
@@ -168,28 +180,29 @@
    MENU ITEMS
    ========================================================================== */
 
-.ExploreDropdown ul {
+.site-nav-dropdown ul {
   margin: 0;
   padding: 0;
 
   list-style: none;
 }
 
-.ExploreDropdown li + li {
+.site-nav-dropdown li + li {
   margin-top: .65rem;
 }
 
-.ExploreDropdown a {
+.site-nav-dropdown a {
   display: block;
 
   color: white;
-  text-decoration: none;
   text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
 
-  transition: opacity .15s;
+  transition: opacity .15s ease;
 }
 
-.ExploreDropdown a:hover {
+.site-nav-dropdown a:hover {
   opacity: .65;
 }
 
@@ -198,12 +211,53 @@
    ACCESSIBILITY
    ========================================================================== */
 
-.ExploreTrigger:hover {
+.site-nav-trigger:hover {
   opacity: .7;
 }
 
-.ExploreTrigger:focus-visible,
-.SiteNav a:focus-visible {
+.site-nav-trigger:focus-visible,
+.site-nav a:focus-visible {
   outline: 1px solid currentColor;
   outline-offset: 4px;
+}
+
+
+/* ==========================================================================
+   MOBILE
+   ========================================================================== */
+
+@media (max-width: 767px) {
+
+  .site-nav {
+    height: 80px;
+    padding: 0 1rem;
+  }
+
+  .site-nav-desktop {
+    display: none;
+  }
+
+  .site-nav-mobile {
+    display: flex;
+  }
+
+  .site-nav-button {
+    padding: .55rem .8rem;
+  }
+
+  .site-nav-dropdown-mobile {
+    right: 0;
+    left: auto;
+
+    min-width: 210px;
+
+    transform: none;
+  }
+
+  .site-nav-dropdown-mobile::before {
+    right: 18px;
+    left: auto;
+
+    transform: none;
+  }
 }

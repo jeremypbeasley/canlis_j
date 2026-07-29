@@ -7,22 +7,22 @@ rooms:
       features a full-service bar, dining-room views, wrap-around views of
       Lake Union and the Cascade Mountains, and a baby grand piano.
     capacity: "25–110"
-    link_title: See the room
-    link_url: /pdr-penthouse
+    link_title: Explore the room
+    link_url: /private-events/thepenthouse/
   - title: The Executive Room
     desc: >-
       Over 400 square feet of warmth and comfort. This private space is on
       our main level and features a fireplace and North and East views of
       Lake Union and the Cascade Mountains through 10-foot-high windows.
     capacity: "6–24"
-    link_title: See the room
-    link_url: /pdr-executive
-  - title: The Caché
-    desc: >-
-      The Caché is our smallest and most intimate private dining room.
-      It’s tucked just off the Penthouse, behind the bar, overlooking the
-      lake and Aurora Bridge. Comfortably seating two to four guests with
-      space for a comfortable moment on the chaise.
-    capacity: "2–4"
-    link_title: See the room
-    link_url: /pdr-cache
+    link_title: Explore the room
+    link_url: /private-events/theexecutiveroom/
+  # - title: The Caché
+  #   desc: >-
+  #     The Caché is our smallest and most intimate private dining room.
+  #     It’s tucked just off the Penthouse, behind the bar, overlooking the
+  #     lake and Aurora Bridge. Comfortably seating two to four guests with
+  #     space for a comfortable moment on the chaise.
+  #   capacity: "2–4"
+  #   link_title: See the room
+  #   link_url: /pdr-cache

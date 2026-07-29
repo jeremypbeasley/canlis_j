@@ -1,6 +1,6 @@
 <!-- TEMPLATE: PAGE HEADER -->
 
-<div class="page-header text-align-center p4">
+<div class="page-header bg-brand-3 text-align-center p10">
   <div class="page-header_container">
     <div class="page-header_title Caption mb4">
       <span><a href="{{ page.page_header_parent_url }}" class="NoLine">{{ page.page_header_parent_title }}</a></span>
@@ -11,11 +11,11 @@
     <div class="page-header_headline text-center">
       <h1 class="Display2">{{ page.page_header_headline }}</h1>
       {% if page.page_header_ctas %}
-        <div class="mt2">
+        <div class="mt4">
         {% for cta in page.page_header_ctas %}
           <a
             href="{{ cta.url }}"
-            class="brand-button brand-button--dark brand-button--solid mr2"
+            class="brand-button brand-button--dark brand-button--solid"
           >
             {{ cta.title }}
           </a>
