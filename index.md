@@ -1,11 +1,11 @@
 ---
 title: Seattle’s family-owned fine dining since 1950
-is_alert_shown: false
+is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
 intro_video_aria_label: Drone video, slowly approaching Canlis peeking over Lake Union
-alert_text: "Live in the Lower Lot tickets go for sale here, Wednesday at Noon. \U0001F399️"
-alert_link: https://www.instagram.com/canlisrestaurant
-alert_color: "#d6eeff"
+alert_text: "Tap here for tickets to Live in the Lower Lot \U0001F399️"
+alert_link: https://www.exploretock.com/canlis
+alert_color: "#e7e5df"
 og_title: Canlis Restaurant
 og_photo: "/uploads/kevin1-db615c.jpg"
 og_desc: Seattle's landmark fine-dining destination for 70 years and recent home to
