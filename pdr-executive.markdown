@@ -1,9 +1,8 @@
 ---
 title: Events
 date: 2016-11-10 10:10:00 -08:00
-permalink: /pdr/theexecutiveroom/
-
-page_header_parent_url: /pdr
+permalink: "/pdr/theexecutiveroom/"
+page_header_parent_url: "/pdr"
 page_header_parent_title: Private Events
 page_header_title: The Executive Room
 page_header_headline: A seat above Seattle. Big enough for celebration. Small enough
