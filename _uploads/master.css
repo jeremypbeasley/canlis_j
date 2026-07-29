@@ -3811,15 +3811,6 @@ footer a {
 .IntroShort {
   margin-bottom: -20vw;
 }
-.Welcome img {
-  max-width: 200px;
-  width: 50vw;
-}
-@media (min-width: 62em) {
-  .Welcome {
-    max-width: 400px;
-  }
-}
 .HomeIntro {
   margin-bottom: -6vw;
   justify-content: center;
@@ -3927,26 +3918,13 @@ footer a {
     transform: scale(1.5);
   }
 }
-#bgvid {
-  position: absolute;
-  top: 50%;
-  left: -1000%;
-  min-width: 40vw;
-/* min-height: 100%; */
-  width: 58vw;
-  height: 40vw;
-  transform: translateX(-50%) translateY(-50%);
-  z-index: -100;
-  background: #131d1f;
-  opacity: 0;
-}
 .halibut_vid {
-  width: 100%;
+  width: 100vw;
 /* min-height: 100%; */
   z-index: -100;
   position: relative;
-  left: -20%;
-  background: #131d1f;
+  left: -4.5vw;
+  background: #292a25;
   opacity: 1;
   z-index: 50;
 }
@@ -4015,6 +3993,14 @@ footer a {
     z-index: 6;
   }
 }
+.HomePhoto4,
+.HomePhoto5 {
+  margin-top: -10vw;
+  margin-left: -4.5vw;
+  width: 100vw;
+  max-width: 100vw;
+  z-index: 6;
+}
 @media (min-width: 62em) {
   .HomePhoto4 {
     position: relative;
@@ -4024,27 +4010,10 @@ footer a {
     margin-top: -15vw;
   }
 }
-.HomePhoto4,
-.HomePhoto5 {
-  margin-top: -4vw;
-  z-index: 6;
-}
 @media (min-width: 62em) {
   .HomePhoto5 {
     width: 45vw;
     margin-top: 15vw;
-  }
-}
-.HomePhoto6 {
-  margin-top: -12%;
-}
-@media (min-width: 62em) {
-  .HomePhoto6 {
-    position: relative;
-    margin-top: -5%;
-    z-index: 60;
-    width: 60vw;
-    margin-left: 0;
   }
 }
 @media (min-width: 62em) {
@@ -4075,6 +4044,13 @@ footer a {
   padding: 0;
   margin: 0;
   border-bottom: 1px solid #000;
+}
+.BigPhoto_4 {
+  margin-top: -20vw;
+  margin-left: -4.5vw;
+  width: 100vw;
+  max-width: 100vw;
+  z-index: 6;
 }
 @media (min-width: 62em) {
   .BigPhoto_4 {
