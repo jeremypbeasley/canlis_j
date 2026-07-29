@@ -4573,33 +4573,41 @@ footer a {
 @-moz-keyframes fade-out {
   from {
     opacity: 0.9;
+/* transform: scale(1.5); */
   }
   to {
     opacity: 0.2;
+/* transform: scale(.9); */
   }
 }
 @-webkit-keyframes fade-out {
   from {
     opacity: 0.9;
+/* transform: scale(1.5); */
   }
   to {
     opacity: 0.2;
+/* transform: scale(.9); */
   }
 }
 @-o-keyframes fade-out {
   from {
     opacity: 0.9;
+/* transform: scale(1.5); */
   }
   to {
     opacity: 0.2;
+/* transform: scale(.9); */
   }
 }
 @keyframes fade-out {
   from {
     opacity: 0.9;
+/* transform: scale(1.5); */
   }
   to {
     opacity: 0.2;
+/* transform: scale(.9); */
   }
 }
 @-moz-keyframes step-1 {
