@@ -10,8 +10,6 @@
     Reserve
   </a>
 
-
-
   <!--
     Keep the existing Logo class so the logo image continues to work.
     site-nav-logo controls only its position inside this navigation.
@@ -37,11 +35,11 @@
         <ul>
           {% for item in site.global_nav %}
 
-            {% unless item.title == "Private Events" or item.slug == "/privateevents/" %}
+            {% unless item.title == "Private Events" or item.slug == "/private-events/" %}
               <li>
                 <a
                   class="Caption NoLine"
-                  href="{{ item.slug }}"
+                  href="/{{ item.slug }}/"
                 >
                   {{ item.title }}
                 </a>
