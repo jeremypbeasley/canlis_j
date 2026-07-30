@@ -40,7 +40,7 @@ section_3_body: 'In the Spring of 2025, Food & Wine Magazine reached out to more
   Canlis was ranked second! What an absolute honor to have a group of our peers hold
   this restaurant in such esteem.  '
 section_3_body_small:
-section_3_link_text: Read Article
+section_3_link_text: Read More at Food & Wine
 section_3_link_url: https://www.foodandwine.com/top-united-states-restaurants-2025-11691726
 section_3_photo: "/uploads/flan-939d3e.jpg"
 section_3_photo_aria_label: English pea flan with mint and morels
