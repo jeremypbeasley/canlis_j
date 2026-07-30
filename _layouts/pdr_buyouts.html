@@ -1,0 +1,335 @@
+{% include head.html %}
+
+{{ page.content }}
+
+{% include pdr/header.html %}
+{% include pdr/photo_feature.html %}
+
+
+<!-- TEMPLATE: SQUARE, TEXT LEFT -->
+
+<div class="p5 d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-6">
+      <h1 class="mb6 Display2">{{ page.room_desc }}</h1>
+
+      <div class="border-top border-grey pt5">
+        <ul>
+          {% for item in page.room_details %}
+            <li class="flex justify-content-space-between">
+              <div>
+                {{ item.title }}
+              </div>
+
+              <div class="Caption text-align-right">
+                {{ item.value }}
+              </div>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div class="column col-xs-12 col-md-6">
+      <img src="{{ page.photo_grid_1 }}" />
+    </div>
+  </div>
+</div>
+
+<!-- END TEMPLATE -->
+
+
+<!-- TEMPLATE: SINGLE SQUARE, LEFT -->
+
+{% if page.photo_grid_2 %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-6">
+      <img src="{{ page.photo_grid_2 }}" />
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- END TEMPLATE -->
+
+
+<!-- TEMPLATE: DOUBLE SQUARE -->
+
+{% if page.photo_grid_3 and page.photo_grid_4 %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-6">
+      <img src="{{ page.photo_grid_3 }}" />
+    </div>
+
+    <div class="column col-xs-12 col-md-6">
+      <img src="{{ page.photo_grid_4 }}" />
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- END TEMPLATE -->
+
+
+<!-- TEMPLATE: CENTERED TEXT -->
+
+{% if page.occasion_brief %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-6 col-md-offset-3">
+      <h2 class="Display2 text-align-center">
+        {{ page.occasion_brief }}
+      </h2>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- END TEMPLATE -->
+
+
+<!-- TEMPLATE: DOUBLE SQUARE -->
+
+{% if page.photo_grid_5 and page.photo_grid_6 %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-6">
+      <img src="{{ page.photo_grid_5 }}" />
+    </div>
+
+    <div class="column col-xs-12 col-md-6">
+      <img src="{{ page.photo_grid_6 }}" />
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- END TEMPLATE -->
+
+
+<!-- TEMPLATE: FULL WIDTH PHOTO -->
+
+{% if page.photo_grid_7 %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-12">
+      <img src="{{ page.photo_grid_7 }}" />
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- END TEMPLATE -->
+
+{% if page.mid_brief %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-6 col-md-offset-3">
+      <h2 class="Display2 text-align-center">
+        {{ page.mid_brief | markdownify }}
+      </h2>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+
+<!-- TEMPLATE: DOUBLE SQUARE -->
+
+{% if page.photo_grid_8 and page.photo_grid_9 %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-6">
+      <img src="{{ page.photo_grid_8 }}" />
+    </div>
+
+    <div class="column col-xs-12 col-md-6">
+      <img src="{{ page.photo_grid_9 }}" />
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- END TEMPLATE -->
+
+
+<!-- TEMPLATE: 2/3 PHOTO -->
+
+{% if page.photo_grid_10 %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-8 col-md-offset-2">
+      <img src="{{ page.photo_grid_10 }}" />
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- END TEMPLATE -->
+
+
+<!-- TEMPLATE: DOUBLE SQUARE -->
+
+{% if page.photo_grid_11 and page.photo_grid_12 %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-6">
+      <img src="{{ page.photo_grid_11 }}" />
+    </div>
+
+    <div class="column col-xs-12 col-md-6">
+      <img src="{{ page.photo_grid_12 }}" />
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- END TEMPLATE -->
+
+
+<!-- TEMPLATE: FULL WIDTH PHOTO -->
+
+{% if page.photo_grid_13 %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-12">
+      <img src="{{ page.photo_grid_13 }}" />
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- END TEMPLATE -->
+
+
+<!-- TEMPLATE: CENTERED STORY -->
+
+{% if page.occasion_story %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-6 col-md-offset-3 text-align-center">
+      {{ page.occasion_story | markdownify }}
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- END TEMPLATE -->
+
+
+<!-- TEMPLATE: DOUBLE SQUARE -->
+
+{% if page.photo_grid_14 and page.photo_grid_15 %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-6">
+      <img src="{{ page.photo_grid_14 }}" />
+    </div>
+
+    <div class="column col-xs-12 col-md-6">
+      <img src="{{ page.photo_grid_15 }}" />
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- END TEMPLATE -->
+
+
+<!-- TEMPLATE: OCCASION DETAILS -->
+
+{% if page.occasion_details %}
+<div class="d-p5 bg-brand-2">
+  <div class="row">
+    <h2 class="column col-xs-12 text-align-center mb6 Display2 mt10 color-white">
+      {{ page.occasion_details_title }}
+    </h2>
+
+    <div class="occasion-details-columns column color-white">
+      {% for detail in page.occasion_details %}
+        <section class="occasion-detail mb2">
+          <h3 class="Caption uppercase mb2">
+            {{ detail.title }}
+          </h3>
+
+          <div>
+            {{ detail.desc | markdownify }}
+          </div>
+        </section>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<!-- END TEMPLATE -->
+
+
+<!-- TEMPLATE: FLOOR PLAN -->
+
+{% if page.floorplan %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-8 col-md-offset-2">
+      <div class="p5 d-pb10 text-align-center">
+        <h2 class="Display2">A look at the floor plan.</h2>
+      </div>
+
+      <img src="{{ page.floorplan }}" />
+    </div>
+  </div>
+</div>
+{% endif %}
+
+<div class="d-p5 bg-brand-1">
+  <div class="row">
+    <div class="occasion-details-columns column col-xs-12 col-md-6 color-white">
+      <section class="occasion-detail mb2">
+        <h3 class="Display2 mb4">
+          Inside
+        </h3>
+        <div class="">
+          {{ page.inside_desc | markdownify }}
+        </div>
+      </section>
+    </div>
+    <div class="occasion-details-columns column col-xs-12 col-md-6 color-white">
+      <section class="occasion-detail mb2">
+        <h3 class="Display2 mb4">
+          Outside
+        </h3>
+        <div class="">
+          {{ page.outside_desc | markdownify }}
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+
+<!-- END TEMPLATE -->
+
+<div class="p5 d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-6">
+      <div class="border-top border-grey pt5">
+        <h3 class="Display2 mb2">
+          {{ page.finale_title }}
+        </h3>
+        <div class="">
+          {{ page.finale_desc | markdownify }}
+        </div>
+      </div>
+    </div>
+
+    <div class="column col-xs-12 col-md-6">
+      <img src="{{ page.photo_grid_16 }}" />
+    </div>
+  </div>
+</div>
+
+<!-- {% include pdr/rooms.html %} -->
+{% include pdr/contactus.html %}
+
+{% include footer.html %}
