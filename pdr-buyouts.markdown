@@ -7,8 +7,8 @@ page_header_parent_title: Private Events
 page_header_title: Buyouts
 page_header_headline: There’s a time to go bigger than big.
 photo_feature_content: false
-photo_feature_content_title:
-photo_feature_content_desc:
+photo_feature_content_title: 
+photo_feature_content_desc: 
 photo_feature_photo: "/uploads/hero_buyout.jpg"
 photo_grid_1: "/uploads/buyout_1.jpg"
 photo_grid_2: "/uploads/buyout_2.jpg"
@@ -43,32 +43,24 @@ inside_desc: |
   The Executive Room is 400 square feet of warmth and comfort. Located on our main level, it features a fireplace and north- and east-facing views of Lake Union and the Cascade Mountains through 10-foot-high windows. It can accommodate XX guests seated or XX standing.
 
   Depending on the size of your event, these spaces can be reserved individually, combined in different configurations, or enjoyed alongside other private events—or even our regular dinner service.
-
 outside_desc: |
   The Canlis parking lot stretches across two terraced tiers—nearly 10,000 square feet carved into the hillside. The upper level enjoys expansive views of Lake Union, while the lower level feels tucked away and intimate.
 
   During the pandemic, we transformed our parking lot from simply a place to leave cars into a canvas for creativity, hospitality, and community. It became an experimental stage where we reimagined what a restaurant could be when indoor dining was no longer possible.
 
   Over the years we've built a drive-in movie theater, a seated crab shack, an outdoor barbecue restaurant, hosted intimate concerts, and served pizzas and burgers to thousands—all across this unlikely stretch of asphalt.
-occasion_brief: |
-  Inside.  
-  Outside.  
-  Shark ride.  
-  Dance time.
-
-  A fully immersive experience designed, just for you.
-
+occasion_brief: "Inside.  \nOutside.  \nShark ride.  \nDance time.\n\nA fully immersive
+  experience designed, just for you.\n"
 mid_brief: |
   For seventy five years, we have had the great honor of hosting our guest’s most treasured occasions. Reflecting on those events, we knew we could serve you in an even bigger way, and are happy to now offer the opportunity for full restaurant buyouts. 
 
   We’ve laid out a few outlines and options here, but know the possibilities are endless.
 
   We’ve thrown some great parties ourselves over the years, and will give your event that same care and attention. A buyout of the restaurant means the sky is the limit. While we may not let you paint the restaurant pink, we would love to help you imagine something that will wow your guests just as much. 
-
 finale_title: But, how much does this really cost?
-
 finale_desc: |
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
 
   Buyouts require a minimum of four months' notice.
 ---
+

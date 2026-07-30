@@ -41,7 +41,7 @@ section_3_body: 'In the Spring of 2025, Food & Wine Magazine reached out to more
   400 writers, chefs, and travel professionals to rank the best restaurants in America.
   Canlis was ranked second! What an absolute honor to have a group of our peers hold
   this restaurant in such esteem.  '
-section_3_body_small:
+section_3_body_small: 
 section_3_link_text: Read More at Food & Wine
 section_3_link_url: https://www.foodandwine.com/top-united-states-restaurants-2025-11691726
 section_3_photo: "/uploads/flan-939d3e.jpg"
