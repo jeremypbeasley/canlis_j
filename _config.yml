@@ -10,18 +10,18 @@ collections:
     output: true
 name: Canlis
 global_nav:
-- title: Menu
-  slug: menu
-- title: Our Story
-  slug: story
-- title: Wine
-  slug: wine
-- title: The Lounge
-  slug: lounge
-- title: Careers
-  slug: careers
-- title: Gift Cards
-  slug: https://giftcards.canlis.com/
+  - title: Menu
+    slug: /menu/
+  - title: Our Story
+    slug: /story/
+  - title: Wine
+    slug: /wine/
+  - title: The Lounge
+    slug: /lounge/
+  - title: Careers
+    slug: /careers/
+  - title: Gift Cards
+    slug: https://giftcards.canlis.com/
 email: jeremy@jeremypbeasley.com
 description: Seattle's landmark fine-dining destination for 70 years and recent home
   to multi-disciplinary pandemic pivots designed to serve our city.

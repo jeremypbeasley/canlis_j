@@ -10,10 +10,6 @@
     Reserve
   </a>
 
-  <!--
-    Keep the existing Logo class so the logo image continues to work.
-    site-nav-logo controls only its position inside this navigation.
-  -->
   <a
     href="/"
     class="Logo site-nav-logo Caption NoLine"
@@ -39,7 +35,11 @@
               <li>
                 <a
                   class="Caption NoLine"
-                  href="/{{ item.slug }}/"
+                  href="{{ item.slug }}"
+                  {% if item.slug contains '://' %}
+                    target="_blank"
+                    rel="noopener"
+                  {% endif %}
                 >
                   {{ item.title }}
                 </a>
@@ -79,6 +79,10 @@
                 <a
                   class="Caption NoLine"
                   href="{{ item.slug }}"
+                  {% if item.slug contains '://' %}
+                    target="_blank"
+                    rel="noopener"
+                  {% endif %}
                 >
                   {{ item.title }}
                 </a>
