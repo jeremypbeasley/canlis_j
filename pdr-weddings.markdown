@@ -8,8 +8,8 @@ page_header_title: Weddings
 page_header_headline: The start of your future deserves a view wide enough to hold
   it.
 photo_feature_content: false
-photo_feature_content_title: 
-photo_feature_content_desc: 
+photo_feature_content_title:
+photo_feature_content_desc:
 photo_feature_photo: "/uploads/hero_weddings.jpg"
 photo_grid_1: "/uploads/weddinghug.jpg"
 photo_grid_2: "/uploads/wedding2.jpg"
@@ -18,7 +18,7 @@ photo_grid_4: "/uploads/rounds.jpg"
 photo_grid_5: "/uploads/wedding4.jpg"
 photo_grid_6: "/uploads/wedding5.jpg"
 photo_grid_7: "/uploads/cheers.jpg"
-photo_grid_8: "/uploads/pent_food.jpg"
+photo_grid_8: "/uploads/sablefish.jpg"
 photo_grid_9: "/uploads/pent_shades.jpg"
 packet_link: "/uploads/canlis_privateevents.pdf"
 room_desc: 'Weddings at Canlis feel expansive and intimate at the same time: the whole
@@ -78,4 +78,3 @@ occasion_details:
 
 '
 ---
-

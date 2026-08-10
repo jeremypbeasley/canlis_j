@@ -7,17 +7,17 @@ page_header_parent_title: Private Events
 page_header_title: Company Parties
 page_header_headline: Reward your team with a night they’ll never forget.
 photo_feature_content: false
-photo_feature_content_title: 
-photo_feature_content_desc: 
+photo_feature_content_title:
+photo_feature_content_desc:
 photo_feature_photo: "/uploads/hero_company.jpg"
 photo_grid_1: "/uploads/company1.jpg"
 photo_grid_2: "/uploads/company2.jpg"
 photo_grid_3: "/uploads/family3.jpg"
-photo_grid_4: "/uploads/rounds.jpg"
+photo_grid_4: "/uploads/hero_pent.jpg"
 photo_grid_5: "/uploads/wedding4.jpg"
 photo_grid_6: "/uploads/wedding5.jpg"
 photo_grid_7: "/uploads/cheers.jpg"
-photo_grid_8: "/uploads/pent_food.jpg"
+photo_grid_8: "/uploads/sablefish.jpg"
 photo_grid_9: "/uploads/pent_shades.jpg"
 packet_link: "/uploads/canlis_privateevents.pdf"
 room_desc: Teams come here to celebrate milestones, thank the people behind the work,
@@ -30,4 +30,3 @@ occasion_brief: A toast after a record year. A retirement dinner for someone who
   build the company. A holiday party where people stay long after dessert because
   no one wants the evening to end.
 ---
-

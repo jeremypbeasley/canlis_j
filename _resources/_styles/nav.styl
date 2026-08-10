@@ -8,12 +8,19 @@
 
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  /* justify-content: space-between; */
 
   height: 110px;
   padding: 0 3rem;
 
-  background: brand-color-3;
+  /* background: red; */
+  border-bottom: 1px solid brand-color-4;
+  /* margin-top: 90px */
+}
+
+..home .home-opening-step-1 {
+  display: none !important;
+  opacity: 0 !important;
 }
 
 
@@ -25,12 +32,14 @@
   position: absolute;
   top: 50%;
   left: 50%;
-
   margin: 0;
-
   transform: translate(-50%, -50%);
-
   white-space: nowrap;
+  /* display: none; */
+}
+
+body.home .site-nav-logo {
+  display: none;
 }
 
 
@@ -75,7 +84,8 @@
   display: none;
   align-items: center;
 
-  margin-left: auto;
+  /* margin-left: auto; */
+  margin-left: 2em;
 }
 
 
