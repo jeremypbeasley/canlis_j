@@ -378,7 +378,7 @@ items:
     - title: 
       url: "/uploads/20240420_Canlis_007_web.jpg"
       aria-label: 
-- title: The Oval Walnut Tray
+- title: The Walnut Service Tray
   desc: |-
     Pressed with 5 layers of cross-laminated 1/16" walnut veneer, these large serving trays accomplish a delicately thin appearance in a robust package. Solid bronze rails in a brown patina are inlayed along the exposed edges to add strength and protection for sliding items while carrying. The subtly curved ends allow functional ease for lifting from a flat surface.
     <br><br>

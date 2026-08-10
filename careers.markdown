@@ -16,7 +16,8 @@ section1:
     Pelander, our Director of People and Development, at [work@canlis.com](mailto:work@canlis.com).
     And please don't skimp on the letter...\n\nDescribe a bit about who you are and
     why Canlis may be a good fit. Be specific, and feel free to have fun with it!\n\nRoles
-    we are currently hiring for:<br>\n<b>Service Barista</b> – Starting Pay: $24-27/hour
+    we are currently hiring for:<br>\n<b>Host / Reservationist</b> – Starting Pay:
+    $22-28/hour plus tips<br>\n<b>Service Barista</b> – Starting Pay: $24-27/hour
     plus tips<br>\n<b>Service Team</b> – Starting Pay: $24-27/hour plus tips<br>\n<b>Line
     Cook</b> – Starting Pay: $23-25/hour plus tips<br>\n\nAll positions include available
     medical, dental, vision, and life insurance, 401K, PTO, and dining benefits. "
