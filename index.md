@@ -1,6 +1,6 @@
 ---
 title: Seattle’s family-owned fine dining since 1950
-is_alert_shown: true
+is_alert_shown: false
 intro_video: "/uploads/bgvideo.mp4"
 intro_video_aria_label: Drone video, slowly approaching Canlis peeking over Lake Union
 alert_text: "Tap here for tickets to Live in the Lower Lot \U0001F399️"
