@@ -1,0 +1,42 @@
+{% include head.html %}
+
+<div class="row">
+  <div class="column col-xs-12 col-md-6 col-md-offset-3 FirstThing">
+
+    <h1 class="mb10 Display1">{{ page.title }}</h1>
+
+    <div class="faq">
+      {% for section in page.faq_sections %}
+
+        <div class="faq-section mb10">
+
+          <h2 class="Display2 mb4">{{ section.title }}</h2>
+
+          <div class="border-top">
+            {% for question in section.questions %}
+
+              <details class="faq-item border-bottom">
+
+                <summary class="faq-question flex justify-content-space-between align-center pt4 pb4">
+                  <span>{{ question.title }}</span>
+                  <span class="faq-icon"></span>
+                </summary>
+
+                <div class="faq-answer pb5">
+                  {{ question.body | markdownify }}
+                </div>
+
+              </details>
+
+            {% endfor %}
+          </div>
+
+        </div>
+
+      {% endfor %}
+    </div>
+
+  </div>
+</div>
+
+{% include footer.html %}

@@ -29,6 +29,8 @@ photo_grid_8: "/uploads/7A9C119C-A261-48D6-ABBE-9A94D7E42A41.JPG"
 photo_grid_9: "/uploads/sablefish.jpg"
 photo_grid_10: "/uploads/pent_shades.jpg"
 packet_link: "/uploads/canlis_privateevents.pdf"
+buyout_title: "Some moments deserve the whole house."
+buyout_photo: "/uploads/hero_buyouts.jpg"
 layout: pdr_home
 ---
 
