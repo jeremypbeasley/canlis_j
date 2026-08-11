@@ -39,13 +39,17 @@
 <!-- END TEMPLATE -->
 
 
-<!-- TEMPLATE: SINGLE SQUARE, LEFT -->
+<!-- TEMPLATE: DOUBLE SQUARE -->
 
-{% if page.photo_grid_2 %}
+{% if page.photo_grid_3 and page.photo_grid_4 %}
 <div class="d-p5">
   <div class="row">
     <div class="column col-xs-12 col-md-6">
       <img src="{{ page.photo_grid_2 }}" />
+    </div>
+
+    <div class="column col-xs-12 col-md-6">
+      <img src="{{ page.photo_grid_3 }}" />
     </div>
   </div>
 </div>
@@ -54,16 +58,12 @@
 <!-- END TEMPLATE -->
 
 
-<!-- TEMPLATE: DOUBLE SQUARE -->
+<!-- TEMPLATE: 2/3 PHOTO -->
 
-{% if page.photo_grid_3 and page.photo_grid_4 %}
+{% if page.photo_grid_10 %}
 <div class="d-p5">
   <div class="row">
-    <div class="column col-xs-12 col-md-6">
-      <img src="{{ page.photo_grid_3 }}" />
-    </div>
-
-    <div class="column col-xs-12 col-md-6">
+    <div class="column col-xs-12 col-md-8 col-md-offset-2">
       <img src="{{ page.photo_grid_4 }}" />
     </div>
   </div>
@@ -71,6 +71,30 @@
 {% endif %}
 
 <!-- END TEMPLATE -->
+
+
+{% if page.mid_brief %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12 col-md-6 col-md-offset-3">
+      <h2 class="Display2 text-align-center">
+        {{ page.mid_brief | markdownify }}
+      </h2>
+    </div>
+  </div>
+</div>
+{% endif %}
+
+
+{% if page.mid_brief %}
+<div class="d-p5">
+  <div class="row">
+    <div class="column col-xs-12">
+      <hr>
+    </div>
+  </div>
+</div>
+{% endif %}
 
 
 <!-- TEMPLATE: CENTERED TEXT -->
@@ -123,17 +147,6 @@
 
 <!-- END TEMPLATE -->
 
-{% if page.mid_brief %}
-<div class="d-p5">
-  <div class="row">
-    <div class="column col-xs-12 col-md-6 col-md-offset-3">
-      <h2 class="Display2 text-align-center">
-        {{ page.mid_brief | markdownify }}
-      </h2>
-    </div>
-  </div>
-</div>
-{% endif %}
 
 
 <!-- TEMPLATE: DOUBLE SQUARE -->
@@ -155,19 +168,6 @@
 <!-- END TEMPLATE -->
 
 
-<!-- TEMPLATE: 2/3 PHOTO -->
-
-{% if page.photo_grid_10 %}
-<div class="d-p5">
-  <div class="row">
-    <div class="column col-xs-12 col-md-8 col-md-offset-2">
-      <img src="{{ page.photo_grid_10 }}" />
-    </div>
-  </div>
-</div>
-{% endif %}
-
-<!-- END TEMPLATE -->
 
 
 <!-- TEMPLATE: DOUBLE SQUARE -->
@@ -310,24 +310,7 @@
 
 <!-- END TEMPLATE -->
 
-<div class="p5 d-p5">
-  <div class="row">
-    <div class="column col-xs-12 col-md-6">
-      <div class="border-top border-grey pt5">
-        <h3 class="Display2 mb2">
-          {{ page.finale_title }}
-        </h3>
-        <div class="">
-          {{ page.finale_desc | markdownify }}
-        </div>
-      </div>
-    </div>
 
-    <div class="column col-xs-12 col-md-6">
-      <img src="{{ page.photo_grid_16 }}" />
-    </div>
-  </div>
-</div>
 
 <!-- {% include pdr/rooms.html %} -->
 {% include pdr/contactus.html %}
