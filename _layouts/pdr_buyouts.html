@@ -85,6 +85,31 @@
 </div>
 {% endif %}
 
+<div class="d-p5 bg-brand-1">
+  <div class="row">
+    <div class="occasion-details-columns column col-xs-12 col-md-6 color-white">
+      <section class="occasion-detail mb2">
+        <h3 class="Display2 mb4">
+          Inside
+        </h3>
+        <div class="">
+          {{ page.inside_desc | markdownify }}
+        </div>
+      </section>
+    </div>
+    <div class="occasion-details-columns column col-xs-12 col-md-6 color-white">
+      <section class="occasion-detail mb2">
+        <h3 class="Display2 mb4">
+          Outside
+        </h3>
+        <div class="">
+          {{ page.outside_desc | markdownify }}
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+
 
 {% if page.mid_brief %}
 <div class="d-p5">
@@ -283,30 +308,7 @@
 </div>
 {% endif %}
 
-<div class="d-p5 bg-brand-1">
-  <div class="row">
-    <div class="occasion-details-columns column col-xs-12 col-md-6 color-white">
-      <section class="occasion-detail mb2">
-        <h3 class="Display2 mb4">
-          Inside
-        </h3>
-        <div class="">
-          {{ page.inside_desc | markdownify }}
-        </div>
-      </section>
-    </div>
-    <div class="occasion-details-columns column col-xs-12 col-md-6 color-white">
-      <section class="occasion-detail mb2">
-        <h3 class="Display2 mb4">
-          Outside
-        </h3>
-        <div class="">
-          {{ page.outside_desc | markdownify }}
-        </div>
-      </section>
-    </div>
-  </div>
-</div>
+
 
 <!-- END TEMPLATE -->
 
