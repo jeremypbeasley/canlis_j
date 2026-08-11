@@ -5,10 +5,10 @@ permalink: "/private-events/buyouts/"
 page_header_parent_url: "/private-events"
 page_header_parent_title: Private Events
 page_header_title: Buyouts
-page_header_headline: "Some gatherings just need the whole house."
+page_header_headline: Some gatherings just need the whole house.
 photo_feature_content: false
-photo_feature_content_title:
-photo_feature_content_desc:
+photo_feature_content_title: 
+photo_feature_content_desc: 
 photo_feature_photo: "/uploads/hero_buyout.jpg"
 photo_grid_1: "/uploads/buyout_16.jpg"
 photo_grid_2: "/uploads/buyout_11.jpg"
@@ -27,7 +27,9 @@ photo_grid_14: "/uploads/buyout_14.jpg"
 photo_grid_15: "/uploads/buyout_15.jpg"
 photo_grid_16: "/uploads/buyout_2.jpg"
 packet_link: "/uploads/canlis_privateevents.pdf"
-room_desc: "With deep care this historic space, we see it as a canvas for our craziest ideas and most memorable dinners. For years, we’ve been transforming our dining room, parking lot, roof top, and more into immersive and unforgettable moments."
+room_desc: With deep care this historic space, we see it as a canvas for our craziest
+  ideas and most memorable dinners. For years, we’ve been transforming our dining
+  room, parking lot, roof top, and more into immersive and unforgettable moments.
 layout: pdr_buyouts
 inside_desc: |
   Our inside is composed of three primary spaces: our Dining Room and two private rooms: The Penthouse and The Executive Room.
@@ -45,7 +47,7 @@ outside_desc: |
   During the pandemic, we transformed our parking lot from simply a place to leave cars into a canvas for creativity, hospitality, and community. It became an experimental stage where we reimagined what a restaurant could be when indoor dining was no longer possible.
 
   Over the years we've built a drive-in movie theater, a seated crab shack, an outdoor barbecue restaurant, hosted intimate concerts, and served pizzas and burgers to thousands—all across this unlikely stretch of asphalt.
-occasion_brief: "When it's time to go even bigger than big, we're here for it."
+occasion_brief: When it's time to go even bigger than big, we're here for it.
 mid_brief: |
   For seventy five years, we have had the great honor of hosting our guest’s most treasured occasions. Reflecting on those events, we knew we could serve you in an even bigger way, and are happy to now offer the opportunity for full restaurant buyouts. 
 
@@ -53,3 +55,4 @@ mid_brief: |
 
   <i>Full buyouts require a 6-month minimum lead time and are approved on a case-by-case basis.</i>
 ---
+
