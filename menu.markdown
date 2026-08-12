@@ -17,7 +17,7 @@ course_1:
 course_2:
 - title: Halibut
   desc: english pea, mushroom, and dashi
-- title: Celeriac
+- title: Savoy Cabbage
   desc: leek, koji, brassica, and hazelnut
 - title: Pork
   desc: morel, ramp, and cauliflower
@@ -25,7 +25,7 @@ course_2:
   desc: kalbi, spring onion, and chickpea miso
 - title: or
   desc: 
-- title: Copper River Sockeye Salmon
+- title: Coho Salmon
   desc: "grilled zucchini and with garlic scape and apricot,\nspinach in chili beurre
     monté, and koshihikari rice in smoked salmon dashi.       \n+$25 per person; limited
     availability"
