@@ -17,10 +17,11 @@ section1:
     And please don't skimp on the letter...\n\nDescribe a bit about who you are and
     why Canlis may be a good fit. Be specific, and feel free to have fun with it!\n\nRoles
     we are currently hiring for:<br>\n<b>Host / Reservationist</b> – Starting Pay:
-    $22-28/hour plus tips<br>\n<b>Service Barista</b> – Starting Pay: $24-27/hour
-    plus tips<br>\n<b>Service Team</b> – Starting Pay: $24-27/hour plus tips<br>\n<b>Line
-    Cook</b> – Starting Pay: $23-25/hour plus tips<br>\n\nAll positions include available
-    medical, dental, vision, and life insurance, 401K, PTO, and dining benefits. "
+    $22-28/hour plus tips<br>\n<b>Barista</b> – Starting Pay: $24-27/hour plus tips<br>\n<b>Valet</b>
+    – Starting Pay: $22/hour plus tips<br>\n<b>Pastry Cook</b> – Starting Pay: $23-25/hour
+    plus tips<br>\n<b>Line Cook</b> – Starting Pay: $23-25/hour plus tips<br>\n\nAll
+    positions include available medical, dental, vision, and life insurance, 401K,
+    PTO, and dining benefits. "
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place
