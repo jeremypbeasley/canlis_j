@@ -32,7 +32,7 @@ course_2:
 course_3:
 - title: Corn
   desc: yeasted cake, blackberry, and nasturtium sabayon
-- title: Apricot
+- title: Plum
   desc: white chocolate, honey, and meringue
 - title: Rhubarb
   desc: yogurt, preserved flowers, and lemon balm
