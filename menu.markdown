@@ -10,8 +10,8 @@ disclaimer: A 20% service charge will be added to your final bill. 100% of this 
 course_1:
 - title: Sashimi*
   desc: cured salmon, pickled onion, and sea herbs
-- title: Sunchoke
-  desc: duxelle and soubise with early spring herbs
+- title: Nightshades
+  desc: potato and poblano pavé, sungold salsa, and tomatillo
 - title: Sablefish
   desc: turnips with spot prawns and guanciale XO
 course_2:
@@ -30,8 +30,8 @@ course_2:
     monté, and koshihikari rice in smoked salmon dashi.       \n+$25 per person; limited
     availability"
 course_3:
-- title: Soufflé
-  desc: hazelnut and crème anglaise
+- title: Corn
+  desc: yeasted cake, blackberry, and nasturtium sabayon
 - title: Apricot
   desc: white chocolate, honey, and meringue
 - title: Rhubarb
