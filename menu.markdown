@@ -16,7 +16,7 @@ course_1:
   desc: turnips with spot prawns and guanciale XO
 course_2:
 - title: Halibut
-  desc: english pea, mushroom, and dashi
+  desc: wax beans, mushroom, and dashi
 - title: Savoy Cabbage
   desc: leek, koji, brassica, and hazelnut
 - title: Pork
