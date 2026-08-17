@@ -19,7 +19,7 @@ photo_grid_3: "/uploads/pent_moon_2.jpg"
 photo_grid_4: "/uploads/pent_blue_1.jpg"
 photo_grid_5: "/uploads/pent_blue_2.jpg"
 photo_grid_6: "/uploads/pent_blue_3.jpg"
-photo_grid_7:
+photo_grid_7: 
 photo_grid_8: "/uploads/shades2.jpg"
 photo_grid_9: "/uploads/1973BD77-4765-407F-B444-1325E5D837B3.JPG"
 packet_link: "/uploads/canlis_privateevents.pdf"
@@ -43,3 +43,4 @@ room_details:
 floorplan: "/uploads/floor_pent.jpg"
 layout: pdr_room
 ---
+

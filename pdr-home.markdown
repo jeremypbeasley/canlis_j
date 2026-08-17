@@ -4,7 +4,7 @@ date: 2016-11-10 10:10:00 -08:00
 permalink: "/private-events/"
 page_header_parent_url: "/private-events"
 page_header_parent_title: Private Events
-page_header_title:
+page_header_title: 
 page_header_headline: We welcome you with a coast-to-coast reputation for creating
   unforgettable experiences.
 page_header_ctas:
@@ -21,7 +21,7 @@ photo_feature_photo: "/uploads/theview.jpg"
 photo_grid_1: "/uploads/7A9C119C-A261-48D6-ABBE-9A94D7E42A41.JPG"
 photo_grid_2: "/uploads/moonrise_22.jpg"
 photo_grid_3: "/uploads/hero_pent.jpg"
-photo_grid_4:
+photo_grid_4: 
 photo_grid_5: "/uploads/hero_pent.jpg"
 photo_grid_6: "/uploads/mingle2.jpg"
 photo_grid_7: "/uploads/mayocoba.jpg"
@@ -33,3 +33,4 @@ buyout_title: Some moments deserve the whole house.
 buyout_photo: "/uploads/hero_buyouts.jpg"
 layout: pdr_home
 ---
+
