@@ -10,14 +10,14 @@ disclaimer: A 20% service charge will be added to your final bill. 100% of this 
 course_1:
 - title: Sashimi*
   desc: cured salmon, pickled onion, and sea herbs
-- title: Sunchoke
-  desc: duxelle and soubise with early spring herbs
+- title: Nightshades
+  desc: potato and poblano pavé, sungold salsa, and tomatillo
 - title: Sablefish
   desc: turnips with spot prawns and guanciale XO
 course_2:
 - title: Halibut
-  desc: english pea, mushroom, and dashi
-- title: Celeriac
+  desc: wax beans, mushroom, and dashi
+- title: Savoy Cabbage
   desc: leek, koji, brassica, and hazelnut
 - title: Pork
   desc: morel, ramp, and cauliflower
@@ -25,14 +25,14 @@ course_2:
   desc: kalbi, spring onion, and chickpea miso
 - title: or
   desc: 
-- title: Copper River Sockeye Salmon
+- title: Coho Salmon
   desc: "grilled zucchini and with garlic scape and apricot,\nspinach in chili beurre
     monté, and koshihikari rice in smoked salmon dashi.       \n+$25 per person; limited
     availability"
 course_3:
-- title: Soufflé
-  desc: hazelnut and crème anglaise
-- title: Apricot
+- title: Corn
+  desc: yeasted cake, blackberry, and nasturtium sabayon
+- title: Plum
   desc: white chocolate, honey, and meringue
 - title: Rhubarb
   desc: yogurt, preserved flowers, and lemon balm
