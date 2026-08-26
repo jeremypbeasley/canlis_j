@@ -19,7 +19,7 @@ section1:
     we are currently hiring for:<br>\n<b>Dining Room Manager</b> – Starting Salary
     range: $81,500 - $90,000 annually<br>\n<b>Host / Reservationist</b> – Starting
     Pay: $22-28/hour plus tips<br>\n<b>Barista</b> – Starting Pay: $24-27/hour plus
-    tips<br>\n<b>Valet</b> – Starting Pay: $22/hour plus tips<br>\n<b>Pastry Cook</b>
+    tips<br>\n<b>Valet</b> – Starting Pay: $21.30/hour plus tips<br>\n<b>Pastry Cook</b>
     – Starting Pay: $23-25/hour plus tips<br>\n<b>Line Cook</b> – Starting Pay: $23-25/hour
     plus tips<br>\n\nAll positions include available medical, dental, vision, and
     life insurance, 401K, PTO, and dining benefits. "
