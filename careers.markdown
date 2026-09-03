@@ -17,12 +17,12 @@ section1:
     And please don't skimp on the letter...\n\nDescribe a bit about who you are and
     why Canlis may be a good fit. Be specific, and feel free to have fun with it!\n\nRoles
     we are currently hiring for:<br>\n<b>Dining Room Manager</b> – Starting Salary
-    range: $81,500 - $90,000 annually<br>\n<b>Host / Reservationist</b> – Starting
-    Pay: $22-28/hour plus tips<br>\n<b>Barista</b> – Starting Pay: $24-27/hour plus
-    tips<br>\n<b>Valet</b> – Starting Pay: $21.30/hour plus tips<br>\n<b>Pastry Cook</b>
-    – Starting Pay: $23-25/hour plus tips<br>\n<b>Line Cook</b> – Starting Pay: $23-25/hour
-    plus tips<br>\n\nAll positions include available medical, dental, vision, and
-    life insurance, 401K, PTO, and dining benefits. "
+    range: $81,500 - $90,000 annually<br>\n<b>Service Team</b> – Starting Pay: $24-27/hour
+    plus tips<br>\n<b>Host / Reservationist</b> – Starting Pay: $22-28/hour plus tips<br>\n<b>Barista</b>
+    – Starting Pay: $24-27/hour plus tips<br>\n<b>Valet</b> – Starting Pay: $21.30/hour
+    plus tips<br>\n<b>Pastry Cook</b> – Starting Pay: $23-25/hour plus tips<br>\n<b>Line
+    Cook</b> – Starting Pay: $23-25/hour plus tips<br>\n\nAll positions include available
+    medical, dental, vision, and life insurance, 401K, PTO, and dining benefits. "
 section2:
   title: You Matter
   desc: It might be different here from the last place you worked. Canlis is a place
