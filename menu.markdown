@@ -12,20 +12,20 @@ course_1:
   desc: cured salmon, pickled onion, and sea herbs
 - title: Nightshades
   desc: potato and poblano pavé, sungold salsa, and tomatillo
-- title: Sablefish
-  desc: turnips with spot prawns and guanciale XO
+- title: Chowder
+  desc: manila clam, geoduck, and kasu
 course_2:
 - title: Halibut
   desc: wax beans, mushroom, and dashi
-- title: Savoy Cabbage
-  desc: leek, koji, brassica, and hazelnut
+- title: Cabbage
+  desc: leek and koji cream with hazelnut pesto
 - title: Pork
-  desc: morel, ramp, and cauliflower
+  desc: hedgehog mushroom, ramps, and cauliflower
 - title: Beef
   desc: kalbi, spring onion, and chickpea miso
 - title: or
   desc: 
-- title: Coho Salmon
+- title: Washington Coast Coho Salmon
   desc: "grilled zucchini and with garlic scape and apricot,\nspinach in chili beurre
     monté, and koshihikari rice in smoked salmon dashi.       \n+$25 per person; limited
     availability"
@@ -34,8 +34,8 @@ course_3:
   desc: yeasted cake, blackberry, and nasturtium sabayon
 - title: Plum
   desc: white chocolate, honey, and meringue
-- title: Rhubarb
-  desc: yogurt, preserved flowers, and lemon balm
+- title: Goat Cheese
+  desc: harvest grapes and carmen pepper jelly
 - title: "—"
   desc: 
 - title: 'Canlis Salad '
