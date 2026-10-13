@@ -4,7 +4,6 @@ date: 2026-10-12 18:13:00 -07:00
 layout: default
 ---
 
-<p class="Caption">Get a table</p>
 
 <p class="mb0 pb0">This week (Oct 13-17) we’re inviting anyone wanting to win free MAD MANOR tickets to walk up to our Maitre D' during service hours tomorrow through Saturday dressed in your best Halloween costume.</p>
 
