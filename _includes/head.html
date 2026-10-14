@@ -83,6 +83,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div id="main" class="">
 
+    <!-- Alert Bar -->
+    {% if page.is_alert_shown == true %}
+      <div class="AlertBarContainer flex AlignCenter justify-content-center">
+        <a href="{{ page.alert_link }}" class="NoLine">
+          <div class="AlertBar AlignCenter" style="background-color: {{ page.alert_color }}">
+              {{ page.alert_text }}
+          </div>
+        </a>
+      </div>
+    {% endif %}
+
 {% include nav.html %}
 
 <main>
