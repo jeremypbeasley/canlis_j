@@ -8,8 +8,8 @@ page_header_title: Weddings
 page_header_headline: The start of your future deserves a view wide enough to hold
   it.
 photo_feature_content: false
-photo_feature_content_title:
-photo_feature_content_desc:
+photo_feature_content_title: 
+photo_feature_content_desc: 
 photo_feature_photo: "/uploads/hero_weddings.jpg"
 photo_grid_1: "/uploads/weddinghug.jpg"
 photo_grid_2: "/uploads/wedding2.jpg"
@@ -78,3 +78,4 @@ occasion_details:
 
 '
 ---
+

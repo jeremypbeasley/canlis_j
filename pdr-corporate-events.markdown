@@ -7,8 +7,8 @@ page_header_parent_title: Private Events
 page_header_title: Corporate Events
 page_header_headline: When the stakes are high, so are the standards.
 photo_feature_content: false
-photo_feature_content_title:
-photo_feature_content_desc:
+photo_feature_content_title: 
+photo_feature_content_desc: 
 photo_feature_photo: "/uploads/hero_corporate.jpg"
 photo_grid_1: "/uploads/company1.jpg"
 photo_grid_2: "/uploads/corporate2.jpg"
@@ -29,3 +29,4 @@ occasion_brief: Clients, investors, leadership teams, and creative partners gath
   A beautifully set table. Service that feels attentive without interruption. An atmosphere
   that allows people to settle in, speak openly, and actually enjoy being together.
 ---
+

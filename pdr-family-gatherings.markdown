@@ -8,8 +8,8 @@ page_header_title: Family Gatherings
 page_header_headline: The people who shaped your life deserve a table worthy of the
   occasion.
 photo_feature_content: false
-photo_feature_content_title:
-photo_feature_content_desc:
+photo_feature_content_title: 
+photo_feature_content_desc: 
 photo_feature_photo: "/uploads/hero_family.jpg"
 photo_grid_1: "/uploads/family1.jpg"
 photo_grid_2: "/uploads/family2.jpg"
@@ -31,3 +31,4 @@ occasion_brief: Because the best family gatherings are never really about the ev
   itself. They’re about creating the rare feeling that, for a few hours, everyone
   made it back to the same table again.
 ---
+

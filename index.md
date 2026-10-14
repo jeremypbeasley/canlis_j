@@ -1,9 +1,9 @@
 ---
 title: Seattle’s family-owned fine dining since 1950
-is_alert_shown: false
+is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
 intro_video_aria_label: Drone video, slowly approaching Canlis peeking over Lake Union
-alert_text: "Tap here for tickets to Live in the Lower Lot \U0001F399️"
+alert_text: "MAD MANOR: Tickets on sale now! \U0001F987"
 alert_link: https://www.exploretock.com/canlis
 alert_color: "#e7e5df"
 og_title: Canlis Restaurant
