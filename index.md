@@ -4,8 +4,8 @@ is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
 intro_video_aria_label: Drone video, slowly approaching Canlis peeking over Lake Union
 alert_text: "MAD MANOR: Tickets on sale now! \U0001F987"
-alert_link: https://www.exploretock.com/canlis
-alert_color: "#e7e5df"
+alert_link: https://www.exploretock.com/canlis/event/625336/book?date=2026-10-31&size=1&time=20%3A00
+alert_color: "#F0AA48"
 og_title: Canlis Restaurant
 og_photo: "/uploads/kevin1-db615c.jpg"
 og_desc: Seattle's landmark fine-dining destination for 70 years and recent home to
