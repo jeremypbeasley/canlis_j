@@ -8,10 +8,10 @@ menu_description: We offer a 6-course dining experience. We'll ask that you begi
 disclaimer: A 20% service charge will be added to your final bill. 100% of this service
   charge is retained by Canlis.
 course_1:
-- title: Sashimi*
-  desc: cured salmon, pickled onion, and sea herbs
-- title: Nightshades
-  desc: potato and poblano pavé, sungold salsa, and tomatillo
+- title: Sablefish
+  desc: matsutake, chili, dulse, and XO
+- title: Porcini
+  desc: winter luxury squash, gremolata, and asian pear
 - title: Chowder
   desc: manila clam, geoduck, and kasu
 course_2:
@@ -20,7 +20,7 @@ course_2:
 - title: Cabbage
   desc: leek and koji cream with hazelnut pesto
 - title: Pork
-  desc: hedgehog mushroom, ramps, and cauliflower
+  desc: quince, turnip, and rosemary
 - title: Beef
   desc: kalbi, spring onion, and chickpea miso
 - title: or
@@ -32,8 +32,8 @@ course_2:
 course_3:
 - title: Corn
   desc: yeasted cake, blackberry, and nasturtium sabayon
-- title: Plum
-  desc: white chocolate, honey, and meringue
+- title: Meyer Lemon
+  desc: yogurt, white chocolate, and honey
 - title: Goat Cheese
   desc: harvest grapes and carmen pepper jelly
 - title: "—"
