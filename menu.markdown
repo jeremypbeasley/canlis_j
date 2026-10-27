@@ -25,13 +25,13 @@ course_2:
   desc: kalbi, spring onion, and chickpea miso
 - title: or
   desc: 
-- title: Washington Coast Coho Salmon
-  desc: "grilled zucchini and with garlic scape and apricot,\nspinach in chili beurre
-    monté, and koshihikari rice in smoked salmon dashi.       \n+$25 per person; limited
+- title: Dry-Aged Duck
+  desc: "beluga lentil porridge with black truffle,\noffal farce and duck confit caponet,\nduck-fat
+    roasted carrots, winter citrus, and chicories.      \n+$55 per person; limited
     availability"
 course_3:
-- title: Corn
-  desc: yeasted cake, blackberry, and nasturtium sabayon
+- title: Pear
+  desc: nocino caramel and cognac cannelé with pear butter
 - title: Meyer Lemon
   desc: yogurt, white chocolate, and honey
 - title: Goat Cheese
