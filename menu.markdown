@@ -9,7 +9,7 @@ disclaimer: A 20% service charge will be added to your final bill. 100% of this 
   charge is retained by Canlis.
 course_1:
 - title: Sablefish
-  desc: matsutake, chili, dulse, and XO
+  desc: chili XO, komatsuna, and shiso
 - title: Porcini
   desc: winter luxury squash, gremolata, and asian pear
 - title: Chowder
@@ -30,12 +30,14 @@ course_2:
     roasted carrots, winter citrus, and chicories.      \n+$55 per person; limited
     availability"
 course_3:
-- title: Pear
-  desc: nocino caramel and cognac cannelé with pear butter
-- title: Meyer Lemon
-  desc: yogurt, white chocolate, and honey
+- title: Soufflé
+  desc: hazelnut and crème anglaise
 - title: Goat Cheese
   desc: harvest grapes and carmen pepper jelly
+- title: Meyer Lemon
+  desc: yogurt, white chocolate, and honey
+- title: Pear
+  desc: nocino caramel and cognac cannelé with pear butter
 - title: "—"
   desc: 
 - title: 'Canlis Salad '
