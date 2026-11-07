@@ -11,7 +11,7 @@ course_1:
 - title: Sablefish
   desc: chili XO, komatsuna, and shiso
 - title: Porcini
-  desc: winter luxury squash, gremolata, and asian pear
+  desc: winter squash, gremolata, and asian pear
 - title: Chowder
   desc: manila clam, geoduck, and kasu
 course_2:
@@ -27,8 +27,7 @@ course_2:
   desc: 
 - title: Dry-Aged Duck
   desc: "beluga lentil porridge with black truffle,\noffal farce and duck confit caponet,\nduck-fat
-    roasted carrots, winter citrus, and chicories.      \n+$55 per person; limited
-    availability"
+    roasted carrots, winter citrus, and chicories.\n \n+$55 per person"
 course_3:
 - title: Soufflé
   desc: hazelnut and crème anglaise
@@ -37,7 +36,7 @@ course_3:
 - title: Meyer Lemon
   desc: yogurt, white chocolate, and honey
 - title: Pear
-  desc: nocino caramel and cognac cannelé with pear butter
+  desc: nocino caramel and cognac cannelé
 - title: "—"
   desc: 
 - title: 'Canlis Salad '
