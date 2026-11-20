@@ -4,7 +4,7 @@ date: 2020-03-13 16:19:00 -07:00
 layout: questions
 faq_sections:
 - title: Dining with us
-  subtitle: Frequently asked questions about dining at Canlis.
+  subtitle: Frequently asked questions about dining at Canlis
   questions:
   - title: What about food allergies?
     body: |
@@ -29,7 +29,7 @@ faq_sections:
 
       Reservations changing to a smaller party size may cancel the reservation outside the 48-hour window and rebook a smaller table if one is available. Otherwise, the difference in deposit will be forfeited.
 - title: Ask the Owner
-  subtitle: Mark Canlis answers the questions we get asked most.
+  subtitle: Mark Canlis answers the questions we get asked most
   questions:
   - title: "I’ve heard a lot has changed at Canlis. What’s different?"
     body: |
