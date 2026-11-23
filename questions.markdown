@@ -104,11 +104,11 @@ faq_sections:
         <a href="https://www.finistere.com/" target="_blank">Finistére</a>,
         <a href="https://www.tomoseattle.com/" target="_blank">Tomo</a>,
         <a href="https://www.volunteerparkcafe.com/" target="_blank">Volunteer Park Cafe</a>,
-        <a href="https://www.google.com/search?q=Rising+Tide+Tavern" target="_blank">Rising Tide Tavern</a>,
+        <a href="https://www.risingtidetavern.com/" target="_blank">Rising Tide Tavern</a>,
         <a href="https://www.oystercatcherwhidbey.com/" target="_blank">The Oystercatcher</a>,
         <a href="https://www.thelodgeatstedward.com/" target="_blank">The Lodge at St Edward Park</a>,
-        <a href="https://www.google.com/search?q=El+Mapache+restaurant" target="_blank">El Mapache</a>,
-        <a href="https://www.google.com/search?q=Crunchy+Red+Fruit" target="_blank">Crunchy Red Fruit</a>,
+        <a href="https://www.instagram.com/elmapache_truck/" target="_blank">El Mapache</a>,
+        <a href="https://crunchyredfruit.com/" target="_blank">Crunchy Red Fruit</a>,
         a small burger company named
         <a href="https://shakeshack.com/" target="_blank">Shake Shack</a>,
         and coming soon…
