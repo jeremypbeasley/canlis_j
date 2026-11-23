@@ -30,34 +30,22 @@
       <div class="site-nav-dropdown">
         <ul>
           {% for item in site.global_nav %}
-
-            {% unless item.title == "Private Events" or item.slug == "/private-events/" %}
-              <li>
-                <a
-                  class="Caption NoLine"
-                  href="{{ item.slug }}"
-                  {% if item.slug contains '://' %}
-                    target="_blank"
-                    rel="noopener"
-                  {% endif %}
-                >
-                  {{ item.title }}
-                </a>
-              </li>
-            {% endunless %}
-
+            <li>
+              <a
+                class="Caption NoLine"
+                href="{{ item.slug }}"
+                {% if item.slug contains '://' %}
+                  target="_blank"
+                  rel="noopener"
+                {% endif %}
+              >
+                {{ item.title }}
+              </a>
+            </li>
           {% endfor %}
         </ul>
       </div>
     </details>
-
-    <!-- Desktop only: outside the Explore dropdown -->
-    <a
-      class="Caption NoLine"
-      href="/private-events/"
-    >
-      Private Events
-    </a>
 
   </div>
 
@@ -73,33 +61,19 @@
       <div class="site-nav-dropdown site-nav-dropdown-mobile">
         <ul>
           {% for item in site.global_nav %}
-
-            {% unless item.title == "Private Events" or item.slug == "/private-events/" %}
-              <li>
-                <a
-                  class="Caption NoLine"
-                  href="{{ item.slug }}"
-                  {% if item.slug contains '://' %}
-                    target="_blank"
-                    rel="noopener"
-                  {% endif %}
-                >
-                  {{ item.title }}
-                </a>
-              </li>
-            {% endunless %}
-
+            <li>
+              <a
+                class="Caption NoLine"
+                href="{{ item.slug }}"
+                {% if item.slug contains '://' %}
+                  target="_blank"
+                  rel="noopener"
+                {% endif %}
+              >
+                {{ item.title }}
+              </a>
+            </li>
           {% endfor %}
-
-          <!-- Mobile only: inside the Explore dropdown -->
-          <li>
-            <a
-              class="Caption NoLine"
-              href="/private-events/"
-            >
-              Private Events
-            </a>
-          </li>
         </ul>
       </div>
     </details>

@@ -85,12 +85,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
     <!-- Alert Bar -->
     {% if page.is_alert_shown == true %}
-      <div class="AlertBarContainer flex AlignCenter justify-content-center">
-        <a href="{{ page.alert_link }}" class="NoLine">
-          <div class="AlertBar AlignCenter" style="background-color: {{ page.alert_color }}">
-              {{ page.alert_text }}
-          </div>
-        </a>
+      <div class="text-align-center">
+        <div class="AlertBar text-align-center">
+            {{ page.alert_text }}
+            {% if page.alert_link %}
+              <a href="{{ page.alert_link_url }}">{{ page.alert_link }}</a>
+            {% endif %}
+        </div>
       </div>
     {% endif %}
 

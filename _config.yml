@@ -22,6 +22,8 @@ global_nav:
   slug: "/careers/"
 - title: Questions
   slug: "/questions/"
+- title: Private Events
+  slug: "/private-events/"
 - title: Gift Cards
   slug: https://giftcards.canlis.com/
 email: jeremy@jeremypbeasley.com
@@ -33,7 +35,7 @@ dress_code: Go big. Dress up. Make a statement. You're beautiful, let it show! W
   are a dress-respectful restaurant. No casual or athletic attire please. Men will
   feel most comfortable in a suit or sport coat.
 reservations_link: https://www.exploretock.com/canlis/
-baseurl: 
+baseurl:
 url: https://canlis.com
 twitter_username: canlis
 github_username: jeremypbeasley
