@@ -101,7 +101,7 @@ faq_sections:
 
       We don’t apologize for not playing by all the rules. The truth about this place is that we train up the best people and then send them onward. So go check out
         <a href="https://www.atomaseattle.com/" target="_blank">Atoma</a>,
-        <a href="https://www.finistere.com/" target="_blank">Finistére</a>,
+        <a href="https://www.restaurantfinistere.com/" target="_blank">Finistére</a>,
         <a href="https://www.tomoseattle.com/" target="_blank">Tomo</a>,
         <a href="https://www.volunteerpark.cafe/" target="_blank">Volunteer Park Cafe</a>,
         <a href="https://www.risingtidetavern.com/" target="_blank">Rising Tide Tavern</a>,
