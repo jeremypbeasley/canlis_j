@@ -1,10 +1,10 @@
 ---
 title: Seattle’s family-owned fine dining since 1950
-is_alert_shown: false
+is_alert_shown: true
 intro_video: "/uploads/bgvideo.mp4"
 intro_video_aria_label: Drone video, slowly approaching Canlis peeking over Lake Union
-alert_text: "We are closed for MAD MANOR. Get tickets here \U0001F987"
-alert_link: https://www.exploretock.com/canlis/event/625336/book?date=2026-10-31&size=1&time=20%3A00
+alert_text: "We’re closed Thursday-Monday for the holidays. \U0001F342"
+alert_link: 
 alert_color: "#F0AA48"
 og_title: Canlis Restaurant
 og_photo: "/uploads/kevin1-db615c.jpg"
