@@ -1,7 +1,6 @@
 ---
 title: Questions
 date: 2020-03-13 16:19:00 -07:00
-layout: questions
 faq_sections:
 - title: Dining with us
   subtitle: Frequently asked questions about dining at Canlis
@@ -100,8 +99,20 @@ faq_sections:
     body: |
       A lot gets made about people leaving Canlis. Thank you! It’s such a compliment! Some people still believe we shouldn’t post this kind of thing–they talk about the Canlis “leadership vacuum” and see turnover as a sign of weakness. Well we see it very differently. People leave here because they are growing—into bigger roles, broader callings, and brighter lives. That is not a failure of this place, it is part of our very purpose. Leadership is letting go, even of your best people, if that’s what it takes for them to grow. Leadership is celebrating someone else’s gain. Leadership is not self-preservation, self promotion, or the fear of tomorrow. It’s investing in others on principle, not on ROI. We are not here to hoard talent, but believe taking extraordinary care of the people who work here *is* the work. That is leadership. That is hospitality. That is fine dining.
 
-      We don’t apologize for not playing by all the rules. The truth about this place is that we train up the best people and then send them onward.
-
-      So go check out <a href="https://www.atomaseattle.com/" target="_blank" rel="noopener noreferrer">Atoma</a>, <a href="https://www.restaurantfinistere.com/" target="_blank" rel="noopener noreferrer">Finistère</a>, <a href="https://tomoseattle.com/" target="_blank" rel="noopener noreferrer">Tomo</a>, <a href="https://www.volunteerpark.cafe/" target="_blank" rel="noopener noreferrer">Volunteer Park Cafe</a>, <a href="https://www.risingtidetavern.com/" target="_blank" rel="noopener noreferrer">Rising Tide Tavern</a>, or <a href="https://www.thelodgeatstedward.com/" target="_blank" rel="noopener noreferrer">The Lodge at St. Edward Park</a>. We train up great people and send them on.
+      We don’t apologize for not playing by all the rules. The truth about this place is that we train up the best people and then send them onward. So go check out
+        <a href="https://www.atomaseattle.com/" target="_blank">Atoma</a>,
+        <a href="https://www.finistere.com/" target="_blank">Finistére</a>,
+        <a href="https://www.tomoseattle.com/" target="_blank">Tomo</a>,
+        <a href="https://www.volunteerparkcafe.com/" target="_blank">Volunteer Park Cafe</a>,
+        <a href="https://www.google.com/search?q=Rising+Tide+Tavern" target="_blank">Rising Tide Tavern</a>,
+        <a href="https://www.oystercatcherwhidbey.com/" target="_blank">The Oystercatcher</a>,
+        <a href="https://www.thelodgeatstedward.com/" target="_blank">The Lodge at St Edward Park</a>,
+        <a href="https://www.google.com/search?q=El+Mapache+restaurant" target="_blank">El Mapache</a>,
+        <a href="https://www.google.com/search?q=Crunchy+Red+Fruit" target="_blank">Crunchy Red Fruit</a>,
+        a small burger company named
+        <a href="https://shakeshack.com/" target="_blank">Shake Shack</a>,
+        and coming soon…
+        <a href="https://www.google.com/search?q=Porter+and+Blue+restaurant" target="_blank">Porter and Blue</a>!
+layout: questions
 ---
 
