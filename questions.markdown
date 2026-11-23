@@ -5,7 +5,7 @@ faq_sections:
 - title: Dining with us
   subtitle: Frequently asked questions about dining at Canlis
   questions:
-  - title: What about food allergies?
+  - title: 'What about food allergies? '
     body: 'At Canlis, we take food allergies seriously and do our best to accommodate
       dietary needs. However, we cannot guarantee no allergen cross-contact. Please
       inform our team of any allergies, especially severe ones.
@@ -103,7 +103,7 @@ faq_sections:
         <a href="https://www.atomaseattle.com/" target="_blank">Atoma</a>,
         <a href="https://www.finistere.com/" target="_blank">Finistére</a>,
         <a href="https://www.tomoseattle.com/" target="_blank">Tomo</a>,
-        <a href="https://www.volunteerparkcafe.com/" target="_blank">Volunteer Park Cafe</a>,
+        <a href="https://www.volunteerpark.cafe/" target="_blank">Volunteer Park Cafe</a>,
         <a href="https://www.risingtidetavern.com/" target="_blank">Rising Tide Tavern</a>,
         <a href="https://www.oystercatcherwhidbey.com/" target="_blank">The Oystercatcher</a>,
         <a href="https://www.thelodgeatstedward.com/" target="_blank">The Lodge at St Edward Park</a>,
@@ -116,3 +116,4 @@ faq_sections:
 layout: questions
 ---
 
+ 
